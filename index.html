@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>osu! Featured Artist Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">osu! featured artist <span>unranked song</span> tracker</div>
+  </header>
+
+  <main>
+    <div class="search-wrapper">
+      <input
+        id="search"
+        type="text"
+        placeholder="type artist name…"
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <div id="suggestions" class="suggestions" hidden></div>
+    </div>
+
+    <div id="results" class="results"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

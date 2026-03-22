@@ -1,0 +1,4 @@
+scraper/.venv/
+scraper/test_update.py
+scraper/.pytest_cache
+scraper/__pycache__

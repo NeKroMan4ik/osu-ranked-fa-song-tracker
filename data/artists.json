@@ -3,12 +3,12 @@
     "id": 534,
     "name": "Brandy",
     "tracks": [
-      { "title": "Visual Dream !!",         "ranked": true,  "beatmapset_id": null },
-      { "title": "The Festival of Ghost 2", "ranked": false, "beatmapset_id": null },
-      { "title": "Move It On (DJ HD Mix)",  "ranked": true,  "beatmapset_id": null },
+      { "title": "Visual Dream !!",         "ranked": true,  "beatmapset_id": 13956 },
+      { "title": "The Festival of Ghost 2", "ranked": true, "beatmapset_id": 3302 },
+      { "title": "Move It On (DJ HD Mix)",  "ranked": true,  "beatmapset_id": 3216 },
       { "title": "Love Fighter !!",         "ranked": false, "beatmapset_id": null },
-      { "title": "Cross Time !!",           "ranked": true,  "beatmapset_id": null },
-      { "title": "Can You Feel !!",         "ranked": false, "beatmapset_id": null }
+      { "title": "Cross Time !!",           "ranked": true,  "beatmapset_id": 973162 },
+      { "title": "Can You Feel !!",         "ranked": true, "beatmapset_id": 13784 }
     ],
     "updated_at": "2026-03-22T04:00:00Z"
   }

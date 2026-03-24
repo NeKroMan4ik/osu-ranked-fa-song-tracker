@@ -9,19 +9,31 @@
 <body>
 
   <header>
-    <div class="logo">osu! featured artist <span>unranked song</span> tracker</div>
+    <div class="logo">osu! featured artist <span>ranked song</span> tracker</div>
   </header>
 
   <main>
-    <div class="search-wrapper">
-      <input
-        id="search"
-        type="text"
-        placeholder="type artist name…"
-        autocomplete="off"
-        spellcheck="false"
-      />
-      <div id="suggestions" class="suggestions" hidden></div>
+    <div class="controls-row">
+      <div class="search-wrapper">
+        <input
+          id="search"
+          type="text"
+          placeholder="type artist name…"
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <div id="suggestions" class="suggestions" hidden></div>
+      </div>
+
+      <div class="mode-filter-wrapper">
+        <select id="mode-filter" class="mode-filter">
+          <option value="">all</option>
+          <option value="osu">osu!</option>
+          <option value="taiko">taiko</option>
+          <option value="fruits">fruits</option>
+          <option value="mania">mania</option>
+        </select>
+      </div>
     </div>
 
     <div id="results" class="results"></div>

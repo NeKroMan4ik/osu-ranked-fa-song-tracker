@@ -1,8 +1,11 @@
 /** @type {Artist[]} */
 let artists = [];
 
+/** Currently selected mode filter; null = all */
+let selectedMode = null;
+
 /**
- * @typedef {{ title: string, ranked: boolean, beatmapset_id: number|null }} Track
+ * @typedef {{ title: string, ranked_modes: string[], beatmapset_ids_by_mode: Record<string, number[]> }} Track
  * @typedef {{ id: number, name: string, tracks: Track[], updated_at: string }} Artist
  */
 
@@ -14,7 +17,24 @@ async function init() {
   artists = await res.json();
 
   setupSearch();
+  setupModeFilter();
   showPlaceholder();
+}
+
+// ── Mode filter ─────────────────────────────────────────────────────────────
+
+function setupModeFilter() {
+  const select = document.getElementById('mode-filter');
+  select.addEventListener('change', () => {
+    selectedMode = select.value || null;
+    // Re-render current artist if one is displayed
+    const card = document.querySelector('.artist-card');
+    if (card) {
+      const name = card.querySelector('.artist-name').textContent;
+      const artist = artists.find(a => a.name === name);
+      if (artist) renderArtist(artist);
+    }
+  });
 }
 
 // ── Search ──────────────────────────────────────────────────────────────────
@@ -72,7 +92,9 @@ function setupSearch() {
   });
 
   document.addEventListener('click', (e) => {
-    if (!e.target.closest('.search-wrapper')) hideSuggestions();
+    if (!e.target.closest('.search-wrapper') && !e.target.closest('.mode-filter-wrapper')) {
+      hideSuggestions();
+    }
   });
 
   function hideSuggestions() {
@@ -97,7 +119,7 @@ function renderSuggestions(matches, input, container, onSelect) {
     el.className = 'suggestion-item';
     el.textContent = artist.name;
     el.addEventListener('mousedown', (e) => {
-      e.preventDefault(); // prevent input blur before click fires
+      e.preventDefault();
       onSelect(artist);
     });
     container.appendChild(el);
@@ -109,13 +131,26 @@ function updateActive(items, index) {
   items.forEach((el, i) => el.classList.toggle('active', i === index));
 }
 
+// ── Helpers ──────────────────────────────────────────────────────────────────
+
+/**
+ * Returns true if the track is ranked in the currently selected mode.
+ * When no mode is selected, returns true if ranked in any mode.
+ * @param {Track} track
+ * @returns {boolean}
+ */
+function isRankedInMode(track) {
+  if (!selectedMode) return track.ranked_modes.length > 0;
+  return track.ranked_modes.includes(selectedMode);
+}
+
 // ── Render ──────────────────────────────────────────────────────────────────
 
 /** @param {Artist} artist */
 function renderArtist(artist) {
   const resultsEl = document.getElementById('results');
 
-  const ranked = artist.tracks.filter(t => t.ranked).length;
+  const ranked = artist.tracks.filter(t => isRankedInMode(t)).length;
   const total  = artist.tracks.length;
 
   const card = document.createElement('div');
@@ -137,9 +172,11 @@ function renderArtist(artist) {
 
   const list = card.querySelector('#track-list');
 
-  // sort: ranked first, then alphabetically
+  // sort: ranked-in-mode first, then alphabetically
   const sorted = [...artist.tracks].sort((a, b) => {
-    if (a.ranked !== b.ranked) return a.ranked ? -1 : 1;
+    const ar = isRankedInMode(a);
+    const br = isRankedInMode(b);
+    if (ar !== br) return ar ? -1 : 1;
     return a.title.localeCompare(b.title);
   });
 
@@ -156,17 +193,30 @@ function renderTrack(track) {
   const li = document.createElement('li');
   li.className = 'track-item';
 
-  const dotClass   = track.ranked ? 'ranked' : 'unranked';
-  const titleClass = track.ranked ? 'is-ranked' : 'is-unranked';
+  const ranked     = isRankedInMode(track);
+  const dotClass   = ranked ? 'ranked' : 'unranked';
+  const titleClass = ranked ? 'is-ranked' : 'is-unranked';
 
-  const linkHtml = track.beatmapset_id
-    ? `<a class="track-link" href="https://osu.ppy.sh/beatmapsets/${track.beatmapset_id}" target="_blank" rel="noopener">↗</a>`
+  const MODE_ORDER = ['osu', 'taiko', 'fruits', 'mania'];
+  const sortedModes = [...track.ranked_modes].sort(
+    (a, b) => MODE_ORDER.indexOf(a) - MODE_ORDER.indexOf(b)
+  );
+
+  // Each badge is a link if that mode has a beatmapset id
+  const modesBadges = sortedModes.length
+    ? `<span class="track-modes">${sortedModes.map(m => {
+        const ids = track.beatmapset_ids_by_mode[m];
+        const id  = ids && ids.length ? ids[0] : null;
+        return id
+          ? `<a class="mode-badge mode-badge--${m}" href="https://osu.ppy.sh/beatmapsets/${id}" target="_blank" rel="noopener">${m}</a>`
+          : `<span class="mode-badge mode-badge--${m}">${m}</span>`;
+      }).join('')}</span>`
     : '';
 
   li.innerHTML = `
     <span class="dot ${dotClass}"></span>
     <span class="track-title ${titleClass}">${escHtml(track.title)}</span>
-    ${linkHtml}
+    ${modesBadges}
   `;
 
   return li;

@@ -12,7 +12,7 @@ let selectedMode = null;
 // ── Bootstrap ──────────────────────────────────────────────────────────────
 
 async function init() {
-  const res = await fetch('data/artists.json');
+  const res = await fetch('./data/artists.json');
   if (!res.ok) throw new Error(`Failed to load artists.json: ${res.status}`);
   artists = await res.json();
 

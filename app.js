@@ -1,5 +1,8 @@
-/** @type {Artist[]} */
-let artists = [];
+/** @type {{ id: number, name: string, song_count: number, ranked_count: number, updated_at: string }[]} */
+let artistIndex = [];
+
+/** @type {Map<number, Artist>} */
+const artistCache = new Map();
 
 /** Currently selected mode filter; null = all */
 let selectedMode = null;
@@ -12,9 +15,10 @@ let selectedMode = null;
 // ── Bootstrap ──────────────────────────────────────────────────────────────
 
 async function init() {
-  const res = await fetch('./data/artists.json');
-  if (!res.ok) throw new Error(`Failed to load artists.json: ${res.status}`);
-  artists = await res.json();
+  const res = await fetch('./data/index.json');
+  if (!res.ok) throw new Error(`Failed to load index.json: ${res.status}`);
+  const data = await res.json();
+  artistIndex = data.artists;
 
   setupSearch();
   setupModeFilter();
@@ -27,12 +31,11 @@ function setupModeFilter() {
   const select = document.getElementById('mode-filter');
   select.addEventListener('change', () => {
     selectedMode = select.value || null;
-    // Re-render current artist if one is displayed
     const card = document.querySelector('.artist-card');
     if (card) {
       const name = card.querySelector('.artist-name').textContent;
-      const artist = artists.find(a => a.name === name);
-      if (artist) renderArtist(artist);
+      const entry = artistIndex.find(a => a.name === name);
+      if (entry && artistCache.has(entry.id)) renderArtist(artistCache.get(entry.id));
     }
   });
 }
@@ -55,7 +58,7 @@ function setupSearch() {
       return;
     }
 
-    const matches = artists
+    const matches = artistIndex
       .filter(a => a.name.toLowerCase().includes(q))
       .slice(0, 8);
 
@@ -65,10 +68,11 @@ function setupSearch() {
       return;
     }
 
-    renderSuggestions(matches, input, suggestions, (artist) => {
-      input.value = artist.name;
+    renderSuggestions(matches, input, suggestions, async (entry) => {
+      input.value = entry.name;
       hideSuggestions();
-      renderArtist(artist);
+      const artist = await loadArtist(entry.id);
+      if (artist) renderArtist(artist);
     });
   });
 
@@ -105,22 +109,22 @@ function setupSearch() {
 }
 
 /**
- * @param {Artist[]} matches
+ * @param {{ id: number, name: string }[]} matches
  * @param {HTMLInputElement} input
  * @param {HTMLElement} container
- * @param {(a: Artist) => void} onSelect
+ * @param {(a: { id: number, name: string }) => void} onSelect
  */
 function renderSuggestions(matches, input, container, onSelect) {
   container.innerHTML = '';
   container.hidden = false;
 
-  for (const artist of matches) {
+  for (const entry of matches) {
     const el = document.createElement('div');
     el.className = 'suggestion-item';
-    el.textContent = artist.name;
+    el.textContent = entry.name;
     el.addEventListener('mousedown', (e) => {
       e.preventDefault();
-      onSelect(artist);
+      onSelect(entry);
     });
     container.appendChild(el);
   }
@@ -131,11 +135,25 @@ function updateActive(items, index) {
   items.forEach((el, i) => el.classList.toggle('active', i === index));
 }
 
+// ── Data loading ─────────────────────────────────────────────────────────────
+
+/** @param {number} id @returns {Promise<Artist|null>} */
+async function loadArtist(id) {
+  if (artistCache.has(id)) return artistCache.get(id);
+
+  const res = await fetch(`./data/artists/${id}.json`);
+  if (!res.ok) {
+    showMessage(`failed to load artist data (${res.status})`);
+    return null;
+  }
+  const artist = await res.json();
+  artistCache.set(id, artist);
+  return artist;
+}
+
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
 /**
- * Returns true if the track is ranked in the currently selected mode.
- * When no mode is selected, returns true if ranked in any mode.
  * @param {Track} track
  * @returns {boolean}
  */
@@ -172,7 +190,6 @@ function renderArtist(artist) {
 
   const list = card.querySelector('#track-list');
 
-  // sort: ranked-in-mode first, then alphabetically
   const sorted = [...artist.tracks].sort((a, b) => {
     const ar = isRankedInMode(a);
     const br = isRankedInMode(b);
@@ -202,7 +219,6 @@ function renderTrack(track) {
     (a, b) => MODE_ORDER.indexOf(a) - MODE_ORDER.indexOf(b)
   );
 
-  // Each badge is a link if that mode has a beatmapset id
   const modesBadges = sortedModes.length
     ? `<span class="track-modes">${sortedModes.map(m => {
         const ids = track.beatmapset_ids_by_mode[m];
@@ -225,7 +241,7 @@ function renderTrack(track) {
 // ── States ───────────────────────────────────────────────────────────────────
 
 function showPlaceholder() {
-  showMessage(`${artists.length} featured artists loaded — start typing`);
+  showMessage(`${artistIndex.length} featured artists loaded — start typing`);
 }
 
 /** @param {string} msg */

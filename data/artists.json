@@ -786,6 +786,88 @@
     "updated_at": "2026-03-23T21:01:58Z"
   },
   {
+    "id": 24,
+    "name": "antiPLUR / Internet Death Machine",
+    "tracks": [
+      {
+        "title": "A Whisper In My Ghost (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Clockwork Spooks",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Confronting The Numberless (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Internet Death Machine - BaSH Your Headend (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Internet Death Machine - Crack Addict (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Internet Death Machine - Re-VOLT",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Internet Death Machine - Super User (Gigamix) (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Internet Death Machine - Super User (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "No One Is Around To Help",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "One Life Left to Live",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Patriot",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Runengon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Speed of Link",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Street Shogun",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Summoner",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:20:04Z"
+  },
+  {
     "id": 397,
     "name": "anubasu-anubasu",
     "tracks": [
@@ -866,6 +948,219 @@
       }
     ],
     "updated_at": "2026-03-23T22:47:42Z"
+  },
+  {
+    "id": 11,
+    "name": "Ben Briggs",
+    "tracks": [
+      {
+        "title": "Chrome City",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Deserted Path",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dewdrop Jungle",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Don't Force It",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Don't Let It Go To Waste",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Earthbound Sounds",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Exposed and Unafraid",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Fearless Living",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            934415
+          ]
+        }
+      },
+      {
+        "title": "Game Boy Color Envy",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Haunted Swamp",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "It Must Use Force",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Long Lung",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loopy Fruits",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Magmortar Tunnel",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Methods",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            948165
+          ]
+        }
+      },
+      {
+        "title": "Mystery Gift Radio!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NES Funk",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "New Game Plus",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            934627
+          ]
+        }
+      },
+      {
+        "title": "No One's Watching",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Recurring Dreams",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Selecting Continue",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2397891
+          ],
+          "osu": [
+            948868
+          ]
+        }
+      },
+      {
+        "title": "Something Step",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "This Track May Snack",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Try to Forget It",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Underground Headquarters",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wave Island",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            934666
+          ]
+        }
+      },
+      {
+        "title": "We Could Quest Together",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            903393
+          ]
+        }
+      },
+      {
+        "title": "Why Are We Yelling",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            952380
+          ]
+        }
+      },
+      {
+        "title": "Yes (Maybe)",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            964357
+          ],
+          "osu": [
+            933940
+          ]
+        }
+      },
+      {
+        "title": "You Overdid It",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:02:14Z"
   },
   {
     "id": 31,
@@ -5298,6 +5593,335 @@
     "updated_at": "2026-03-24T12:37:51Z"
   },
   {
+    "id": 15,
+    "name": "Fractal Dreamers",
+    "tracks": [
+      {
+        "title": "Ad Astra",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1086164,
+            1096683
+          ],
+          "osu": [
+            965651
+          ]
+        }
+      },
+      {
+        "title": "Azure of the Horizon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Blue Haven",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            751894
+          ]
+        }
+      },
+      {
+        "title": "Blueshift",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Celestial Horizon",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            896302,
+            1018454,
+            1742738
+          ],
+          "taiko": [
+            1661187
+          ],
+          "osu": [
+            751846,
+            752921
+          ]
+        }
+      },
+      {
+        "title": "Clarum Somnium",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Crossing the Waterscape",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Defiance",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1665428
+          ],
+          "taiko": [
+            976985
+          ]
+        }
+      },
+      {
+        "title": "Dreamscape",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Elysian Fields",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Everything for a Dream",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            943803
+          ]
+        }
+      },
+      {
+        "title": "Ex Nihilo",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1254879
+          ]
+        }
+      },
+      {
+        "title": "Fata Morgana",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            751782
+          ]
+        }
+      },
+      {
+        "title": "Fortuna Redux",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            712974
+          ],
+          "taiko": [
+            707824
+          ]
+        }
+      },
+      {
+        "title": "Fragments of You",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1146874
+          ],
+          "taiko": [
+            1126740
+          ]
+        }
+      },
+      {
+        "title": "Gardens Under A Spring Sky",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1080892
+          ],
+          "taiko": [
+            1080892
+          ],
+          "osu": [
+            956716,
+            962862,
+            985385
+          ]
+        }
+      },
+      {
+        "title": "Infinity Chasers",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kingdom of Silence",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1756405
+          ]
+        }
+      },
+      {
+        "title": "Method of Illusion",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1123119
+          ]
+        }
+      },
+      {
+        "title": "Module_410",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1107159,
+            1382018,
+            2378246
+          ],
+          "osu": [
+            957328,
+            982205
+          ],
+          "fruits": [
+            957808
+          ]
+        }
+      },
+      {
+        "title": "Monolithia",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            982375
+          ]
+        }
+      },
+      {
+        "title": "Paradigm Shift",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            716441,
+            900006
+          ]
+        }
+      },
+      {
+        "title": "Perihelion",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ragnarok",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Reku Mochizuki & skymuted - Realm in the Sky",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Scarlet Night",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            986376
+          ]
+        }
+      },
+      {
+        "title": "skymuted & Evin a'k - memory at angels landing",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Singing Swan",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Virulence",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Whispers from a Distant Star",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1494747,
+            1739147
+          ],
+          "taiko": [
+            1332550
+          ],
+          "osu": [
+            1134144
+          ]
+        }
+      },
+      {
+        "title": "With Every Wanderer's Breath",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            847755
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T13:13:58Z"
+  },
+  {
     "id": 5,
     "name": "Helblinde",
     "tracks": [
@@ -5424,6 +6048,530 @@
       }
     ],
     "updated_at": "2026-03-24T12:36:41Z"
+  },
+  {
+    "id": 26,
+    "name": "High Tea Music",
+    "tracks": [
+      {
+        "title": "Aetherial - Revenants",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Andromedik - Don't Say (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Andromedik - Invasion",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Andromedik - Losing Myself",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Andromedik - Moonlight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Aperio - Sunrize",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Battletek - The Missing Piece Is You",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Bona Fides - Shu & Toth",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chinensis - Emerald Waters",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eclypse - City Lights",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Felix Raymod & Smuskind - Love & Devotion (feat. Luna Morgenstern)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Felix Raymond & Smuskind - Love & Devotion (feat. Luna Morgenstern)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Fredrik - Set Yourself Free",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Gourski - Luminous",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Gourski x Himmes - Silence",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Haszan & Overload - We Can Come Back (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "High Maintenance - Lifting Me Up",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "High Maintenance - My World (feat. Deuce & Charger) (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "James Portland - Sky",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kasger & MELURAN - Never Let Me Down",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kode Blue - Alone",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "L.A.O.S. - I'm Alive (Helsinki II)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "L.A.O.S. - Whatever You Need",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lasu - Lost in Time",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lasu - Moving On",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lexurus - About You (feat. Luna)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lexurus - Forever",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lexurus - Gravity",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lexurus - Static Groove",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lifecycle (NL) - Begg Naa La CuSn",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Maverick - Synthol Gangsta",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Monrroe - Hollow (feat. Melody Causton)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NCT - The Fire",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NEWGEN - Make Me Wanna Do",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Papercut - Come Home (ft. Sylvia Bremer)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Phonetic - Gravity (feat. WithoutMyArmor) (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Phonetic - Journey",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Pulse - LP",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Redemptive & Chinensis - Sands Of Time",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Redemptive - Adrenaline",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Revilo & Z3nit - Don't Give Up (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rex Hooligan - Anywhere (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sektor & Subsequent - The Siren",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sektor x Limitless - Brand New Day (feat. Nola)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Shapeless - Blissful",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Shapeless - Calling Me",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "T & Sugah - Walk On Air",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "T & Sugah x Lexurus - No More",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tidlwav - Hold On",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wavelen - Back Home",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Zazu - Giving It Up (osu! cut)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Zazu - Unfold",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:21:42Z"
+  },
+  {
+    "id": 33,
+    "name": "HyuN / INFX",
+    "tracks": [
+      {
+        "title": "Acceleration (feat. heejing#)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Amatium",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Better than your error system",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Broken White",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dance With Nightsky",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Devil's Weapon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Electronic Wing (feat. Hatsune Miku)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Encounter",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "FORBIDDEN ARENA",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Fuyu no Hime",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Girl Embracing the Dark for Light",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Grin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Guitian",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "High Last",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN & Ritoru - Apocalypse in Love",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. Aerial - Exodus",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. Ato - Asu wa Ame ga Yamukara",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. JeeE - Fallen Angel",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. JP-8 Eater - THE SERVANT OF EVIL",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. LyuU - CROSS OVER",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. Ms.Valentine - CROSS FATE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. rerone - Untitled Soul",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. Sennzai - Duplicity Shade",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. Syepias - CROSS SOUL",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. Yu-A - My life is for you",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HyuN feat. YURI - Disorder",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ignis Heart",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Illusion of Inflict",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Inferno Force",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Infinity Heaven",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "iRELLiA",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "KANONEFLIEGERFAUST",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Legend of Genesis",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Love is so fall",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MURDER MACHINE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Necromancer for Suicide (feat. UNI)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Now I feel you",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ostracize",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Pray For You",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SHOTGUN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Space Inst.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tear of Moon (2019 Remake)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Apocalypse",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tokyo's Starlight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Utsukushi Memories",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Watashi no Sei, Gomenne",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "WE ARE NEVER FUCKING BACK OFF",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "White Aura",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wild Card",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "You'Re aRleAdY dEAd",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:25:10Z"
   },
   {
     "id": 3,
@@ -5559,6 +6707,326 @@
     "updated_at": "2026-03-24T12:35:59Z"
   },
   {
+    "id": 35,
+    "name": "Imperial Circus Dead Decadence",
+    "tracks": [
+      {
+        "title": "Ankoku No Jyoukaku Ni Shinkou Saru Igyou No Kyouki",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BRING+EYES=DEATH+INVITE",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1132374
+          ]
+        }
+      },
+      {
+        "title": "Bunretsu Shita Doke to Hakkyo no Shudo Onna",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Danzai No Honoo To Koibito-Tachi No Rondo",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            961431
+          ]
+        }
+      },
+      {
+        "title": "Fushoku Resentment...",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Fusyoku ressentiment, fushiyoku no sarugakuza.",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2300535,
+            2385029
+          ],
+          "osu": [
+            761881,
+            2088208
+          ],
+          "fruits": [
+            949602,
+            1416530
+          ]
+        }
+      },
+      {
+        "title": "Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            915563,
+            1201605,
+            2219369
+          ],
+          "taiko": [
+            1484234
+          ],
+          "fruits": [
+            1369800
+          ]
+        }
+      },
+      {
+        "title": "Goku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Alpha",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Omega",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1936926
+          ]
+        }
+      },
+      {
+        "title": "Hyakki Yakou -Pandemonic Night Parade-",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2138714
+          ],
+          "osu": [
+            1776682
+          ]
+        }
+      },
+      {
+        "title": "Ingaritsu No Togabito, Kyoukaimen-Jou No Unmei.",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2478651
+          ],
+          "taiko": [
+            1702653
+          ],
+          "osu": [
+            1596665
+          ]
+        }
+      },
+      {
+        "title": "Jashin no Konrei, Gi wa Ai to Shiru",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kuroki Sakura wa Ai: Sono Shi o Kou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Misogiharae no Kamiumi wa Notamai, Magabarai no Shokuzai wa Chikau.",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1777349,
+            1781688,
+            2273889
+          ]
+        }
+      },
+      {
+        "title": "Seishin No Kairi No, Sakebi To Nageki.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Shinbatsu o Tadori Kyoukotsu ni Itaru",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2072192,
+            2338848
+          ],
+          "mania": [
+            1647221
+          ],
+          "taiko": [
+            1070409
+          ],
+          "osu": [
+            482382
+          ]
+        }
+      },
+      {
+        "title": "Syakunetsu No Rengoku Ni Bara Wa…",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tensei",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2407477
+          ],
+          "osu": [
+            2209717,
+            2335535
+          ]
+        }
+      },
+      {
+        "title": "Tinu rareta Syuren Ni Fukeru Homura",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            553100,
+            964134,
+            1643857
+          ],
+          "taiko": [
+            1167283
+          ]
+        }
+      },
+      {
+        "title": "Uta",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            552726,
+            1839986
+          ],
+          "osu": [
+            410162,
+            479638,
+            552726,
+            962562,
+            1112662,
+            1781677
+          ],
+          "fruits": [
+            457332,
+            670439,
+            1572969
+          ],
+          "taiko": [
+            410162,
+            692207,
+            1572969
+          ]
+        }
+      },
+      {
+        "title": "Yomi yori Kikoyu, Koukoku No Hi To Honoo No Syoujo.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. -Mogari-",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Yomi yori Kikoyu...",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Yoruha: Tsumitobachi no Rasen",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Yuuaku no Inori - Anima immortalis est. -",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2475387,
+            2479501
+          ],
+          "osu": [
+            2475379,
+            2478116
+          ],
+          "taiko": [
+            2475675
+          ],
+          "fruits": [
+            2475480
+          ]
+        }
+      },
+      {
+        "title": "Zankoku-sa wa Sono Nakigara wo Neburazaru",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:26:16Z"
+  },
+  {
     "id": 267,
     "name": "JOYLESS",
     "tracks": [
@@ -5687,6 +7155,196 @@
       }
     ],
     "updated_at": "2026-03-23T20:58:59Z"
+  },
+  {
+    "id": 27,
+    "name": "KIRA",
+    "tracks": [
+      {
+        "title": "B.B.F (feat. Hatsune Miku & Kagamine Rin)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            955866
+          ]
+        }
+      },
+      {
+        "title": "Circles (feat. GUMI)",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2286771
+          ],
+          "osu": [
+            854098
+          ]
+        }
+      },
+      {
+        "title": "KANKAN☆DANCIN (feat. Kagamine Rin/Len)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Magical Night (feat. Hatsune Miku)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            946771
+          ]
+        }
+      },
+      {
+        "title": "MONSTER (feat. GUMI)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1155614
+          ]
+        }
+      },
+      {
+        "title": "Piece of Art (feat. GUMI)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SAKE*BEAT (feat. Kagamine Rin/Len)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Day I Die (feat. Ruby)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "UNBREAKABLE (feat. Ruby)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:21:57Z"
+  },
+  {
+    "id": 13,
+    "name": "Kuba Oms",
+    "tracks": [
+      {
+        "title": "7 Seconds",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1962715
+          ]
+        }
+      },
+      {
+        "title": "All in All",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Baby, Hold on to Your Dreams",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Beautiful Uncertainty (Redux)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            801774,
+            936450
+          ]
+        }
+      },
+      {
+        "title": "Come Together",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Don't Stop Fallin'",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Electrolove",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Love is my Drug",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "My Friend",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            731490
+          ]
+        }
+      },
+      {
+        "title": "My Love",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2299967
+          ],
+          "osu": [
+            163112,
+            163126,
+            163924,
+            164758,
+            165367,
+            1718175
+          ],
+          "taiko": [
+            1132237
+          ]
+        }
+      },
+      {
+        "title": "Sex is Good",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "This is Love",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Velvet Revolution",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:04:49Z"
   },
   {
     "id": 7,
@@ -5986,6 +7644,616 @@
     "updated_at": "2026-03-24T12:39:23Z"
   },
   {
+    "id": 12,
+    "name": "LukHash",
+    "tracks": [
+      {
+        "title": "65536",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "8 BIT NO TAMASHI",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "8BIT FAIRY TALE",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1045131
+          ],
+          "osu": [
+            847930
+          ]
+        }
+      },
+      {
+        "title": "ALL NIGHT LONG",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ALPHA",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ANDROID",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ANOTHER WORLD",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ARCADE JOURNEYS",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BEGINNING OF ANXIETY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BROKEN STAR",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "CHINA",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "CLONED",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            716215
+          ]
+        }
+      },
+      {
+        "title": "COMPUTER DATE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Destroy",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DETACHED REALITY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DIGITAL HEART",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1031580
+          ]
+        }
+      },
+      {
+        "title": "DIGITAL MEMORIES",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DO IT AGAIN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DOOMSDAY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Drowning",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "EIGHTIES",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "EIGHTIES (REMASTER)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eighty-five",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Everywhere",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "FALLING APART",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "FINAL CHAPTER",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Funkotronic",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "GHOST TOWN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ghosts",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1042550
+          ],
+          "taiko": [
+            918903
+          ]
+        }
+      },
+      {
+        "title": "GLITCH",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            785774
+          ]
+        }
+      },
+      {
+        "title": "GONE TOO SOON",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "GRAVITY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "H8 U",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1032103
+          ],
+          "osu": [
+            590949
+          ]
+        }
+      },
+      {
+        "title": "H8 U 2",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            659010
+          ]
+        }
+      },
+      {
+        "title": "HALF SAVAGE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Heaven",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HI-LAND COO",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HOLD BACK",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HONGDAE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HOPE DIES LAST",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "IN THE PAST",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "INSIDE OF ME",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ITAEWON",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "LEFT BEHIND",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "LET'S PLAY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "LIKE A DEAD PIXELS",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lullaby",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MIDNIGHT LIGHTS",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Museum of Failed Efforts",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Neon Thrills",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NEVER BORN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NIGHTWALKING",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PAPERGIRL",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Perpetual Motion",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PIXEL MY HEART",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PIXELOVE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "POISON",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PRELUDE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PURE COINCIDENCE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "R3B0RN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ROOM 12",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            966407
+          ]
+        }
+      },
+      {
+        "title": "ROUND THE WORLD",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SECRET LEVEL",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SOCIAL PHOBIA",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1040733
+          ]
+        }
+      },
+      {
+        "title": "Space Invasion",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "STAND ALONE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sunset",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SURVIVE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Take Control",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tetra Tennis",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "THE OTHER SIDE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "TONIGHT",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            965903
+          ]
+        }
+      },
+      {
+        "title": "Under Your Skin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Walkman",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "WE AIN'T FINISHED YET",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "We are Forever",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "WE COME TOGETHER",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "WHEN AN ANGEL DIES",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1008600
+          ],
+          "osu": [
+            605726
+          ]
+        }
+      },
+      {
+        "title": "WINTER ERROR",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1031668
+          ]
+        }
+      },
+      {
+        "title": "WOKEN UP @ 3AM",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "WTF?",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1031588
+          ]
+        }
+      },
+      {
+        "title": "Young Forever",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:04:28Z"
+  },
+  {
+    "id": 19,
+    "name": "MOtOLOiD",
+    "tracks": [
+      {
+        "title": "baker - Kimi ga Kimi ga -vocanico remix-",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Emerald Galaxy",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "For a Dead Girl+",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hidamari no Uta",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "I Wanna Feel Your Love (feat shully)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Miracle Sugite Yabai (feat. shully)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "nailnailnailnail",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Oh Yeah! [Singapore MIX]",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Palette",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:16:52Z"
+  },
+  {
+    "id": 25,
+    "name": "Nakanojojo",
+    "tracks": [
+      {
+        "title": "Nakanojojo & Farhan Sarasin - Vanilla",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nakanojojo, Tsuta - Parararara (feat. Amekoya)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nakanojojo, Yunomi - Bittersweet (feat. Kuishinboakachan a.k.a. Kiato)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nakanojojo, Yunomi - Bittersweet (feat. Kuishinboakachan) w/ Nakarin Remix [Game Mix]",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nakanojojo, Yunomi - Honeyginger (TV Size Instrumental)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "rai. x Nakanojojo - Tsukijin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Toccoyaki & Nakanojojo - Chounouryokusha Dakedo Mirai Nante Yomenai",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Toccoyaki & Nakanojojo - Kagami",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:20:19Z"
+  },
+  {
     "id": 10,
     "name": "nanobii",
     "tracks": [
@@ -6211,6 +8479,1270 @@
       }
     ],
     "updated_at": "2026-03-24T12:28:46Z"
+  },
+  {
+    "id": 21,
+    "name": "niu arx",
+    "tracks": [
+      {
+        "title": "BilliumMoto & Dictate - 1KARUGA",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Dictate - Pencilina",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Cauldron",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Cortex",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Empire",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Melodik",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Militant",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Mitochondrion",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Moth",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Pandora",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Scavenger",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Secede",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Shaman",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Slug",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dictate - Treason",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ocular & Dictate - Temple",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Oddity",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "TWC Sound Team \"Zeroth Powers\" - One One",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "World End Sequence",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:18:41Z"
+  },
+  {
+    "id": 17,
+    "name": "OISHII",
+    "tracks": [
+      {
+        "title": "COCOA WATERSLIDE",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            912064
+          ]
+        }
+      },
+      {
+        "title": "HONEY SNOWFLAKES",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ICE CREAM GROWS ON TREES",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ONIGIRI FREEWAY",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2163611
+          ],
+          "mania": [
+            663098,
+            1773165
+          ],
+          "osu": [
+            873667,
+            996628
+          ],
+          "fruits": [
+            740242
+          ]
+        }
+      },
+      {
+        "title": "PIZZA PLAZA",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            767009
+          ],
+          "taiko": [
+            663500
+          ]
+        }
+      },
+      {
+        "title": "TOAST RUN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "UP UP MT. CAKE",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2182264
+          ],
+          "mania": [
+            2069976
+          ],
+          "taiko": [
+            664795,
+            682598,
+            682732
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T13:14:52Z"
+  },
+  {
+    "id": 32,
+    "name": "onumi",
+    "tracks": [
+      {
+        "title": "ARROGANCE",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            940377
+          ]
+        }
+      },
+      {
+        "title": "body",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BREAK",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "CONFUSION PART ONE",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1037665
+          ],
+          "fruits": [
+            933700
+          ]
+        }
+      },
+      {
+        "title": "DESIRE",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1043754
+          ]
+        }
+      },
+      {
+        "title": "FAKE",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2195755
+          ],
+          "mania": [
+            1311103
+          ],
+          "fruits": [
+            934785
+          ]
+        }
+      },
+      {
+        "title": "FORGIVENESS",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "libido",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Melding Vines",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NOSTALGIA",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            952393
+          ]
+        }
+      },
+      {
+        "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "onumi X Fluff Pink & Belak - TRAUMA",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PERSONALITY",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            933984
+          ]
+        }
+      },
+      {
+        "title": "REGRET PART ONE",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            936545
+          ]
+        }
+      },
+      {
+        "title": "REGRET PART TWO",
+        "ranked_modes": [
+          "fruits",
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2098434
+          ],
+          "mania": [
+            1033765
+          ]
+        }
+      },
+      {
+        "title": "section 9",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Shield",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "spider tank",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "STOCKHOLM SYNDROME",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Succubi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Varien - One Shot One Kill (onumi remix)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:23:48Z"
+  },
+  {
+    "id": 14,
+    "name": "Rin / Function Phantom",
+    "tracks": [
+      {
+        "title": "Algebra",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Amanojaku set 00 ~ Raise the Signal Fire of Cheating",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Amanojaku set 01 ~ Cheat Against the Impossible Danmaku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Amanojaku set 02 ~ Midnight Spell Card",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Amanojaku set 03 ~ Romantic Escape Flight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Amanojaku set 04 ~ Eternal Short-Lived Reign",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 00 ~ Youyoumu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 01 ~ Mukau no Sato",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 02 ~ Crystallized Silver",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 04 ~ Diao Ye Zong",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 05 ~ Doll Maker of Bucuresti",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 06 ~ Ningyou Saiban",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 08 ~ Yuurei Gakudan",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 11 ~ Ultimate Truth",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 12 Another ~ Border of Life",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 14 B ~ Necrofantasia",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 15 ~ Shunpuu no Yume",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ayakashi set 16 ~ Sakura Sakura",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 00 ~ Chireitachi no Kishou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 02 ~ Fuujirareta Youkai",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 03 ~ Wataru Mono no Todaeta Hashi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 04 ~ Ryokugan no Jealousy",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 07 ~ Heartfelt Fancy",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 09 ~ Haigoku Lullaby",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 10 ~ Shitai Ryokou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 12 ~ Reichi no Taiyou Shinkou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 13 ~ Last Remote",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 14 ~ Hartmann no Youkai Shoujo",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 15 ~ Chireitachi no Kitaku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chireiden set 16 ~ Energy Reimei",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 00 ~ Yoku Fukaki Reikon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 01 ~ Shiryou no Yozakura",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 02 ~ Ghost Lead",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 04 ~ Monzen no Youkai Komusume",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 05 ~ Sutekina Hakaba de Kurashimasho",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 06 ~ Rigid Paradise",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 07 ~ Desire Drive",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 08 ~ Furuki Yuanxian",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 11 ~ Chiisana Yokubou no Hoshizora",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 14 ~ Sado no Futatsuiwa",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 15 ~ Jinja no Atarashii Kaze",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Daishibyo set 16 ~ Desire Dream",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 01 ~ Illusionary Night",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 02 ~ Stirring an Autumn Moon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 03 ~ Song of the Night Sparrow",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 04 ~ Deaf to All but the Song",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 05 ~ Nostalgic Blood of the East",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 07 ~ Retribution for the Eternal Night",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 08 A ~ Maiden's Capriccio",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 08 B ~ Love-Colored Master Spark",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 09 A ~ Cinderella Cage",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 09 B ~ White Flag of Usa Shrine",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 10 ~ Lunatic Eyes",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 11 ~ Voyage 1969",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 12 A ~ Gensokyo Millennium",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 12 Another ~ Voyage 1970",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 12 B ~ Flight in the Bamboo Cutter",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 13 ~ Extend Ash",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 14  Another",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 14 ~ Reach for the Moon, Immortal Smoke",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 15 ~ Evening Primrose",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 16 ~ Mystical Maple",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Eientewi set 17 ~ Eastern Youkai Beauty",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Euclid",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 00 ~ Mysterious Purification Rod",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 01 ~ Mist Lake",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 03 ~ Humans and Youkai Traversing the Canal",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 04 ~ Dullahan Under the Willows",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 05 ~ Bamboo Forest of the Full Moon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 06 ~ Lonesome Werewolf",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 07 ~ Magical Storm",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 08 ~ Illusionary Joururi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 09 ~ The Shining Needle Castle Sinking in the Air",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 10 ~ Reverse Ideology",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 11 ~ The Exaggerated Castle Keep",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 12 ~ Inchlings of the Shining Needle",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 13 ~ Thunderclouds of Magical Power",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 14 ~ Primordial Beat",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 15 ~ Magical Power of the Mallet",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kishinjou set 16 ~ Strange, Strange Instruments",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 00 ~ Aka yori Akai Yume",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 01 ~ Houzuki Mitai ni Akai Tamashii",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 02 ~ Youma Yakou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 03 ~ Lunate Elf",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 05 ~ Shanhai Kouchakan",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 06 ~ Meiji Juu Nana Nen no Shanghai Alice",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 07 ~ Voile, Mahou Toshokan",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 08 ~ Locked Girl",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 09 ~ Maid to Chi no Kaichuudokei",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 10 A ~ Luna Dial",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 10 B ~ Flowering Night",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 11 ~ Tepes no Osanaki Matsuei",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 12 Playing DJ",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 12 ~ Naki Oujo no Tame no Septette",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 14 ~ U.N. Owen wa Kanojo Nanoka?",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 15 ~ Beni yori Hakanai Eien",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Koumakan set 16 ~ Kourou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 00 ~ The Space Shrine Maiden Appears",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 01 ~ Unforgettable, the Nostalgic Greenery",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 02 ~ Usagi wa Maiorita",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 03 ~ The Lake Reflects the Cleansed Moonlight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 04 ~ September Pumpkin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 05 ~ The Mysterious Shrine Maiden Flying Through Space",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 06 ~ Eternal Spring Dream",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 07 ~ The Frozen Eternal Capital",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 08 ~ The Reversed Wheel of Fortune",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 09 ~ Faraway 380,000-Kilometer Voyage",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 10 ~ The Pierrot of the Star-Spangled Banner",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 11 ~ The Sea Where the Home Planet is Reflected",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 12 ~ Pure Furies",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 13 ~ A Never-Before-Seen World of Nightmares",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 14 ~ Pandemonic Planet",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 15 ~ The Moon as Seen from the Shrine",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lunatic set 16 ~ The Space Shrine Maiden Returns Home",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 01 ReEdit ~ Hitokoishi Kamisama",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 02 ReEdit ~ Inada Himesama ni Shikararerukara",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 04 ReEdit ~ Unmei no Dark Side",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 06 ReEdit TypeB ~ Akutagawa Ryuunosuke no Kappa",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 06 ReEdit ~ Akutagawa Ryuunosuke no Kappa",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 07 ReEdit ~ Fall of Fall",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 08 ReEdit ~ Youkai no Yama",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 10 ReEdit ~ Shinkou wa Hakanai Ningen no Tame ni",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 11 ReEdit ~ Onbashira no Hakaba",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 13 ReEdit ~ Ashita Hare no hi, ke no Kino",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 14 ReEdit ~ Native Faith",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 14 ReEdit ~ Native Faith - Original Mix",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 15 ReEdit ~ Fumoto no Jinja",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moriya set 16 ReEdit ~ Kami wa Megumi no Ame wo Furasa",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 02 ~ Oriental Dark Flight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 03 ~ Poison Body",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 04 ~ Konjaku Gensoukyou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 05 ~ Higan Kikou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 07 ~ Hana no Utsuru Tsuka",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 08 ~ Shigan no Tsuka",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 09 ~ Hana wa Gensou no Mama ni",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Muenzuka set 10 ~ Tamashii no Hana",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Neuronecia",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 03 ~ Toono Gensou Monogatari",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 07 ~ Tenkuu no Hana no Miyako",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 09 ~ Touhou Youyoumu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 10 ~ Hiroari Kechou o Iru Koto",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 12 ~ Yuuga ni Sakase, Sumizome no Sakura",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 13 A ~ Youyou Bakko",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 13 B ~ Youyou Bakko",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 14 A ~ Shoujo Gensou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Ayakashi set 14 Another ~ Yoru ga Oritekuru",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Chireiden set 01 ~ Kurayami no Fuuketsu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Chireiden set 05 ~ Kyuu Jigoku Kaidou o Yuku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Chireiden set 06 ~ Hana no Sakazuki Ooeyama",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Chireiden set 08 ~ Shoujo Satori",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Chireiden set 10 ~ Lullaby",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Chireiden set 11 ~ Gouka Mantle",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Daishibyo set 03 ~ Youkaidera e Youkoso",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Daishibyo set 09 ~ Yumedono Daishibyou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Daishibyo set 10 ~ Oomiwa Shinwaden",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Daishibyo set 12 ~ Shoutoku Densetsu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Daishibyo set 13 ~ Youkai Urasandou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Eientewi set 06 ~ Plain Asia",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Koumakan set 04 Another ~ Otenba Koimusume no Bouken",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Koumakan set 04 ~ Otenba Koimusume",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Koumakan set 13 ~ Mahou Shoujo-tachi no Hyakunensai",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Moriya set 03 ReEdit ~ Yakujinsama no Toorimichi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Moriya set 05 ReEdit ~ Kamigami ga Koi Shita Gensokyo",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Moriya set 05 ReEdit ~ Kamigami ga Koi Shita Gensokyo - Original Mix",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Moriya set 09 ReEdit ~ Shoujo ga Mita Nippon no Genfuukei",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Moriya set 12 ReEdit ~ Kamisabita Kosenjou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Muenzuka set 00 ~ Kaeizuka",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Muenzuka set 01 ~ Haruiro Komichi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Muenzuka set 06 ~ Rokujuunenme no Touhou Saiban",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Mythic set ~ Hanahazama no Battlefield",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Mythic set ~ Heart-Stirring Urban Legends",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Mythic set ~ Last Occultism ~ Esotericist of the Present World",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Shinkirou set ~ Futatsuiwa from Gensokyo",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rin - Shinkirou set ~ The Lost Emotion",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Variable",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:09:44Z"
   },
   {
     "id": 9,
@@ -6549,6 +10081,972 @@
       }
     ],
     "updated_at": "2026-03-24T12:19:47Z"
+  },
+  {
+    "id": 30,
+    "name": "SOOOO",
+    "tracks": [
+      {
+        "title": "a decayed garden sinks into the isolated sea",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            953845
+          ]
+        }
+      },
+      {
+        "title": "Akuou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Happppy song",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            971465,
+            2401593
+          ],
+          "osu": [
+            744593,
+            1016769,
+            2250580,
+            2400856
+          ],
+          "taiko": [
+            775133
+          ]
+        }
+      },
+      {
+        "title": "iiillluuuvvvUUU",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "illloved",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "illloved (osu! Edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "minus in the sun",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            983183
+          ]
+        }
+      },
+      {
+        "title": "NORMAL HUMAN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "OTOOTO-P x SOOOO - World End",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rasou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Raven Haven",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2040467
+          ],
+          "osu": [
+            935098
+          ],
+          "taiko": [
+            921535
+          ]
+        }
+      },
+      {
+        "title": "Ruins in the Paradise",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:23:14Z"
+  },
+  {
+    "id": 34,
+    "name": "tieff",
+    "tracks": [
+      {
+        "title": "and here am I, forgotten",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "By Holding You Close I'm Pushing You Further",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            958299
+          ]
+        }
+      },
+      {
+        "title": "Dancing in Blue",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Library Girl",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            968055
+          ]
+        }
+      },
+      {
+        "title": "Our Story",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2413757
+          ],
+          "osu": [
+            941085
+          ]
+        }
+      },
+      {
+        "title": "Saturate",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sense of Nostalgia",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            929284
+          ]
+        }
+      },
+      {
+        "title": "Sunflower",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2467043
+          ],
+          "fruits": [
+            985106
+          ],
+          "osu": [
+            949297
+          ]
+        }
+      },
+      {
+        "title": "Take Your Swimsuit",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            940597
+          ]
+        }
+      },
+      {
+        "title": "that love so far away",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Waterflow",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            938370,
+            1491275
+          ]
+        }
+      },
+      {
+        "title": "We Are The Gems",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:25:30Z"
+  },
+  {
+    "id": 20,
+    "name": "Trial & Error",
+    "tracks": [
+      {
+        "title": "Ashita e tobutameni",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ashita e tobutameni (Instrumental Mix)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ashita e tobutameni (Instrumental Mix) (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ashita e tobutameni (Instrumental Mix) (TV Size)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ashita e tobutameni (Short Ver.)",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2461797
+          ],
+          "osu": [
+            2461797
+          ],
+          "taiko": [
+            2461797
+          ]
+        }
+      },
+      {
+        "title": "Ashita e tobutameni (TV Size)",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2122738
+          ]
+        }
+      },
+      {
+        "title": "DAI*TAN SENSATION feat. Hatsune Miku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DAI*TAN SENSATION feat. Hatsune Miku (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DREAMING COLOR",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "DREAMING COLOR (Short Ver.)",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1116584
+          ],
+          "fruits": [
+            946773
+          ]
+        }
+      },
+      {
+        "title": "hex feat. Aya Hatori",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "hex feat. Aya Hatori (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hitori ja... Issho nara!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hitori ja... Issho nara! (Short ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hitori ja... Issho nara! (TV Size)",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2208658
+          ],
+          "mania": [
+            2208658
+          ],
+          "taiko": [
+            1252845
+          ]
+        }
+      },
+      {
+        "title": "Hoshizora Touhikou feat. Hatsune Miku",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2273186
+          ],
+          "osu": [
+            747331
+          ]
+        }
+      },
+      {
+        "title": "Hoshizora Touhikou feat. Hatsune Miku (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Houkai no Hate No Ishi feat. GUMI",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Houkai no Hate No Ishi feat. GUMI (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MYxFLAVORxDAYS! feat. GUMI",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MYxFLAVORxDAYS! feat. GUMI (Short Ver.)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2121497
+          ]
+        }
+      },
+      {
+        "title": "Shuuen no Reboot",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Shuuen no Reboot (Instrumental Mix)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sore ga Zenbu, Yume ni Tsunagaru",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sore ga Zenbu, Yume ni Tsunagaru (Short Ver.)",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1217811
+          ],
+          "osu": [
+            1120862
+          ]
+        }
+      },
+      {
+        "title": "Sorezore no Tabiji",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sorezore no Tabiji (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Taiatari*Romance feat. Ayuru Ouhashi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Taiatari*Romance feat. Ayuru Ouhashi (Short Ver.)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            796338
+          ]
+        }
+      },
+      {
+        "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Yoru wo Kakeru feat. ming-zi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Yoru wo Kakeru feat. ming-zi (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ZESSAN*UNMEI-CHU feat. GUMI",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ZESSAN*UNMEI-CHU feat. GUMI (Short Ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:18:05Z"
+  },
+  {
+    "id": 22,
+    "name": "VINXIS",
+    "tracks": [
+      {
+        "title": "A Centralized View",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            972302
+          ],
+          "osu": [
+            780932
+          ]
+        }
+      },
+      {
+        "title": "A Long Trail of Dirt",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Acrimony",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Applause",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            788001
+          ],
+          "taiko": [
+            501719,
+            788001
+          ],
+          "osu": [
+            501719
+          ]
+        }
+      },
+      {
+        "title": "Chima",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1391615
+          ]
+        }
+      },
+      {
+        "title": "Don't Want Any",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Facade",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1001625
+          ],
+          "taiko": [
+            918446
+          ]
+        }
+      },
+      {
+        "title": "Free",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Greetings",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            288974,
+            788201,
+            800526,
+            979100,
+            1038319
+          ],
+          "taiko": [
+            288974,
+            876282
+          ],
+          "fruits": [
+            815162
+          ]
+        }
+      },
+      {
+        "title": "Left Behind",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2338797
+          ],
+          "osu": [
+            780372
+          ]
+        }
+      },
+      {
+        "title": "Sidetracked Day",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1500887,
+            2203299
+          ],
+          "osu": [
+            728276,
+            838182,
+            1008679,
+            1031435,
+            2162554
+          ],
+          "mania": [
+            809078
+          ],
+          "taiko": [
+            762693
+          ]
+        }
+      },
+      {
+        "title": "Sleep",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Take",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            828670
+          ],
+          "osu": [
+            503849
+          ]
+        }
+      },
+      {
+        "title": "Three Times the Original Charm",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Time To Think",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:19:05Z"
+  },
+  {
+    "id": 28,
+    "name": "Virtual Self",
+    "tracks": [
+      {
+        "title": "a.i.ngel (Become God)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Angel Voices",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            939437
+          ],
+          "taiko": [
+            871607
+          ],
+          "osu": [
+            871104
+          ]
+        }
+      },
+      {
+        "title": "EON BREAK",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1138198
+          ]
+        }
+      },
+      {
+        "title": "Ghost Voices",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Key",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Particle Arts",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:22:07Z"
+  },
+  {
+    "id": 16,
+    "name": "Wisp X",
+    "tracks": [
+      {
+        "title": "Aether",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Alone at Midnight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Coffee",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            733211,
+            2061718
+          ]
+        }
+      },
+      {
+        "title": "Crimson feat. Hatsune Miku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Crimson feat. Hatsune Miku (Radio Edit)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1032163
+          ]
+        }
+      },
+      {
+        "title": "Eventide",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            932657
+          ]
+        }
+      },
+      {
+        "title": "Faeth",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Final Moments",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            847957
+          ]
+        }
+      },
+      {
+        "title": "Forever",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            935984
+          ]
+        }
+      },
+      {
+        "title": "Frozen Leaves",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            871914
+          ]
+        }
+      },
+      {
+        "title": "Hana",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Heart",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hibiscus",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1040161
+          ]
+        }
+      },
+      {
+        "title": "Idyllic",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Illuminate",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Melon Soda",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1033247
+          ]
+        }
+      },
+      {
+        "title": "Mint",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            755188
+          ]
+        }
+      },
+      {
+        "title": "Moon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moonglow",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1016833
+          ]
+        }
+      },
+      {
+        "title": "Petal",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            949122
+          ]
+        }
+      },
+      {
+        "title": "Somewhere I'd Rather Be",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            883088,
+            1255411
+          ]
+        }
+      },
+      {
+        "title": "Sparkling Tides",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wander",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            652886,
+            970646
+          ]
+        }
+      },
+      {
+        "title": "Wisp X & erumi - Eternal",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wisp X & serafin - Violet",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wisp X & Thomas Hood - Space Peaches",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wisp X & Xomu - Lumina",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T13:14:40Z"
   },
   {
     "id": 727,

@@ -1,8 +1,4 @@
 scraper/.venv/
-scraper/test_update.py
-scraper/test_2.py
-scraper/.pytest_cache
-scraper/__pycache__
+scraper/tests/
 .env
-artists_test.json
-fa_page_example.html
+scraper/__pycache__

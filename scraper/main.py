@@ -12,7 +12,7 @@ from ossapi import Ossapi
 from tqdm import tqdm
 
 from parser import HtmlClient
-from config import ARTISTS_DIR, INDEX_PATH, BLACKLIST
+from config import ARTISTS_DIR, INDEX_PATH
 from build import build_artist_record
 
 
@@ -97,8 +97,8 @@ def find_artist(raw_artists: list[dict], search: str) -> Optional[dict]:
 def run() -> None:
     """
     python main.py                          — resume, skip existing
-    python main.py --rebuild all            — rebuild all artists except BLACKLIST
-    python main.py --rebuild "name" 123     — rebuild specified artists by name/id
+    python main.py --rebuild all            — rebuild all except BLACKLIST
+    python main.py --rebuild "name" 123     — rebuild specific artists by name or id
     """
     parser = argparse.ArgumentParser()
     parser.add_argument("--rebuild", nargs="+", metavar="TARGET",
@@ -119,7 +119,7 @@ def run() -> None:
     raw_artists = html_client.get_featured_artists()
     print(f"Found {len(raw_artists)} Featured Artists.\n", flush=True)
 
-    # ── --rebuild name/id ────────────────────────────────
+    # ── --rebuild name/id mode ────────────────────────────────
     if args.rebuild and args.rebuild != ["all"]:
         existing = load_existing_artists()
         processed = 0
@@ -147,18 +147,12 @@ def run() -> None:
             print("Nothing was updated.")
         return
 
-    # ── full / resume ────────────────────────────────────
+    # ── full / resume mode ────────────────────────────────────
     rebuild_all = args.rebuild == ["all"]
     results: list[dict] = []
 
     for raw in tqdm(raw_artists, desc="Artists"):
         artist_path = ARTISTS_DIR / f"{raw['id']}.json"
-
-        if raw["id"] in BLACKLIST:
-            if artist_path.exists():
-                results.append(json.loads(artist_path.read_text(encoding="utf-8")))
-            tqdm.write(f"⚠ Skipped (blacklist): {BLACKLIST[raw['id']]}")
-            continue
 
         if not rebuild_all and artist_path.exists():
             results.append(json.loads(artist_path.read_text(encoding="utf-8")))

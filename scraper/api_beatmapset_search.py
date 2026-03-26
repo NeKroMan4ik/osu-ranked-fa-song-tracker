@@ -25,7 +25,7 @@ def find_ranked_beatmapsets(
     mode_to_ids: Dict[str, List[int]] = {}
 
     for bms in result.beatmapsets:
-        if title == bms.title:
+        if title.lower() == bms.title.lower():
             found_ids.append(bms.id)
 
             modes_here = set()

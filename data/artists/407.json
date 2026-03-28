@@ -29,16 +29,6 @@
       }
     },
     {
-      "title": "Curtain Call",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Once Again",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Once Again (VIP)",
       "ranked_modes": [
         "mania"
@@ -86,7 +76,17 @@
           2177811
         ]
       }
+    },
+    {
+      "title": "Curtain Call",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Once Again",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:37:52Z"
+  "updated_at": "2026-03-28T12:31:55Z"
 }

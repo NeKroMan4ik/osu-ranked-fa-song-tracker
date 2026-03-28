@@ -84,10 +84,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           2464556
         ],
-        "taiko": [
+        "osu": [
           2464556
         ],
         "mania": [
@@ -101,5 +101,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:10:48Z"
+  "updated_at": "2026-03-28T13:20:34Z"
 }

@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "Astronote.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cyclone Joker",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Harder Than Diamond",
       "ranked_modes": [
         "osu",
@@ -37,21 +27,6 @@
           1884920
         ]
       }
-    },
-    {
-      "title": "I Am Amethyst",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Let's quartz",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Playing with Ruby",
@@ -77,21 +52,6 @@
       }
     },
     {
-      "title": "Sobrem & NIWASHI - A fight in Tunisia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "T_ritama Breaker",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Take Shelter From Rain",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Fascinating Cat's Eye",
       "ranked_modes": [
         "mania",
@@ -109,6 +69,61 @@
           1710885
         ]
       }
+    },
+    {
+      "title": "Y",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1814682
+        ],
+        "osu": [
+          1689372
+        ]
+      }
+    },
+    {
+      "title": "Astronote.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cyclone Joker",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I Am Amethyst",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Let's quartz",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sobrem & NIWASHI - A fight in Tunisia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "T_ritama Breaker",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Take Shelter From Rain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tonari no Niwa wa - Caelum out of the world 2019",
@@ -129,22 +144,7 @@
       "title": "Veterock no Kuuko ni Kiyu",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Y",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1814682
-        ],
-        "osu": [
-          1689372
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:42:24Z"
+  "updated_at": "2026-03-28T14:03:16Z"
 }

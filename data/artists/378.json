@@ -15,16 +15,6 @@
       }
     },
     {
-      "title": "Between the Stars feat. Ishizawa Yukari",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Black Blood",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Border Line",
       "ranked_modes": [
         "osu"
@@ -34,6 +24,49 @@
           2035357
         ]
       }
+    },
+    {
+      "title": "Make Some Noise for Mr.C",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1305940
+        ]
+      }
+    },
+    {
+      "title": "Rocking to the Beat",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          305938
+        ]
+      }
+    },
+    {
+      "title": "WorkaHolic",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          77441
+        ]
+      }
+    },
+    {
+      "title": "Between the Stars feat. Ishizawa Yukari",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Black Blood",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "C-Show feat. Aitsuki Nakuru - Kimi Konomi flavor",
@@ -66,17 +99,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Make Some Noise for Mr.C",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1305940
-        ]
-      }
-    },
-    {
       "title": "Minna de Jump Shitai Toki no Theme Song ~UK Hardcore o Soete~",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -102,17 +124,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rocking to the Beat",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          305938
-        ]
-      }
-    },
-    {
       "title": "Shiny Mirrorball",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -136,12 +147,7 @@
       "title": "War Machine",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "WorkaHolic",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:37:28Z"
+  "updated_at": "2026-03-28T12:26:09Z"
 }

@@ -3,16 +3,6 @@
   "name": "Mage",
   "tracks": [
     {
-      "title": "Rave Weapon (Radio Edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Island",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Words I Never Said in D&B",
       "ranked_modes": [
         "fruits",
@@ -34,6 +24,16 @@
       }
     },
     {
+      "title": "Rave Weapon (Radio Edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Island",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "To Paradise",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -44,5 +44,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:27:24Z"
+  "updated_at": "2026-03-28T13:45:12Z"
 }

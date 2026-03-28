@@ -3,11 +3,6 @@
   "name": "Virtual Self",
   "tracks": [
     {
-      "title": "a.i.ngel (Become God)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Angel Voices",
       "ranked_modes": [
         "fruits",
@@ -19,7 +14,8 @@
           939437
         ],
         "taiko": [
-          871607
+          871607,
+          1001789
         ],
         "osu": [
           871104
@@ -38,6 +34,11 @@
       }
     },
     {
+      "title": "a.i.ngel (Become God)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Ghost Voices",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -53,5 +54,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:22:07Z"
+  "updated_at": "2026-03-28T15:21:52Z"
 }

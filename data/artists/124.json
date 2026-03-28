@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "Aurora",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cast a spell feat. Sennzai",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cybernetics",
       "ranked_modes": [
         "osu"
@@ -33,16 +23,6 @@
           1325579
         ]
       }
-    },
-    {
-      "title": "Future-bit party time",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hatsuyume",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Into your memory feat. Aitsuki Nakuru",
@@ -58,6 +38,59 @@
           1666365
         ]
       }
+    },
+    {
+      "title": "Meikyoshisui",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1338121
+        ]
+      }
+    },
+    {
+      "title": "Natsukaze to Kimi no Egao",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1342680
+        ]
+      }
+    },
+    {
+      "title": "u'n me",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1336717
+        ]
+      }
+    },
+    {
+      "title": "Aurora",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cast a spell feat. Sennzai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Future-bit party time",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hatsuyume",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda & AAAA - Cygnus",
@@ -105,28 +138,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Meikyoshisui",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1338121
-        ]
-      }
-    },
-    {
-      "title": "Natsukaze to Kimi no Egao",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1342680
-        ]
-      }
-    },
-    {
       "title": "Natsukoi Hanabi feat. Oshima Haruna",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -157,17 +168,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "u'n me",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1336717
-        ]
-      }
-    },
-    {
       "title": "White Dwarf Stars",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -178,5 +178,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:10:36Z"
+  "updated_at": "2026-03-28T13:20:24Z"
 }

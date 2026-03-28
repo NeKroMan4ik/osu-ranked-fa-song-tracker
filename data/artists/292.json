@@ -3,11 +3,6 @@
   "name": "Mitsukiyo",
   "tracks": [
     {
-      "title": "Balloon Party (feat. *namirin)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dream Leaf",
       "ranked_modes": [
         "mania",
@@ -50,19 +45,31 @@
       }
     },
     {
-      "title": "Koiiro Tsubasa (feat. kiichigo)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mikansei Romantic (feat. Kotono)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1850473,
+          2246587
+        ]
+      }
     },
     {
       "title": "Mutual Panorama (feat. Aitsuki Nakuru)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1979500
+        ],
+        "osu": [
+          1806127
+        ]
+      }
     },
     {
       "title": "Snow Stardust (feat. hynaxis)",
@@ -72,21 +79,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           2481117
         ],
-        "taiko": [
+        "osu": [
           2481117
         ],
         "mania": [
           2481117
         ]
       }
-    },
-    {
-      "title": "Souzou Odyssey (feat. Hiina)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "YU.ME.NO !",
@@ -120,7 +122,22 @@
           2258793
         ]
       }
+    },
+    {
+      "title": "Balloon Party (feat. *namirin)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koiiro Tsubasa (feat. kiichigo)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Souzou Odyssey (feat. Hiina)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:33:26Z"
+  "updated_at": "2026-03-28T13:52:26Z"
 }

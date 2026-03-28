@@ -31,16 +31,6 @@
       }
     },
     {
-      "title": "Chata - re:construction",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "crossing",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Endroll",
       "ranked_modes": [
         "osu"
@@ -50,11 +40,6 @@
           2287933
         ]
       }
-    },
-    {
-      "title": "framework",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hello",
@@ -83,11 +68,6 @@
       }
     },
     {
-      "title": "meiro",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "omega",
       "ranked_modes": [
         "osu"
@@ -97,16 +77,6 @@
           1728309
         ]
       }
-    },
-    {
-      "title": "step! jump!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "waterflowing",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "yamisame",
@@ -130,7 +100,37 @@
           2211153
         ]
       }
+    },
+    {
+      "title": "Chata - re:construction",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "crossing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "framework",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "meiro",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "step! jump!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "waterflowing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:39:00Z"
+  "updated_at": "2026-03-28T13:57:56Z"
 }

@@ -15,13 +15,15 @@
     },
     {
       "title": "All in All",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Baby, Hold on to Your Dreams",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          724846,
+          961320
+        ]
+      }
     },
     {
       "title": "Beautiful Uncertainty (Redux)",
@@ -36,24 +38,15 @@
       }
     },
     {
-      "title": "Come Together",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Don't Stop Fallin'",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Electrolove",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Love is my Drug",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          938844
+        ]
+      }
     },
     {
       "title": "My Friend",
@@ -91,6 +84,26 @@
       }
     },
     {
+      "title": "Baby, Hold on to Your Dreams",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Come Together",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Don't Stop Fallin'",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Electrolove",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Sex is Good",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -106,5 +119,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:04:49Z"
+  "updated_at": "2026-03-28T13:30:51Z"
 }

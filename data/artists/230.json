@@ -3,16 +3,6 @@
   "name": "Haywyre",
   "tracks": [
     {
-      "title": "Back and Forth",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Contagious",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dichotomy (Soft Mix)",
       "ranked_modes": [
         "mania"
@@ -44,6 +34,16 @@
           2423510
         ]
       }
+    },
+    {
+      "title": "Back and Forth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Contagious",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Let Me Hear That",
@@ -86,5 +86,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:02:48Z"
+  "updated_at": "2026-03-28T13:06:26Z"
 }

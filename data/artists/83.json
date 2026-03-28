@@ -3,11 +3,6 @@
   "name": "Thank You Scientist",
   "tracks": [
     {
-      "title": "A Wolf In Cheap Clothing",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Anchor",
       "ranked_modes": [
         "osu"
@@ -30,11 +25,6 @@
       }
     },
     {
-      "title": "Blue Automatic",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Caverns",
       "ranked_modes": [
         "osu"
@@ -44,16 +34,6 @@
           1991221
         ]
       }
-    },
-    {
-      "title": "Chromology",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Everyday Ghosts",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FXMLDR",
@@ -69,11 +49,6 @@
           1494989
         ]
       }
-    },
-    {
-      "title": "Geronimo",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Life of Vermin",
@@ -108,11 +83,6 @@
           765338
         ]
       }
-    },
-    {
-      "title": "Need More Input",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Psychopomp",
@@ -159,11 +129,6 @@
       }
     },
     {
-      "title": "Terraformer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Amateur Arsonist's Handbook",
       "ranked_modes": [
         "fruits",
@@ -204,7 +169,42 @@
           1236118
         ]
       }
+    },
+    {
+      "title": "A Wolf In Cheap Clothing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blue Automatic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chromology",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Everyday Ghosts",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Geronimo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Need More Input",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Terraformer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:50:11Z"
+  "updated_at": "2026-03-28T15:07:02Z"
 }

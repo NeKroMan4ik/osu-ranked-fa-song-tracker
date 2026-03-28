@@ -78,11 +78,6 @@
       }
     },
     {
-      "title": "cuties",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "good old times",
       "ranked_modes": [
         "osu",
@@ -96,11 +91,6 @@
           95647
         ]
       }
-    },
-    {
-      "title": "pizza power",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "press start",
@@ -180,11 +170,15 @@
     {
       "title": "the earth is counting on you",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "taiko": [
           1127568
+        ],
+        "osu": [
+          673494
         ]
       }
     },
@@ -198,7 +192,17 @@
           1089084
         ]
       }
+    },
+    {
+      "title": "cuties",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "pizza power",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:15:21Z"
+  "updated_at": "2026-03-28T13:28:55Z"
 }

@@ -3,6 +3,76 @@
   "name": "Akira Complex",
   "tracks": [
     {
+      "title": "Akira Complex - rift.exe",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2018278
+        ]
+      }
+    },
+    {
+      "title": "Dying Scarlet",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2186584
+        ]
+      }
+    },
+    {
+      "title": "Odyssey",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2043376
+        ]
+      }
+    },
+    {
+      "title": "Odyssey (Au5 Remix)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          914806
+        ],
+        "osu": [
+          341007
+        ]
+      }
+    },
+    {
+      "title": "rift.exe (Camellia's \"De-compiling\" Remix)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1557713
+        ]
+      }
+    },
+    {
+      "title": "S2TB-303",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2215734
+        ]
+      }
+    },
+    {
       "title": "6AM Tokyo Funky Town feat. NO+CHIN",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -19,11 +89,6 @@
     },
     {
       "title": "Akira Complex & PSYQUI - Come to me",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Akira Complex - rift.exe",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -78,17 +143,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Dying Scarlet",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2186584
-        ]
-      }
-    },
-    {
       "title": "Foresight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -129,32 +183,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Odyssey",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2043376
-        ]
-      }
-    },
-    {
-      "title": "Odyssey (Au5 Remix)",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          914806
-        ],
-        "osu": [
-          341007
-        ]
-      }
-    },
-    {
       "title": "Odyssey (Hardcore VIP)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -163,28 +191,6 @@
       "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "rift.exe (Camellia's \"De-compiling\" Remix)",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1557713
-        ]
-      }
-    },
-    {
-      "title": "S2TB-303",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2215734
-        ]
-      }
     },
     {
       "title": "Show Me How (Defsharp Remix)",
@@ -202,5 +208,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:11:08Z"
+  "updated_at": "2026-03-28T12:04:28Z"
 }

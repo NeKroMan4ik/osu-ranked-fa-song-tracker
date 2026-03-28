@@ -18,19 +18,15 @@
       }
     },
     {
-      "title": "Cinamoro - Variations on D Minor (feat. PLORALD)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Crimson (\"Blood Red\" Long Ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "linen",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2036300
+        ]
+      }
     },
     {
       "title": "Mare Tranquillitatis",
@@ -53,7 +49,17 @@
           1874826
         ]
       }
+    },
+    {
+      "title": "Cinamoro - Variations on D Minor (feat. PLORALD)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Crimson (\"Blood Red\" Long Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:39:18Z"
+  "updated_at": "2026-03-28T12:33:25Z"
 }

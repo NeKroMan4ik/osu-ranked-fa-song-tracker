@@ -3,11 +3,6 @@
   "name": "BrayanKitsn",
   "tracks": [
     {
-      "title": "Anstrvoir",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Blizzard Heights",
       "ranked_modes": [
         "mania"
@@ -17,6 +12,22 @@
           2071574
         ]
       }
+    },
+    {
+      "title": "Crystallized Snow",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1871690
+        ]
+      }
+    },
+    {
+      "title": "Anstrvoir",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BounceBack",
@@ -32,17 +43,6 @@
       "title": "Cryallia",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Crystallized Snow",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1871690
-        ]
-      }
     },
     {
       "title": "EdadeisnA",
@@ -85,5 +85,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:36:51Z"
+  "updated_at": "2026-03-28T12:25:38Z"
 }

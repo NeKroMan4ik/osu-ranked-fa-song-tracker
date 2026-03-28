@@ -3,26 +3,6 @@
   "name": "Allegaeon",
   "tracks": [
     {
-      "title": "1.618",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Accelerated Evolution",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Apoptosis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Biomech - Vals No.666",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dyson Sphere",
       "ranked_modes": [
         "taiko"
@@ -45,6 +25,26 @@
       }
     },
     {
+      "title": "1.618",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Accelerated Evolution",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Apoptosis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Biomech - Vals No.666",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Proponent For Sentience I - The Conception",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -60,5 +60,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:23:30Z"
+  "updated_at": "2026-03-28T12:07:40Z"
 }

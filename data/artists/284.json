@@ -5,12 +5,16 @@
     {
       "title": "A Voice In The Dark",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
           1672400,
           2407410
+        ],
+        "taiko": [
+          617257
         ]
       }
     },
@@ -24,16 +28,6 @@
           2099411
         ]
       }
-    },
-    {
-      "title": "Curse My Name",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "I'm Alive",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mirror Mirror",
@@ -56,6 +50,16 @@
           2054445
         ]
       }
+    },
+    {
+      "title": "Curse My Name",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I'm Alive",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sacred Worlds",
@@ -83,5 +87,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:34:25Z"
+  "updated_at": "2026-03-28T12:22:54Z"
 }

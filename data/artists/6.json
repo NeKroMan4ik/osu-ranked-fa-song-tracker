@@ -14,27 +14,17 @@
       }
     },
     {
-      "title": "BLISS (feat. JHACS)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BREAD DREAMS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BUBBLE TEA (feat. juu & cinders)",
       "ranked_modes": [
         "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          716213,
+        "fruits": [
           769917
         ],
-        "fruits": [
+        "osu": [
+          716213,
           769917
         ]
       }
@@ -62,11 +52,6 @@
       }
     },
     {
-      "title": "FALLING LOVE (feat. jade hikari)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "hot chocolate",
       "ranked_modes": [
         "fruits",
@@ -82,35 +67,19 @@
       }
     },
     {
-      "title": "LOVERS' OASIS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MAPLE ADVENTURE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "NO STOPPING US (feat. jenny)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "pursuit of happiness",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
         "fruits": [
           1071294
+        ],
+        "osu": [
+          733283
         ]
       }
-    },
-    {
-      "title": "SLEEPING WITH YOU",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STARS ALIGN",
@@ -128,6 +97,41 @@
       }
     },
     {
+      "title": "BLISS (feat. JHACS)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BREAD DREAMS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FALLING LOVE (feat. jade hikari)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "LOVERS' OASIS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MAPLE ADVENTURE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NO STOPPING US (feat. jenny)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SLEEPING WITH YOU",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "STRAWBERRY ROAD",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -143,5 +147,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T12:37:51Z"
+  "updated_at": "2026-03-28T12:41:47Z"
 }

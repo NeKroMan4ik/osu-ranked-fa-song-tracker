@@ -15,13 +15,18 @@
     },
     {
       "title": "Alone In The Chaos",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ANIMA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2134637
+        ],
+        "osu": [
+          1756259
+        ]
+      }
     },
     {
       "title": "Ariadne",
@@ -78,21 +83,6 @@
       }
     },
     {
-      "title": "Cure",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cure(reprise)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Death with Dignity",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Deus ex Machina",
       "ranked_modes": [
         "osu"
@@ -113,11 +103,6 @@
           1638732
         ]
       }
-    },
-    {
-      "title": "Fate",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I.F.",
@@ -144,11 +129,6 @@
       }
     },
     {
-      "title": "Keep The Memories Brilliant",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lovers in Abyss",
       "ranked_modes": [
         "fruits",
@@ -166,6 +146,60 @@
           1699234
         ]
       }
+    },
+    {
+      "title": "VANITAS",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2095177,
+          2227912
+        ],
+        "fruits": [
+          2119948
+        ],
+        "taiko": [
+          2109896
+        ],
+        "mania": [
+          2104931
+        ]
+      }
+    },
+    {
+      "title": "ANIMA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cure(reprise)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Death with Dignity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Keep The Memories Brilliant",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Melancholia",
@@ -211,31 +245,7 @@
       "title": "The Night Before Halation",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "VANITAS",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2095177,
-          2227912
-        ],
-        "fruits": [
-          2119948
-        ],
-        "taiko": [
-          2109896
-        ],
-        "mania": [
-          2104931
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:57:31Z"
+  "updated_at": "2026-03-28T14:21:47Z"
 }

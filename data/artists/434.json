@@ -3,6 +3,51 @@
   "name": "SiLiS",
   "tracks": [
     {
+      "title": "GAME MAKE OVER",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2123356
+        ]
+      }
+    },
+    {
+      "title": "Hebe",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2338039,
+          2339008
+        ]
+      }
+    },
+    {
+      "title": "Ryuu no Koukyoukyoku",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2321386
+        ]
+      }
+    },
+    {
+      "title": "Yukisarashi",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2330155
+        ]
+      }
+    },
+    {
       "title": "Algernon -till the final breath-",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -48,32 +93,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "GAME MAKE OVER",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2123356
-        ]
-      }
-    },
-    {
       "title": "Haruyakihata",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hebe",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2338039,
-          2339008
-        ]
-      }
     },
     {
       "title": "hopeful hyle",
@@ -109,17 +131,6 @@
       "title": "NEBULA",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ryuu no Koukyoukyoku",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2321386
-        ]
-      }
     },
     {
       "title": "SiLiS feat. Ethereal_Winter - Negative Positive Life",
@@ -197,21 +208,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yukisarashi",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2330155
-        ]
-      }
-    },
-    {
       "title": "Zetsumetsu Mayday",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:12:45Z"
+  "updated_at": "2026-03-28T14:47:30Z"
 }

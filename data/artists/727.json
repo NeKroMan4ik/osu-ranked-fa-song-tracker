@@ -22,11 +22,6 @@
       }
     },
     {
-      "title": "Agartha",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Akasha",
       "ranked_modes": [
         "mania",
@@ -46,11 +41,6 @@
           403427
         ]
       }
-    },
-    {
-      "title": "Ancient Relics",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Angelic Party",
@@ -78,12 +68,10 @@
         "fruits": [
           609324
         ],
-        "osu": [
-          225377,
-          388348,
-          2196253
-        ],
         "taiko": [
+          225377
+        ],
+        "osu": [
           225377
         ]
       }
@@ -122,11 +110,6 @@
           1224013
         ]
       }
-    },
-    {
-      "title": "Azalea",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bad Elixir",
@@ -183,8 +166,7 @@
           919633
         ],
         "osu": [
-          292301,
-          1737645
+          292301
         ]
       }
     },
@@ -206,16 +188,12 @@
     {
       "title": "d e a t h  p i a n o ~for four pianos~",
       "ranked_modes": [
-        "mania",
-        "osu"
+        "mania"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
           2349815,
           2378029
-        ],
-        "osu": [
-          950606
         ]
       }
     },
@@ -265,8 +243,7 @@
           1587660
         ],
         "osu": [
-          25545,
-          2040305
+          25545
         ]
       }
     },
@@ -279,18 +256,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          39804,
+          1613246,
+          2237410
+        ],
         "osu": [
           39804,
           761041,
           1074758,
           1667560,
-          2237410
-        ],
-        "taiko": [
-          39804,
-          738280,
-          1076933,
-          1613246,
           2237410
         ],
         "fruits": [
@@ -336,9 +311,7 @@
         ],
         "osu": [
           20871,
-          69763,
-          2258243,
-          2432962
+          69763
         ]
       }
     },
@@ -384,16 +357,6 @@
       }
     },
     {
-      "title": "Information Transmission",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Iolite",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Jackknife",
       "ranked_modes": [
         "fruits",
@@ -413,22 +376,17 @@
       "ranked_modes": [
         "fruits",
         "mania",
-        "osu",
-        "taiko"
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
           2374795
         ],
         "osu": [
-          1902907,
-          2082319
+          1902907
         ],
         "fruits": [
           1791101
-        ],
-        "taiko": [
-          963975
         ]
       }
     },
@@ -519,11 +477,6 @@
       }
     },
     {
-      "title": "Tenimuhou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Time files",
       "ranked_modes": [
         "fruits",
@@ -542,11 +495,6 @@
           1685122
         ]
       }
-    },
-    {
-      "title": "To Live",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Valhalla",
@@ -583,16 +531,6 @@
       }
     },
     {
-      "title": "wild card",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "World Fragments I",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "World Fragments II",
       "ranked_modes": [
         "taiko"
@@ -619,11 +557,6 @@
       }
     },
     {
-      "title": "xi respect for F.F.Chopin - F",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Zephyros",
       "ranked_modes": [
         "mania"
@@ -633,7 +566,57 @@
           2475292
         ]
       }
+    },
+    {
+      "title": "Agartha",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ancient Relics",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Azalea",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Information Transmission",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Iolite",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tenimuhou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "To Live",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "wild card",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "World Fragments I",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "xi respect for F.F.Chopin - F",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-23T21:05:55Z"
+  "updated_at": "2026-03-28T15:29:04Z"
 }

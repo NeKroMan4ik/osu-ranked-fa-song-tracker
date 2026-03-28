@@ -3,11 +3,6 @@
   "name": "Marmalade butcher",
   "tracks": [
     {
-      "title": "-273.15C",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "=/=Virtual Futural",
       "ranked_modes": [
         "mania",
@@ -21,11 +16,6 @@
           2347292
         ]
       }
-    },
-    {
-      "title": "Akerue",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Amanita",
@@ -44,26 +34,6 @@
       }
     },
     {
-      "title": "Anima",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Chi-Se",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cinnamon Chocolat Cakes",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cladocera",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "CuttingEdgeInsaneArtifact",
       "ranked_modes": [
         "mania",
@@ -78,11 +48,6 @@
           2409561
         ]
       }
-    },
-    {
-      "title": "Drop",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Floccinaucinihilipilification",
@@ -126,16 +91,6 @@
       }
     },
     {
-      "title": "In lacrimis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kouka Suru Toshi",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mirage Age",
       "ranked_modes": [
         "osu",
@@ -151,11 +106,6 @@
       }
     },
     {
-      "title": "Monochroma",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "NaRKiSSuS",
       "ranked_modes": [
         "osu"
@@ -165,11 +115,6 @@
           2288181
         ]
       }
-    },
-    {
-      "title": "NoisiA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Noxious",
@@ -207,11 +152,6 @@
       }
     },
     {
-      "title": "SIX BILLION MNSN",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "SUTEGORO",
       "ranked_modes": [
         "taiko"
@@ -221,11 +161,6 @@
           2400346
         ]
       }
-    },
-    {
-      "title": "SYAKUNETSU",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ushinahareru Runazuki",
@@ -239,16 +174,6 @@
       }
     },
     {
-      "title": "VisioN",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Waltz for Chroma",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Y/M/K/M",
       "ranked_modes": [
         "osu"
@@ -259,7 +184,82 @@
           2275714
         ]
       }
+    },
+    {
+      "title": "-273.15C",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Akerue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Anima",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chi-Se",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cinnamon Chocolat Cakes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cladocera",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Drop",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "In lacrimis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kouka Suru Toshi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Monochroma",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NoisiA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SIX BILLION MNSN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SYAKUNETSU",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VisioN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Waltz for Chroma",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:28:49Z"
+  "updated_at": "2026-03-28T13:46:57Z"
 }

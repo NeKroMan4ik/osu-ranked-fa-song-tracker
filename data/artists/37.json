@@ -3,16 +3,6 @@
   "name": "The Flashbulb",
   "tracks": [
     {
-      "title": "A Raw Understanding",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Alley Acid",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Amen Iraq",
       "ranked_modes": [
         "mania",
@@ -27,16 +17,6 @@
           966277
         ]
       }
-    },
-    {
-      "title": "Bash",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Binedump",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black Lawn Finale",
@@ -67,11 +47,6 @@
           827049
         ]
       }
-    },
-    {
-      "title": "Coinage",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Creep",
@@ -133,11 +108,6 @@
       }
     },
     {
-      "title": "Kirlian Choices",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kirlian Shores",
       "ranked_modes": [
         "mania"
@@ -149,11 +119,6 @@
       }
     },
     {
-      "title": "Lawn Wake I",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lawn Wake II",
       "ranked_modes": [
         "taiko"
@@ -163,11 +128,6 @@
           364724
         ]
       }
-    },
-    {
-      "title": "Lawn Wake III",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lawn Wake IV (Black)",
@@ -211,11 +171,6 @@
       }
     },
     {
-      "title": "Monolite",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ninedump",
       "ranked_modes": [
         "taiko"
@@ -254,11 +209,6 @@
       }
     },
     {
-      "title": "Stretch Industry",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Bridgeport Run",
       "ranked_modes": [
         "taiko"
@@ -268,11 +218,6 @@
           1215016
         ]
       }
-    },
-    {
-      "title": "The Trees In Russia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Time Ache Finale",
@@ -300,10 +245,66 @@
           964553
         ],
         "osu": [
+          380568,
           964553
         ]
       }
+    },
+    {
+      "title": "A Raw Understanding",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Alley Acid",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bash",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Binedump",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Coinage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kirlian Choices",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lawn Wake I",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lawn Wake III",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Monolite",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stretch Industry",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Trees In Russia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:54:49Z"
+  "updated_at": "2026-03-28T15:07:43Z"
 }

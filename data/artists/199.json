@@ -26,11 +26,6 @@
       }
     },
     {
-      "title": "Around You",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Around You (osu! edit)",
       "ranked_modes": [
         "mania"
@@ -40,11 +35,6 @@
           2350858
         ]
       }
-    },
-    {
-      "title": "Calling",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Calling (osu! edit)",
@@ -63,16 +53,6 @@
       }
     },
     {
-      "title": "Goodbye Goodnight (feat. shully)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Goodbye Goodnight (feat. shully) (osu! edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Invisible Scars (feat. mami)",
       "ranked_modes": [
         "fruits"
@@ -82,6 +62,83 @@
           2234483
         ]
       }
+    },
+    {
+      "title": "Signal (feat. Such)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1639202
+        ]
+      }
+    },
+    {
+      "title": "Signal (feat. Such) (osu! edit)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2324428
+        ]
+      }
+    },
+    {
+      "title": "The Way of Adventure (feat. Kusaka Akira)",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1586972
+        ],
+        "taiko": [
+          1367326
+        ]
+      }
+    },
+    {
+      "title": "White Canvas (feat. Aitsuki Nakuru) (osu! edit)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1881077,
+          2312897
+        ],
+        "taiko": [
+          2123554
+        ],
+        "osu": [
+          1599605
+        ]
+      }
+    },
+    {
+      "title": "Around You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Calling",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goodbye Goodnight (feat. shully)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goodbye Goodnight (feat. shully) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Invisible Scars (feat. mami) (osu! edit)",
@@ -134,39 +191,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Signal (feat. Such)",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1639202
-        ]
-      }
-    },
-    {
-      "title": "Signal (feat. Such) (osu! edit)",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2324428
-        ]
-      }
-    },
-    {
       "title": "Signal (feat. Such) - Mameyudoufu Remix",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Signal (feat. Such) - Mameyudoufu Remix (osu! edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Way of Adventure (feat. Kusaka Akira)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -181,26 +211,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "White Canvas (feat. Aitsuki Nakuru) (osu! edit)",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1881077,
-          2312897
-        ],
-        "taiko": [
-          2123554
-        ],
-        "osu": [
-          1599605
-        ]
-      }
-    },
-    {
       "title": "Zero Gravity",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -211,5 +221,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:56:29Z"
+  "updated_at": "2026-03-28T14:20:50Z"
 }

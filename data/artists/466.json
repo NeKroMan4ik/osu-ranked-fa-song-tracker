@@ -3,6 +3,40 @@
   "name": "ak+q",
   "tracks": [
     {
+      "title": "Excelsia",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          694200,
+          2347913
+        ]
+      }
+    },
+    {
+      "title": "ikasu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1137024
+        ]
+      }
+    },
+    {
+      "title": "Violet Fragmenta",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2429471
+        ]
+      }
+    },
+    {
       "title": "ak+q & Redeilia - Enigma Helix",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -28,32 +62,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Excelsia",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          694200,
-          2347913
-        ]
-      }
-    },
-    {
       "title": "horizon prime",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ikasu",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1137024
-        ]
-      }
     },
     {
       "title": "radiance of cathartika",
@@ -69,18 +80,7 @@
       "title": "subconsious-imaging",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Violet Fragmenta",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2429471
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:19:27Z"
+  "updated_at": "2026-03-28T12:03:33Z"
 }

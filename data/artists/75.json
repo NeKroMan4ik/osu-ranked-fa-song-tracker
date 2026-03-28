@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "Beethoven - Moonlight Sonata 3rd Movement (meganeko Remix) [2022 Ver.]",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cloudscape Architect",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Computer Blues",
       "ranked_modes": [
         "taiko"
@@ -33,11 +23,6 @@
           1147128
         ]
       }
-    },
-    {
-      "title": "Daydreamer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Delete",
@@ -54,11 +39,6 @@
           1143928
         ]
       }
-    },
-    {
-      "title": "Discovery",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Empyrean",
@@ -78,6 +58,56 @@
           1209749
         ]
       }
+    },
+    {
+      "title": "Nova",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1102115
+        ]
+      }
+    },
+    {
+      "title": "The Cyber Grind",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1895713
+        ],
+        "taiko": [
+          1703070
+        ],
+        "osu": [
+          1663147
+        ]
+      }
+    },
+    {
+      "title": "Beethoven - Moonlight Sonata 3rd Movement (meganeko Remix) [2022 Ver.]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cloudscape Architect",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daydreamer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Discovery",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Etude Op. 25, No. 12 (meganeko remix)",
@@ -150,17 +180,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nova",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1102115
-        ]
-      }
-    },
-    {
       "title": "Robot Language",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -201,29 +220,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Cyber Grind",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1895713
-        ],
-        "taiko": [
-          1703070
-        ],
-        "osu": [
-          1663147
-        ]
-      }
-    },
-    {
       "title": "Velocity",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:42:13Z"
+  "updated_at": "2026-03-28T13:48:52Z"
 }

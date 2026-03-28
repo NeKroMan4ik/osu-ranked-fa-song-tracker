@@ -3,21 +3,6 @@
   "name": "tsunamix",
   "tracks": [
     {
-      "title": "Boom Boom Satellite Cannon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "cardinal bud -NEW MIX-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dokkiidoki <3 Princess -NEW MIX-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Gensou wa Hakanaki Watashi no Tame ni -Shinroku-",
       "ranked_modes": [
         "osu"
@@ -27,11 +12,6 @@
           2130980
         ]
       }
-    },
-    {
-      "title": "Kaguya x ECSTASY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "new moon illusion",
@@ -61,16 +41,6 @@
       }
     },
     {
-      "title": "Period. ~ Zetsubou to Hametsu no Kyoukai de Chi Ru Kibou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Satori RHYTHM -Satorism-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "stella maris",
       "ranked_modes": [
         "osu"
@@ -80,7 +50,37 @@
           2120912
         ]
       }
+    },
+    {
+      "title": "Boom Boom Satellite Cannon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cardinal bud -NEW MIX-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dokkiidoki <3 Princess -NEW MIX-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kaguya x ECSTASY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Period. ~ Zetsubou to Hametsu no Kyoukai de Chi Ru Kibou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Satori RHYTHM -Satorism-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:30:27Z"
+  "updated_at": "2026-03-28T15:11:50Z"
 }

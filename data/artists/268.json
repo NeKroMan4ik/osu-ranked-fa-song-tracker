@@ -3,16 +3,6 @@
   "name": "69 de 74",
   "tracks": [
     {
-      "title": "69 de 74 a.k.a. Sheena Ed Crow - THE RAVAGE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aratanaru Ketsui",
       "ranked_modes": [
         "osu"
@@ -23,11 +13,6 @@
           1771017
         ]
       }
-    },
-    {
-      "title": "CHAOTIC DESTRUCTION",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DESPERATE DEATHPARADE",
@@ -48,11 +33,6 @@
           1818753
         ]
       }
-    },
-    {
-      "title": "Grievous Fate",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Holy Wind",
@@ -78,11 +58,6 @@
       }
     },
     {
-      "title": "LWVIIX",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Overdrive Power",
       "ranked_modes": [
         "mania"
@@ -103,7 +78,32 @@
           1447300
         ]
       }
+    },
+    {
+      "title": "69 de 74 a.k.a. Sheena Ed Crow - THE RAVAGE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "CHAOTIC DESTRUCTION",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Grievous Fate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "LWVIIX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:10:41Z"
+  "updated_at": "2026-03-28T11:57:10Z"
 }

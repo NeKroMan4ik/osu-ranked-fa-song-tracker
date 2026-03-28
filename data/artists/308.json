@@ -18,6 +18,17 @@
       }
     },
     {
+      "title": "Virgin Mary feat. Sennzai",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1830770
+        ]
+      }
+    },
+    {
       "title": "Kiss As A Vanity feat. Hatsuki Yura",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -31,18 +42,7 @@
       "title": "the Beautiful Cure (feat. nayuta)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Virgin Mary feat. Sennzai",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1830770
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T22:28:21Z"
+  "updated_at": "2026-03-28T15:09:08Z"
 }

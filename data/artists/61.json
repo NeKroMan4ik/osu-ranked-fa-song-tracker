@@ -3,6 +3,21 @@
   "name": "MDK",
   "tracks": [
     {
+      "title": "Fingerbang",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          559525
+        ],
+        "osu": [
+          559525
+        ]
+      }
+    },
+    {
       "title": "Baelfire",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -21,21 +36,6 @@
       "title": "Face Your Fears",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fingerbang",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          559525
-        ],
-        "fruits": [
-          559525
-        ]
-      }
     },
     {
       "title": "Firebird",
@@ -98,5 +98,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:20:53Z"
+  "updated_at": "2026-03-28T13:47:59Z"
 }

@@ -33,11 +33,6 @@
       }
     },
     {
-      "title": "Devour Me, Colossus (Part I)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Equus",
       "ranked_modes": [
         "osu"
@@ -125,11 +120,6 @@
       }
     },
     {
-      "title": "Misericorde II - Anatomy of Quiescence",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Of Petrichor Weaves Black Noise",
       "ranked_modes": [
         "osu",
@@ -156,11 +146,6 @@
       }
     },
     {
-      "title": "Painters of the Tempest (Part II)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Pyrrhic",
       "ranked_modes": [
         "osu"
@@ -170,6 +155,21 @@
           1646116
         ]
       }
+    },
+    {
+      "title": "Devour Me, Colossus (Part I)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Misericorde II - Anatomy of Quiescence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Painters of the Tempest (Part II)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Suspyre",
@@ -197,5 +197,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:51:19Z"
+  "updated_at": "2026-03-28T14:00:42Z"
 }

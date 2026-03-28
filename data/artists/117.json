@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "Eat The Bitch",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Japanese Mosh",
       "ranked_modes": [
         "taiko"
@@ -28,6 +23,11 @@
           2447420
         ]
       }
+    },
+    {
+      "title": "Eat The Bitch",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Leo",
@@ -60,5 +60,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:05:15Z"
+  "updated_at": "2026-03-28T13:12:38Z"
 }

@@ -3,16 +3,6 @@
   "name": "PUP",
   "tracks": [
     {
-      "title": "Bare Hands",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Can't Win",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Closure",
       "ranked_modes": [
         "osu"
@@ -33,11 +23,6 @@
           1158124
         ]
       }
-    },
-    {
-      "title": "Doubts",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DVP",
@@ -91,11 +76,6 @@
       }
     },
     {
-      "title": "Guilt Trip",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kids",
       "ranked_modes": [
         "osu"
@@ -118,18 +98,14 @@
       }
     },
     {
-      "title": "Morbid Stuff",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "My Life Is Over And I Couldn't Be Happier",
       "ranked_modes": [
         "osu"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          1177043
+          1177043,
+          1939718
         ]
       }
     },
@@ -145,11 +121,6 @@
       }
     },
     {
-      "title": "Reservoir",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Scorpion Hill",
       "ranked_modes": [
         "osu"
@@ -162,16 +133,6 @@
       }
     },
     {
-      "title": "See You At Your Funeral",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sibling Rivalry",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sleep In The Heat",
       "ranked_modes": [
         "osu"
@@ -181,7 +142,47 @@
           1141879
         ]
       }
+    },
+    {
+      "title": "Bare Hands",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Can't Win",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Doubts",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Guilt Trip",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morbid Stuff",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reservoir",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "See You At Your Funeral",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sibling Rivalry",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:44:31Z"
+  "updated_at": "2026-03-28T14:17:17Z"
 }

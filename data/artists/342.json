@@ -3,16 +3,6 @@
   "name": "yaseta",
   "tracks": [
     {
-      "title": "Aiming!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Arty Party",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Bluenation",
       "ranked_modes": [
         "osu",
@@ -43,16 +33,6 @@
       }
     },
     {
-      "title": "Duckgroove",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Future Light",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Labyrinth",
       "ranked_modes": [
         "mania"
@@ -75,6 +55,26 @@
       }
     },
     {
+      "title": "Aiming!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Arty Party",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Duckgroove",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Future Light",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Soleily & yaseta - HEART WAVE",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -85,5 +85,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:45:12Z"
+  "updated_at": "2026-03-28T15:29:47Z"
 }

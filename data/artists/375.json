@@ -3,11 +3,6 @@
   "name": "Kardashev",
   "tracks": [
     {
-      "title": "Apparitions in Candlelight",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Apparitions in Candlelight / Dissever",
       "ranked_modes": [
         "osu"
@@ -21,11 +16,15 @@
     {
       "title": "Behind Leaves And Vines",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "taiko": [
           1832856
+        ],
+        "osu": [
+          2303700
         ]
       }
     },
@@ -69,11 +68,6 @@
       }
     },
     {
-      "title": "Compost Grave-Song",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Glass Phantoms",
       "ranked_modes": [
         "osu"
@@ -84,6 +78,16 @@
           2052686
         ]
       }
+    },
+    {
+      "title": "Apparitions in Candlelight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Compost Grave-Song",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lavender Calligraphy",
@@ -121,5 +125,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:13:27Z"
+  "updated_at": "2026-03-28T13:22:44Z"
 }

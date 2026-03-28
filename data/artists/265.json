@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "Ache",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Avi Avidan's Speech",
       "ranked_modes": [
         "taiko"
@@ -28,6 +23,92 @@
           1431573
         ]
       }
+    },
+    {
+      "title": "Greyscale Rose -possible Lettuce-",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1769222
+        ]
+      }
+    },
+    {
+      "title": "multiband depression",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1936860
+        ]
+      }
+    },
+    {
+      "title": "numbers (on ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2418465
+        ]
+      }
+    },
+    {
+      "title": "Projector",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1814145
+        ]
+      }
+    },
+    {
+      "title": "reDiSConnect",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1669641
+        ]
+      }
+    },
+    {
+      "title": "skeleton (Lettuce ver.)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1935287
+        ],
+        "taiko": [
+          1709635
+        ]
+      }
+    },
+    {
+      "title": "What The Otters Will Never Know",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1771059
+        ]
+      }
+    },
+    {
+      "title": "Ache",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chinless behavior",
@@ -60,17 +141,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Greyscale Rose -possible Lettuce-",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1769222
-        ]
-      }
-    },
-    {
       "title": "Halftone Pattern",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -89,28 +159,6 @@
       "title": "lights off",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "multiband depression",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1936860
-        ]
-      }
-    },
-    {
-      "title": "numbers (on ver.)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2418465
-        ]
-      }
     },
     {
       "title": "OK fine",
@@ -138,31 +186,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Projector",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1814145
-        ]
-      }
-    },
-    {
       "title": "Realization of lame",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "reDiSConnect",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1669641
-        ]
-      }
     },
     {
       "title": "Shadow Newspaper Technique",
@@ -170,35 +196,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "skeleton (Lettuce ver.)",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1935287
-        ],
-        "taiko": [
-          1709635
-        ]
-      }
-    },
-    {
       "title": "The Barometz",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "What The Otters Will Never Know",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1771059
-        ]
-      }
     },
     {
       "title": "Wretch",
@@ -211,5 +211,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:26:38Z"
+  "updated_at": "2026-03-28T15:06:10Z"
 }

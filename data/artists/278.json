@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "Haiya",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "High-Low Menou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ironina",
       "ranked_modes": [
         "osu"
@@ -46,6 +36,16 @@
       }
     },
     {
+      "title": "Haiya",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "High-Low Menou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Unniv.",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -56,5 +56,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:41:50Z"
+  "updated_at": "2026-03-28T14:02:21Z"
 }

@@ -3,11 +3,6 @@
   "name": "Rusty K",
   "tracks": [
     {
-      "title": "AC-130",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "All That We Lost",
       "ranked_modes": [
         "osu"
@@ -34,19 +29,15 @@
       }
     },
     {
-      "title": "End War",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Frozen Heart",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Last of Us",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          669153
+        ]
+      }
     },
     {
       "title": "Limitless",
@@ -58,6 +49,21 @@
           1201877
         ]
       }
+    },
+    {
+      "title": "AC-130",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "End War",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Frozen Heart",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Orphan",
@@ -95,5 +101,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:51:42Z"
+  "updated_at": "2026-03-28T14:35:54Z"
 }

@@ -3,16 +3,6 @@
   "name": "Camellia",
   "tracks": [
     {
-      "title": "#include",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "(The) Immortal Scream",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "(The) Red * Room",
       "ranked_modes": [
         "mania"
@@ -22,11 +12,6 @@
           1715552
         ]
       }
-    },
-    {
-      "title": "(This track is)NOT EPIC",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "+ERABY+E CONNEC+10N",
@@ -44,22 +29,16 @@
       }
     },
     {
-      "title": "///Under Construxion///",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "/dev/null",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "1nput This 2 Y0ur Spine",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2278241
+        ],
         "mania": [
           2011220,
           2184241
@@ -68,11 +47,6 @@
           1266639
         ]
       }
-    },
-    {
-      "title": "[ BLEED BLOOD ]",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "[diffraction]",
@@ -89,11 +63,6 @@
           1039179
         ]
       }
-    },
-    {
-      "title": "[e-]",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "[ns]",
@@ -120,11 +89,6 @@
           1235533
         ]
       }
-    },
-    {
-      "title": "amorphous",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ANOMALY (Camellia's \"MUTATION\" Schranz Remix)",
@@ -228,11 +192,6 @@
       }
     },
     {
-      "title": "Backbeat Maniac",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BAD ACCESS (FROM A MOE MAID)",
       "ranked_modes": [
         "mania",
@@ -246,21 +205,6 @@
           1483944
         ]
       }
-    },
-    {
-      "title": "Bass Bomb",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Bass In Da House",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Bermuda Triangle (feat. The8BitDrummer)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beyond the Geostationary Orbit Level",
@@ -282,11 +226,6 @@
       }
     },
     {
-      "title": "BLACK JACK",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Blackmagik Blazing",
       "ranked_modes": [
         "mania",
@@ -302,26 +241,6 @@
           1863494
         ]
       }
-    },
-    {
-      "title": "Blast your headz with the railgun",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Blast your headz with the railgun (BassHouse VIP)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Bloody Kiss",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BLOWN WITH THE GLARE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Body F10ating in the Zero Gravity Space",
@@ -368,191 +287,6 @@
           1032778
         ]
       }
-    },
-    {
-      "title": "bug collection",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia & DJ Genki - Feelin Sky",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Camellia - AREA 52",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Animal Land",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Bassline Yatteru? w",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Bikkurisasetara Okoru yo!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Energy * Drin-ko * Fein-chan! (Camellia's \"MONSTERISTIC\" D. M. P. Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Energy * Drin-ko Fein-chan!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Force!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Hakuraku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Hea~rt Bea~t O~ver~Hea~~~~t!!!!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Honey Trap",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - IoT (Internet of Things) no Megami * Mononon *",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Kansoku Eisei",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Kizuitara Shunkashuutou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Looking For A New Adventure",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Meira~ Daemon * Damon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - NEKO * CHEF",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catch Ball Taiketsu",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Petals",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Pink Panik!!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Replay!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Saikyou Mushiba Koujishi Kussaku Chu",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Sekai Seifuku! Choukou Juutsu Ryoku Denpasou Shinkichi Kyoku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - senpai, notice me!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Shakunetsu Candle Master Tomoshii",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Sleep!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Ta-Ti-Tu-Teatime!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Tetsudou Meikyuu (TRAIN LABYRINTH) ~Nekudase, Chou Shukueki ~",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Touryouka",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Tsukitourou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Usakick!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Versus!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Yukacco - Be Wild",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia, Tsuko feat. Nanahira - Present",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia, Tsuko feat. Nanahira - Touhiron",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CICADA3302",
@@ -620,11 +354,17 @@
     {
       "title": "Controlled Dive",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
         "fruits": [
           2361960
+        ],
+        "osu": [
+          320058,
+          2487321,
+          2514378
         ]
       }
     },
@@ -650,11 +390,6 @@
       }
     },
     {
-      "title": "D0 U K|/|0VV D0|/|K3\\ K0|/|6?",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "d:for the DELTA",
       "ranked_modes": [
         "fruits",
@@ -663,16 +398,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          373240,
-          396370,
-          709946,
-          2477885
-        ],
         "taiko": [
           2477885
         ],
         "mania": [
+          2477885
+        ],
+        "osu": [
+          373240,
+          396370,
+          709946,
           2477885
         ],
         "fruits": [
@@ -705,11 +440,6 @@
           868513
         ]
       }
-    },
-    {
-      "title": "Dance on the Mars",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dance with Silence",
@@ -776,31 +506,6 @@
       }
     },
     {
-      "title": "Darkness Overload",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Distorted Space",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Do The Big Kick",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Doven",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "dream transfer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "dreamless wanderer",
       "ranked_modes": [
         "fruits",
@@ -855,11 +560,6 @@
           1055424
         ]
       }
-    },
-    {
-      "title": "End of this nightmare",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ethnik Khemikal Teknologi",
@@ -982,16 +682,6 @@
           1317690
         ]
       }
-    },
-    {
-      "title": "feel my conscious",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Feelin Sky (Camellia's 200step Self-remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FINAL BLENDERMAN APPEARED. (feat. RichaadEB)",
@@ -1233,26 +923,6 @@
       }
     },
     {
-      "title": "HELIXFOSSIL",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hello (BPM) 2021",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hello to the your first video game",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hi-beam",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "HINODE (Basscore VIP)",
       "ranked_modes": [
         "fruits"
@@ -1262,11 +932,6 @@
           1463090
         ]
       }
-    },
-    {
-      "title": "I think, it's kind of like the Some Squad",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ill intelligence",
@@ -1282,8 +947,14 @@
     },
     {
       "title": "illegal trap",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2231151
+        ]
+      }
     },
     {
       "title": "In Black & White",
@@ -1301,19 +972,15 @@
       }
     },
     {
-      "title": "INSANE INFLAME",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "into the lava",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "introduction - ENTRANS OF DA JUNGLE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          700968
+        ]
+      }
     },
     {
       "title": "introduction - INSANE INFLAME",
@@ -1325,46 +992,6 @@
           1081920
         ]
       }
-    },
-    {
-      "title": "Introduction - PLANET//SHAPER",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Introduction - Relic In Letters",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "introduction - SCRAMBLE SUMMARY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ironmouse & Camellia - Waifu Jam",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ironmouse & Camellia - Waifu Jam (osu! edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ironmouse & Camellia - Waifu Jam (Short ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "JDM (Jungle Dance Music)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "K.Y.A.F.A. (Kill You All Fucking Asshole)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kamah (Scythe)",
@@ -1380,21 +1007,6 @@
           1314013
         ]
       }
-    },
-    {
-      "title": "KASAI HARCORES - CYCLE HIT",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "KASAI HARCORES - Moeagare! HARCORES",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "KASAI HARCORES - TRIPLE PLAY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Key of timepieces",
@@ -1488,11 +1100,6 @@
       }
     },
     {
-      "title": "Kokoro no Shitsuryou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Labyrinth in Kowloon: Walled World",
       "ranked_modes": [
         "mania"
@@ -1542,6 +1149,8 @@
     {
       "title": "Light it up",
       "ranked_modes": [
+        "fruits",
+        "mania",
         "osu",
         "taiko"
       ],
@@ -1549,19 +1158,24 @@
         "osu": [
           514601,
           650738,
+          983900,
           1165549
         ],
         "taiko": [
           670905,
           735526,
           1015345
+        ],
+        "fruits": [
+          983900,
+          1160976
+        ],
+        "mania": [
+          455164,
+          1717042,
+          2076124
         ]
       }
-    },
-    {
-      "title": "liquated",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Looking for Edge of Ground",
@@ -1653,16 +1267,6 @@
       }
     },
     {
-      "title": "memoryleak",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Mithril",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mystery Circles Ultra / U.U.F.O.",
       "ranked_modes": [
         "mania"
@@ -1690,11 +1294,6 @@
       }
     },
     {
-      "title": "Nasty * Nasty * Spell",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "NEURO-CLOUD-9",
       "ranked_modes": [
         "mania"
@@ -1705,11 +1304,6 @@
           2420930
         ]
       }
-    },
-    {
-      "title": "New Era",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Newspapers for Magicians",
@@ -1737,11 +1331,6 @@
       }
     },
     {
-      "title": "Night Raid with a Dragon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "NIGHTMARE CITY",
       "ranked_modes": [
         "fruits",
@@ -1757,16 +1346,6 @@
       }
     },
     {
-      "title": "No kidding?",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Nuclear drive",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "NUCLEAR-STAR",
       "ranked_modes": [
         "mania",
@@ -1780,11 +1359,6 @@
           968297
         ]
       }
-    },
-    {
-      "title": "ONE BITE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "OOPARTS",
@@ -1830,21 +1404,6 @@
       }
     },
     {
-      "title": "Orbital Strike",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "overkill (Schranz VIP)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Paleolithic Period Wobble Bass",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Parallel Universe Shifter",
       "ranked_modes": [
         "fruits",
@@ -1884,16 +1443,6 @@
       }
     },
     {
-      "title": "Peaceful invading",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Phatty Influencers",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PLANET//SHAPER",
       "ranked_modes": [
         "mania",
@@ -1912,11 +1461,6 @@
           346853
         ]
       }
-    },
-    {
-      "title": "Poison Mushroom",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57)",
@@ -2057,11 +1601,6 @@
       }
     },
     {
-      "title": "R.A.D.I.U.S. (Techdance VIP)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Racemization",
       "ranked_modes": [
         "fruits",
@@ -2082,26 +1621,6 @@
           1389904
         ]
       }
-    },
-    {
-      "title": "Rain of Amethyst",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "reach the deepest one",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ring",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "rohga",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ryuuseigun",
@@ -2139,16 +1658,6 @@
       }
     },
     {
-      "title": "SAMPLING REVOLVER",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "SECRET BOSS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "shadows of cats",
       "ranked_modes": [
         "mania"
@@ -2160,11 +1669,6 @@
           2435368
         ]
       }
-    },
-    {
-      "title": "SLIME INCIDENT",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stealth-Dash",
@@ -2194,16 +1698,6 @@
           1679792
         ]
       }
-    },
-    {
-      "title": "STEELFUCK (Dubstep VIP)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "sudden shower",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sulfide",
@@ -2280,11 +1774,6 @@
       }
     },
     {
-      "title": "The Night Is On Fire",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "This Future (we didn't expect)",
       "ranked_modes": [
         "mania",
@@ -2300,16 +1789,6 @@
           1374914
         ]
       }
-    },
-    {
-      "title": "This is Rock n Roll maybe",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "toby fox - Spider Dance (Camellia Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Together forever, my lovely lovely video game cartridges",
@@ -2347,21 +1826,6 @@
       }
     },
     {
-      "title": "Treaty of Peace between GlitchHop and Moombahcore",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Turning up!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "TYPHOON 8",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Upload Your Mind :: Download My Soul",
       "ranked_modes": [
         "mania"
@@ -2371,11 +1835,6 @@
           2051840
         ]
       }
-    },
-    {
-      "title": "WE ARE *NOT* CURZED",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "We Could Get More Machinegun Psystyle! (And More Genre Switches)",
@@ -2438,11 +1897,6 @@
       }
     },
     {
-      "title": "welcome to wobbling field",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "WHAT THE CAT!?",
       "ranked_modes": [
         "mania"
@@ -2469,16 +1923,6 @@
       }
     },
     {
-      "title": "WYSI (When You See It)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "yesterday",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Zhuzhzhalka76",
       "ranked_modes": [
         "mania"
@@ -2499,7 +1943,597 @@
           1518740
         ]
       }
+    },
+    {
+      "title": "#include",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "(The) Immortal Scream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "(This track is)NOT EPIC",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "///Under Construxion///",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "/dev/null",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "[ BLEED BLOOD ]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "[e-]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "amorphous",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Backbeat Maniac",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bass Bomb",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bass In Da House",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bermuda Triangle (feat. The8BitDrummer)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BLACK JACK",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blast your headz with the railgun",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blast your headz with the railgun (BassHouse VIP)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bloody Kiss",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BLOWN WITH THE GLARE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "bug collection",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia & DJ Genki - Feelin Sky",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Camellia - AREA 52",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Animal Land",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Bassline Yatteru? w",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Bikkurisasetara Okoru yo!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Energy * Drin-ko * Fein-chan! (Camellia's \"MONSTERISTIC\" D. M. P. Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Energy * Drin-ko Fein-chan!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Force!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Hakuraku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Hea~rt Bea~t O~ver~Hea~~~~t!!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Honey Trap",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - IoT (Internet of Things) no Megami * Mononon *",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Kansoku Eisei",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Kizuitara Shunkashuutou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Looking For A New Adventure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Meira~ Daemon * Damon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - NEKO * CHEF",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catch Ball Taiketsu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Petals",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Pink Panik!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Replay!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Saikyou Mushiba Koujishi Kussaku Chu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Sekai Seifuku! Choukou Juutsu Ryoku Denpasou Shinkichi Kyoku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - senpai, notice me!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Shakunetsu Candle Master Tomoshii",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Sleep!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Ta-Ti-Tu-Teatime!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Tetsudou Meikyuu (TRAIN LABYRINTH) ~Nekudase, Chou Shukueki ~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Touryouka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Tsukitourou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Usakick!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - Versus!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia feat. Yukacco - Be Wild",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia, Tsuko feat. Nanahira - Present",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Camellia, Tsuko feat. Nanahira - Touhiron",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "D0 U K|/|0VV D0|/|K3\\ K0|/|6?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dance on the Mars",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Darkness Overload",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Distorted Space",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Do The Big Kick",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Doven",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "dream transfer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "End of this nightmare",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "feel my conscious",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Feelin Sky (Camellia's 200step Self-remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HELIXFOSSIL",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hello (BPM) 2021",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hello to the your first video game",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hi-beam",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I think, it's kind of like the Some Squad",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "INSANE INFLAME",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "into the lava",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Introduction - PLANET//SHAPER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Introduction - Relic In Letters",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "introduction - SCRAMBLE SUMMARY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ironmouse & Camellia - Waifu Jam",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ironmouse & Camellia - Waifu Jam (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ironmouse & Camellia - Waifu Jam (Short ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "JDM (Jungle Dance Music)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "K.Y.A.F.A. (Kill You All Fucking Asshole)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KASAI HARCORES - CYCLE HIT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KASAI HARCORES - Moeagare! HARCORES",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KASAI HARCORES - TRIPLE PLAY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kokoro no Shitsuryou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "liquated",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "memoryleak",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mithril",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nasty * Nasty * Spell",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "New Era",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Night Raid with a Dragon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "No kidding?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nuclear drive",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ONE BITE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Orbital Strike",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "overkill (Schranz VIP)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Paleolithic Period Wobble Bass",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Peaceful invading",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Phatty Influencers",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Poison Mushroom",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "R.A.D.I.U.S. (Techdance VIP)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rain of Amethyst",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "reach the deepest one",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ring",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "rohga",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SAMPLING REVOLVER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SECRET BOSS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SLIME INCIDENT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "STEELFUCK (Dubstep VIP)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sudden shower",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Night Is On Fire",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "This is Rock n Roll maybe",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "toby fox - Spider Dance (Camellia Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Treaty of Peace between GlitchHop and Moombahcore",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Turning up!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TYPHOON 8",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "WE ARE *NOT* CURZED",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "welcome to wobbling field",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "WYSI (When You See It)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "yesterday",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T12:11:25Z"
+  "updated_at": "2026-03-28T12:31:34Z"
 }

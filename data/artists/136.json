@@ -18,16 +18,6 @@
       }
     },
     {
-      "title": "busy come, busy go (instrumental version)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Frostbite",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lost in the maze",
       "ranked_modes": [
         "taiko"
@@ -37,6 +27,16 @@
           1594818
         ]
       }
+    },
+    {
+      "title": "busy come, busy go (instrumental version)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Frostbite",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LOUDER THAN EPIC",
@@ -64,5 +64,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:29:04Z"
+  "updated_at": "2026-03-28T13:47:09Z"
 }

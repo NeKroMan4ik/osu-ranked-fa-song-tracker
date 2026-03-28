@@ -3,6 +3,17 @@
   "name": "MIDInco",
   "tracks": [
     {
+      "title": "Shatter",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401660
+        ]
+      }
+    },
+    {
       "title": "Awe",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -18,21 +29,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shatter",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2401660
-        ]
-      }
-    },
-    {
       "title": "Starlight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:30:55Z"
+  "updated_at": "2026-03-28T13:49:55Z"
 }

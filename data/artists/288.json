@@ -3,21 +3,6 @@
   "name": "ZxNX",
   "tracks": [
     {
-      "title": "Altair",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Barzakh",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DarTokki & ZxNX - Pillow Fight",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fana",
       "ranked_modes": [
         "mania"
@@ -42,6 +27,47 @@
           1737101
         ]
       }
+    },
+    {
+      "title": "Onyx",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1823819
+        ]
+      }
+    },
+    {
+      "title": "Schadenfreude",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1791462
+        ],
+        "fruits": [
+          1698949
+        ]
+      }
+    },
+    {
+      "title": "Altair",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Barzakh",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DarTokki & ZxNX - Pillow Fight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IN(EX+)HALE",
@@ -79,35 +105,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Onyx",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1823819
-        ]
-      }
-    },
-    {
       "title": "Quetzalcoatl",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Schadenfreude",
-      "ranked_modes": [
-        "fruits",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1791462
-        ],
-        "fruits": [
-          1698949
-        ]
-      }
     },
     {
       "title": "Sirius",
@@ -165,5 +165,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:50:25Z"
+  "updated_at": "2026-03-28T15:35:58Z"
 }

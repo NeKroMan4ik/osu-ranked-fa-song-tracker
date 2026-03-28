@@ -3,26 +3,6 @@
   "name": "YUC'e",
   "tracks": [
     {
-      "title": "Aiobahn - Shinen no Mermaid (w/ YUC'e)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aiobahn - Towa no Utage (w/ YUC'e)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cappuccino -DJ Noriken Remix-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cappuchino",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cinderella Syndrome",
       "ranked_modes": [
         "fruits",
@@ -51,16 +31,6 @@
           908439
         ]
       }
-    },
-    {
-      "title": "Cotton Candy Parade",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Future Cake",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Future Candy",
@@ -134,11 +104,6 @@
       }
     },
     {
-      "title": "Night Club Junkie",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "POISON",
       "ranked_modes": [
         "taiko"
@@ -172,16 +137,6 @@
       }
     },
     {
-      "title": "Purple Planet",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Secret Eve",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sengoku HOP",
       "ranked_modes": [
         "mania",
@@ -195,11 +150,6 @@
           564329
         ]
       }
-    },
-    {
-      "title": "SOS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPACE INVADER",
@@ -251,11 +201,6 @@
       }
     },
     {
-      "title": "Summer Night Hiking",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sunset Tea Cup",
       "ranked_modes": [
         "fruits",
@@ -271,10 +216,65 @@
       }
     },
     {
+      "title": "Aiobahn - Shinen no Mermaid (w/ YUC'e)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aiobahn - Towa no Utage (w/ YUC'e)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cappuccino -DJ Noriken Remix-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cappuchino",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cotton Candy Parade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Future Cake",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Night Club Junkie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Purple Planet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Secret Eve",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SOS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Summer Night Hiking",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Tick Tock",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:47:25Z"
+  "updated_at": "2026-03-28T15:31:44Z"
 }

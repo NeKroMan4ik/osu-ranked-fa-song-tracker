@@ -3,6 +3,28 @@
   "name": "kaitendaentai",
   "tracks": [
     {
+      "title": "Hubris",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2399327
+        ]
+      }
+    },
+    {
+      "title": "Toki no Ryousen (Supire Remix)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1701020
+        ]
+      }
+    },
+    {
       "title": "Aether",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -16,17 +38,6 @@
       "title": "Hizai ni Negu",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hubris",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2399327
-        ]
-      }
     },
     {
       "title": "Maldoror",
@@ -52,18 +63,7 @@
       "title": "Toki no Ryousen",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Toki no Ryousen (Supire Remix)",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1701020
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:11:55Z"
+  "updated_at": "2026-03-28T13:21:26Z"
 }

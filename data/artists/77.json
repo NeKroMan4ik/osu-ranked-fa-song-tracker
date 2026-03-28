@@ -75,11 +75,6 @@
       }
     },
     {
-      "title": "Le Rouge",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Marshmary",
       "ranked_modes": [
         "mania",
@@ -187,11 +182,6 @@
       }
     },
     {
-      "title": "Soshite Yoruto Tomoru",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Toumeika",
       "ranked_modes": [
         "mania",
@@ -224,7 +214,17 @@
           1467651
         ]
       }
+    },
+    {
+      "title": "Le Rouge",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Soshite Yoruto Tomoru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:43:44Z"
+  "updated_at": "2026-03-28T13:50:58Z"
 }

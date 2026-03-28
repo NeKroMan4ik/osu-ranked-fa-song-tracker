@@ -3,11 +3,6 @@
   "name": "Etherwood",
   "tracks": [
     {
-      "title": "Begin By Letting Go",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cast Away",
       "ranked_modes": [
         "osu"
@@ -17,11 +12,6 @@
           368466
         ]
       }
-    },
-    {
-      "title": "Clouds (feat. Phoebe Freya)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fall Awake",
@@ -35,10 +25,20 @@
       }
     },
     {
+      "title": "Begin By Letting Go",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Clouds (feat. Phoebe Freya)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Fire Lit Sky",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:50:41Z"
+  "updated_at": "2026-03-28T12:52:56Z"
 }

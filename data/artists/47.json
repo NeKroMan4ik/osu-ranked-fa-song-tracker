@@ -3,11 +3,6 @@
   "name": "Æther Realm",
   "tracks": [
     {
-      "title": "Aether Realm",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Craft and the Creator",
       "ranked_modes": [
         "osu",
@@ -25,21 +20,6 @@
       }
     },
     {
-      "title": "Cycle",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Death",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Goodbye",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Guardian",
       "ranked_modes": [
         "osu",
@@ -55,11 +35,6 @@
       }
     },
     {
-      "title": "Hourglass",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hunger",
       "ranked_modes": [
         "taiko"
@@ -69,16 +44,6 @@
           1418349
         ]
       }
-    },
-    {
-      "title": "Journey of Discovery",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "King of Cups",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lean Into the Wind",
@@ -109,11 +74,6 @@
           1677257
         ]
       }
-    },
-    {
-      "title": "Odin Will Provide",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "One Chosen by the Gods",
@@ -176,16 +136,6 @@
       }
     },
     {
-      "title": "Slave to the Riff",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Strength",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Swampwitch",
       "ranked_modes": [
         "osu"
@@ -210,16 +160,6 @@
           1030740
         ]
       }
-    },
-    {
-      "title": "Temperance",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Chariot",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Devil",
@@ -305,11 +245,6 @@
       }
     },
     {
-      "title": "TMHC",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Winter's Grasp",
       "ranked_modes": [
         "taiko"
@@ -319,7 +254,72 @@
           1411674
         ]
       }
+    },
+    {
+      "title": "Aether Realm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cycle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Death",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goodbye",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hourglass",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Journey of Discovery",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "King of Cups",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Odin Will Provide",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Slave to the Riff",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Strength",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Temperance",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Chariot",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TMHC",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:04:53Z"
+  "updated_at": "2026-03-28T15:36:42Z"
 }

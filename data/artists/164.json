@@ -3,11 +3,6 @@
   "name": "Agressor Bunx",
   "tracks": [
     {
-      "title": "Acid Mirage",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Acid Mirage (Cut Ver.)",
       "ranked_modes": [
         "taiko"
@@ -17,6 +12,22 @@
           2125034
         ]
       }
+    },
+    {
+      "title": "Tornado (Cut Ver.)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2122284
+        ]
+      }
+    },
+    {
+      "title": "Acid Mirage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Free Machine",
@@ -72,18 +83,7 @@
       "title": "Tornado",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tornado (Cut Ver.)",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2122284
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:17:41Z"
+  "updated_at": "2026-03-28T12:02:01Z"
 }

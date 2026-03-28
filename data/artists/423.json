@@ -3,16 +3,6 @@
   "name": "xiiiac13",
   "tracks": [
     {
-      "title": "birthday party melancholy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "closer to you (than ever before)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "got a compliment today",
       "ranked_modes": [
         "osu"
@@ -24,16 +14,6 @@
       }
     },
     {
-      "title": "in eternal bliss may rest my unspoken words",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "me when the and the",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "pov: it's 2016 and you're watching the intro of a travel vlog",
       "ranked_modes": [
         "osu"
@@ -43,6 +23,41 @@
           2400214
         ]
       }
+    },
+    {
+      "title": "who let him cook",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2169368
+        ],
+        "osu": [
+          2169368
+        ]
+      }
+    },
+    {
+      "title": "birthday party melancholy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "closer to you (than ever before)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "in eternal bliss may rest my unspoken words",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "me when the and the",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "stepping on your cat's tail be like",
@@ -68,22 +83,7 @@
       "title": "what if we held hands at mcdonald's",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "who let him cook",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2169368
-        ],
-        "taiko": [
-          2169368
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T22:44:42Z"
+  "updated_at": "2026-03-28T15:29:21Z"
 }

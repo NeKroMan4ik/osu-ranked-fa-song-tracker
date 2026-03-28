@@ -3,26 +3,6 @@
   "name": "Kry.exe",
   "tracks": [
     {
-      "title": "GEOLOGICAL//IRRESOLUTION",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hibike! (Extended Version)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "IMPERIA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kry.exe feat. Ice - Last Wish",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Moondread",
       "ranked_modes": [
         "mania"
@@ -32,21 +12,6 @@
           2291491
         ]
       }
-    },
-    {
-      "title": "MUZAN",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "NEKOMATA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "nm-y vs. Kry.exe - Kaiju",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rift Walker",
@@ -75,10 +40,45 @@
       }
     },
     {
+      "title": "GEOLOGICAL//IRRESOLUTION",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hibike! (Extended Version)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "IMPERIA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kry.exe feat. Ice - Last Wish",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MUZAN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NEKOMATA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "nm-y vs. Kry.exe - Kaiju",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "SIGMA",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:18:29Z"
+  "updated_at": "2026-03-28T13:30:33Z"
 }

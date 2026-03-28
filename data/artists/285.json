@@ -3,6 +3,17 @@
   "name": "Exyl",
   "tracks": [
     {
+      "title": "Ping! 2",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1688877
+        ]
+      }
+    },
+    {
       "title": "A Rare Call in Winter",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -33,21 +44,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ping! 2",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1688877
-        ]
-      }
-    },
-    {
       "title": "Terraria",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:51:24Z"
+  "updated_at": "2026-03-28T12:53:33Z"
 }

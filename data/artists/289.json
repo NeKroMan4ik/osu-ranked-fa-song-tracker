@@ -14,21 +14,6 @@
       }
     },
     {
-      "title": "Cattleya",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hajimari no Asa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Innocent Letter",
       "ranked_modes": [
         "fruits",
@@ -42,16 +27,6 @@
           2079089
         ]
       }
-    },
-    {
-      "title": "Kaori no Yakuri Switch!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kimiiro Palette",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koi no Dilemma",
@@ -71,33 +46,13 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "fruits": [
           1799400
         ],
-        "fruits": [
+        "osu": [
           1799400
         ]
       }
-    },
-    {
-      "title": "Lupinus",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Many Rainy Days",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Nemurenu Ukiyo No Tsukiakari",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Nidone Holiday",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Secret Clover",
@@ -126,11 +81,6 @@
       }
     },
     {
-      "title": "Tantan Awa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yumemigokochi",
       "ranked_modes": [
         "mania",
@@ -148,7 +98,57 @@
           1826998
         ]
       }
+    },
+    {
+      "title": "Cattleya",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hajimari no Asa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kaori no Yakuri Switch!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimiiro Palette",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lupinus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Many Rainy Days",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nemurenu Ukiyo No Tsukiakari",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nidone Holiday",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tantan Awa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:00:23Z"
+  "updated_at": "2026-03-28T13:04:28Z"
 }

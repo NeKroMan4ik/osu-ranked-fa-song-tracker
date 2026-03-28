@@ -3,11 +3,6 @@
   "name": "kanone",
   "tracks": [
     {
-      "title": "Atlantis Hawk",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Blue Dragoon",
       "ranked_modes": [
         "osu"
@@ -38,6 +33,44 @@
       }
     },
     {
+      "title": "Ground Z.E.R.O.",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1281379
+        ]
+      }
+    },
+    {
+      "title": "Infinite Galaxy",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1338901
+        ]
+      }
+    },
+    {
+      "title": "The Sea of Memory",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2397821
+        ]
+      }
+    },
+    {
+      "title": "Atlantis Hawk",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Cross Galaxy",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -53,47 +86,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ground Z.E.R.O.",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1281379
-        ]
-      }
-    },
-    {
       "title": "Here we GO!!!",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Infinite Galaxy",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1338901
-        ]
-      }
-    },
-    {
       "title": "MASAMUNE",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Sea of Memory",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2397821
-        ]
-      }
     },
     {
       "title": "Twilight Galaxy",
@@ -106,5 +106,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:12:49Z"
+  "updated_at": "2026-03-28T13:22:14Z"
 }

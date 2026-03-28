@@ -3,51 +3,6 @@
   "name": "AAAA",
   "tracks": [
     {
-      "title": "8bit Shooting Star*",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "aa...hisuichazuke... - steganography",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (Long ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA + Hino Isuka - Keep smiling.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA + Umeboshi Chazuke - Cait Sith",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA Chazuke - Myosotis no Hanataba",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA Chazuke - Sayonara Cosmonaut [Long ver.]",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA vs. Frums - beepbit * futures",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Bokutachi no Tabi to Epilogue.[Long ver.]",
       "ranked_modes": [
         "fruits",
@@ -141,11 +96,6 @@
       }
     },
     {
-      "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hoshizora no Kanransha",
       "ranked_modes": [
         "osu",
@@ -159,11 +109,6 @@
           2008874
         ]
       }
-    },
-    {
-      "title": "Lobelia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "parallel skydive",
@@ -213,7 +158,62 @@
           1371217
         ]
       }
+    },
+    {
+      "title": "8bit Shooting Star*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "aa...hisuichazuke... - steganography",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (Long ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + Hino Isuka - Keep smiling.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + Umeboshi Chazuke - Cait Sith",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA Chazuke - Myosotis no Hanataba",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA Chazuke - Sayonara Cosmonaut [Long ver.]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA vs. Frums - beepbit * futures",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lobelia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:14:13Z"
+  "updated_at": "2026-03-28T11:59:20Z"
 }

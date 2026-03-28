@@ -3,11 +3,6 @@
   "name": "Reku Mochizuki",
   "tracks": [
     {
-      "title": "7colors memories feat. Seyaka",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Be Right There",
       "ranked_modes": [
         "mania"
@@ -74,6 +69,45 @@
       }
     },
     {
+      "title": "VEZZELiX",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1871929
+        ],
+        "mania": [
+          1778816
+        ],
+        "taiko": [
+          1406171
+        ]
+      }
+    },
+    {
+      "title": "Yorixiro",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1438879
+        ],
+        "taiko": [
+          1397782
+        ]
+      }
+    },
+    {
+      "title": "7colors memories feat. Seyaka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Perfect ConfeCute",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -107,41 +141,7 @@
       "title": "Unlimited Katharsis",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "VEZZELiX",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1871929
-        ],
-        "mania": [
-          1778816
-        ],
-        "taiko": [
-          1406171
-        ]
-      }
-    },
-    {
-      "title": "Yorixiro",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1438879
-        ],
-        "taiko": [
-          1397782
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:56:53Z"
+  "updated_at": "2026-03-28T14:21:12Z"
 }

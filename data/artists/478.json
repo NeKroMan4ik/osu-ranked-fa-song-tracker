@@ -3,31 +3,6 @@
   "name": "The Musical Ghost",
   "tracks": [
     {
-      "title": "Avallonis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Epithet Erased - Great at Crime (feat. OR3O)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hi Tech Sakura",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Mahika",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Musical Ghost vs arc.sys - Re:Define ~Beyond The Divine Ordeal~",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Thinking Of",
       "ranked_modes": [
         "mania"
@@ -54,10 +29,35 @@
       }
     },
     {
+      "title": "Avallonis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Epithet Erased - Great at Crime (feat. OR3O)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hi Tech Sakura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mahika",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Musical Ghost vs arc.sys - Re:Define ~Beyond The Divine Ordeal~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Zpace Invaderz",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:27:26Z"
+  "updated_at": "2026-03-28T15:08:03Z"
 }

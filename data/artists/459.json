@@ -145,16 +145,6 @@
       }
     },
     {
-      "title": "Luminency",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Obliterate",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Onus Regulus",
       "ranked_modes": [
         "mania"
@@ -177,10 +167,20 @@
       }
     },
     {
+      "title": "Luminency",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Obliterate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "State of Mind",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:24:58Z"
+  "updated_at": "2026-03-28T13:41:12Z"
 }

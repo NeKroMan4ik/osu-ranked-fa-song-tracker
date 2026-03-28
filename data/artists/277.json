@@ -14,19 +14,23 @@
       }
     },
     {
-      "title": "Good Girls (Don't Get Used)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Painkiller",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Prom Queen",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2470141
+        ],
+        "osu": [
+          2470141
+        ],
+        "mania": [
+          2470141
+        ]
+      }
     },
     {
       "title": "Sports",
@@ -38,7 +42,17 @@
           2401682
         ]
       }
+    },
+    {
+      "title": "Good Girls (Don't Get Used)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Painkiller",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:30:27Z"
+  "updated_at": "2026-03-28T12:16:49Z"
 }

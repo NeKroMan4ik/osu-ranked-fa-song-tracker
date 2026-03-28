@@ -3,6 +3,17 @@
   "name": "SPIRIT GARDEN *",
   "tracks": [
     {
+      "title": "Continue",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2343693
+        ]
+      }
+    },
+    {
       "title": "002: DIVINE INQUISITION",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -16,18 +27,7 @@
       "title": "Archaicism (Extended Version) feat. Haruki",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Continue",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2343693
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T22:17:32Z"
+  "updated_at": "2026-03-28T14:52:23Z"
 }

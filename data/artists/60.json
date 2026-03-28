@@ -3,11 +3,6 @@
   "name": "F-777",
   "tracks": [
     {
-      "title": "1up",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Across The Waters",
       "ranked_modes": [
         "taiko"
@@ -17,11 +12,6 @@
           1086985
         ]
       }
-    },
-    {
-      "title": "Adventure Fantasy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Airborne Robots",
@@ -43,16 +33,6 @@
       }
     },
     {
-      "title": "Bow Wow",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cane Swinging",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cosmic Blaster",
       "ranked_modes": [
         "taiko"
@@ -67,6 +47,7 @@
       "title": "Dance of The Violins",
       "ranked_modes": [
         "fruits",
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
@@ -75,18 +56,11 @@
         ],
         "fruits": [
           417149
+        ],
+        "mania": [
+          642684
         ]
       }
-    },
-    {
-      "title": "Dark Angel",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dark Dragon Fire",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Deadlocked",
@@ -114,6 +88,143 @@
           1093139
         ]
       }
+    },
+    {
+      "title": "Hydra",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1089683
+        ]
+      }
+    },
+    {
+      "title": "Shaolin Warrior",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1101722
+        ]
+      }
+    },
+    {
+      "title": "Space Battle",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1135349
+        ],
+        "osu": [
+          992349
+        ]
+      }
+    },
+    {
+      "title": "System Split",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1103941
+        ]
+      }
+    },
+    {
+      "title": "The 7 Seas",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1833543
+        ]
+      }
+    },
+    {
+      "title": "Unsafe Speeds",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1311130
+        ]
+      }
+    },
+    {
+      "title": "Viking Arena",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1092856
+        ]
+      }
+    },
+    {
+      "title": "Vortex",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1087608
+        ]
+      }
+    },
+    {
+      "title": "Wander of Thought",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1103273
+        ],
+        "osu": [
+          320970
+        ]
+      }
+    },
+    {
+      "title": "1up",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Adventure Fantasy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bow Wow",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cane Swinging",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dark Angel",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dark Dragon Fire",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flower Bazooka",
@@ -146,17 +257,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hydra",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1089683
-        ]
-      }
-    },
-    {
       "title": "I Can Fly",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -187,17 +287,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shaolin Warrior",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1101722
-        ]
-      }
-    },
-    {
       "title": "Sonic Blaster",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -206,21 +295,6 @@
       "title": "Sound of Infinity",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Space Battle",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1135349
-        ],
-        "osu": [
-          992349
-        ]
-      }
     },
     {
       "title": "Speedbreaker",
@@ -233,31 +307,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "System Split",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1103941
-        ]
-      }
-    },
-    {
       "title": "T-Rex",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The 7 Seas",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1833543
-        ]
-      }
     },
     {
       "title": "This Isn't Science Rocket (2015 Edition)",
@@ -275,58 +327,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Unsafe Speeds",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1311130
-        ]
-      }
-    },
-    {
-      "title": "Viking Arena",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1092856
-        ]
-      }
-    },
-    {
       "title": "Viper",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Vortex",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1087608
-        ]
-      }
-    },
-    {
-      "title": "Wander of Thought",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1103273
-        ],
-        "osu": [
-          320970
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T14:17:15Z"
+  "updated_at": "2026-03-28T12:54:30Z"
 }

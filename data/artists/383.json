@@ -5,9 +5,13 @@
     {
       "title": "A.O.E::area_of_effect",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2423348
+        ],
         "mania": [
           2321798,
           2323413
@@ -148,5 +152,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-24T21:17:11Z"
+  "updated_at": "2026-03-28T13:29:24Z"
 }

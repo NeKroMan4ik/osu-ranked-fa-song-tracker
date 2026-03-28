@@ -14,6 +14,21 @@
       }
     },
     {
+      "title": "Running Blind",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1293035
+        ],
+        "mania": [
+          1125991
+        ]
+      }
+    },
+    {
       "title": "Collider",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -34,21 +49,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Running Blind",
-      "ranked_modes": [
-        "fruits",
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1293035
-        ],
-        "mania": [
-          1125991
-        ]
-      }
-    },
-    {
       "title": "Stamp Out",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -64,5 +64,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:50:27Z"
+  "updated_at": "2026-03-28T14:03:33Z"
 }

@@ -15,11 +15,6 @@
       }
     },
     {
-      "title": "Darkest Place (feat. Aloma Steele)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dream Catcher (feat. Charlotte Haining)",
       "ranked_modes": [
         "osu",
@@ -35,16 +30,6 @@
       }
     },
     {
-      "title": "Eden",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Emily Underhill - Lost In Me (Rameses B Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Escape",
       "ranked_modes": [
         "osu"
@@ -56,11 +41,6 @@
       }
     },
     {
-      "title": "Helix",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ivy",
       "ranked_modes": [
         "osu"
@@ -70,11 +50,6 @@
           2007732
         ]
       }
-    },
-    {
-      "title": "Memoirs (VIP)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mountains (feat. Veela)",
@@ -104,21 +79,6 @@
       }
     },
     {
-      "title": "Once Upon A Time",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Open Your Eyes (feat. Rachel Hirons)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rameses B & Veela - One Day",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Samurai",
       "ranked_modes": [
         "osu"
@@ -128,16 +88,6 @@
           1390484
         ]
       }
-    },
-    {
-      "title": "Stranded",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sweet Surrender (feat. Charlotte Haining)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Timeless (feat. Veela)",
@@ -160,16 +110,6 @@
           339708
         ]
       }
-    },
-    {
-      "title": "Transformations (feat. Laura Brehm)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Twilight Zone (feat. Laura Brehm)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "We Are One (feat. Veela)",
@@ -195,10 +135,70 @@
       }
     },
     {
+      "title": "Darkest Place (feat. Aloma Steele)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eden",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Emily Underhill - Lost In Me (Rameses B Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Helix",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Memoirs (VIP)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Once Upon A Time",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Open Your Eyes (feat. Rachel Hirons)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rameses B & Veela - One Day",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stranded",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sweet Surrender (feat. Charlotte Haining)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Transformations (feat. Laura Brehm)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Twilight Zone (feat. Laura Brehm)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "When You Dream",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:55:16Z"
+  "updated_at": "2026-03-28T14:18:46Z"
 }

@@ -15,13 +15,14 @@
     },
     {
       "title": "Firmament Star",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gyakusetsu no Sekai",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1633703
+        ]
+      }
     },
     {
       "title": "Icyxis",
@@ -33,11 +34,6 @@
           2255665
         ]
       }
-    },
-    {
-      "title": "Isysmonahy (osu! edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Myths Orbis",
@@ -78,10 +74,20 @@
       }
     },
     {
+      "title": "Gyakusetsu no Sekai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Isysmonahy (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Thetaru",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:54:40Z"
+  "updated_at": "2026-03-28T14:18:13Z"
 }

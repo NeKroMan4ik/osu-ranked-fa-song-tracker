@@ -3,11 +3,6 @@
   "name": "Crywolf",
   "tracks": [
     {
-      "title": "Crywolf & Aylen - Silence, Pt. II",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Eyes Half Closed",
       "ranked_modes": [
         "osu"
@@ -31,16 +26,6 @@
       }
     },
     {
-      "title": "The Home We Made Pt. II",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Moon Is Falling Down",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Whisper (feat. emalyn)",
       "ranked_modes": [
         "osu"
@@ -50,7 +35,22 @@
           2035723
         ]
       }
+    },
+    {
+      "title": "Crywolf & Aylen - Silence, Pt. II",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Home We Made Pt. II",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Moon Is Falling Down",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:41:15Z"
+  "updated_at": "2026-03-28T12:37:32Z"
 }

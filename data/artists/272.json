@@ -15,6 +15,28 @@
       }
     },
     {
+      "title": "Delightness Brightness",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1859322
+        ]
+      }
+    },
+    {
+      "title": "Wonderful Paradise",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1722598
+        ]
+      }
+    },
+    {
       "title": "aa...hisuichazuke... - steganography",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -28,17 +50,6 @@
       "title": "Cosmogazer",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Delightness Brightness",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1859322
-        ]
-      }
     },
     {
       "title": "DJ HoppingRabbit - Jumping Leaping!",
@@ -74,18 +85,7 @@
       "title": "Memories of Chasers",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Wonderful Paradise",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1722598
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:04:32Z"
+  "updated_at": "2026-03-28T13:09:29Z"
 }

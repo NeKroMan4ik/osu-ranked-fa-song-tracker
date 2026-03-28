@@ -3,11 +3,6 @@
   "name": "BilliumMoto",
   "tracks": [
     {
-      "title": "100 Carat Smoke Point",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "1xMISS",
       "ranked_modes": [
         "mania",
@@ -23,11 +18,6 @@
       }
     },
     {
-      "title": ":D",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Amethyst Aurora",
       "ranked_modes": [
         "osu"
@@ -39,55 +29,20 @@
       }
     },
     {
-      "title": "behind stoic",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BilliumMoto & Dictate - 1KARUGA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BilliumMoto & Miyolophone - IX's Shadow",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BilliumMoto x Akiri - Cryochemistry",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "cap",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dazzling",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "encased",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "four veiled stars",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "taiko": [
-          972301
+          972301,
+          2113156
+        ],
+        "mania": [
+          1008419
         ]
       }
-    },
-    {
-      "title": "Gimme More",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HDHR",
@@ -103,11 +58,6 @@
           569888
         ]
       }
-    },
-    {
-      "title": "Hypersurface",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "life flashes before weeb eyes",
@@ -147,6 +97,83 @@
       }
     },
     {
+      "title": "Rocky Buinne",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1576728
+        ]
+      }
+    },
+    {
+      "title": "walking to school trippin",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          989246
+        ]
+      }
+    },
+    {
+      "title": "100 Carat Smoke Point",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": ":D",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "behind stoic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BilliumMoto & Dictate - 1KARUGA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BilliumMoto & Miyolophone - IX's Shadow",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BilliumMoto x Akiri - Cryochemistry",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cap",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dazzling",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "encased",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gimme More",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hypersurface",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "muniflora",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -160,17 +187,6 @@
       "title": "rabbithole",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rocky Buinne",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1576728
-        ]
-      }
     },
     {
       "title": "ruby",
@@ -196,18 +212,7 @@
       "title": "TWC Sound Team \"Zeroth Powers\" - One One",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "walking to school trippin",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          989246
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T13:55:32Z"
+  "updated_at": "2026-03-28T12:19:22Z"
 }

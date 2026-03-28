@@ -3,16 +3,6 @@
   "name": "Vansire",
   "tracks": [
     {
-      "title": "Angel Youth",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Brown Study",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Central Time (feat. Mick Jenkins)",
       "ranked_modes": [
         "osu"
@@ -33,16 +23,6 @@
           1280657
         ]
       }
-    },
-    {
-      "title": "Halcyon Age",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lonely Zone (feat. Mellow Fellow, Ruru & Paul Cherry)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Metamodernity",
@@ -71,6 +51,38 @@
       }
     },
     {
+      "title": "That I Miss You",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1159563,
+          1464519
+        ]
+      }
+    },
+    {
+      "title": "Angel Youth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Brown Study",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Halcyon Age",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lonely Zone (feat. Mellow Fellow, Ruru & Paul Cherry)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Postal Codes",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -86,22 +98,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "That I Miss You",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1159563,
-          1464519
-        ]
-      }
-    },
-    {
       "title": "The Latter Teens",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:37:01Z"
+  "updated_at": "2026-03-28T15:20:42Z"
 }

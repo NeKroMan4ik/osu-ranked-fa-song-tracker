@@ -3,11 +3,6 @@
   "name": "RiraN",
   "tracks": [
     {
-      "title": "Daydream",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Explosion",
       "ranked_modes": [
         "osu"
@@ -17,21 +12,6 @@
           1242046
         ]
       }
-    },
-    {
-      "title": "Full Control",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lose Control",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Make It Move",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ready For The Madness",
@@ -61,11 +41,6 @@
       }
     },
     {
-      "title": "The Guardians Of The Sun",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Unshakable",
       "ranked_modes": [
         "osu",
@@ -79,7 +54,32 @@
           988136
         ]
       }
+    },
+    {
+      "title": "Daydream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Full Control",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lose Control",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Make It Move",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Guardians Of The Sun",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:56:06Z"
+  "updated_at": "2026-03-28T14:30:36Z"
 }

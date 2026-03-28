@@ -25,11 +25,6 @@
       }
     },
     {
-      "title": "Fanteer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Froskya",
       "ranked_modes": [
         "osu"
@@ -39,11 +34,6 @@
           1999098
         ]
       }
-    },
-    {
-      "title": "Kuba Oms - My Love (Shadren Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lolisquad",
@@ -76,6 +66,27 @@
       }
     },
     {
+      "title": "You're Here Forever",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1948970
+        ]
+      }
+    },
+    {
+      "title": "Fanteer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuba Oms - My Love (Shadren Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "POWERUP",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -94,18 +105,7 @@
       "title": "Suspense",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "You're Here Forever",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1948970
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T22:10:44Z"
+  "updated_at": "2026-03-28T14:45:14Z"
 }

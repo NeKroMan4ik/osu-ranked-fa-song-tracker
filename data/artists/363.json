@@ -3,11 +3,6 @@
   "name": "Andora",
   "tracks": [
     {
-      "title": "Dawn (feat. Such)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Delusion (feat. juu)",
       "ranked_modes": [
         "osu"
@@ -32,11 +27,6 @@
           1905874
         ]
       }
-    },
-    {
-      "title": "Flashback (feat. RANASOL)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flicker (feat. RANASOL)",
@@ -67,7 +57,17 @@
           2029508
         ]
       }
+    },
+    {
+      "title": "Dawn (feat. Such)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Flashback (feat. RANASOL)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:24:48Z"
+  "updated_at": "2026-03-28T12:08:47Z"
 }

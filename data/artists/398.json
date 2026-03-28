@@ -3,16 +3,6 @@
   "name": "Sparxe",
   "tracks": [
     {
-      "title": "Archipelago of Ten Trials",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Bad Break!!!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Comma, ~ Imi to Kouzou no Bunri",
       "ranked_modes": [
         "osu",
@@ -26,11 +16,6 @@
           1785711
         ]
       }
-    },
-    {
-      "title": "Doom Grotto",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dream Elevator",
@@ -84,7 +69,22 @@
           1754903
         ]
       }
+    },
+    {
+      "title": "Archipelago of Ten Trials",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bad Break!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Doom Grotto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:17:25Z"
+  "updated_at": "2026-03-28T14:52:18Z"
 }

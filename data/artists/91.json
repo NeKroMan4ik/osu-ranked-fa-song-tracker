@@ -3,11 +3,6 @@
   "name": "Receptor",
   "tracks": [
     {
-      "title": "24 Kornerz (feat. BQ)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ass",
       "ranked_modes": [
         "taiko"
@@ -17,11 +12,6 @@
           1226040
         ]
       }
-    },
-    {
-      "title": "Auroral",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Autopsy",
@@ -46,11 +36,6 @@
       }
     },
     {
-      "title": "Bayu Bayu",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Beautiful Lie",
       "ranked_modes": [
         "osu"
@@ -60,6 +45,44 @@
           193722
         ]
       }
+    },
+    {
+      "title": "Camorra",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1973092
+        ]
+      }
+    },
+    {
+      "title": "Redstar",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          184301,
+          996649
+        ]
+      }
+    },
+    {
+      "title": "24 Kornerz (feat. BQ)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Auroral",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bayu Bayu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Belka & Strelka",
@@ -75,17 +98,6 @@
       "title": "Burning Up",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camorra",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1973092
-        ]
-      }
     },
     {
       "title": "Cigarette Lighter",
@@ -198,18 +210,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Redstar",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          184301,
-          996649
-        ]
-      }
-    },
-    {
       "title": "Rhyno",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -260,5 +260,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:54:03Z"
+  "updated_at": "2026-03-28T14:19:57Z"
 }

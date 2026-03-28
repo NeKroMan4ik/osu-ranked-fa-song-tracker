@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "Kyokutou Merveilles",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Like a ref'rain'",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Reigetsu Reception",
       "ranked_modes": [
         "osu"
@@ -33,11 +23,6 @@
           1998353
         ]
       }
-    },
-    {
-      "title": "Sougetsu Sinfonia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Souhaku Rebellion",
@@ -75,7 +60,22 @@
           2278209
         ]
       }
+    },
+    {
+      "title": "Kyokutou Merveilles",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Like a ref'rain'",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sougetsu Sinfonia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:55:39Z"
+  "updated_at": "2026-03-28T12:59:37Z"
 }

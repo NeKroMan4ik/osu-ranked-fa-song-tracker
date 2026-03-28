@@ -3,16 +3,6 @@
   "name": "Wisp X",
   "tracks": [
     {
-      "title": "Aether",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Alone at Midnight",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Coffee",
       "ranked_modes": [
         "osu"
@@ -23,11 +13,6 @@
           2061718
         ]
       }
-    },
-    {
-      "title": "Crimson feat. Hatsune Miku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crimson feat. Hatsune Miku (Radio Edit)",
@@ -50,11 +35,6 @@
           932657
         ]
       }
-    },
-    {
-      "title": "Faeth",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Final Moments",
@@ -90,16 +70,6 @@
       }
     },
     {
-      "title": "Hana",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Heart",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hibiscus",
       "ranked_modes": [
         "osu"
@@ -109,16 +79,6 @@
           1040161
         ]
       }
-    },
-    {
-      "title": "Idyllic",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Illuminate",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Melon Soda",
@@ -141,11 +101,6 @@
           755188
         ]
       }
-    },
-    {
-      "title": "Moon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonglow",
@@ -182,11 +137,6 @@
       }
     },
     {
-      "title": "Sparkling Tides",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Wander",
       "ranked_modes": [
         "osu"
@@ -197,6 +147,56 @@
           970646
         ]
       }
+    },
+    {
+      "title": "Aether",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Alone at Midnight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Crimson feat. Hatsune Miku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Faeth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hana",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Heart",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Idyllic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Illuminate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sparkling Tides",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wisp X & erumi - Eternal",
@@ -219,5 +219,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:14:40Z"
+  "updated_at": "2026-03-28T15:26:07Z"
 }

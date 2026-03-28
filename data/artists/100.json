@@ -3,16 +3,6 @@
   "name": "EPICA",
   "tracks": [
     {
-      "title": "A Phantasmic Parade",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Architect of Light",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ascension - Dream State Armageddon",
       "ranked_modes": [
         "osu",
@@ -28,11 +18,6 @@
       }
     },
     {
-      "title": "Beyond the Good, the Bad and the Ugly",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Beyond the Matrix",
       "ranked_modes": [
         "osu"
@@ -44,11 +29,6 @@
       }
     },
     {
-      "title": "Dancing in a Gypsy Camp",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dancing in a Hurricane",
       "ranked_modes": [
         "osu"
@@ -58,6 +38,52 @@
           818826
         ]
       }
+    },
+    {
+      "title": "The Solace System",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1224868
+        ]
+      }
+    },
+    {
+      "title": "Universal Death Squad",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1262302
+        ],
+        "taiko": [
+          733461
+        ]
+      }
+    },
+    {
+      "title": "A Phantasmic Parade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Architect of Light",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Beyond the Good, the Bad and the Ugly",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dancing in a Gypsy Camp",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Decoded Poetry",
@@ -110,32 +136,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Solace System",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1224868
-        ]
-      }
-    },
-    {
-      "title": "Universal Death Squad",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1262302
-        ],
-        "taiko": [
-          733461
-        ]
-      }
-    },
-    {
       "title": "Universal Love Squad",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -146,5 +146,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-26T19:27:35Z"
+  "updated_at": "2026-03-28T12:52:35Z"
 }

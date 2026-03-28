@@ -3,11 +3,6 @@
   "name": "anubasu-anubasu",
   "tracks": [
     {
-      "title": "Disaster",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Materialize Anything",
       "ranked_modes": [
         "mania"
@@ -18,6 +13,11 @@
           1948306
         ]
       }
+    },
+    {
+      "title": "Disaster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mercury Prayer",
@@ -45,5 +45,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-23T22:45:24Z"
+  "updated_at": "2026-03-28T12:10:48Z"
 }

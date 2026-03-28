@@ -154,11 +154,6 @@
       }
     },
     {
-      "title": "Life",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Metheus",
       "ranked_modes": [
         "mania",
@@ -236,21 +231,6 @@
       }
     },
     {
-      "title": "Relics",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Seisen (feat. nayuta)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Shattered",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Last Page",
       "ranked_modes": [
         "fruits",
@@ -270,7 +250,27 @@
           1276509
         ]
       }
+    },
+    {
+      "title": "Life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Relics",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Seisen (feat. nayuta)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shattered",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:57:57Z"
+  "updated_at": "2026-03-28T12:13:01Z"
 }

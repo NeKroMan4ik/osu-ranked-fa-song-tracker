@@ -3,11 +3,6 @@
   "name": "Avizura",
   "tracks": [
     {
-      "title": "Air Castles",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Air Castles (Cut Ver.)",
       "ranked_modes": [
         "taiko"
@@ -17,6 +12,27 @@
           1592197
         ]
       }
+    },
+    {
+      "title": "Lucky Star",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          130546,
+          2214290
+        ],
+        "taiko": [
+          130546
+        ]
+      }
+    },
+    {
+      "title": "Air Castles",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alien Girl",
@@ -37,22 +53,6 @@
       "title": "Crystal (Cut Ver.)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lucky Star",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          130546,
-          2214290
-        ],
-        "taiko": [
-          130546
-        ]
-      }
     },
     {
       "title": "Lucky Star (Cut Ver.)",
@@ -100,5 +100,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:30:06Z"
+  "updated_at": "2026-03-28T12:16:31Z"
 }

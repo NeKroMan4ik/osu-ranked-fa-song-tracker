@@ -19,6 +19,44 @@
       }
     },
     {
+      "title": "Nadeshiko Sensation",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1375449
+        ],
+        "osu": [
+          1003554
+        ],
+        "fruits": [
+          693123
+        ],
+        "taiko": [
+          558569
+        ]
+      }
+    },
+    {
+      "title": "Spring Signal",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          716211
+        ],
+        "taiko": [
+          632888
+        ]
+      }
+    },
+    {
       "title": "Candy Girl",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -44,48 +82,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nadeshiko Sensation",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1375449
-        ],
-        "osu": [
-          1003554
-        ],
-        "fruits": [
-          693123
-        ],
-        "taiko": [
-          558569
-        ]
-      }
-    },
-    {
       "title": "Polaris",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Spring Signal",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          716211
-        ],
-        "taiko": [
-          632888
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T12:36:16Z"
+  "updated_at": "2026-03-28T15:31:57Z"
 }

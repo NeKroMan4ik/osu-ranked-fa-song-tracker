@@ -3,11 +3,6 @@
   "name": "Powerwolf",
   "tracks": [
     {
-      "title": "Amen & Attack",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Army Of The Night",
       "ranked_modes": [
         "osu"
@@ -19,16 +14,6 @@
       }
     },
     {
-      "title": "Beast of Gevaudan",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Blessed & Possessed",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Christ & Combat",
       "ranked_modes": [
         "osu"
@@ -38,6 +23,32 @@
           1013426
         ]
       }
+    },
+    {
+      "title": "Higher Than Heaven",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2319352
+        ]
+      }
+    },
+    {
+      "title": "Amen & Attack",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Beast of Gevaudan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blessed & Possessed",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Demons Are A Girl's Best Friend",
@@ -53,17 +64,6 @@
       "title": "Fire & Forgive",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Higher Than Heaven",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2319352
-        ]
-      }
     },
     {
       "title": "In the Name of God (Deus Vult)",
@@ -86,5 +86,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:52:45Z"
+  "updated_at": "2026-03-28T14:16:03Z"
 }

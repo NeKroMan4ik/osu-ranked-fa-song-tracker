@@ -3,6 +3,17 @@
   "name": "Rocket Start",
   "tracks": [
     {
+      "title": "Sushi Blast",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2069690
+        ]
+      }
+    },
+    {
       "title": "Jolly Roger",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -18,21 +29,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sushi Blast",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2069690
-        ]
-      }
-    },
-    {
       "title": "UFO",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:59:51Z"
+  "updated_at": "2026-03-28T14:33:39Z"
 }

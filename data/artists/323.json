@@ -3,21 +3,6 @@
   "name": "Innocent Key",
   "tracks": [
     {
-      "title": "Float",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fuwari, Pink no Koi",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Love-chu*CHIREIDEN",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lunatic Red Eyes",
       "ranked_modes": [
         "osu"
@@ -28,11 +13,6 @@
           1879868
         ]
       }
-    },
-    {
-      "title": "Requiem ~Sekai wa Owari, Soshite Hajimaru~",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shukudai ga Owaranai!",
@@ -57,16 +37,6 @@
       }
     },
     {
-      "title": "Touhou Celeb ~ABUNAI SISTERS~",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Touhou Holy Water Festival - The Troubled Maidens Year ~Pappa~",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Touhou School",
       "ranked_modes": [
         "osu"
@@ -76,6 +46,51 @@
           29904
         ]
       }
+    },
+    {
+      "title": "Wanna Be My Dream",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          19840
+        ],
+        "osu": [
+          19840
+        ]
+      }
+    },
+    {
+      "title": "Float",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fuwari, Pink no Koi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Love-chu*CHIREIDEN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Requiem ~Sekai wa Owari, Soshite Hajimaru~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Touhou Celeb ~ABUNAI SISTERS~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Touhou Holy Water Festival - The Troubled Maidens Year ~Pappa~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Touhou Sweets! ~Kichiku Shimai to Junan Maid~",
@@ -88,25 +103,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Wanna Be My Dream",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          19840
-        ],
-        "taiko": [
-          19840
-        ]
-      }
-    },
-    {
       "title": "Years of Cosmogony Fantasia",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:07:50Z"
+  "updated_at": "2026-03-28T13:17:27Z"
 }

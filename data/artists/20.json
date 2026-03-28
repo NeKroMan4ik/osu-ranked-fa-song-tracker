@@ -3,26 +3,6 @@
   "name": "Trial & Error",
   "tracks": [
     {
-      "title": "Ashita e tobutameni",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ashita e tobutameni (Instrumental Mix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ashita e tobutameni (Instrumental Mix) (Short Ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ashita e tobutameni (Instrumental Mix) (TV Size)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ashita e tobutameni (Short Ver.)",
       "ranked_modes": [
         "fruits",
@@ -30,13 +10,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
+        "taiko": [
           2461797
         ],
         "osu": [
           2461797
         ],
-        "taiko": [
+        "fruits": [
           2461797
         ]
       }
@@ -53,29 +33,15 @@
       }
     },
     {
-      "title": "DAI*TAN SENSATION feat. Hatsune Miku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "DAI*TAN SENSATION feat. Hatsune Miku (Short Ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki (Short Ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DREAMING COLOR",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2523937
+        ]
+      }
     },
     {
       "title": "DREAMING COLOR (Short Ver.)",
@@ -85,32 +51,13 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          752435,
           1116584
         ],
         "fruits": [
           946773
         ]
       }
-    },
-    {
-      "title": "hex feat. Aya Hatori",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "hex feat. Aya Hatori (Short Ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hitori ja... Issho nara!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hitori ja... Issho nara! (Short ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hitori ja... Issho nara! (TV Size)",
@@ -120,10 +67,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "mania": [
           2208658
         ],
-        "mania": [
+        "osu": [
           2208658
         ],
         "taiko": [
@@ -147,6 +94,135 @@
       }
     },
     {
+      "title": "MYxFLAVORxDAYS! feat. GUMI (Short Ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2121497
+        ]
+      }
+    },
+    {
+      "title": "Sore ga Zenbu, Yume ni Tsunagaru (Short Ver.)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1217811
+        ],
+        "osu": [
+          1120862
+        ]
+      }
+    },
+    {
+      "title": "Taiatari*Romance feat. Ayuru Ouhashi (Short Ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          796338
+        ]
+      }
+    },
+    {
+      "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          847433
+        ],
+        "osu": [
+          786498
+        ]
+      }
+    },
+    {
+      "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.)",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          746625,
+          896175,
+          1415543
+        ],
+        "fruits": [
+          955808
+        ]
+      }
+    },
+    {
+      "title": "Ashita e tobutameni",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ashita e tobutameni (Instrumental Mix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ashita e tobutameni (Instrumental Mix) (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ashita e tobutameni (Instrumental Mix) (TV Size)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DAI*TAN SENSATION feat. Hatsune Miku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DREAMING COLOR",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "hex feat. Aya Hatori",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "hex feat. Aya Hatori (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitori ja... Issho nara!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitori ja... Issho nara! (Short ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Hoshizora Touhikou feat. Hatsune Miku (Short Ver.)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -167,17 +243,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "MYxFLAVORxDAYS! feat. GUMI (Short Ver.)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2121497
-        ]
-      }
-    },
-    {
       "title": "Shuuen no Reboot",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -193,21 +258,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sore ga Zenbu, Yume ni Tsunagaru (Short Ver.)",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1217811
-        ],
-        "osu": [
-          1120862
-        ]
-      }
-    },
-    {
       "title": "Sorezore no Tabiji",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -219,27 +269,6 @@
     },
     {
       "title": "Taiatari*Romance feat. Ayuru Ouhashi",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Taiatari*Romance feat. Ayuru Ouhashi (Short Ver.)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          796338
-        ]
-      }
-    },
-    {
-      "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -264,5 +293,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:18:05Z"
+  "updated_at": "2026-03-28T15:11:16Z"
 }

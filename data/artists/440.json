@@ -3,16 +3,6 @@
   "name": "Trina Lydia",
   "tracks": [
     {
-      "title": "Ad astra itur =*",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Bend The Bullet",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Jika -ST.-",
       "ranked_modes": [
         "mania",
@@ -20,31 +10,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2484664
+        ],
         "osu": [
           2484664
         ],
         "taiko": [
           2484664
-        ],
-        "mania": [
-          2484664
         ]
       }
-    },
-    {
-      "title": "Late-Night Rocket Ride",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Library at Noon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MORTALiZE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stellar Immortality",
@@ -78,7 +53,32 @@
           2504632
         ]
       }
+    },
+    {
+      "title": "Ad astra itur =*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bend The Bullet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Late-Night Rocket Ride",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Library at Noon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MORTALiZE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:30:02Z"
+  "updated_at": "2026-03-28T15:11:28Z"
 }

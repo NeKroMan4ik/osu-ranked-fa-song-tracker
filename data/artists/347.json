@@ -3,11 +3,6 @@
   "name": "Whispered",
   "tracks": [
     {
-      "title": "Bloodred Shores Of Enoshima",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Exile of the Floating World",
       "ranked_modes": [
         "fruits",
@@ -25,11 +20,6 @@
           769346
         ]
       }
-    },
-    {
-      "title": "Fallen Amaterasu",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hold the Sword",
@@ -75,23 +65,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           1079398
         ],
-        "taiko": [
+        "osu": [
           1079398
         ]
       }
-    },
-    {
-      "title": "Lady of the Wind",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sakura Omen",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Strike!",
@@ -105,11 +85,6 @@
       }
     },
     {
-      "title": "Thousand Swords",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tsukiakari",
       "ranked_modes": [
         "taiko"
@@ -119,11 +94,6 @@
           1326162
         ]
       }
-    },
-    {
-      "title": "Unrestrained",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Upon My Honor",
@@ -141,10 +111,40 @@
       }
     },
     {
+      "title": "Bloodred Shores Of Enoshima",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fallen Amaterasu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lady of the Wind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sakura Omen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Thousand Swords",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Unrestrained",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Victory Grounds Nothing",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:41:28Z"
+  "updated_at": "2026-03-28T15:24:55Z"
 }

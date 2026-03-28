@@ -3,11 +3,6 @@
   "name": "Sound Souler",
   "tracks": [
     {
-      "title": "3rd Avenue",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Absent Color",
       "ranked_modes": [
         "fruits",
@@ -25,11 +20,6 @@
           1093465
         ]
       }
-    },
-    {
-      "title": "Abyss Racer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aqua Stars",
@@ -85,16 +75,6 @@
           1152182
         ]
       }
-    },
-    {
-      "title": "Coastral",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cymian (osu! edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dead Soul",
@@ -199,11 +179,6 @@
       }
     },
     {
-      "title": "Rebirth",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Reinvent",
       "ranked_modes": [
         "mania"
@@ -213,7 +188,32 @@
           1281806
         ]
       }
+    },
+    {
+      "title": "3rd Avenue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Abyss Racer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Coastral",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cymian (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rebirth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:28:07Z"
+  "updated_at": "2026-03-28T14:52:08Z"
 }

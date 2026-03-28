@@ -25,11 +25,6 @@
       }
     },
     {
-      "title": "Chroma feat. mikanzil - Koi no Kuuchuu Bunkai",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Daisan Kuuchuu Jikken",
       "ranked_modes": [
         "mania"
@@ -144,11 +139,6 @@
       }
     },
     {
-      "title": "Learn The Language",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Little Heart no Bouken",
       "ranked_modes": [
         "taiko"
@@ -246,6 +236,22 @@
     },
     {
       "title": "The First Snowfall On My Secret Base",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1295555
+        ]
+      }
+    },
+    {
+      "title": "Chroma feat. mikanzil - Koi no Kuuchuu Bunkai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Learn The Language",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -255,5 +261,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:39:08Z"
+  "updated_at": "2026-03-28T12:33:17Z"
 }

@@ -3,6 +3,32 @@
   "name": "Andy Gillion",
   "tracks": [
     {
+      "title": "Insert Coin",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1842568
+        ]
+      }
+    },
+    {
+      "title": "Skyless (feat. Jeff Loomis)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1907038
+        ],
+        "taiko": [
+          1072484
+        ]
+      }
+    },
+    {
       "title": "1988 (feat. Li-sa-X)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -38,17 +64,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Insert Coin",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1842568
-        ]
-      }
-    },
-    {
       "title": "Neverafter",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -69,25 +84,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Skyless (feat. Jeff Loomis)",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1907038
-        ],
-        "taiko": [
-          1072484
-        ]
-      }
-    },
-    {
       "title": "The Lost Melody",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:25:35Z"
+  "updated_at": "2026-03-28T12:09:26Z"
 }

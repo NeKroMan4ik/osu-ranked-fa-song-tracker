@@ -3,26 +3,6 @@
   "name": "Yunosuke",
   "tracks": [
     {
-      "title": "Black or White",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Black or White -Intro-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Blank",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BREAK IT",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Coppelia",
       "ranked_modes": [
         "osu"
@@ -32,16 +12,6 @@
           2109544
         ]
       }
-    },
-    {
-      "title": "GLAZ",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "I seek you",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Illusional Flashback",
@@ -68,6 +38,62 @@
           1703935
         ]
       }
+    },
+    {
+      "title": "Spiral",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1287115
+        ]
+      }
+    },
+    {
+      "title": "Yunosuke - Loop (feat. WaMi)",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2058791
+        ],
+        "osu": [
+          1753970
+        ]
+      }
+    },
+    {
+      "title": "Black or White",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Black or White -Intro-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blank",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BREAK IT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "GLAZ",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I seek you",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PaIII.INCEPTION",
@@ -100,26 +126,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Spiral",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1287115
-        ]
-      }
-    },
-    {
-      "title": "Yunosuke - Loop (feat. WaMi)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ziqqurat",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:48:02Z"
+  "updated_at": "2026-03-28T15:32:28Z"
 }

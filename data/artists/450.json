@@ -14,21 +14,6 @@
       }
     },
     {
-      "title": "Ded Moroz",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kapel",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Medveplyas",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Morozoboy",
       "ranked_modes": [
         "mania"
@@ -59,11 +44,6 @@
       }
     },
     {
-      "title": "Tryasovitsa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Zmey Gorynych",
       "ranked_modes": [
         "mania"
@@ -73,7 +53,27 @@
           2175431
         ]
       }
+    },
+    {
+      "title": "Ded Moroz",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kapel",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Medveplyas",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tryasovitsa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:49:15Z"
+  "updated_at": "2026-03-28T15:34:57Z"
 }

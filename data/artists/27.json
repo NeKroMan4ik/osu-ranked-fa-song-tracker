@@ -29,11 +29,6 @@
       }
     },
     {
-      "title": "KANKAN☆DANCIN (feat. Kagamine Rin/Len)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Magical Night (feat. Hatsune Miku)",
       "ranked_modes": [
         "osu"
@@ -56,6 +51,11 @@
       }
     },
     {
+      "title": "KANKAN☆DANCIN (feat. Kagamine Rin/Len)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Piece of Art (feat. GUMI)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -76,5 +76,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:21:57Z"
+  "updated_at": "2026-03-28T13:25:15Z"
 }

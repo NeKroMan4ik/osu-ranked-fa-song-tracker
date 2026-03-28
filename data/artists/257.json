@@ -3,11 +3,6 @@
   "name": "in love with a ghost",
   "tracks": [
     {
-      "title": "am i a girl? am i a boy? do i really care?",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "chilling at nemu's place",
       "ranked_modes": [
         "fruits",
@@ -175,7 +170,12 @@
           1744475
         ]
       }
+    },
+    {
+      "title": "am i a girl? am i a boy? do i really care?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:07:28Z"
+  "updated_at": "2026-03-28T13:16:21Z"
 }

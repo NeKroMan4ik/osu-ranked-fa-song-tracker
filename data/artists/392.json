@@ -25,11 +25,6 @@
       }
     },
     {
-      "title": "HONOR//REPROACH",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lunar Gateway",
       "ranked_modes": [
         "taiko"
@@ -41,16 +36,6 @@
       }
     },
     {
-      "title": "MALEVOLENT VORTEX",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "osu!mania SQUID GAME Sound Team - SUBTERRANEAN DRIFT <<Sole Survivor>>",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Partition",
       "ranked_modes": [
         "taiko"
@@ -60,31 +45,6 @@
           2351137
         ]
       }
-    },
-    {
-      "title": "Serrate",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sydosys as \"[LS]Ham\" - Apollyon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Termina",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "TWC Sound Team \"Xurv Stasis Rasufim\" - Kaze no Denwa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "VANISH",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Voyage",
@@ -111,7 +71,47 @@
           2085296
         ]
       }
+    },
+    {
+      "title": "HONOR//REPROACH",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MALEVOLENT VORTEX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "osu!mania SQUID GAME Sound Team - SUBTERRANEAN DRIFT <<Sole Survivor>>",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Serrate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sydosys as \"[LS]Ham\" - Apollyon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Termina",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TWC Sound Team \"Xurv Stasis Rasufim\" - Kaze no Denwa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VANISH",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:20:40Z"
+  "updated_at": "2026-03-28T14:56:38Z"
 }

@@ -81,11 +81,6 @@
       }
     },
     {
-      "title": "Everything Everything",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Faster",
       "ranked_modes": [
         "osu"
@@ -167,11 +162,6 @@
       }
     },
     {
-      "title": "Rift",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Slingshot",
       "ranked_modes": [
         "fruits",
@@ -213,11 +203,6 @@
       }
     },
     {
-      "title": "Wall",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Witches",
       "ranked_modes": [
         "osu"
@@ -227,7 +212,22 @@
           2416816
         ]
       }
+    },
+    {
+      "title": "Everything Everything",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rift",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wall",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:58:42Z"
+  "updated_at": "2026-03-28T13:03:00Z"
 }

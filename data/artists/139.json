@@ -3,17 +3,42 @@
   "name": "Shawn Wasabi",
   "tracks": [
     {
+      "title": "Shawn Wasabi - HALO HALO (feat. Chevy)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2210879
+        ]
+      }
+    },
+    {
+      "title": "Shawn Wasabi - Otter Pop (feat. Hollis)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2012965
+        ],
+        "mania": [
+          1623184
+        ],
+        "fruits": [
+          1554250
+        ]
+      }
+    },
+    {
       "title": "Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Shawn Wasabi - HALO HALO (feat. Chevy)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -33,11 +58,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shawn Wasabi - Otter Pop (feat. Hollis)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Shawn Wasabi - SPICY BOYFRIEND",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -53,5 +73,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:10:59Z"
+  "updated_at": "2026-03-28T14:45:27Z"
 }

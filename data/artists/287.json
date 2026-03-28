@@ -3,11 +3,6 @@
   "name": "Pegboard Nerds",
   "tracks": [
     {
-      "title": "BAMF",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Disconnected",
       "ranked_modes": [
         "osu",
@@ -33,11 +28,6 @@
           391823
         ]
       }
-    },
-    {
-      "title": "Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gunslinga (feat. MC Mota)",
@@ -74,16 +64,6 @@
       }
     },
     {
-      "title": "Pegboard Nerds x MisterWives - Coffins",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Snails & Pegboard Nerds - Deep In The Night",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Try This",
       "ranked_modes": [
         "osu"
@@ -105,7 +85,27 @@
           1816877
         ]
       }
+    },
+    {
+      "title": "BAMF",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pegboard Nerds x MisterWives - Coffins",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Snails & Pegboard Nerds - Deep In The Night",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:51:03Z"
+  "updated_at": "2026-03-28T14:14:32Z"
 }

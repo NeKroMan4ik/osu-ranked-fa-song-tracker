@@ -56,11 +56,6 @@
       }
     },
     {
-      "title": "Frums (unknown \"lambda\") - 19ZZ",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "HALL",
       "ranked_modes": [
         "mania"
@@ -82,11 +77,6 @@
           1566206
         ]
       }
-    },
-    {
-      "title": "Jam with Pancake",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mdrqnxtagon",
@@ -142,10 +132,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           1049855
         ],
-        "taiko": [
+        "osu": [
           1049855
         ]
       }
@@ -203,8 +193,20 @@
     },
     {
       "title": "Star Of The COME ON!!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1305627,
+          1313199
+        ],
+        "taiko": [
+          1036375,
+          1108821
+        ]
+      }
     },
     {
       "title": "the end of this world, and the girl who crossed the moon's oceans.",
@@ -297,10 +299,20 @@
       }
     },
     {
+      "title": "Frums (unknown \"lambda\") - 19ZZ",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jam with Pancake",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Zephyrs",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:26:23Z"
+  "updated_at": "2026-03-28T12:58:46Z"
 }

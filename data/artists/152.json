@@ -37,11 +37,6 @@
       }
     },
     {
-      "title": "Incultus",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Long Live Our Lifeless King",
       "ranked_modes": [
         "osu"
@@ -96,26 +91,6 @@
       }
     },
     {
-      "title": "Rebirth of an Old Nation",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Last Relic of Axen",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Leper's Prospect",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Sound of a Glinting Blade",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Sound of a Glinting Blade / The Sound Which Has No Name",
       "ranked_modes": [
         "osu"
@@ -142,16 +117,6 @@
       }
     },
     {
-      "title": "The Sound Which Has No Name",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Through Chains That Drag Us Downward",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "To Higher Climes Where Few Might Stand",
       "ranked_modes": [
         "osu"
@@ -172,7 +137,42 @@
           1474871
         ]
       }
+    },
+    {
+      "title": "Incultus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rebirth of an Old Nation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Last Relic of Axen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Leper's Prospect",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Sound of a Glinting Blade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Sound Which Has No Name",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Through Chains That Drag Us Downward",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:42:58Z"
+  "updated_at": "2026-03-28T15:26:51Z"
 }

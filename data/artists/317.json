@@ -15,11 +15,6 @@
       }
     },
     {
-      "title": "Circles!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "let me smile again",
       "ranked_modes": [
         "fruits"
@@ -29,16 +24,6 @@
           528343
         ]
       }
-    },
-    {
-      "title": "Relentless",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Shoot the star",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "You spin my world",
@@ -55,15 +40,30 @@
         "fruits": [
           2038439
         ],
+        "taiko": [
+          1933822
+        ],
         "osu": [
           1873680,
           1933822
-        ],
-        "taiko": [
-          1933822
         ]
       }
+    },
+    {
+      "title": "Circles!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Relentless",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shoot the star",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:00:33Z"
+  "updated_at": "2026-03-28T13:04:37Z"
 }

@@ -3,6 +3,32 @@
   "name": "tachibanaka",
   "tracks": [
     {
+      "title": "Sayonara",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2330830
+        ],
+        "osu": [
+          2330830
+        ]
+      }
+    },
+    {
+      "title": "Subsidence",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2283380
+        ]
+      }
+    },
+    {
       "title": "Daylight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -48,21 +74,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sayonara",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2330830
-        ],
-        "taiko": [
-          2330830
-        ]
-      }
-    },
-    {
       "title": "Sea of Liquid",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -83,17 +94,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Subsidence",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2283380
-        ]
-      }
-    },
-    {
       "title": "tachibanaka, hellfly - Shattered Mind",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -104,5 +104,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:23:06Z"
+  "updated_at": "2026-03-28T15:00:53Z"
 }

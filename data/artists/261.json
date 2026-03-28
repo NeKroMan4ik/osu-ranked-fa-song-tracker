@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "Calling Out (feat. KG & Skyelle)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Children of Hell",
       "ranked_modes": [
         "osu"
@@ -69,11 +64,6 @@
       }
     },
     {
-      "title": "In The Night (feat. Sullivan King)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lost Forever",
       "ranked_modes": [
         "osu"
@@ -98,11 +88,6 @@
           1751193
         ]
       }
-    },
-    {
-      "title": "Play (feat. UK:ID)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spectrum",
@@ -130,7 +115,22 @@
           419291
         ]
       }
+    },
+    {
+      "title": "Calling Out (feat. KG & Skyelle)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "In The Night (feat. Sullivan King)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Play (feat. UK:ID)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:38:38Z"
+  "updated_at": "2026-03-28T13:57:36Z"
 }

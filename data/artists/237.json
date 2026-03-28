@@ -3,6 +3,21 @@
   "name": "Atavistia",
   "tracks": [
     {
+      "title": "Through The Hollow Raven's Eyes",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1582048
+        ],
+        "osu": [
+          1612960
+        ]
+      }
+    },
+    {
       "title": "Beyond The Meadows Of Fire",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -26,18 +41,7 @@
       "title": "The Winter Way",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Through The Hollow Raven's Eyes",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1582048
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:29:22Z"
+  "updated_at": "2026-03-28T12:15:55Z"
 }

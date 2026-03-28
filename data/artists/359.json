@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "2008darkwind",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aishuu Ningyo",
       "ranked_modes": [
         "mania",
@@ -36,26 +31,6 @@
           2121174
         ]
       }
-    },
-    {
-      "title": "Akuma no Ningyou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ancient Sun",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Angel Ring",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Anti-Light System",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Anvilia",
@@ -95,16 +70,6 @@
       }
     },
     {
-      "title": "Axa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AxoqLixil",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Bernkastel's Sanctuary",
       "ranked_modes": [
         "osu",
@@ -120,11 +85,6 @@
       }
     },
     {
-      "title": "Black Church",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Bloody Darkness",
       "ranked_modes": [
         "osu"
@@ -136,11 +96,6 @@
       }
     },
     {
-      "title": "Bloody Mary",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Book of Dark Magic",
       "ranked_modes": [
         "osu"
@@ -150,6 +105,306 @@
           2127556
         ]
       }
+    },
+    {
+      "title": "Darkness Parade",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2078577
+        ]
+      }
+    },
+    {
+      "title": "Lavis Moon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2224399,
+          2236398
+        ]
+      }
+    },
+    {
+      "title": "M U T A T i O N (((((9^9)^9)^9)^9)^9)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2235017
+        ]
+      }
+    },
+    {
+      "title": "magic rock \"Moola\"",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2105573
+        ]
+      }
+    },
+    {
+      "title": "Moon Atomizer",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2214952
+        ]
+      }
+    },
+    {
+      "title": "Moon Flower",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2026068
+        ]
+      }
+    },
+    {
+      "title": "Mortem Oppetere",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2435855
+        ]
+      }
+    },
+    {
+      "title": "Mystery Doll",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2399469
+        ]
+      }
+    },
+    {
+      "title": "Parasitic Cell Type D",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1968108
+        ]
+      }
+    },
+    {
+      "title": "Prophecy of the Black Sun",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2467033
+        ]
+      }
+    },
+    {
+      "title": "Psycho Gene",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1884657
+        ]
+      }
+    },
+    {
+      "title": "Rengoku Mania",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1980586
+        ]
+      }
+    },
+    {
+      "title": "Shinseki Yomotsu Hirasaka Ifuyasaka Densetsu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1947301
+        ]
+      }
+    },
+    {
+      "title": "Silver Mutation",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2067206
+        ]
+      }
+    },
+    {
+      "title": "Silver Orbit",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2411802
+        ]
+      }
+    },
+    {
+      "title": "sodium ethyl xanthate",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2023131
+        ],
+        "taiko": [
+          1992407
+        ]
+      }
+    },
+    {
+      "title": "STRIKER+",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2065079
+        ],
+        "osu": [
+          1966073
+        ]
+      }
+    },
+    {
+      "title": "The Evolution of War",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1987180
+        ]
+      }
+    },
+    {
+      "title": "The Ruby of Twilight",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2471980
+        ]
+      }
+    },
+    {
+      "title": "Tree of Misery",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2258696
+        ],
+        "mania": [
+          2242640
+        ]
+      }
+    },
+    {
+      "title": "Violet SunLight",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2152760
+        ]
+      }
+    },
+    {
+      "title": "White Ring",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2413075
+        ]
+      }
+    },
+    {
+      "title": "2008darkwind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Akuma no Ningyou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ancient Sun",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Angel Ring",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Anti-Light System",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Axa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AxoqLixil",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Black Church",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bloody Mary",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Butterfly Killer",
@@ -170,17 +425,6 @@
       "title": "Dark Ring System",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Darkness Parade",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2078577
-        ]
-      }
     },
     {
       "title": "Daylight Scar",
@@ -298,18 +542,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Lavis Moon",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2224399,
-          2236398
-        ]
-      }
-    },
-    {
       "title": "loppi_complex",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -318,28 +550,6 @@
       "title": "LuNa99998",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "M U T A T i O N (((((9^9)^9)^9)^9)^9)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2235017
-        ]
-      }
-    },
-    {
-      "title": "magic rock \"Moola\"",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2105573
-        ]
-      }
     },
     {
       "title": "magic stone \"Iristia\"",
@@ -377,39 +587,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Moon Atomizer",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2214952
-        ]
-      }
-    },
-    {
-      "title": "Moon Flower",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2026068
-        ]
-      }
-    },
-    {
-      "title": "Mortem Oppetere",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2435855
-        ]
-      }
-    },
-    {
       "title": "Mr. Kurzweil",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -418,17 +595,6 @@
       "title": "Mr. Psychopath",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Mystery Doll",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2399469
-        ]
-      }
     },
     {
       "title": "Omaju",
@@ -446,42 +612,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Parasitic Cell Type D",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1968108
-        ]
-      }
-    },
-    {
       "title": "Poisonous Mind",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Prophecy of the Black Sun",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2467033
-        ]
-      }
-    },
-    {
-      "title": "Psycho Gene",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1884657
-        ]
-      }
     },
     {
       "title": "Realm of The Dead",
@@ -492,17 +625,6 @@
       "title": "Red Hourglass",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rengoku Mania",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1980586
-        ]
-      }
     },
     {
       "title": "Revolution to the Origin",
@@ -525,42 +647,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shinseki Yomotsu Hirasaka Ifuyasaka Densetsu",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1947301
-        ]
-      }
-    },
-    {
       "title": "Shinshoku",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Silver Mutation",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2067206
-        ]
-      }
-    },
-    {
-      "title": "Silver Orbit",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2411802
-        ]
-      }
     },
     {
       "title": "Six King Carnival",
@@ -571,21 +660,6 @@
       "title": "Sky Lantern",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "sodium ethyl xanthate",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2023131
-        ],
-        "taiko": [
-          1992407
-        ]
-      }
     },
     {
       "title": "Solitary Flower Maiden",
@@ -601,21 +675,6 @@
       "title": "St. Ophelia",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "STRIKER+",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2065079
-        ],
-        "osu": [
-          1966073
-        ]
-      }
     },
     {
       "title": "Sun Flower",
@@ -638,17 +697,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Evolution of War",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1987180
-        ]
-      }
-    },
-    {
       "title": "The Heart of Genesis",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -664,17 +712,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Ruby of Twilight",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2471980
-        ]
-      }
-    },
-    {
       "title": "Total Annihilation of The Mind",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -685,47 +722,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tree of Misery",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2258696
-        ],
-        "mania": [
-          2242640
-        ]
-      }
-    },
-    {
       "title": "Twilight Ceremony",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Violet SunLight",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2152760
-        ]
-      }
-    },
-    {
-      "title": "White Ring",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2413075
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T12:27:44Z"
+  "updated_at": "2026-03-28T12:40:28Z"
 }

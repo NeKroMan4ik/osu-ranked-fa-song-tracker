@@ -3,21 +3,6 @@
   "name": "ikaruga_nex",
   "tracks": [
     {
-      "title": "After The Rain",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BLAZES ASSAULT",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lilith ambivalence lovers",
       "ranked_modes": [
         "osu"
@@ -27,11 +12,6 @@
           1084460
         ]
       }
-    },
-    {
-      "title": "Mirage",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ReviXy",
@@ -60,10 +40,30 @@
       }
     },
     {
+      "title": "After The Rain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BLAZES ASSAULT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mirage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "ultimer",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:07:12Z"
+  "updated_at": "2026-03-28T13:14:45Z"
 }

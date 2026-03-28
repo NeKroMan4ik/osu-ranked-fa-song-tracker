@@ -3,11 +3,6 @@
   "name": "yukitani",
   "tracks": [
     {
-      "title": "Amusing Colorful Pudding.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Amusing Reflection Rag.",
       "ranked_modes": [
         "taiko"
@@ -19,25 +14,30 @@
       }
     },
     {
-      "title": "Kaiden joy Aura",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Minamichita EVOLVED",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          136632
-        ],
         "taiko": [
           136632,
           1756970
+        ],
+        "osu": [
+          136632
         ]
       }
+    },
+    {
+      "title": "Amusing Colorful Pudding.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kaiden joy Aura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Otodan Choujin Gorillaizer",
@@ -45,5 +45,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:47:34Z"
+  "updated_at": "2026-03-28T15:32:04Z"
 }

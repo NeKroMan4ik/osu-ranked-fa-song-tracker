@@ -3,16 +3,6 @@
   "name": "Fractal",
   "tracks": [
     {
-      "title": "Au5 & Fractal - Blue",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Au5 & Fractal - Halcyon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Collide (feat. Danyka Nadeau)",
       "ranked_modes": [
         "osu"
@@ -44,7 +34,17 @@
           942117
         ]
       }
+    },
+    {
+      "title": "Au5 & Fractal - Blue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Fractal - Halcyon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:53:37Z"
+  "updated_at": "2026-03-28T12:56:41Z"
 }

@@ -3,6 +3,17 @@
   "name": "Aethral",
   "tracks": [
     {
+      "title": "It's Boss Time, dude",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1724172
+        ]
+      }
+    },
+    {
       "title": "Aethral & Miss Lina - Luminescence",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -38,17 +49,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "It's Boss Time, dude",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1724172
-        ]
-      }
-    },
-    {
       "title": "Last Boss Big B0ss",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -69,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-23T21:01:58Z"
+  "updated_at": "2026-03-28T12:01:42Z"
 }

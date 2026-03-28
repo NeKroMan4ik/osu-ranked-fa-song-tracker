@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "Khalinkaa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Punishment (Dustvoxx Remix)",
       "ranked_modes": [
         "mania"
@@ -30,10 +25,15 @@
       }
     },
     {
+      "title": "Khalinkaa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Shankara",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:31:19Z"
+  "updated_at": "2026-03-28T12:19:27Z"
 }

@@ -3,26 +3,6 @@
   "name": "Ruby My Dear",
   "tracks": [
     {
-      "title": "7C0",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A Dada",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Anemone",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Clinpf Eepfwoof",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Croque Monsieur A Disneyland",
       "ranked_modes": [
         "fruits",
@@ -56,6 +36,52 @@
           2101653
         ]
       }
+    },
+    {
+      "title": "Nour",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1399878
+        ],
+        "taiko": [
+          1190733
+        ]
+      }
+    },
+    {
+      "title": "Petit Poney",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2398893
+        ]
+      }
+    },
+    {
+      "title": "7C0",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A Dada",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Anemone",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Clinpf Eepfwoof",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Igorrr & Ruby My Dear - Alain",
@@ -93,32 +119,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nour",
-      "ranked_modes": [
-        "fruits",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1399878
-        ],
-        "taiko": [
-          1190733
-        ]
-      }
-    },
-    {
-      "title": "Petit Poney",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2398893
-        ]
-      }
-    },
-    {
       "title": "Saint Patron",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -134,5 +134,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:01:45Z"
+  "updated_at": "2026-03-28T14:35:34Z"
 }

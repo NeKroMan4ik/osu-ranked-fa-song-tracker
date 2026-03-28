@@ -3,6 +3,43 @@
   "name": "FRASER EDWARDS",
   "tracks": [
     {
+      "title": "Crouching Comrades, Hidden Dragonforce",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2420578
+        ]
+      }
+    },
+    {
+      "title": "Ruination",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1848184
+        ]
+      }
+    },
+    {
+      "title": "Stop Saying We Sound Like Dragonforce",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2336672
+        ],
+        "taiko": [
+          1189876
+        ]
+      }
+    },
+    {
       "title": "12 Variations (On Nyan Cat), Pt 1 - Edward Snowden",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -16,17 +53,6 @@
       "title": "Among The Stars",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Crouching Comrades, Hidden Dragonforce",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2420578
-        ]
-      }
     },
     {
       "title": "Custom Built",
@@ -74,17 +100,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ruination",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1848184
-        ]
-      }
-    },
-    {
       "title": "So Many People",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -93,21 +108,6 @@
       "title": "Sorrow Of The Loneliest Dragon",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Stop Saying We Sound Like Dragonforce",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2336672
-        ],
-        "taiko": [
-          1189876
-        ]
-      }
     },
     {
       "title": "The Adventure",
@@ -185,5 +185,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:54:27Z"
+  "updated_at": "2026-03-28T12:58:07Z"
 }

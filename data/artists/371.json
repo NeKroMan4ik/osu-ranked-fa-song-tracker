@@ -3,6 +3,61 @@
   "name": "Krimek",
   "tracks": [
     {
+      "title": "Coeval Era",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2214965
+        ]
+      }
+    },
+    {
+      "title": "Golden Tears (feat. eili)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2400092
+        ]
+      }
+    },
+    {
+      "title": "HyperColor",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2248565
+        ]
+      }
+    },
+    {
+      "title": "Idyllic World",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1978614
+        ]
+      }
+    },
+    {
+      "title": "Lunar Eclipse",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1941522
+        ]
+      }
+    },
+    {
       "title": "AzurRush",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -19,11 +74,6 @@
     },
     {
       "title": "Celeste",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Coeval Era",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -68,39 +118,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Golden Tears (feat. eili)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2400092
-        ]
-      }
-    },
-    {
-      "title": "HyperColor",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2248565
-        ]
-      }
-    },
-    {
-      "title": "Idyllic World",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1978614
-        ]
-      }
-    },
-    {
       "title": "Krimek feat. dokxid - Gravity Hole",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -124,17 +141,6 @@
       "title": "Kyoto Drive (Krimek's 'galaxy' remix)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lunar Eclipse",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1941522
-        ]
-      }
     },
     {
       "title": "MasterMaker",
@@ -197,5 +203,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:18:12Z"
+  "updated_at": "2026-03-28T13:30:18Z"
 }

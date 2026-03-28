@@ -18,16 +18,6 @@
       }
     },
     {
-      "title": "A Long Trail of Dirt",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Acrimony",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Applause",
       "ranked_modes": [
         "mania",
@@ -59,11 +49,6 @@
       }
     },
     {
-      "title": "Don't Want Any",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Facade",
       "ranked_modes": [
         "osu",
@@ -77,11 +62,6 @@
           918446
         ]
       }
-    },
-    {
-      "title": "Free",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Greetings",
@@ -151,11 +131,6 @@
       }
     },
     {
-      "title": "Sleep",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Take",
       "ranked_modes": [
         "osu",
@@ -172,6 +147,37 @@
     },
     {
       "title": "Three Times the Original Charm",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          946394
+        ]
+      }
+    },
+    {
+      "title": "A Long Trail of Dirt",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Acrimony",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Don't Want Any",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Free",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sleep",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -181,5 +187,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:19:05Z"
+  "updated_at": "2026-03-28T15:21:44Z"
 }

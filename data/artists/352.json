@@ -3,11 +3,6 @@
   "name": "Ashrount",
   "tracks": [
     {
-      "title": "Animus",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Bleary Vagary",
       "ranked_modes": [
         "fruits"
@@ -17,6 +12,22 @@
           1958376
         ]
       }
+    },
+    {
+      "title": "Jekyll & Hyde",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2151709
+        ]
+      }
+    },
+    {
+      "title": "Animus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cataraxir",
@@ -32,17 +43,6 @@
       "title": "GALVANIZER",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Jekyll & Hyde",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2151709
-        ]
-      }
     },
     {
       "title": "Maverick - opaque",
@@ -70,5 +70,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:28:48Z"
+  "updated_at": "2026-03-28T12:15:26Z"
 }

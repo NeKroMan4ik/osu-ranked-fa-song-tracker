@@ -29,11 +29,6 @@
       }
     },
     {
-      "title": "Hitotsu no Chikai yo, Eien no Uta to Nare",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ichiru no Nozomi yo, Ano Tsuki e Hibike",
       "ranked_modes": [
         "osu"
@@ -126,11 +121,6 @@
       }
     },
     {
-      "title": "Nyander*Land",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Slan Leat",
       "ranked_modes": [
         "osu",
@@ -144,7 +134,17 @@
           1176286
         ]
       }
+    },
+    {
+      "title": "Hitotsu no Chikai yo, Eien no Uta to Nare",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nyander*Land",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:49:38Z"
+  "updated_at": "2026-03-28T14:33:55Z"
 }

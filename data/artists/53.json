@@ -3,11 +3,6 @@
   "name": "Nekrogoblikon",
   "tracks": [
     {
-      "title": "Darkness",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dragons",
       "ranked_modes": [
         "osu"
@@ -17,16 +12,6 @@
           1083931
         ]
       }
-    },
-    {
-      "title": "Dressed as Goblins",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Killing Time (and Space)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mold",
@@ -40,11 +25,6 @@
       }
     },
     {
-      "title": "No One Survives",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Powercore",
       "ranked_modes": [
         "taiko"
@@ -54,6 +34,41 @@
           1289196
         ]
       }
+    },
+    {
+      "title": "The Skin Thief",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1129186
+        ],
+        "osu": [
+          1061535
+        ]
+      }
+    },
+    {
+      "title": "Darkness",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dressed as Goblins",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Killing Time (and Space)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "No One Survives",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Row",
@@ -76,25 +91,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Skin Thief",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1129186
-        ],
-        "osu": [
-          1061535
-        ]
-      }
-    },
-    {
       "title": "We Need a Gimmick",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:11:55Z"
+  "updated_at": "2026-03-28T14:01:38Z"
 }

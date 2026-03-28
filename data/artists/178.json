@@ -3,11 +3,6 @@
   "name": "wotoha",
   "tracks": [
     {
-      "title": "Cobalt Dreams",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Digital Life Hacker",
       "ranked_modes": [
         "osu",
@@ -25,16 +20,6 @@
       }
     },
     {
-      "title": "go w / da flo (feat. YACA IN DA HOUSE & KBSNK)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Happy (fam) 2",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "jelly girl",
       "ranked_modes": [
         "taiko"
@@ -44,11 +29,6 @@
           1542359
         ]
       }
-    },
-    {
-      "title": "Lonerism",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "O108ROCKET (feat. Neko Hacker)",
@@ -71,16 +51,6 @@
       }
     },
     {
-      "title": "prism song",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Psychologic (feat. nyankobrq)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "TESHiKANi",
       "ranked_modes": [
         "mania"
@@ -91,7 +61,37 @@
           2437728
         ]
       }
+    },
+    {
+      "title": "Cobalt Dreams",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "go w / da flo (feat. YACA IN DA HOUSE & KBSNK)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Happy (fam) 2",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lonerism",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "prism song",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Psychologic (feat. nyankobrq)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:42:23Z"
+  "updated_at": "2026-03-28T15:26:21Z"
 }

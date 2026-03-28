@@ -25,16 +25,6 @@
       }
     },
     {
-      "title": "Closure",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cool?",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dream",
       "ranked_modes": [
         "osu"
@@ -44,6 +34,46 @@
           1729551
         ]
       }
+    },
+    {
+      "title": "PRESS START",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2501801
+        ],
+        "mania": [
+          2501801
+        ],
+        "fruits": [
+          2501801
+        ]
+      }
+    },
+    {
+      "title": "Something Fun",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2421250
+        ]
+      }
+    },
+    {
+      "title": "Closure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cool?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Figure It Out",
@@ -76,39 +106,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "PRESS START",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2501801
-        ],
-        "fruits": [
-          2501801
-        ],
-        "taiko": [
-          2501801
-        ]
-      }
-    },
-    {
       "title": "Shades In The Sun",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Something Fun",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2421250
-        ]
-      }
     },
     {
       "title": "Summer Song",
@@ -126,5 +126,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-23T20:58:59Z"
+  "updated_at": "2026-03-28T13:19:47Z"
 }

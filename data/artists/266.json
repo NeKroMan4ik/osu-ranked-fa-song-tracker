@@ -3,16 +3,6 @@
   "name": "Neko Hacker",
   "tracks": [
     {
-      "title": "Aimai Cyborg feat. Ugokuchan & JungMato",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Chocolate Adventure feat. Nanahira",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Circulation",
       "ranked_modes": [
         "fruits",
@@ -29,11 +19,6 @@
       }
     },
     {
-      "title": "Daydream feat. mega & Sithu Aye",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Erased feat. YuNi",
       "ranked_modes": [
         "mania"
@@ -45,11 +30,6 @@
       }
     },
     {
-      "title": "Fly High (feat. mochari)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "From Zero feat. Rika",
       "ranked_modes": [
         "mania"
@@ -59,16 +39,6 @@
           1531489
         ]
       }
-    },
-    {
-      "title": "Hack You feat. Ugokuchan",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Home Sweet Home feat. KMNZ LIZ",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kuishinbo Hacker feat. Kuishinbo Akachan",
@@ -84,16 +54,6 @@
           913783
         ]
       }
-    },
-    {
-      "title": "Neko Hacker feat. Nanahira - Shuwa*Shuwa Parfait",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Night Sky feat. Mashilo & ichika",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "People People feat. Nanahira",
@@ -127,11 +87,6 @@
       }
     },
     {
-      "title": "Rainbow In The Dark (feat. Rika)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Shadows feat. Such",
       "ranked_modes": [
         "mania",
@@ -139,10 +94,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           2200847
         ],
-        "mania": [
+        "taiko": [
           2200847
         ],
         "osu": [
@@ -152,10 +107,55 @@
       }
     },
     {
+      "title": "Aimai Cyborg feat. Ugokuchan & JungMato",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chocolate Adventure feat. Nanahira",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daydream feat. mega & Sithu Aye",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fly High (feat. mochari)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hack You feat. Ugokuchan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Home Sweet Home feat. KMNZ LIZ",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Neko Hacker feat. Nanahira - Shuwa*Shuwa Parfait",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Night Sky feat. Mashilo & ichika",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rainbow In The Dark (feat. Rika)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Sweet Dreams feat. Rika",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:41:02Z"
+  "updated_at": "2026-03-28T14:01:05Z"
 }

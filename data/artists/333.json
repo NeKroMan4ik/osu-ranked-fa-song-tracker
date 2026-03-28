@@ -56,11 +56,6 @@
       }
     },
     {
-      "title": "Lid'arresh",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sono Iro",
       "ranked_modes": [
         "osu"
@@ -83,11 +78,6 @@
       }
     },
     {
-      "title": "The North Pole feat. kazune",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Who's World?",
       "ranked_modes": [
         "osu",
@@ -101,7 +91,17 @@
           1622155
         ]
       }
+    },
+    {
+      "title": "Lid'arresh",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The North Pole feat. kazune",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:50:55Z"
+  "updated_at": "2026-03-28T12:53:08Z"
 }

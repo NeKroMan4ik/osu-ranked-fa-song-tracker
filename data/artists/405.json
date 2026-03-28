@@ -3,6 +3,17 @@
   "name": "Pandize",
   "tracks": [
     {
+      "title": "Stratos",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          717623
+        ]
+      }
+    },
+    {
       "title": "Calling",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -26,18 +37,7 @@
       "title": "Pandize",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Stratos",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          717623
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:50:35Z"
+  "updated_at": "2026-03-28T14:14:07Z"
 }

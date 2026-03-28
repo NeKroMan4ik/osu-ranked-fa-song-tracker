@@ -3,11 +3,6 @@
   "name": "Kanpyohgo",
   "tracks": [
     {
-      "title": "Chiisana Chiisana Kenshou -Nostalgic Extended Rev2-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kyuu Jigokukaidou o Yuku Dance.edt",
       "ranked_modes": [
         "osu"
@@ -67,10 +62,15 @@
       }
     },
     {
+      "title": "Chiisana Chiisana Kenshou -Nostalgic Extended Rev2-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Unmei no Dark Side -Rolling Gothic Mix-",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:13:04Z"
+  "updated_at": "2026-03-28T13:22:23Z"
 }

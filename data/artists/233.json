@@ -3,16 +3,6 @@
   "name": "Boom Kitty",
   "tracks": [
     {
-      "title": "1077",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Alien Onboard",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Any Other Way (feat. Ivy Marie)",
       "ranked_modes": [
         "osu"
@@ -22,6 +12,49 @@
           1673457
         ]
       }
+    },
+    {
+      "title": "Firewall",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1254357
+        ]
+      }
+    },
+    {
+      "title": "Shredageddon",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2322155
+        ]
+      }
+    },
+    {
+      "title": "Warzone",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1881232
+        ]
+      }
+    },
+    {
+      "title": "1077",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Alien Onboard",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Badland",
@@ -74,17 +107,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Firewall",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1254357
-        ]
-      }
-    },
-    {
       "title": "Holy War",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -135,17 +157,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shredageddon",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2322155
-        ]
-      }
-    },
-    {
       "title": "Spicy Noodles",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -164,18 +175,7 @@
       "title": "Trouble",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Warzone",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1881232
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:35:48Z"
+  "updated_at": "2026-03-28T12:24:43Z"
 }

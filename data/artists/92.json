@@ -3,16 +3,6 @@
   "name": "Silentroom",
   "tracks": [
     {
-      "title": "Agito",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aliake",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Alt Futur",
       "ranked_modes": [
         "osu",
@@ -40,16 +30,6 @@
           1820635
         ]
       }
-    },
-    {
-      "title": "Another",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "B-9 syndrome",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bhutesha",
@@ -89,11 +69,6 @@
           1336266
         ]
       }
-    },
-    {
-      "title": "GAMEBOY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "garland saga",
@@ -188,11 +163,6 @@
       }
     },
     {
-      "title": "Phantomizer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Primatrix",
       "ranked_modes": [
         "osu",
@@ -208,16 +178,6 @@
       }
     },
     {
-      "title": "Shuu no Hazama [Rainshower]",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "SUPER MWC KART - Purple Palace",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "where to start",
       "ranked_modes": [
         "taiko"
@@ -229,10 +189,50 @@
       }
     },
     {
+      "title": "Agito",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aliake",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Another",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "B-9 syndrome",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "GAMEBOY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Phantomizer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shuu no Hazama [Rainshower]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SUPER MWC KART - Purple Palace",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "With Now",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:54:39Z"
+  "updated_at": "2026-03-28T14:46:40Z"
 }

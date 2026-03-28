@@ -18,11 +18,6 @@
       }
     },
     {
-      "title": "Breakdown VIP",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Crab Rave",
       "ranked_modes": [
         "mania",
@@ -38,10 +33,15 @@
       }
     },
     {
+      "title": "Breakdown VIP",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit) (Noisestorm Remix)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:42:30Z"
+  "updated_at": "2026-03-28T14:03:21Z"
 }

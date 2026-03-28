@@ -3,6 +3,71 @@
   "name": "garlagan",
   "tracks": [
     {
+      "title": "PPaper PPlanes",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1379854
+        ]
+      }
+    },
+    {
+      "title": "Skyless",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2075039
+        ]
+      }
+    },
+    {
+      "title": "Slowing Down",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1617932
+        ]
+      }
+    },
+    {
+      "title": "Uplift",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2524299
+        ],
+        "osu": [
+          1685762,
+          2196143
+        ],
+        "mania": [
+          1788341,
+          2135686
+        ]
+      }
+    },
+    {
+      "title": "What You Really Want",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1645643
+        ]
+      }
+    },
+    {
       "title": "00",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -43,42 +108,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "PPaper PPlanes",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1379854
-        ]
-      }
-    },
-    {
       "title": "Refract",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Skyless",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2075039
-        ]
-      }
-    },
-    {
-      "title": "Slowing Down",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1617932
-        ]
-      }
     },
     {
       "title": "sp0M0ky",
@@ -89,35 +121,7 @@
       "title": "There",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Uplift",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1685762,
-          2196143
-        ],
-        "mania": [
-          1788341,
-          2135686
-        ]
-      }
-    },
-    {
-      "title": "What You Really Want",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1645643
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:55:24Z"
+  "updated_at": "2026-03-28T12:59:24Z"
 }

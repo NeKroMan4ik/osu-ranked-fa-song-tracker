@@ -3,11 +3,6 @@
   "name": "False Noise",
   "tracks": [
     {
-      "title": "Become Surrounded By",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Distant Structures",
       "ranked_modes": [
         "taiko"
@@ -19,21 +14,6 @@
       }
     },
     {
-      "title": "Emerald Green",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hallucinate",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hyperlight",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kek",
       "ranked_modes": [
         "osu"
@@ -43,11 +23,6 @@
           944723
         ]
       }
-    },
-    {
-      "title": "Scarlet Red",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Serpentine",
@@ -69,16 +44,6 @@
       }
     },
     {
-      "title": "Shiver",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sky Shards",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Space Angel",
       "ranked_modes": [
         "mania",
@@ -96,7 +61,42 @@
           1238432
         ]
       }
+    },
+    {
+      "title": "Become Surrounded By",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Emerald Green",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hallucinate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyperlight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Scarlet Red",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shiver",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sky Shards",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:11:34Z"
+  "updated_at": "2026-03-28T12:54:45Z"
 }

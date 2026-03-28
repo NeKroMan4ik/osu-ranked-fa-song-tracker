@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "bumblebee bazooka",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "fizzy pop",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "HYPERDRIVE",
       "ranked_modes": [
         "fruits",
@@ -38,21 +28,6 @@
           737866
         ]
       }
-    },
-    {
-      "title": "Neverland",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pinky Promise",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pixie Dust",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "popsicle beach",
@@ -72,18 +47,21 @@
     {
       "title": "rainbow road",
       "ranked_modes": [
-        "osu"
+        "fruits",
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
           375073
+        ],
+        "taiko": [
+          1812415
+        ],
+        "fruits": [
+          1234892
         ]
       }
-    },
-    {
-      "title": "sugar rush",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "sugar rush (vocal mix)",
@@ -95,7 +73,37 @@
           973336
         ]
       }
+    },
+    {
+      "title": "bumblebee bazooka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "fizzy pop",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Neverland",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pinky Promise",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pixie Dust",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sugar rush",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T12:40:56Z"
+  "updated_at": "2026-03-28T13:59:29Z"
 }

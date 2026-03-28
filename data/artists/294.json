@@ -3,6 +3,29 @@
   "name": "Abuse",
   "tracks": [
     {
+      "title": "Flowers, Mountains and Funerals",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1668761
+        ]
+      }
+    },
+    {
+      "title": "Want To Be Cremated",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1801974,
+          2479669
+        ]
+      }
+    },
+    {
       "title": "Christ",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -23,17 +46,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Flowers, Mountains and Funerals",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1668761
-        ]
-      }
-    },
-    {
       "title": "Judas",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -42,18 +54,7 @@
       "title": "Shinjuku Jack",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Want To Be Cremated",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1801974
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-23T21:40:19Z"
+  "updated_at": "2026-03-28T12:00:53Z"
 }

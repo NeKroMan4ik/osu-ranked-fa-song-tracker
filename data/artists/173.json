@@ -3,6 +3,17 @@
   "name": "Aquestion",
   "tracks": [
     {
+      "title": "Aquestion - Umami Blaze",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1976814
+        ]
+      }
+    },
+    {
       "title": "Aquestion - Arrogation",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -28,11 +39,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Aquestion - Umami Blaze",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aquestion - We just wanted to live on the earth",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -48,5 +54,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:27:16Z"
+  "updated_at": "2026-03-28T12:11:42Z"
 }

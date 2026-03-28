@@ -22,11 +22,6 @@
       }
     },
     {
-      "title": "CHIBORG KYOKO",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "CLUB27",
       "ranked_modes": [
         "osu"
@@ -38,16 +33,6 @@
       }
     },
     {
-      "title": "DARK RIDE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "KAMING OUT",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "KIMI WA OKUMAGASO",
       "ranked_modes": [
         "fruits"
@@ -57,7 +42,22 @@
           1779476
         ]
       }
+    },
+    {
+      "title": "CHIBORG KYOKO",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DARK RIDE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KAMING OUT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:35:08Z"
+  "updated_at": "2026-03-28T15:19:26Z"
 }

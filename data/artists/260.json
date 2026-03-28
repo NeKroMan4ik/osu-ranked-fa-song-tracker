@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "Kafir!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kem Khefa Kheshef",
       "ranked_modes": [
         "taiko"
@@ -28,16 +23,6 @@
           1931115
         ]
       }
-    },
-    {
-      "title": "Permitting the Noble Dead to Descend to the Underworld",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Snake Pit Mating Frenzy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Eye of Ra",
@@ -62,10 +47,25 @@
       }
     },
     {
+      "title": "Kafir!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Permitting the Noble Dead to Descend to the Underworld",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Snake Pit Mating Frenzy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Vile Nilotic Rites",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:41:39Z"
+  "updated_at": "2026-03-28T14:02:11Z"
 }

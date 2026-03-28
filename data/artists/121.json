@@ -68,16 +68,6 @@
       }
     },
     {
-      "title": "Chocomaca Runaway!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fickle Rule",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "FULi AUTO BUSTER",
       "ranked_modes": [
         "taiko"
@@ -89,32 +79,17 @@
       }
     },
     {
-      "title": "FULi AUTO BUSTER (FULi Ver)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "FULi AUTO SHOOTER",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "FULi AUTO SHOOTER (short ver)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ginevra",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          2208532
-        ],
         "taiko": [
           1991415,
+          2208532
+        ],
+        "osu": [
           2208532
         ]
       }
@@ -169,11 +144,6 @@
       }
     },
     {
-      "title": "OTTAMA GAZER",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "re[in]flaw",
       "ranked_modes": [
         "mania",
@@ -204,11 +174,6 @@
       }
     },
     {
-      "title": "SUTTOKO-HOLD-ON",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The 89's Momentum",
       "ranked_modes": [
         "fruits",
@@ -229,6 +194,41 @@
       }
     },
     {
+      "title": "Chocomaca Runaway!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fickle Rule",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FULi AUTO BUSTER (FULi Ver)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FULi AUTO SHOOTER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FULi AUTO SHOOTER (short ver)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "OTTAMA GAZER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SUTTOKO-HOLD-ON",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "We're Square",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -244,5 +244,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:39:37Z"
+  "updated_at": "2026-03-28T13:58:48Z"
 }

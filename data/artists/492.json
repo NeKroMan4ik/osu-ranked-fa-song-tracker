@@ -3,16 +3,6 @@
   "name": "GRYSCL",
   "tracks": [
     {
-      "title": "And So You Felt",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Collapse -apres la ruine-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Escapism",
       "ranked_modes": [
         "mania"
@@ -24,11 +14,6 @@
       }
     },
     {
-      "title": "RADIUM",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Wwhatevver",
       "ranked_modes": [
         "taiko"
@@ -38,7 +23,22 @@
           2342916
         ]
       }
+    },
+    {
+      "title": "And So You Felt",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Collapse -apres la ruine-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "RADIUM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:59:48Z"
+  "updated_at": "2026-03-28T13:03:58Z"
 }

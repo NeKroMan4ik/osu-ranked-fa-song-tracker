@@ -3,6 +3,21 @@
   "name": "Tanger",
   "tracks": [
     {
+      "title": "tiny windows (feat. Frizk)",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2483449
+        ],
+        "osu": [
+          2391171
+        ]
+      }
+    },
+    {
       "title": "! SIREN PARTY !",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -98,21 +113,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "tiny windows (feat. Frizk)",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2483449
-        ],
-        "osu": [
-          2391171
-        ]
-      }
-    },
-    {
       "title": "tiny windows (instrumental)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -123,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:24:53Z"
+  "updated_at": "2026-03-28T15:02:28Z"
 }

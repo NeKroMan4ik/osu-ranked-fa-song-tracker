@@ -3,21 +3,6 @@
   "name": "glass beach",
   "tracks": [
     {
-      "title": "1015",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "bathroom community",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "bedroom community",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "calico",
       "ranked_modes": [
         "osu"
@@ -27,11 +12,6 @@
           1288714
         ]
       }
-    },
-    {
-      "title": "Calico (Emo Rocksteady Cover)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "classic j dies and goes to hell part 1",
@@ -62,11 +42,6 @@
           2183740
         ]
       }
-    },
-    {
-      "title": "cold weather (GWIZ '180mph on the 405' Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "dallas",
@@ -101,8 +76,18 @@
     },
     {
       "title": "Neon Glow",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2260328
+        ],
+        "osu": [
+          2190181
+        ]
+      }
     },
     {
       "title": "neon glow",
@@ -135,11 +120,6 @@
       }
     },
     {
-      "title": "planetarium",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "running",
       "ranked_modes": [
         "osu"
@@ -162,10 +142,40 @@
       }
     },
     {
+      "title": "1015",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "bathroom community",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "bedroom community",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Calico (Emo Rocksteady Cover)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cold weather (GWIZ '180mph on the 405' Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "planetarium",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "yoshis island (clover & sealife world 7x7 mix)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:57:42Z"
+  "updated_at": "2026-03-28T13:02:06Z"
 }

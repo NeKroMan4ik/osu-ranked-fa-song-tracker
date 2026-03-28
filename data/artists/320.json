@@ -26,11 +26,6 @@
       }
     },
     {
-      "title": "Entropy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Event Horizon",
       "ranked_modes": [
         "osu"
@@ -40,6 +35,22 @@
           2052791
         ]
       }
+    },
+    {
+      "title": "Time Traveler",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2142618
+        ]
+      }
+    },
+    {
+      "title": "Entropy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lightspeed",
@@ -60,18 +71,7 @@
       "title": "Singularity",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Time Traveler",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2142618
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:50:10Z"
+  "updated_at": "2026-03-28T12:52:01Z"
 }

@@ -3,16 +3,6 @@
   "name": "Getty",
   "tracks": [
     {
-      "title": "Blaze (Shandy Kubota remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BLVST BEVT (VIP)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Burned Out feat. DJ Noriken",
       "ranked_modes": [
         "taiko"
@@ -22,6 +12,27 @@
           1439853
         ]
       }
+    },
+    {
+      "title": "Neo Bright feat. TEA",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2222733
+        ]
+      }
+    },
+    {
+      "title": "Blaze (Shandy Kubota remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BLVST BEVT (VIP)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FLVSH OUT",
@@ -99,17 +110,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Neo Bright feat. TEA",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2222733
-        ]
-      }
-    },
-    {
       "title": "Outercage",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -145,5 +145,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:57:13Z"
+  "updated_at": "2026-03-28T13:01:00Z"
 }

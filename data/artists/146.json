@@ -19,21 +19,63 @@
     },
     {
       "title": "polysha - Evanescent Edge",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2226956
+        ],
+        "mania": [
+          1706967
+        ]
+      }
     },
     {
       "title": "polysha - ExeQtion&Redemption",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "polysha - Has not come yet",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1443395
+        ]
+      }
     },
     {
       "title": "polysha - Hypnos Metropolis",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2162935
+        ],
+        "fruits": [
+          1339895
+        ]
+      }
+    },
+    {
+      "title": "polysha - TAKEMIKADUCHI",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1357994,
+          2326684
+        ],
+        "taiko": [
+          1655030
+        ]
+      }
+    },
+    {
+      "title": "polysha - Has not come yet",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -54,11 +96,6 @@
     },
     {
       "title": "polysha - Sora Soko wo Kakeru",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "polysha - TAKEMIKADUCHI",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -98,5 +135,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:52:14Z"
+  "updated_at": "2026-03-28T14:15:36Z"
 }

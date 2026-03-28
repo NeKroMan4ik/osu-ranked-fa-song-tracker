@@ -3,11 +3,6 @@
   "name": "DOT96",
   "tracks": [
     {
-      "title": "JETSTICK PT.1.5",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "MAKE IT FUNKY NOW",
       "ranked_modes": [
         "fruits",
@@ -31,6 +26,11 @@
       }
     },
     {
+      "title": "JETSTICK PT.1.5",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "REASONING",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -41,5 +41,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:45:16Z"
+  "updated_at": "2026-03-28T12:46:42Z"
 }

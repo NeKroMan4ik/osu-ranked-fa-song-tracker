@@ -3,21 +3,6 @@
   "name": "Symholic",
   "tracks": [
     {
-      "title": "-----",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Akuma no Gyakugobousei",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Altaria",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Angelology",
       "ranked_modes": [
         "osu"
@@ -27,21 +12,6 @@
           1530294
         ]
       }
-    },
-    {
-      "title": "Chinurareta Kanojo no Tsuioku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Chiriyuku Kazahana",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Demythology",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ghostology",
@@ -64,6 +34,80 @@
           1000676
         ]
       }
+    },
+    {
+      "title": "Kimi ni Tewatashita Ichirin no Hana",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2212213
+        ]
+      }
+    },
+    {
+      "title": "Kotowari no Saihate ni Saku Hana",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1443039
+        ]
+      }
+    },
+    {
+      "title": "Maisery",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1322631
+        ]
+      }
+    },
+    {
+      "title": "Tokei no Tsue",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2213967
+        ]
+      }
+    },
+    {
+      "title": "-----",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Akuma no Gyakugobousei",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Altaria",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chinurareta Kanojo no Tsuioku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chiriyuku Kazahana",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Demythology",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Guren ni Ochiru Kokoro",
@@ -126,17 +170,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kimi ni Tewatashita Ichirin no Hana",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2212213
-        ]
-      }
-    },
-    {
       "title": "Kioku no Hana",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -145,17 +178,6 @@
       "title": "Kokkyou no Noroi",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kotowari no Saihate ni Saku Hana",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1443039
-        ]
-      }
     },
     {
       "title": "Kurumizaka Iori & Paspal feat. Hatsuki Yura & Konori - Keikoku no Syuen ~Kousou no Shihaisya~",
@@ -176,17 +198,6 @@
       "title": "Madou no Uwasa",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Maisery",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1322631
-        ]
-      }
     },
     {
       "title": "Nagareru Hosi no Uranaishi",
@@ -279,17 +290,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tokei no Tsue",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2213967
-        ]
-      }
-    },
-    {
       "title": "Tokihanatareta Kioku",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -320,5 +320,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:22:04Z"
+  "updated_at": "2026-03-28T14:58:40Z"
 }

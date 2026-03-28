@@ -3,11 +3,6 @@
   "name": "takehirotei",
   "tracks": [
     {
-      "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Chronoexplorers (feat. Finite Limit)",
       "ranked_modes": [
         "osu"
@@ -35,16 +30,6 @@
       }
     },
     {
-      "title": "HowToPlayLN - Normal Distribution (takehirotei \"t-distribution\" remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kuba Oms - My Love (takehirotei remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Quad Erat Demonstrandum",
       "ranked_modes": [
         "taiko"
@@ -58,9 +43,13 @@
     {
       "title": "SEISHUN://NO_HACKING",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2523852
+        ],
         "mania": [
           2498399,
           2503449
@@ -79,6 +68,21 @@
       }
     },
     {
+      "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HowToPlayLN - Normal Distribution (takehirotei \"t-distribution\" remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuba Oms - My Love (takehirotei remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "takehirotei as \"Infinite Limit\" - C://YOU NEX-TIME",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -94,5 +98,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:23:37Z"
+  "updated_at": "2026-03-28T15:01:21Z"
 }

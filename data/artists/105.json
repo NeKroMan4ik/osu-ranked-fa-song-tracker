@@ -3,6 +3,28 @@
   "name": "cute girls doing cute things",
   "tracks": [
     {
+      "title": "Ideal",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1292718
+        ]
+      }
+    },
+    {
+      "title": "Main Heroine",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1337389
+        ]
+      }
+    },
+    {
       "title": "Bad Attitude",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -23,31 +45,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ideal",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1292718
-        ]
-      }
-    },
-    {
       "title": "Let's Go",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Main Heroine",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1337389
-        ]
-      }
     },
     {
       "title": "Too Spicy",
@@ -60,5 +60,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:41:29Z"
+  "updated_at": "2026-03-28T12:38:08Z"
 }

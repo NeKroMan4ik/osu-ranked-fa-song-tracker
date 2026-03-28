@@ -14,36 +14,6 @@
       }
     },
     {
-      "title": "Attractor Dimension",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Calamity of the Mystic Garden : Doom",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cosmic Blaster",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "cry of viyella",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dustvoxx, Laur - FireLight",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Euphoria",
       "ranked_modes": [
         "mania"
@@ -68,11 +38,6 @@
       }
     },
     {
-      "title": "Kokushi Musou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Koto no Ha",
       "ranked_modes": [
         "mania"
@@ -84,46 +49,6 @@
       }
     },
     {
-      "title": "Lash Out",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur feat. Aitsuki Nakuru - Collapse",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur feat. Mishamo - Let's! Miracle * HARDCORE!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur feat. Risa Yuzuki - Afflict",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur feat. Risa Yuzuki - Megaera",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur feat. Sennzai - Lure",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur vs. CK - Lost Civilization",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur vs. M1shamo - Deceiver",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PRISTINE",
       "ranked_modes": [
         "fruits",
@@ -131,6 +56,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          840447,
           872448,
           1804855
         ],
@@ -138,11 +64,6 @@
           1213868
         ]
       }
-    },
-    {
-      "title": "Quaerite Veritatis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rebuff",
@@ -215,11 +136,6 @@
       }
     },
     {
-      "title": "Venomous Virus",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Viyella's Destiny",
       "ranked_modes": [
         "mania"
@@ -229,11 +145,6 @@
           2140655
         ]
       }
-    },
-    {
-      "title": "Viyella's Memory",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Viyella's Nightmare",
@@ -249,7 +160,97 @@
           1702668
         ]
       }
+    },
+    {
+      "title": "Attractor Dimension",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Calamity of the Mystic Garden : Doom",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cosmic Blaster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cry of viyella",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, Laur - FireLight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kokushi Musou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lash Out",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Aitsuki Nakuru - Collapse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Mishamo - Let's! Miracle * HARDCORE!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Risa Yuzuki - Afflict",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Risa Yuzuki - Megaera",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Sennzai - Lure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur vs. CK - Lost Civilization",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur vs. M1shamo - Deceiver",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Quaerite Veritatis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Venomous Virus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Viyella's Memory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:20:24Z"
+  "updated_at": "2026-03-28T13:32:50Z"
 }

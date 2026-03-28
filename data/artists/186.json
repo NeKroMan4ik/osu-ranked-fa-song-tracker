@@ -3,11 +3,6 @@
   "name": "SEBii",
   "tracks": [
     {
-      "title": "BONErr",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Butterfly Bankai",
       "ranked_modes": [
         "osu"
@@ -45,6 +40,11 @@
       }
     },
     {
+      "title": "BONErr",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Play Poker! (feat. ERISU)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -55,5 +55,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:06:33Z"
+  "updated_at": "2026-03-28T14:41:07Z"
 }

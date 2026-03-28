@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "aphelion point",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Call Me",
       "ranked_modes": [
         "osu"
@@ -39,11 +34,6 @@
           2211559
         ]
       }
-    },
-    {
-      "title": "cosmic gardener",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enrai",
@@ -72,11 +62,6 @@
       }
     },
     {
-      "title": "helical symmetry",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "howl",
       "ranked_modes": [
         "osu"
@@ -98,11 +83,6 @@
           1680958
         ]
       }
-    },
-    {
-      "title": "lettre",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lilac slumber -cosmic ver.-",
@@ -129,16 +109,6 @@
           1619033
         ]
       }
-    },
-    {
-      "title": "Muishiki no Machi",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Natsu no Awa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Palermo",
@@ -177,21 +147,6 @@
       }
     },
     {
-      "title": "steam driven girl",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tabi ni Deru",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "takeoff climb",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Transient",
       "ranked_modes": [
         "fruits",
@@ -225,7 +180,52 @@
           1726067
         ]
       }
+    },
+    {
+      "title": "aphelion point",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cosmic gardener",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "helical symmetry",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "lettre",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muishiki no Machi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Natsu no Awa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "steam driven girl",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tabi ni Deru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "takeoff climb",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:26:11Z"
+  "updated_at": "2026-03-28T12:09:58Z"
 }

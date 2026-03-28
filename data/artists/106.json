@@ -26,21 +26,6 @@
       }
     },
     {
-      "title": "aiming for shine (feat. A.Dokugo)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AKATSUKI",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Altered Ego",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Believe (feat. Tsuyuri Karin)",
       "ranked_modes": [
         "osu"
@@ -65,11 +50,6 @@
       }
     },
     {
-      "title": "Catalyst (feat. Tsuyuri Karin)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Colorful Days (feat. Tsuyuri Karin)",
       "ranked_modes": [
         "osu"
@@ -91,11 +71,6 @@
           797393
         ]
       }
-    },
-    {
-      "title": "EXTRAPHANTASM",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Feelings of fake (feat. Tsuyuri Karin)",
@@ -159,26 +134,6 @@
       }
     },
     {
-      "title": "Illusion of Mind",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "INFINITE POSSIBILITY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Last Flight",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Le ciel heureux",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Melody Line",
       "ranked_modes": [
         "fruits"
@@ -188,16 +143,6 @@
           1340600
         ]
       }
-    },
-    {
-      "title": "MINUS - INFINITY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Negaigoto (feat. Tsuyuri Karin)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nick of Time",
@@ -211,34 +156,26 @@
       }
     },
     {
-      "title": "Only one wish",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "overwhelm",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "PLUS+INFINITY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "SECONDED WORLD",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "SHINY*STAR!!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1295837
+        ]
+      }
     },
     {
       "title": "Sky High (feat. rerone)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1254502
+        ]
+      }
     },
     {
       "title": "Sogaikan Utopia",
@@ -263,11 +200,6 @@
       }
     },
     {
-      "title": "when you're away",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "You're my Shine (feat. Tsuyuri Karin)",
       "ranked_modes": [
         "osu"
@@ -277,7 +209,87 @@
           2199780
         ]
       }
+    },
+    {
+      "title": "aiming for shine (feat. A.Dokugo)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AKATSUKI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Altered Ego",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Catalyst (feat. Tsuyuri Karin)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "EXTRAPHANTASM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Illusion of Mind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "INFINITE POSSIBILITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Last Flight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Le ciel heureux",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MINUS - INFINITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Negaigoto (feat. Tsuyuri Karin)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Only one wish",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PLUS+INFINITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SECONDED WORLD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SHINY*STAR!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "when you're away",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:50:11Z"
+  "updated_at": "2026-03-28T14:12:03Z"
 }

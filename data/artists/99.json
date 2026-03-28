@@ -34,11 +34,6 @@
       }
     },
     {
-      "title": "Dependence",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Divine's Game",
       "ranked_modes": [
         "mania",
@@ -65,11 +60,6 @@
       }
     },
     {
-      "title": "Fade",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fake",
       "ranked_modes": [
         "osu"
@@ -79,11 +69,6 @@
           1261105
         ]
       }
-    },
-    {
-      "title": "Fake -Acoustic ver.-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Falldown",
@@ -96,46 +81,6 @@
           1285798
         ]
       }
-    },
-    {
-      "title": "Imy feat. Aitsuki Nakuru - Drowning in you",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imy feat. Aitsuki Nakuru - Invisible chain",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imy feat. Aitsuki Nakuru - Lateral Arc",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imy feat. Aitsuki Nakuru - Mizukagami",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imy feat. konoko - INGLASS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imy feat. konoko - Lost colors",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imy feat. Natsume Itsuki - Lies playing Truth",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Innovator",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Just believe",
@@ -158,11 +103,6 @@
           1015203
         ]
       }
-    },
-    {
-      "title": "Link",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Meteora",
@@ -212,11 +152,6 @@
           2296090
         ]
       }
-    },
-    {
-      "title": "Shinsou Kairou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sylphia",
@@ -276,11 +211,6 @@
       }
     },
     {
-      "title": "unclear",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Zanshou no Resonance",
       "ranked_modes": [
         "osu"
@@ -290,7 +220,77 @@
           1147203
         ]
       }
+    },
+    {
+      "title": "Dependence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fake -Acoustic ver.-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Drowning in you",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Invisible chain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Lateral Arc",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Mizukagami",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. konoko - INGLASS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. konoko - Lost colors",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Natsume Itsuki - Lies playing Truth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Innovator",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Link",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shinsou Kairou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "unclear",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T15:01:07Z"
+  "updated_at": "2026-03-28T13:16:07Z"
 }

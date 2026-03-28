@@ -3,11 +3,6 @@
   "name": "USAO",
   "tracks": [
     {
-      "title": "Aeropolis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Anomaly",
       "ranked_modes": [
         "osu"
@@ -34,11 +29,6 @@
       }
     },
     {
-      "title": "BACK COVER",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Big Daddy",
       "ranked_modes": [
         "fruits",
@@ -52,11 +42,6 @@
           2093548
         ]
       }
-    },
-    {
-      "title": "Cyclops",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Extra Mode",
@@ -96,16 +81,6 @@
       }
     },
     {
-      "title": "Fucking High",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fullspec",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Get on",
       "ranked_modes": [
         "osu"
@@ -129,16 +104,6 @@
       }
     },
     {
-      "title": "Loss Time",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Punish",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Showdown",
       "ranked_modes": [
         "mania",
@@ -159,11 +124,6 @@
           438839
         ]
       }
-    },
-    {
-      "title": "Srav3R & USAO - Becouse of You",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TAPIOCA",
@@ -189,6 +149,77 @@
       }
     },
     {
+      "title": "Try again",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1238702
+        ],
+        "taiko": [
+          969024,
+          1875585
+        ],
+        "osu": [
+          804339
+        ]
+      }
+    },
+    {
+      "title": "You & DIE",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2170119
+        ]
+      }
+    },
+    {
+      "title": "Aeropolis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BACK COVER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cyclops",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fucking High",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fullspec",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Loss Time",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Punish",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Srav3R & USAO - Becouse of You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "The Storm broke",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -197,21 +228,6 @@
       "title": "Time For Kill",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Try again",
-      "ranked_modes": [
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1238702
-        ],
-        "taiko": [
-          969024
-        ]
-      }
     },
     {
       "title": "Undulation",
@@ -232,18 +248,7 @@
       "title": "Wildfire",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "You & DIE",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2170119
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T22:35:49Z"
+  "updated_at": "2026-03-28T15:20:01Z"
 }

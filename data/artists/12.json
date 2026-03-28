@@ -3,16 +3,6 @@
   "name": "LukHash",
   "tracks": [
     {
-      "title": "65536",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "8 BIT NO TAMASHI",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "8BIT FAIRY TALE",
       "ranked_modes": [
         "fruits",
@@ -26,6 +16,171 @@
           847930
         ]
       }
+    },
+    {
+      "title": "CLONED",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          716215
+        ]
+      }
+    },
+    {
+      "title": "DIGITAL HEART",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1031580
+        ]
+      }
+    },
+    {
+      "title": "Ghosts",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1042550
+        ],
+        "taiko": [
+          918903
+        ]
+      }
+    },
+    {
+      "title": "GLITCH",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          785774
+        ]
+      }
+    },
+    {
+      "title": "H8 U",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1032103
+        ],
+        "osu": [
+          590949
+        ]
+      }
+    },
+    {
+      "title": "H8 U 2",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          659010
+        ]
+      }
+    },
+    {
+      "title": "ROOM 12",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          966407
+        ]
+      }
+    },
+    {
+      "title": "SOCIAL PHOBIA",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1040733
+        ]
+      }
+    },
+    {
+      "title": "TONIGHT",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          965903
+        ]
+      }
+    },
+    {
+      "title": "We are Forever",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2161550
+        ]
+      }
+    },
+    {
+      "title": "WHEN AN ANGEL DIES",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1008600
+        ],
+        "osu": [
+          605726
+        ]
+      }
+    },
+    {
+      "title": "WINTER ERROR",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1031668
+        ]
+      }
+    },
+    {
+      "title": "WTF?",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1031588
+        ]
+      }
+    },
+    {
+      "title": "65536",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "8 BIT NO TAMASHI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ALL NIGHT LONG",
@@ -68,17 +223,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "CLONED",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          716215
-        ]
-      }
-    },
-    {
       "title": "COMPUTER DATE",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -92,17 +236,6 @@
       "title": "DETACHED REALITY",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DIGITAL HEART",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1031580
-        ]
-      }
     },
     {
       "title": "DIGITAL MEMORIES",
@@ -165,32 +298,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ghosts",
-      "ranked_modes": [
-        "fruits",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1042550
-        ],
-        "taiko": [
-          918903
-        ]
-      }
-    },
-    {
-      "title": "GLITCH",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          785774
-        ]
-      }
-    },
-    {
       "title": "GONE TOO SOON",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -199,32 +306,6 @@
       "title": "GRAVITY",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "H8 U",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1032103
-        ],
-        "osu": [
-          590949
-        ]
-      }
-    },
-    {
-      "title": "H8 U 2",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          659010
-        ]
-      }
     },
     {
       "title": "HALF SAVAGE",
@@ -357,17 +438,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ROOM 12",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          966407
-        ]
-      }
-    },
-    {
       "title": "ROUND THE WORLD",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -376,17 +446,6 @@
       "title": "SECRET LEVEL",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "SOCIAL PHOBIA",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1040733
-        ]
-      }
     },
     {
       "title": "Space Invasion",
@@ -424,17 +483,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "TONIGHT",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          965903
-        ]
-      }
-    },
-    {
       "title": "Under Your Skin",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -450,40 +498,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "We are Forever",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "WE COME TOGETHER",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "WHEN AN ANGEL DIES",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1008600
-        ],
-        "osu": [
-          605726
-        ]
-      }
-    },
-    {
-      "title": "WINTER ERROR",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1031668
-        ]
-      }
     },
     {
       "title": "WOKEN UP @ 3AM",
@@ -491,21 +508,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "WTF?",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1031588
-        ]
-      }
-    },
-    {
       "title": "Young Forever",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:04:28Z"
+  "updated_at": "2026-03-28T13:43:04Z"
 }

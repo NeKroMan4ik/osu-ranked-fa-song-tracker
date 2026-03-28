@@ -3,6 +3,39 @@
   "name": "Maduk",
   "tracks": [
     {
+      "title": "Colours (feat. Diamond Eyes)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2346103
+        ]
+      }
+    },
+    {
+      "title": "Ghost Assassin (feat. Veela)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1709438
+        ]
+      }
+    },
+    {
+      "title": "Taking Control (feat. Lachi)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1746310
+        ]
+      }
+    },
+    {
       "title": "Alone (feat. Marianna Ray)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -28,17 +61,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Colours (feat. Diamond Eyes)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2346103
-        ]
-      }
-    },
-    {
       "title": "Come Back To Me",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -62,17 +84,6 @@
       "title": "Fire Away",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ghost Assassin (feat. Veela)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1709438
-        ]
-      }
     },
     {
       "title": "Go (feat. Lachi)",
@@ -140,21 +151,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Taking Control (feat. Lachi)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1746310
-        ]
-      }
-    },
-    {
       "title": "Vermilion",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:27:16Z"
+  "updated_at": "2026-03-28T13:45:05Z"
 }

@@ -60,11 +60,6 @@
       }
     },
     {
-      "title": "Immaterial Banquet",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Liquid Future",
       "ranked_modes": [
         "osu"
@@ -95,6 +90,23 @@
       }
     },
     {
+      "title": "welcome to christmas!",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          882106,
+          1292185
+        ]
+      }
+    },
+    {
+      "title": "Immaterial Banquet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Moonlight Feast",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -108,19 +120,7 @@
       "title": "skysoarer",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "welcome to christmas!",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          882106,
-          1292185
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T12:28:46Z"
+  "updated_at": "2026-03-28T14:01:21Z"
 }

@@ -3,6 +3,54 @@
   "name": "miraie",
   "tracks": [
     {
+      "title": "miraie - heal",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1704371
+        ]
+      }
+    },
+    {
+      "title": "miraie - high school romance",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2177618
+        ],
+        "osu": [
+          1457191
+        ]
+      }
+    },
+    {
+      "title": "miraie - peace",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1609692
+        ]
+      }
+    },
+    {
+      "title": "miraie - stella",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1924179
+        ]
+      }
+    },
+    {
       "title": "cute girls doing cute things - I like cute girls (with Miraie)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -24,26 +72,6 @@
     },
     {
       "title": "miraie & miaww - suzua",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "miraie - heal",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "miraie - high school romance",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "miraie - peace",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "miraie - stella",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -88,5 +116,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:32:40Z"
+  "updated_at": "2026-03-28T13:51:46Z"
 }

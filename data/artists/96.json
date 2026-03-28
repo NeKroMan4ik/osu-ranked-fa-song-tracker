@@ -3,11 +3,6 @@
   "name": "Kobaryo",
   "tracks": [
     {
-      "title": "Aozora Gradation [feat. you]",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cartoon Candy",
       "ranked_modes": [
         "fruits",
@@ -46,16 +41,6 @@
       }
     },
     {
-      "title": "Evolution Canceler",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Galaxy Friends",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Glitched Character",
       "ranked_modes": [
         "mania"
@@ -65,11 +50,6 @@
           1436983
         ]
       }
-    },
-    {
-      "title": "Gram vs. Kobaryo - Yggdrasil",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HUG AND KILL",
@@ -92,21 +72,6 @@
           1534286
         ]
       }
-    },
-    {
-      "title": "Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kobaryo feat. blaxervant - Spark of Mayhem",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kumo No Kireme [feat. kourin]",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Magical Sanctuary",
@@ -168,11 +133,6 @@
           692347
         ]
       }
-    },
-    {
-      "title": "Speedcore Psytama",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sulyvahn [feat. USAO]",
@@ -282,7 +242,47 @@
           2400282
         ]
       }
+    },
+    {
+      "title": "Aozora Gradation [feat. you]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Evolution Canceler",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Galaxy Friends",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gram vs. Kobaryo - Yggdrasil",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kobaryo feat. blaxervant - Spark of Mayhem",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kumo No Kireme [feat. kourin]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Speedcore Psytama",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:58:39Z"
+  "updated_at": "2026-03-28T13:28:36Z"
 }

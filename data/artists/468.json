@@ -18,11 +18,6 @@
       }
     },
     {
-      "title": "Angelstar",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "atrophy",
       "ranked_modes": [
         "osu"
@@ -32,11 +27,6 @@
           2403954
         ]
       }
-    },
-    {
-      "title": "Chrysalis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "crystal forest",
@@ -50,11 +40,6 @@
       }
     },
     {
-      "title": "Dark Blossom",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "glitter *",
       "ranked_modes": [
         "taiko"
@@ -64,6 +49,21 @@
           2300144
         ]
       }
+    },
+    {
+      "title": "Angelstar",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chrysalis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dark Blossom",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hanabi",
@@ -81,5 +81,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:21:47Z"
+  "updated_at": "2026-03-28T13:34:55Z"
 }

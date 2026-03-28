@@ -12,17 +12,13 @@
         "mania": [
           2011539,
           2352124,
-          2501772
+          2501772,
+          2523771
         ],
         "fruits": [
           2011522
         ]
       }
-    },
-    {
-      "title": "comet casting capsule",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "comet casting capsule (\"catching celestial clusters\" Long Version)",
@@ -41,11 +37,6 @@
       }
     },
     {
-      "title": "Dream Escapism Fantasia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Electrolytes",
       "ranked_modes": [
         "fruits",
@@ -60,26 +51,6 @@
           1774562
         ]
       }
-    },
-    {
-      "title": "Fragment:Unsaved",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "kanemiko feat. usagidenki - Impermanence",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kurokotei x kanemiko - astranelique",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ruin in Cascade",
@@ -102,16 +73,6 @@
       }
     },
     {
-      "title": "Stellar Proximity Shift",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Curse Of The Lovely Fox",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Twilight of the Abyss",
       "ranked_modes": [
         "osu"
@@ -123,10 +84,50 @@
       }
     },
     {
+      "title": "comet casting capsule",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dream Escapism Fantasia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fragment:Unsaved",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kanemiko feat. usagidenki - Impermanence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kurokotei x kanemiko - astranelique",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stellar Proximity Shift",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Curse Of The Lovely Fox",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Us4KKi - Aria for Lepus",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:12:29Z"
+  "updated_at": "2026-03-28T13:21:56Z"
 }

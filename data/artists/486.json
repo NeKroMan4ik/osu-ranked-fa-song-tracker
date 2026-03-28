@@ -3,6 +3,28 @@
   "name": "Dispel",
   "tracks": [
     {
+      "title": "Hyacinth",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2050409
+        ]
+      }
+    },
+    {
+      "title": "Weiss Schnabel",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2338118
+        ]
+      }
+    },
+    {
       "title": "Definitive Remote",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -21,17 +43,6 @@
       "title": "Dispel vs. Rakakun- - Funkotism",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hyacinth",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2050409
-        ]
-      }
     },
     {
       "title": "KURORYU vs. Dispel - Miserea",
@@ -57,18 +68,7 @@
       "title": "Rakakun- & Dispel - Shitsusei (feat. Altair Aquila)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Weiss Schnabel",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2338118
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:43:34Z"
+  "updated_at": "2026-03-28T12:44:23Z"
 }

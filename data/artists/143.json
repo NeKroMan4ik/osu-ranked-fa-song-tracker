@@ -3,6 +3,17 @@
   "name": "Extra Terra",
   "tracks": [
     {
+      "title": "Spacecraft",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          712901
+        ]
+      }
+    },
+    {
       "title": "Cyberpunk",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -43,21 +54,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Spacecraft",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          712901
-        ]
-      }
-    },
-    {
       "title": "Superintelligence",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:51:11Z"
+  "updated_at": "2026-03-28T12:53:22Z"
 }

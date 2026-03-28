@@ -74,11 +74,6 @@
       }
     },
     {
-      "title": "Gomenne Gomenne",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Histrionic (Vocaloid ver.)",
       "ranked_modes": [
         "taiko"
@@ -126,16 +121,6 @@
       }
     },
     {
-      "title": "Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kimi wa Dekinai Ko",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Maigo no Haien",
       "ranked_modes": [
         "mania",
@@ -164,11 +149,6 @@
           2308257
         ]
       }
-    },
-    {
-      "title": "Natsu no Ame no Hi no Omoide",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neko no Shokutaku",
@@ -293,16 +273,6 @@
       }
     },
     {
-      "title": "Tengoku e Ikou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Warui koto wa Shicha Ikenai yo",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yousei no Kiri",
       "ranked_modes": [
         "osu",
@@ -316,7 +286,37 @@
           1871513
         ]
       }
+    },
+    {
+      "title": "Gomenne Gomenne",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimi wa Dekinai Ko",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Natsu no Ame no Hi no Omoide",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tengoku e Ikou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Warui koto wa Shicha Ikenai yo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:15:06Z"
+  "updated_at": "2026-03-28T13:24:12Z"
 }

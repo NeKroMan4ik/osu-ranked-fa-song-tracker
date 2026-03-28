@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "angel broadcasting network",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "FIRUSS EXoTICA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "floating architecture of an abstract heaven",
       "ranked_modes": [
         "osu"
@@ -33,6 +23,16 @@
           1988496
         ]
       }
+    },
+    {
+      "title": "angel broadcasting network",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FIRUSS EXoTICA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hopeless prayer",
@@ -75,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:16:57Z"
+  "updated_at": "2026-03-28T14:51:27Z"
 }

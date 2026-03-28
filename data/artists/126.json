@@ -3,6 +3,17 @@
   "name": "BLOOD STAIN CHILD",
   "tracks": [
     {
+      "title": "MOON LIGHT WAVE",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          296543
+        ]
+      }
+    },
+    {
       "title": "Dedicated to VIOLATOR",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -31,17 +42,6 @@
       "title": "Merry-Go-Round",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MOON LIGHT WAVE",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          296543
-        ]
-      }
     },
     {
       "title": "Royal Sky",
@@ -74,5 +74,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:35:01Z"
+  "updated_at": "2026-03-28T12:23:24Z"
 }

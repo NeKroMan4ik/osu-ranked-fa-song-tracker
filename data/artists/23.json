@@ -3,31 +3,6 @@
   "name": "Cranky",
   "tracks": [
     {
-      "title": "07xx1999",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "101 kittens",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "1970",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "1st Anniversary",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "260",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Amanojaku",
       "ranked_modes": [
         "osu"
@@ -37,26 +12,6 @@
           978694
         ]
       }
-    },
-    {
-      "title": "Ash",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Bestrafung",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Canon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Car Sax",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chandelier - King",
@@ -96,16 +51,6 @@
       }
     },
     {
-      "title": "crystal glass",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "D.D.C.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Danger & Danger",
       "ranked_modes": [
         "mania"
@@ -115,16 +60,6 @@
           279063
         ]
       }
-    },
-    {
-      "title": "El Do ra do",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Emerald",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EMPEROR",
@@ -183,21 +118,6 @@
       }
     },
     {
-      "title": "For Your Love",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Forza Azzurri",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gekkabijin",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hanaarashi",
       "ranked_modes": [
         "osu"
@@ -207,16 +127,6 @@
           751771
         ]
       }
-    },
-    {
-      "title": "Holy Winter #3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "I CAN'T BELIEVE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Into the Unknown",
@@ -252,11 +162,6 @@
       }
     },
     {
-      "title": "Kirakira",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "La fuite des jours",
       "ranked_modes": [
         "osu"
@@ -266,16 +171,6 @@
           751932
         ]
       }
-    },
-    {
-      "title": "La Promesse",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "LAPPISCH",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Libera me",
@@ -305,6 +200,213 @@
           8923
         ]
       }
+    },
+    {
+      "title": "R176",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          31367,
+          2117864
+        ],
+        "osu": [
+          31367
+        ]
+      }
+    },
+    {
+      "title": "Ran",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          789553
+        ],
+        "osu": [
+          751772
+        ]
+      }
+    },
+    {
+      "title": "Rave 2 Rave",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          751896
+        ]
+      }
+    },
+    {
+      "title": "T&J",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          752022,
+          2417429
+        ],
+        "taiko": [
+          949737
+        ]
+      }
+    },
+    {
+      "title": "The Five",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          18339
+        ]
+      }
+    },
+    {
+      "title": "Time Alter",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          847900
+        ]
+      }
+    },
+    {
+      "title": "X-Y-Z",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          150649
+        ]
+      }
+    },
+    {
+      "title": "Zeijakunaru Inori - Aganai no Chinkonka",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1076872
+        ]
+      }
+    },
+    {
+      "title": "07xx1999",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "101 kittens",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "1970",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "1st Anniversary",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "260",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ash",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bestrafung",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Canon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Car Sax",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "crystal glass",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "D.D.C.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "El Do ra do",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Emerald",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "For Your Love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Forza Azzurri",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gekkabijin",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Holy Winter #3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I CAN'T BELIEVE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kirakira",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "La Promesse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "LAPPISCH",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Maharaja Trance",
@@ -412,48 +514,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "R176",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          31367,
-          2117864
-        ],
-        "osu": [
-          31367
-        ]
-      }
-    },
-    {
-      "title": "Ran",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          789553
-        ],
-        "osu": [
-          751772
-        ]
-      }
-    },
-    {
-      "title": "Rave 2 Rave",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          751896
-        ]
-      }
-    },
-    {
       "title": "Reimai",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -504,47 +564,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "T&J",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          752022,
-          2417429
-        ],
-        "taiko": [
-          949737
-        ]
-      }
-    },
-    {
-      "title": "The Five",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          18339
-        ]
-      }
-    },
-    {
       "title": "The God of Beauty",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Time Alter",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          847900
-        ]
-      }
     },
     {
       "title": "to the heaven",
@@ -565,29 +587,7 @@
       "title": "Wolly no Natsuyasumi",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "X-Y-Z",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          150649
-        ]
-      }
-    },
-    {
-      "title": "Zeijakunaru Inori - Aganai no Chinkonka",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1076872
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T12:17:54Z"
+  "updated_at": "2026-03-28T12:36:41Z"
 }

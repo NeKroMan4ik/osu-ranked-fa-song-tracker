@@ -3,26 +3,6 @@
   "name": "FATE GEAR",
   "tracks": [
     {
-      "title": "7 years ago",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Farewell -Honou no Hanamuke-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Good old days",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hakai no Bara",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Headless Goddess",
       "ranked_modes": [
         "fruits",
@@ -47,6 +27,37 @@
           2082895
         ]
       }
+    },
+    {
+      "title": "Scars in my Life",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1507375
+        ]
+      }
+    },
+    {
+      "title": "7 years ago",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Farewell -Honou no Hanamuke-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Good old days",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hakai no Bara",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lifer",
@@ -74,17 +85,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Scars in my Life",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1507375
-        ]
-      }
-    },
-    {
       "title": "Shinsou",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -95,5 +95,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:51:47Z"
+  "updated_at": "2026-03-28T12:55:04Z"
 }

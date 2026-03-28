@@ -3,6 +3,17 @@
   "name": "Ariz Kayaba",
   "tracks": [
     {
+      "title": "VOLTOX",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2439956
+        ]
+      }
+    },
+    {
       "title": "Destination.",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -16,18 +27,7 @@
       "title": "Vector Kontrol",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "VOLTOX",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2439956
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-23T22:47:42Z"
+  "updated_at": "2026-03-28T12:14:58Z"
 }

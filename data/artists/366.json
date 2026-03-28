@@ -3,6 +3,17 @@
   "name": "passchooo",
   "tracks": [
     {
+      "title": "david gold took it slow (alt version)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2023751
+        ]
+      }
+    },
+    {
       "title": "7he osu! world cup 2 dariacore 7imeline (feat. Azer, Jade & Rain)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -31,18 +42,7 @@
       "title": "chooo2023_4",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "david gold took it slow (alt version)",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2023751
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:50:46Z"
+  "updated_at": "2026-03-28T14:14:17Z"
 }

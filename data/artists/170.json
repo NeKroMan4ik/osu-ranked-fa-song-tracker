@@ -25,16 +25,6 @@
       }
     },
     {
-      "title": "Elegy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Healing Through War",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "In Aeternum",
       "ranked_modes": [
         "fruits",
@@ -52,6 +42,53 @@
           1261793
         ]
       }
+    },
+    {
+      "title": "The Deceit",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1660712
+        ],
+        "osu": [
+          991300
+        ]
+      }
+    },
+    {
+      "title": "The Fool",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1301878
+        ]
+      }
+    },
+    {
+      "title": "The Hypocrisy",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          397784
+        ]
+      }
+    },
+    {
+      "title": "Elegy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Healing Through War",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kingborn",
@@ -89,46 +126,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Deceit",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1660712
-        ],
-        "osu": [
-          991300
-        ]
-      }
-    },
-    {
       "title": "The Egoism",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Fool",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1301878
-        ]
-      }
-    },
-    {
-      "title": "The Hypocrisy",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          397784
-        ]
-      }
     },
     {
       "title": "The Imposition",
@@ -146,5 +146,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:53:29Z"
+  "updated_at": "2026-03-28T12:56:34Z"
 }

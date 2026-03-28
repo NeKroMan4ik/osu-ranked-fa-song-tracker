@@ -22,10 +22,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           2217678
         ],
-        "taiko": [
+        "osu": [
           2217678
         ],
         "mania": [
@@ -148,11 +148,6 @@
       }
     },
     {
-      "title": "Ikutoshitsuki",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Iron Lotus",
       "ranked_modes": [
         "osu"
@@ -181,11 +176,6 @@
       }
     },
     {
-      "title": "Mili feat. KIHOW from MYTH & ROID - In Hell We Live, Lament",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Milk",
       "ranked_modes": [
         "osu"
@@ -195,11 +185,6 @@
           1273049
         ]
       }
-    },
-    {
-      "title": "Mitsubachi",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nine Point Eight",
@@ -474,7 +459,22 @@
           1378380
         ]
       }
+    },
+    {
+      "title": "Ikutoshitsuki",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mili feat. KIHOW from MYTH & ROID - In Hell We Live, Lament",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mitsubachi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:31:44Z"
+  "updated_at": "2026-03-28T13:50:38Z"
 }

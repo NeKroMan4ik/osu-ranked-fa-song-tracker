@@ -3,6 +3,21 @@
   "name": "Aiyru",
   "tracks": [
     {
+      "title": "Station",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1794071
+        ],
+        "osu": [
+          1789344
+        ]
+      }
+    },
+    {
       "title": "Doll",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -36,22 +51,7 @@
       "title": "Observer",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Station",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1794071
-        ],
-        "osu": [
-          1789344
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:19:08Z"
+  "updated_at": "2026-03-28T12:03:16Z"
 }

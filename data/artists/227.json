@@ -3,6 +3,21 @@
   "name": "PTB10",
   "tracks": [
     {
+      "title": "Starfall",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1661508
+        ],
+        "osu": [
+          1648460
+        ]
+      }
+    },
+    {
       "title": "Aeronautica",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -33,25 +48,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Starfall",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1661508
-        ],
-        "osu": [
-          1648460
-        ]
-      }
-    },
-    {
       "title": "Swift Transaction",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:53:37Z"
+  "updated_at": "2026-03-28T14:16:49Z"
 }

@@ -3,11 +3,6 @@
   "name": "Andromedik",
   "tracks": [
     {
-      "title": "Better With You",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Break Away (feat. RIENK)",
       "ranked_modes": [
         "osu"
@@ -19,16 +14,6 @@
       }
     },
     {
-      "title": "Close To Me",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Colours",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Don't Say (osu! edit)",
       "ranked_modes": [
         "osu"
@@ -38,6 +23,32 @@
           1568040
         ]
       }
+    },
+    {
+      "title": "Invasion",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          789544
+        ]
+      }
+    },
+    {
+      "title": "Better With You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Close To Me",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Colours",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fly",
@@ -65,17 +76,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Invasion",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          789544
-        ]
-      }
-    },
-    {
       "title": "Losing Myself",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -96,5 +96,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:25:12Z"
+  "updated_at": "2026-03-28T12:09:07Z"
 }

@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "Battlefield",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Beginning",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Daisy",
       "ranked_modes": [
         "fruits",
@@ -61,11 +51,6 @@
       }
     },
     {
-      "title": "Evening Blues",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fairy",
       "ranked_modes": [
         "osu"
@@ -75,16 +60,6 @@
           158820
         ]
       }
-    },
-    {
-      "title": "Heart of Stone",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Help Is On The Way",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lullaby For A Tough Guy",
@@ -98,11 +73,6 @@
       }
     },
     {
-      "title": "Orchestra Boom",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sakura",
       "ranked_modes": [
         "osu"
@@ -114,16 +84,6 @@
       }
     },
     {
-      "title": "Smile",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Spring Is Coming",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Showdown",
       "ranked_modes": [
         "osu"
@@ -133,6 +93,46 @@
           1325151
         ]
       }
+    },
+    {
+      "title": "Battlefield",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Beginning",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Evening Blues",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Heart of Stone",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Help Is On The Way",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Orchestra Boom",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Smile",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spring Is Coming",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This Is Not The End",
@@ -155,5 +155,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:22:40Z"
+  "updated_at": "2026-03-28T13:35:41Z"
 }

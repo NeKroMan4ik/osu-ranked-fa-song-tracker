@@ -18,36 +18,6 @@
       }
     },
     {
-      "title": "Adventure",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Beta's Brilliancy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Club Wolf",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Counter of the Cumulus",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Day of Reflection",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ensis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Home",
       "ranked_modes": [
         "fruits",
@@ -98,6 +68,47 @@
       }
     },
     {
+      "title": "Sync",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          95510
+        ]
+      }
+    },
+    {
+      "title": "Adventure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Beta's Brilliancy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Club Wolf",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Counter of the Cumulus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Day of Reflection",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ensis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Nature",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -113,17 +124,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sync",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          95510
-        ]
-      }
-    },
-    {
       "title": "The New Formation",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -134,5 +134,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:49:20Z"
+  "updated_at": "2026-03-28T12:43:25Z"
 }

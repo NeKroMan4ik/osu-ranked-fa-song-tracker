@@ -3,6 +3,96 @@
   "name": "Waterflame",
   "tracks": [
     {
+      "title": "Electroman Adventures",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          404318,
+          2217638
+        ]
+      }
+    },
+    {
+      "title": "Final Battle",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          358679
+        ]
+      }
+    },
+    {
+      "title": "Glorious Morning",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2187682
+        ],
+        "mania": [
+          742228
+        ]
+      }
+    },
+    {
+      "title": "Jumper",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2399278
+        ]
+      }
+    },
+    {
+      "title": "Ricochet Love",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2394076
+        ],
+        "fruits": [
+          1799889
+        ]
+      }
+    },
+    {
+      "title": "The Show",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2052515
+        ],
+        "osu": [
+          1578620
+        ]
+      }
+    },
+    {
+      "title": "Time Machine",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1630706
+        ]
+      }
+    },
+    {
       "title": "Blast Processing",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -33,18 +123,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Electroman Adventures",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          404318,
-          2217638
-        ]
-      }
-    },
-    {
       "title": "Endgame",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -53,17 +131,6 @@
       "title": "Field of memories",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Final Battle",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          358679
-        ]
-      }
     },
     {
       "title": "Frenetic",
@@ -79,17 +146,6 @@
       "title": "Geometrical Dominator",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Glorious Morning",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2187682
-        ]
-      }
     },
     {
       "title": "Glorious Morning 2",
@@ -110,17 +166,6 @@
       "title": "Hexagon Force",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Jumper",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2399278
-        ]
-      }
     },
     {
       "title": "Jungle Driver",
@@ -158,21 +203,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ricochet Love",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2394076
-        ],
-        "fruits": [
-          1799889
-        ]
-      }
-    },
-    {
       "title": "Rocket Race",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -208,27 +238,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Show",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2052515
-        ],
-        "osu": [
-          1578620
-        ]
-      }
-    },
-    {
       "title": "ThunderZone v2",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Time Machine",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -243,5 +253,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:40:30Z"
+  "updated_at": "2026-03-28T15:24:05Z"
 }

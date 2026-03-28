@@ -3,21 +3,6 @@
   "name": "Doomsday",
   "tracks": [
     {
-      "title": "Fructose",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Last Trip Into Makai",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Length of Location",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Luyten's Star",
       "ranked_modes": [
         "osu"
@@ -40,6 +25,21 @@
       }
     },
     {
+      "title": "Fructose",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Last Trip Into Makai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Length of Location",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "SupreSpeed 9000",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -50,5 +50,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:45:09Z"
+  "updated_at": "2026-03-28T12:46:37Z"
 }

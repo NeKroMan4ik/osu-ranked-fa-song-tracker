@@ -20,6 +20,36 @@
       }
     },
     {
+      "title": "Switchback",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1935584
+        ]
+      }
+    },
+    {
+      "title": "Trigger (Zekk Remix)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2164820
+        ],
+        "taiko": [
+          1004571
+        ],
+        "mania": [
+          555076
+        ]
+      }
+    },
+    {
       "title": "Disconnect Me (from saturator)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -50,17 +80,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Switchback",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1935584
-        ]
-      }
-    },
-    {
       "title": "The Terrorist",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -69,25 +88,6 @@
       "title": "Trigger",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Trigger (Zekk Remix)",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2164820
-        ],
-        "taiko": [
-          1004571
-        ],
-        "mania": [
-          555076
-        ]
-      }
     },
     {
       "title": "White Portal",
@@ -100,5 +100,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:46:52Z"
+  "updated_at": "2026-03-28T12:48:06Z"
 }

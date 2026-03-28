@@ -3,16 +3,6 @@
   "name": "KNOWER",
   "tracks": [
     {
-      "title": "All Time",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BUTTS TITS MONEY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cry Tomorrow, Laugh Today",
       "ranked_modes": [
         "osu"
@@ -24,11 +14,6 @@
       }
     },
     {
-      "title": "Die Right Now",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hanging On",
       "ranked_modes": [
         "taiko"
@@ -38,16 +23,6 @@
           858293
         ]
       }
-    },
-    {
-      "title": "Lose My Mind",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "More Than Just Another Try",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Overtime",
@@ -64,21 +39,6 @@
           1035846
         ]
       }
-    },
-    {
-      "title": "Pizza",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Real Thing",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Government Knows",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Time Traveler",
@@ -100,10 +60,50 @@
       }
     },
     {
+      "title": "All Time",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BUTTS TITS MONEY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Die Right Now",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lose My Mind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "More Than Just Another Try",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pizza",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Real Thing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Government Knows",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "What's In Your Heart",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:05:14Z"
+  "updated_at": "2026-03-28T13:27:21Z"
 }

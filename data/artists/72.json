@@ -33,11 +33,6 @@
       }
     },
     {
-      "title": "Dreaming Express",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "eastward",
       "ranked_modes": [
         "mania",
@@ -91,26 +86,6 @@
           2365964
         ]
       }
-    },
-    {
-      "title": "Falling From The Sky",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ginkiha, Shiki - Once in a life",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hare",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Haruka",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lakeside",
@@ -174,11 +149,6 @@
       }
     },
     {
-      "title": "nora2r vs. ginkiha - WINGS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Oriens",
       "ranked_modes": [
         "fruits",
@@ -227,11 +197,6 @@
       }
     },
     {
-      "title": "scenes",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Shadow Castle",
       "ranked_modes": [
         "osu",
@@ -258,11 +223,6 @@
       }
     },
     {
-      "title": "Sky with you",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Star Chaser!",
       "ranked_modes": [
         "taiko"
@@ -274,16 +234,6 @@
       }
     },
     {
-      "title": "Summer Triangle",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Under the Glacier",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "VALKYRIE",
       "ranked_modes": [
         "taiko"
@@ -293,11 +243,6 @@
           334818
         ]
       }
-    },
-    {
-      "title": "Vienanmeri",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Will to live",
@@ -322,10 +267,65 @@
       }
     },
     {
+      "title": "Dreaming Express",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Falling From The Sky",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ginkiha, Shiki - Once in a life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hare",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Haruka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "nora2r vs. ginkiha - WINGS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "scenes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sky with you",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Summer Triangle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Under the Glacier",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Vienanmeri",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Yokohane",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:40:17Z"
+  "updated_at": "2026-03-28T13:01:41Z"
 }

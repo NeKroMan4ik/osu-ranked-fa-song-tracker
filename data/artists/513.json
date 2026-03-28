@@ -3,12 +3,29 @@
   "name": "Akts",
   "tracks": [
     {
-      "title": "Blue Or Crimson",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "title": "Enchanted Realm",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524853
+        ]
+      }
     },
     {
-      "title": "Enchanted Realm",
+      "title": "Too Much To See",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2352682
+        ]
+      }
+    },
+    {
+      "title": "Blue Or Crimson",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -43,21 +60,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Too Much To See",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2352682
-        ]
-      }
-    },
-    {
       "title": "Wasting Away",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:22:28Z"
+  "updated_at": "2026-03-28T12:06:47Z"
 }

@@ -3,16 +3,6 @@
   "name": "Blue Stahli",
   "tracks": [
     {
-      "title": "Anti You",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Armageddon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Atom Smasher",
       "ranked_modes": [
         "osu"
@@ -22,6 +12,88 @@
           87626
         ]
       }
+    },
+    {
+      "title": "Rockstar",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2053498
+        ]
+      }
+    },
+    {
+      "title": "Run The Track",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1071229
+        ]
+      }
+    },
+    {
+      "title": "Shotgun Senorita (Zardonic Remix)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          65853
+        ]
+      }
+    },
+    {
+      "title": "Suit Up",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1061425
+        ]
+      }
+    },
+    {
+      "title": "The Fall",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2067270
+        ]
+      }
+    },
+    {
+      "title": "Throw Away",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1061411,
+          2129072
+        ],
+        "osu": [
+          360528,
+          1061411
+        ]
+      }
+    },
+    {
+      "title": "Anti You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Armageddon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Stahli",
@@ -79,28 +151,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rockstar",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2053498
-        ]
-      }
-    },
-    {
-      "title": "Run The Track",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1071229
-        ]
-      }
-    },
-    {
       "title": "Scrape",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -109,28 +159,6 @@
       "title": "Shoot 'Em Up",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Shotgun Senorita (Zardonic Remix)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          65853
-        ]
-      }
-    },
-    {
-      "title": "Suit Up",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1061425
-        ]
-      }
     },
     {
       "title": "Takedown",
@@ -148,34 +176,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Fall",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2067270
-        ]
-      }
-    },
-    {
-      "title": "Throw Away",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1061411,
-          2129072
-        ],
-        "osu": [
-          360528,
-          1061411
-        ]
-      }
-    },
-    {
       "title": "ULTRAnumb",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -186,5 +186,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:23:41Z"
+  "updated_at": "2026-03-28T12:24:02Z"
 }

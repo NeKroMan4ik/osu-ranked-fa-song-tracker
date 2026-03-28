@@ -36,11 +36,6 @@
       }
     },
     {
-      "title": "Dark Dungeon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lycanthrope",
       "ranked_modes": [
         "mania"
@@ -50,16 +45,6 @@
           1924071
         ]
       }
-    },
-    {
-      "title": "Rainbow Raceway",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rejoice",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SILVER BULLET",
@@ -100,11 +85,6 @@
       }
     },
     {
-      "title": "Split EX",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Varcolac",
       "ranked_modes": [
         "osu",
@@ -120,11 +100,6 @@
       }
     },
     {
-      "title": "Vermithrax",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "will u",
       "ranked_modes": [
         "mania"
@@ -134,7 +109,32 @@
           2399677
         ]
       }
+    },
+    {
+      "title": "Dark Dungeon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rainbow Raceway",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rejoice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Split EX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Vermithrax",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:28:16Z"
+  "updated_at": "2026-03-28T12:12:34Z"
 }

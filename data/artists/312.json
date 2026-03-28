@@ -3,26 +3,6 @@
   "name": "Au5",
   "tracks": [
     {
-      "title": "Akira Complex - Odyssey (Au5 Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Au5 & Fractal - Blue",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Au5 & Fractal - Halcyon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Au5 & Nytrix - Always in a Nightmare",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Blossom",
       "ranked_modes": [
         "osu"
@@ -32,11 +12,6 @@
           1186559
         ]
       }
-    },
-    {
-      "title": "Culprate & Au5 - Impulse",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eden (feat. Danyka Nadeau)",
@@ -61,10 +36,35 @@
       }
     },
     {
+      "title": "Akira Complex - Odyssey (Au5 Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Fractal - Blue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Fractal - Halcyon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Nytrix - Always in a Nightmare",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Au5 - Impulse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "The Journey (feat. Trove)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:29:40Z"
+  "updated_at": "2026-03-28T12:16:09Z"
 }

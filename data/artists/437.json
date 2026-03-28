@@ -3,21 +3,6 @@
   "name": "tomspicy",
   "tracks": [
     {
-      "title": "Circuit Break",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "corpse party",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "dysthymia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "fieryrage accordion (hardcore remix)",
       "ranked_modes": [
         "fruits",
@@ -35,6 +20,32 @@
           1516860
         ]
       }
+    },
+    {
+      "title": "petal blizzard",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2487754
+        ]
+      }
+    },
+    {
+      "title": "Circuit Break",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "corpse party",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "dysthymia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "fieryrage accordion (hardcore remix) (TV Size)",
@@ -60,17 +71,6 @@
       "title": "lullaby",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "petal blizzard",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2487754
-        ]
-      }
     },
     {
       "title": "rave time",
@@ -108,5 +108,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:28:47Z"
+  "updated_at": "2026-03-28T15:09:31Z"
 }

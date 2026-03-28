@@ -3,6 +3,17 @@
   "name": "siromaru",
   "tracks": [
     {
+      "title": "Imperial Prime Aggression",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2089498
+        ]
+      }
+    },
+    {
       "title": "Actual Reverse",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -46,17 +57,6 @@
       "title": "Hollow Glitter",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imperial Prime Aggression",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2089498
-        ]
-      }
     },
     {
       "title": "INNOCENT NOIZE - Gravity Fallout",
@@ -119,5 +119,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:13:57Z"
+  "updated_at": "2026-03-28T14:48:34Z"
 }

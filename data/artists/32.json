@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "body",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BREAK",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "CONFUSION PART ONE",
       "ranked_modes": [
         "fruits",
@@ -69,19 +59,15 @@
       }
     },
     {
-      "title": "FORGIVENESS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "libido",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Melding Vines",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1392711
+        ]
+      }
     },
     {
       "title": "NOSTALGIA",
@@ -93,16 +79,6 @@
           952393
         ]
       }
-    },
-    {
-      "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "onumi X Fluff Pink & Belak - TRAUMA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PERSONALITY",
@@ -142,6 +118,36 @@
       }
     },
     {
+      "title": "body",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BREAK",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FORGIVENESS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Melding Vines",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "onumi X Fluff Pink & Belak - TRAUMA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "section 9",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -172,5 +178,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:23:48Z"
+  "updated_at": "2026-03-28T14:06:24Z"
 }

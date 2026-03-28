@@ -3,6 +3,17 @@
   "name": "Xeon Diversity",
   "tracks": [
     {
+      "title": "Luminaire",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2353640
+        ]
+      }
+    },
+    {
       "title": "Cheerful",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -38,17 +49,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Luminaire",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2353640
-        ]
-      }
-    },
-    {
       "title": "Never Give Up",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -69,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:44:04Z"
+  "updated_at": "2026-03-28T15:27:50Z"
 }

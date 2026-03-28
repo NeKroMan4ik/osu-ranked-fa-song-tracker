@@ -22,11 +22,6 @@
       }
     },
     {
-      "title": "Empty",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Forget Me",
       "ranked_modes": [
         "mania",
@@ -55,11 +50,6 @@
           2166782
         ]
       }
-    },
-    {
-      "title": "Lamento - Memory",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Phantom Moon",
@@ -108,7 +98,17 @@
           2111234
         ]
       }
+    },
+    {
+      "title": "Empty",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lamento - Memory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:23:20Z"
+  "updated_at": "2026-03-28T15:01:06Z"
 }

@@ -93,32 +93,17 @@
       }
     },
     {
-      "title": "Death's Grasp",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Desire Funk",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Disco Bawls",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dovregubben's Hall",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          360950,
+        "taiko": [
           362451
         ],
-        "taiko": [
+        "osu": [
+          360950,
           362451
         ]
       }
@@ -151,11 +136,6 @@
       }
     },
     {
-      "title": "Final Destination",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fright March",
       "ranked_modes": [
         "osu"
@@ -165,11 +145,6 @@
           486142
         ]
       }
-    },
-    {
-      "title": "Ghost Lead",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Haunted House",
@@ -239,11 +214,6 @@
       }
     },
     {
-      "title": "Night Out",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Peer Gynt",
       "ranked_modes": [
         "fruits",
@@ -262,21 +232,6 @@
           880487
         ]
       }
-    },
-    {
-      "title": "Spring",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Take a Stand",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Alchemist",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Ballad of a Mindless Girl",
@@ -317,10 +272,55 @@
       }
     },
     {
+      "title": "Death's Grasp",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Desire Funk",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Disco Bawls",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Final Destination",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ghost Lead",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Night Out",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spring",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Take a Stand",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Alchemist",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Uranaishi",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T12:29:41Z"
+  "updated_at": "2026-03-28T12:41:07Z"
 }

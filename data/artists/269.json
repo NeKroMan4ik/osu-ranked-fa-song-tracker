@@ -57,11 +57,6 @@
       }
     },
     {
-      "title": "Bossa Nova Corps",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Doctor Whomst",
       "ranked_modes": [
         "osu"
@@ -108,11 +103,6 @@
       }
     },
     {
-      "title": "Find Your Throne",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Moebius Chicken Strip",
       "ranked_modes": [
         "taiko"
@@ -122,11 +112,6 @@
           1795159
         ]
       }
-    },
-    {
-      "title": "Neutrogena Spektor",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Noah Fence",
@@ -155,16 +140,6 @@
       }
     },
     {
-      "title": "Skeleton Key",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Air Up Here",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Title Track",
       "ranked_modes": [
         "fruits",
@@ -185,10 +160,35 @@
       }
     },
     {
+      "title": "Bossa Nova Corps",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Find Your Throne",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Neutrogena Spektor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Skeleton Key",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Air Up Here",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Welcome to...",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:45:25Z"
+  "updated_at": "2026-03-28T14:07:45Z"
 }

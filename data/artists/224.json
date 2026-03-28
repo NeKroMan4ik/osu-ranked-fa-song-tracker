@@ -3,6 +3,17 @@
   "name": "Zomboy",
   "tracks": [
     {
+      "title": "Nuclear (Hands Up)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          449299
+        ]
+      }
+    },
+    {
       "title": "Bad Intentions",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -23,17 +34,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nuclear (Hands Up)",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          449299
-        ]
-      }
-    },
-    {
       "title": "Resurrected",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -44,5 +44,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:49:26Z"
+  "updated_at": "2026-03-28T15:35:07Z"
 }

@@ -3,6 +3,22 @@
   "name": "A-One",
   "tracks": [
     {
+      "title": "Side by Side",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2466136,
+          2500938
+        ],
+        "osu": [
+          2397982
+        ]
+      }
+    },
+    {
       "title": "A-One feat. Aki & Amare - Wiz Me",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -111,23 +127,7 @@
       "title": "A-One feat. Shihori - ToRyan-Se",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Side by Side",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2466136,
-          2500938
-        ],
-        "osu": [
-          2397982
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T20:13:16Z"
+  "updated_at": "2026-03-28T11:58:32Z"
 }

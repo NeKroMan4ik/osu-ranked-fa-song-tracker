@@ -3,6 +3,32 @@
   "name": "Bossfight",
   "tracks": [
     {
+      "title": "Milky Ways",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1818929
+        ]
+      }
+    },
+    {
+      "title": "Sonder",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          476666
+        ],
+        "fruits": [
+          412743
+        ]
+      }
+    },
+    {
       "title": "Adust",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -28,17 +54,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Milky Ways",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1818929
-        ]
-      }
-    },
-    {
       "title": "Nock Em",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -59,21 +74,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sonder",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          476666
-        ],
-        "fruits": [
-          412743
-        ]
-      }
-    },
-    {
       "title": "The Empire of Toads",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -84,5 +84,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:36:08Z"
+  "updated_at": "2026-03-28T12:25:01Z"
 }

@@ -37,26 +37,6 @@
       }
     },
     {
-      "title": "Makeshift Clone",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Mr Turbo Sailor",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Nova Factory",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tainted Tune",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Digital Force",
       "ranked_modes": [
         "osu"
@@ -88,7 +68,27 @@
           6499
         ]
       }
+    },
+    {
+      "title": "Makeshift Clone",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mr Turbo Sailor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nova Factory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tainted Tune",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:41:52Z"
+  "updated_at": "2026-03-28T15:25:16Z"
 }

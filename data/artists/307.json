@@ -3,11 +3,6 @@
   "name": "Mono.",
   "tracks": [
     {
-      "title": "Mono. (feat. Hatsune Miku) - Everlasting Game",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Peaceful+Piece",
       "ranked_modes": [
         "mania"
@@ -19,16 +14,6 @@
       }
     },
     {
-      "title": "ROCKET START",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "skip&step",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Soumatou",
       "ranked_modes": [
         "taiko"
@@ -38,6 +23,21 @@
           2441208
         ]
       }
+    },
+    {
+      "title": "Mono. (feat. Hatsune Miku) - Everlasting Game",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ROCKET START",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "skip&step",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ST4RDUST*XABER",
@@ -55,5 +55,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:33:39Z"
+  "updated_at": "2026-03-28T13:52:37Z"
 }

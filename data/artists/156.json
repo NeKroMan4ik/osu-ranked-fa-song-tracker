@@ -3,11 +3,6 @@
   "name": "fiend",
   "tracks": [
     {
-      "title": "2DF2",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Disconnect",
       "ranked_modes": [
         "taiko"
@@ -36,13 +31,22 @@
     {
       "title": "Fever Dream (feat. yzzyx)",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "taiko": [
           1465152
+        ],
+        "osu": [
+          1405913
         ]
       }
+    },
+    {
+      "title": "2DF2",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In a Place That No One Speaks",
@@ -50,5 +54,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:52:59Z"
+  "updated_at": "2026-03-28T12:56:08Z"
 }

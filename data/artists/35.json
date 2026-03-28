@@ -4,8 +4,14 @@
   "tracks": [
     {
       "title": "Ankoku No Jyoukaku Ni Shinkou Saru Igyou No Kyouki",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          967766
+        ]
+      }
     },
     {
       "title": "BRING+EYES=DEATH+INVITE",
@@ -19,11 +25,6 @@
       }
     },
     {
-      "title": "Bunretsu Shita Doke to Hakkyo no Shudo Onna",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Danzai No Honoo To Koibito-Tachi No Rondo",
       "ranked_modes": [
         "osu"
@@ -33,11 +34,6 @@
           961431
         ]
       }
-    },
-    {
-      "title": "Fushoku Resentment...",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fusyoku ressentiment, fushiyoku no sarugakuza.",
@@ -81,21 +77,6 @@
           1369800
         ]
       }
-    },
-    {
-      "title": "Goku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Alpha",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Omega",
@@ -143,16 +124,6 @@
       }
     },
     {
-      "title": "Jashin no Konrei, Gi wa Ai to Shiru",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kuroki Sakura wa Ai: Sono Shi o Kou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Misogiharae no Kamiumi wa Notamai, Magabarai no Shokuzai wa Chikau.",
       "ranked_modes": [
         "osu"
@@ -167,8 +138,18 @@
     },
     {
       "title": "Seishin No Kairi No, Sakebi To Nageki.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1761637
+        ],
+        "taiko": [
+          1160027
+        ]
+      }
     },
     {
       "title": "Shinbatsu o Tadori Kyoukotsu ni Itaru",
@@ -193,11 +174,6 @@
           482382
         ]
       }
-    },
-    {
-      "title": "Syakunetsu No Rengoku Ni Bara Wa…",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tensei",
@@ -241,17 +217,18 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          552726,
-          1839986
-        ],
         "osu": [
           410162,
           479638,
           552726,
           962562,
           1112662,
-          1781677
+          1781677,
+          2467278
+        ],
+        "mania": [
+          552726,
+          1839986
         ],
         "fruits": [
           457332,
@@ -264,26 +241,6 @@
           1572969
         ]
       }
-    },
-    {
-      "title": "Yomi yori Kikoyu, Koukoku No Hi To Honoo No Syoujo.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. -Mogari-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yomi yori Kikoyu...",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yoruha: Tsumitobachi no Rasen",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yuuaku no Inori - Anima immortalis est. -",
@@ -311,10 +268,70 @@
       }
     },
     {
+      "title": "Bunretsu Shita Doke to Hakkyo no Shudo Onna",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fushoku Resentment...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Alpha",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jashin no Konrei, Gi wa Ai to Shiru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuroki Sakura wa Ai: Sono Shi o Kou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Syakunetsu No Rengoku Ni Bara Wa…",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yomi yori Kikoyu, Koukoku No Hi To Honoo No Syoujo.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. -Mogari-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yomi yori Kikoyu...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yoruha: Tsumitobachi no Rasen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Zankoku-sa wa Sono Nakigara wo Neburazaru",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:26:16Z"
+  "updated_at": "2026-03-28T13:15:24Z"
 }

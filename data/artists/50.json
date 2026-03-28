@@ -61,11 +61,6 @@
       }
     },
     {
-      "title": "Passage",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Spark of the Archon",
       "ranked_modes": [
         "osu"
@@ -86,7 +81,12 @@
           1053074
         ]
       }
+    },
+    {
+      "title": "Passage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:06:10Z"
+  "updated_at": "2026-03-28T13:59:49Z"
 }

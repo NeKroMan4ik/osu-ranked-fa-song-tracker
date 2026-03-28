@@ -15,10 +15,10 @@
           1290796,
           2317522
         ],
-        "osu": [
+        "taiko": [
           2007718
         ],
-        "taiko": [
+        "osu": [
           2007718
         ],
         "mania": [
@@ -34,6 +34,28 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2169793
+        ]
+      }
+    },
+    {
+      "title": "Spica",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2412637
+        ]
+      }
+    },
+    {
+      "title": "VIVIDVELOCITY",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2120379
         ]
       }
     },
@@ -58,31 +80,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Spica",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2412637
-        ]
-      }
-    },
-    {
       "title": "Synthion, Yuuna Nini - By My Side",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "VIVIDVELOCITY",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2120379
-        ]
-      }
     },
     {
       "title": "Waltz Capriccio",
@@ -90,5 +90,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:22:20Z"
+  "updated_at": "2026-03-28T14:58:54Z"
 }

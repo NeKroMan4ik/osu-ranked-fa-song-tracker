@@ -3,16 +3,6 @@
   "name": "KOAN Sound",
   "tracks": [
     {
-      "title": "Boundless",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Chalk It Out",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Chilli Daddy",
       "ranked_modes": [
         "taiko"
@@ -22,6 +12,68 @@
           1318794
         ]
       }
+    },
+    {
+      "title": "Hydroplane",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2023125
+        ]
+      }
+    },
+    {
+      "title": "Strike",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          440827
+        ]
+      }
+    },
+    {
+      "title": "Vibrant",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2181186
+        ],
+        "taiko": [
+          1881442
+        ],
+        "osu": [
+          1124489
+        ]
+      }
+    },
+    {
+      "title": "Virtual Light",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          927912
+        ]
+      }
+    },
+    {
+      "title": "Boundless",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chalk It Out",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chronos",
@@ -47,17 +99,6 @@
       "title": "Hustle Hammer",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hydroplane",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2023125
-        ]
-      }
     },
     {
       "title": "Jongmyo",
@@ -125,39 +166,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Strike",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          440827
-        ]
-      }
-    },
-    {
       "title": "The Zulla",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Vibrant",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2181186
-        ],
-        "taiko": [
-          1881442
-        ],
-        "osu": [
-          1124489
-        ]
-      }
     },
     {
       "title": "Viridian Dream",
@@ -165,21 +176,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Virtual Light",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          927912
-        ]
-      }
-    },
-    {
       "title": "Vivid",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:05:58Z"
+  "updated_at": "2026-03-28T13:28:00Z"
 }

@@ -3,6 +3,126 @@
   "name": "BlackY",
   "tracks": [
     {
+      "title": "Babylon",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1737434
+        ],
+        "mania": [
+          634232
+        ]
+      }
+    },
+    {
+      "title": "Black Rose",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1621706
+        ]
+      }
+    },
+    {
+      "title": "Double Pendulum",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          555786,
+          2119529,
+          2186266
+        ]
+      }
+    },
+    {
+      "title": "Fontana",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1413062
+        ]
+      }
+    },
+    {
+      "title": "Nobodyknows Eden",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          768440
+        ]
+      }
+    },
+    {
+      "title": "PANAGIA",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2475368
+        ]
+      }
+    },
+    {
+      "title": "Sakura Ranman Cleopatra",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1595193
+        ]
+      }
+    },
+    {
+      "title": "Santa (Extended Mix '18)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2289434
+        ]
+      }
+    },
+    {
+      "title": "Sthenno",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1412241
+        ],
+        "osu": [
+          991780
+        ]
+      }
+    },
+    {
+      "title": "ULT!MATE END",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1618360
+        ]
+      }
+    },
+    {
       "title": "#nanairo_ginga",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -36,32 +156,6 @@
       "title": "Asterism Stream",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Babylon",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1737434
-        ],
-        "mania": [
-          634232
-        ]
-      }
-    },
-    {
-      "title": "Black Rose",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1621706
-        ]
-      }
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Blue Night Trip",
@@ -259,19 +353,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Double Pendulum",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          555786,
-          2119529,
-          2186266
-        ]
-      }
-    },
-    {
       "title": "Downburst",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -320,17 +401,6 @@
       "title": "FnospiraL",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fontana",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1413062
-        ]
-      }
     },
     {
       "title": "Forever Hearts (BlackY Remix)",
@@ -478,17 +548,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nobodyknows Eden",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          768440
-        ]
-      }
-    },
-    {
       "title": "nora2r vs. BlackY - Best Smile",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -499,42 +558,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "PANAGIA",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2475368
-        ]
-      }
-    },
-    {
       "title": "REMiNiSCENCE",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sakura Ranman Cleopatra",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1595193
-        ]
-      }
-    },
-    {
-      "title": "Santa (Extended Mix '18)",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2289434
-        ]
-      }
     },
     {
       "title": "sentimental aventure",
@@ -552,21 +578,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sthenno",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1412241
-        ],
-        "osu": [
-          991780
-        ]
-      }
-    },
-    {
       "title": "Strange Castaways (2016 Update)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -580,17 +591,6 @@
       "title": "TEMPURA DANCE",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ULT!MATE END",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1618360
-        ]
-      }
     },
     {
       "title": "Ultranova (2016 Update)",
@@ -613,5 +613,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:34:07Z"
+  "updated_at": "2026-03-28T12:21:55Z"
 }

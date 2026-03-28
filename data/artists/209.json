@@ -25,6 +25,36 @@
       }
     },
     {
+      "title": "Quality Control",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1609035
+        ],
+        "taiko": [
+          1052288
+        ]
+      }
+    },
+    {
+      "title": "Wave feat. Aitsuki Nakuru",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2097481
+        ],
+        "taiko": [
+          1649954
+        ]
+      }
+    },
+    {
       "title": "Dot to Dot feat. Shully",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -60,21 +90,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Quality Control",
-      "ranked_modes": [
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1609035
-        ],
-        "taiko": [
-          1052288
-        ]
-      }
-    },
-    {
       "title": "rejection - Signal (feat. Such) - Mameyudoufu Remix",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -88,22 +103,7 @@
       "title": "Shining feat. Aitsuki Nakuru",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Wave feat. Aitsuki Nakuru",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2097481
-        ],
-        "taiko": [
-          1649954
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:27:46Z"
+  "updated_at": "2026-03-28T13:46:02Z"
 }

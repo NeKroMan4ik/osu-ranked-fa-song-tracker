@@ -5,11 +5,26 @@
     {
       "title": "Koala",
       "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2078554
+        ],
+        "mania": [
+          2098009
+        ]
+      }
+    },
+    {
+      "title": "Live In Life",
+      "ranked_modes": [
         "mania"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
-          2098009
+          2372473
         ]
       }
     },
@@ -19,15 +34,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Live In Life",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Writing on the Wall",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:41:58Z"
+  "updated_at": "2026-03-28T15:25:22Z"
 }

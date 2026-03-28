@@ -34,6 +34,43 @@
       }
     },
     {
+      "title": "Shinku no Senkou",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1551011
+        ]
+      }
+    },
+    {
+      "title": "Sunflower",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1403962
+        ]
+      }
+    },
+    {
+      "title": "XIII Charlotte",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1400205
+        ],
+        "mania": [
+          1366994
+        ]
+      }
+    },
+    {
       "title": "Electro Tectrium",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -54,52 +91,15 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shinku no Senkou",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1551011
-        ]
-      }
-    },
-    {
       "title": "STARDUST CITY",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sunflower",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1403962
-        ]
-      }
-    },
-    {
       "title": "The Sky is The Limit",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "XIII Charlotte",
-      "ranked_modes": [
-        "fruits",
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1400205
-        ],
-        "mania": [
-          1366994
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:26:34Z"
+  "updated_at": "2026-03-28T13:44:28Z"
 }

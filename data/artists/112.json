@@ -3,11 +3,6 @@
   "name": "Se-U-Ra",
   "tracks": [
     {
-      "title": "abhory",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Afterwars -Infection-",
       "ranked_modes": [
         "taiko"
@@ -17,11 +12,6 @@
           1315809
         ]
       }
-    },
-    {
-      "title": "Aiyatvs -wayfarer of the Q-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cris Fortress",
@@ -62,16 +52,6 @@
       }
     },
     {
-      "title": "F-Rozenette",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gensei Hatsu, Kiboukou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Graffiti:Code -V0TL 3.90-",
       "ranked_modes": [
         "taiko"
@@ -81,6 +61,123 @@
           1302562
         ]
       }
+    },
+    {
+      "title": "LOA2",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1348806,
+          2420210
+        ],
+        "taiko": [
+          1281878
+        ],
+        "osu": [
+          929622
+        ]
+      }
+    },
+    {
+      "title": "LOSHAXI -HACK-",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1094418
+        ]
+      }
+    },
+    {
+      "title": "Qlifact -another-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1224699
+        ]
+      }
+    },
+    {
+      "title": "QSHELL -Kyoshoku no Shell-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          928283
+        ]
+      }
+    },
+    {
+      "title": "Sekibaku no Maihime wa Kuraku Shizumu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1317826
+        ]
+      }
+    },
+    {
+      "title": "The Endless for Traveler",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1794190
+        ]
+      }
+    },
+    {
+      "title": "Traveler ~stand aloof~",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1439562
+        ]
+      }
+    },
+    {
+      "title": "Tsui no Maihime",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1154776
+        ]
+      }
+    },
+    {
+      "title": "abhory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aiyatvs -wayfarer of the Q-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "F-Rozenette",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gensei Hatsu, Kiboukou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HazArtOth",
@@ -118,62 +215,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "LOA2",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1348806,
-          2420210
-        ],
-        "taiko": [
-          1281878
-        ],
-        "osu": [
-          929622
-        ]
-      }
-    },
-    {
       "title": "LOSHAXI (origin)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "LOSHAXI -HACK-",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1094418
-        ]
-      }
-    },
-    {
-      "title": "Qlifact -another-",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1224699
-        ]
-      }
-    },
-    {
-      "title": "QSHELL -Kyoshoku no Shell-",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          928283
-        ]
-      }
     },
     {
       "title": "Rainbow Avenue",
@@ -199,17 +243,6 @@
       "title": "Se-U-Ra x seatrus - Melusia",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sekibaku no Maihime wa Kuraku Shizumu",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1317826
-        ]
-      }
     },
     {
       "title": "Shironobo",
@@ -242,39 +275,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Endless for Traveler",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1794190
-        ]
-      }
-    },
-    {
-      "title": "Traveler ~stand aloof~",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1439562
-        ]
-      }
-    },
-    {
-      "title": "Tsui no Maihime",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1154776
-        ]
-      }
-    },
-    {
       "title": "Utsushi Gi no Shoujo Lix",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -290,5 +290,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:04:25Z"
+  "updated_at": "2026-03-28T14:39:13Z"
 }

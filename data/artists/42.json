@@ -40,11 +40,6 @@
       }
     },
     {
-      "title": "Drought",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Getaway",
       "ranked_modes": [
         "fruits",
@@ -97,11 +92,6 @@
       }
     },
     {
-      "title": "Regina",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "San Francisco",
       "ranked_modes": [
         "fruits"
@@ -113,10 +103,20 @@
       }
     },
     {
+      "title": "Drought",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Regina",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Shining",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:57:39Z"
+  "updated_at": "2026-03-28T12:32:10Z"
 }

@@ -3,16 +3,6 @@
   "name": "DJ Raisei",
   "tracks": [
     {
-      "title": "#Kurutta Minzoku AGNIKAYANIZM",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "23",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cafe + M!lk + Chocolate",
       "ranked_modes": [
         "mania"
@@ -22,16 +12,6 @@
           1884877
         ]
       }
-    },
-    {
-      "title": "Elapse Collapse",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Elumth",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fractured Heaven",
@@ -49,11 +29,6 @@
       }
     },
     {
-      "title": "ISOMERZ (DJ Raisei + seatrus) - Symmetric",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "No Hi-TECH No Life",
       "ranked_modes": [
         "taiko"
@@ -63,11 +38,6 @@
           2276254
         ]
       }
-    },
-    {
-      "title": "Nucleo Synthesis",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "T.R.A.P.",
@@ -85,6 +55,36 @@
       }
     },
     {
+      "title": "#Kurutta Minzoku AGNIKAYANIZM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "23",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Elapse Collapse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Elumth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ISOMERZ (DJ Raisei + seatrus) - Symmetric",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nucleo Synthesis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "ToYou & DJ Raisei - ADHD",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -100,5 +100,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:44:58Z"
+  "updated_at": "2026-03-28T12:46:27Z"
 }

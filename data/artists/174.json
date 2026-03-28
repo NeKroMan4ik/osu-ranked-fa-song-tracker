@@ -33,16 +33,6 @@
       }
     },
     {
-      "title": "Futaboshi no Testament",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Galactic Love",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kimi to Driven Star",
       "ranked_modes": [
         "osu"
@@ -127,7 +117,17 @@
           1400986
         ]
       }
+    },
+    {
+      "title": "Futaboshi no Testament",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Galactic Love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:19:22Z"
+  "updated_at": "2026-03-28T13:31:56Z"
 }

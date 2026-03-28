@@ -3,6 +3,28 @@
   "name": "sugosugiii",
   "tracks": [
     {
+      "title": "Maelstrom",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412254
+        ]
+      }
+    },
+    {
+      "title": "Times New Roman",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2240606
+        ]
+      }
+    },
+    {
       "title": "1, 2, turnmeUP!",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -53,17 +75,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Maelstrom",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2412254
-        ]
-      }
-    },
-    {
       "title": "Our Epilogue",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -109,17 +120,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Times New Roman",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2240606
-        ]
-      }
-    },
-    {
       "title": "true you. (feat. Ethereal_Winter & InabaYap)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -140,5 +140,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:19:22Z"
+  "updated_at": "2026-03-28T14:55:31Z"
 }

@@ -3,6 +3,50 @@
   "name": "Task Horizon",
   "tracks": [
     {
+      "title": "Enigma Machine",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1165587
+        ]
+      }
+    },
+    {
+      "title": "Flame Fetish",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1175776
+        ]
+      }
+    },
+    {
+      "title": "Phase Prism",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1195463
+        ]
+      }
+    },
+    {
+      "title": "Weave The Strands",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1219062
+        ]
+      }
+    },
+    {
       "title": "Adaptation",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -46,28 +90,6 @@
       "title": "Disintegrate",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Enigma Machine",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1165587
-        ]
-      }
-    },
-    {
-      "title": "Flame Fetish",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1175776
-        ]
-      }
     },
     {
       "title": "Flight Simulator",
@@ -150,17 +172,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Phase Prism",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1195463
-        ]
-      }
-    },
-    {
       "title": "Plug Your Wetware",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -214,18 +225,7 @@
       "title": "Unimpossible",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Weave The Strands",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1219062
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T14:59:43Z"
+  "updated_at": "2026-03-28T15:03:22Z"
 }

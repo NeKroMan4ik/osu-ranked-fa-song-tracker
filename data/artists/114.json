@@ -51,16 +51,6 @@
       }
     },
     {
-      "title": "Kamisama wa Kitto",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kimi no Inai Sekai",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kodomo no Youni",
       "ranked_modes": [
         "osu"
@@ -97,6 +87,16 @@
       }
     },
     {
+      "title": "Kamisama wa Kitto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimi no Inai Sekai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Zekkai no Juliet",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -107,5 +107,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:54:56Z"
+  "updated_at": "2026-03-28T12:59:01Z"
 }

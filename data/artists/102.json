@@ -29,16 +29,6 @@
       }
     },
     {
-      "title": "Growth Call",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laser Mirage",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Me & U",
       "ranked_modes": [
         "fruits",
@@ -63,11 +53,6 @@
           1224186
         ]
       }
-    },
-    {
-      "title": "Ogre and Beans",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "One Way Street",
@@ -108,6 +93,32 @@
       }
     },
     {
+      "title": "YInMn Blue",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1233593
+        ]
+      }
+    },
+    {
+      "title": "Growth Call",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laser Mirage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ogre and Beans",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Purple Hyacinth (feat. Norico)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -121,18 +132,7 @@
       "title": "U SAiD",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "YInMn Blue",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1233593
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T22:13:23Z"
+  "updated_at": "2026-03-28T14:48:04Z"
 }

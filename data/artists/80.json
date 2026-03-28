@@ -3,16 +3,6 @@
   "name": "BLANKFIELD",
   "tracks": [
     {
-      "title": "Before He Dies",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Betrayal of the Eiya",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Border Of Life",
       "ranked_modes": [
         "osu"
@@ -22,36 +12,6 @@
           1168786
         ]
       }
-    },
-    {
-      "title": "Cross",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dark Road",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Darkness Falls",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Desolation",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Division",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Esoteria",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Falling Falls",
@@ -99,11 +59,6 @@
       }
     },
     {
-      "title": "Flat World, Plain Asia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Flowering Game Night",
       "ranked_modes": [
         "fruits",
@@ -119,11 +74,6 @@
       }
     },
     {
-      "title": "Green Jealous",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Guilty People, Innocent Doll",
       "ranked_modes": [
         "osu"
@@ -133,6 +83,86 @@
           1175382
         ]
       }
+    },
+    {
+      "title": "Retrospective City",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1203586
+        ],
+        "osu": [
+          1120645
+        ]
+      }
+    },
+    {
+      "title": "Voyage",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1617030
+        ],
+        "osu": [
+          1201974
+        ]
+      }
+    },
+    {
+      "title": "Before He Dies",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Betrayal of the Eiya",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cross",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dark Road",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Darkness Falls",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Desolation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Division",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Esoteria",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Flat World, Plain Asia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Green Jealous",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Half Ghost",
@@ -165,21 +195,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Retrospective City",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1203586
-        ],
-        "osu": [
-          1120645
-        ]
-      }
-    },
-    {
       "title": "Start From Zero",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -210,25 +225,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Voyage",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1617030
-        ],
-        "osu": [
-          1201974
-        ]
-      }
-    },
-    {
       "title": "Wriggle.",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:45:20Z"
+  "updated_at": "2026-03-28T12:22:38Z"
 }

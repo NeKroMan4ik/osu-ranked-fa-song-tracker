@@ -3,21 +3,6 @@
   "name": "Tokyo Machine",
   "tracks": [
     {
-      "title": "BUBBLES",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "FIGHT",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "JOURNEY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "OKAY",
       "ranked_modes": [
         "fruits",
@@ -33,11 +18,6 @@
       }
     },
     {
-      "title": "PARTY",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PLAY",
       "ranked_modes": [
         "mania"
@@ -47,6 +27,26 @@
           2429511
         ]
       }
+    },
+    {
+      "title": "BUBBLES",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FIGHT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "JOURNEY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PARTY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ROCK IT",
@@ -64,5 +64,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:28:13Z"
+  "updated_at": "2026-03-28T15:09:01Z"
 }

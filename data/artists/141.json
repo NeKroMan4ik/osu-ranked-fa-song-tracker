@@ -22,21 +22,6 @@
       }
     },
     {
-      "title": "Best Smile",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Brave Your Mind feat. Takeda Eruru",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Daybreak Trustshot",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dreadnought",
       "ranked_modes": [
         "fruits",
@@ -63,21 +48,6 @@
       }
     },
     {
-      "title": "Energy Of The Sun",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Frozen System",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "GO BACK 2 YOUR RAVE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Memory Of Sunrise",
       "ranked_modes": [
         "fruits",
@@ -91,6 +61,48 @@
           579893
         ]
       }
+    },
+    {
+      "title": "New World",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          324294,
+          910843
+        ]
+      }
+    },
+    {
+      "title": "Best Smile",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Brave Your Mind feat. Takeda Eruru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daybreak Trustshot",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Energy Of The Sun",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Frozen System",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "GO BACK 2 YOUR RAVE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Modern Dream",
@@ -108,18 +120,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "New World",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          324294,
-          910843
-        ]
-      }
-    },
-    {
       "title": "Regain Blue feat. Sennzai",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -135,5 +135,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:43:26Z"
+  "updated_at": "2026-03-28T14:04:23Z"
 }

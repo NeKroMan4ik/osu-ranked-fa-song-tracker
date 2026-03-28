@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "HONEY SNOWFLAKES",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ICE CREAM GROWS ON TREES",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ONIGIRI FREEWAY",
       "ranked_modes": [
         "fruits",
@@ -64,11 +54,6 @@
       }
     },
     {
-      "title": "TOAST RUN",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "UP UP MT. CAKE",
       "ranked_modes": [
         "mania",
@@ -88,7 +73,22 @@
           682732
         ]
       }
+    },
+    {
+      "title": "HONEY SNOWFLAKES",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ICE CREAM GROWS ON TREES",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TOAST RUN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:14:52Z"
+  "updated_at": "2026-03-28T14:05:21Z"
 }

@@ -3,6 +3,32 @@
   "name": "ALEPH",
   "tracks": [
     {
+      "title": "Scintillations",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1037567
+        ]
+      }
+    },
+    {
+      "title": "The Evil Spirit",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1233230
+        ],
+        "taiko": [
+          1034358
+        ]
+      }
+    },
+    {
       "title": "BREAKING AND ENTERING",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -23,35 +49,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Scintillations",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1037567
-        ]
-      }
-    },
-    {
       "title": "SHIFTING",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Evil Spirit",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1233230
-        ],
-        "taiko": [
-          1034358
-        ]
-      }
     },
     {
       "title": "ULTRAVIOLET",
@@ -59,5 +59,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:22:41Z"
+  "updated_at": "2026-03-28T12:06:58Z"
 }

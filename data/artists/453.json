@@ -3,16 +3,6 @@
   "name": "uynet",
   "tracks": [
     {
-      "title": "Astral Heaven",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Disaster",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mach space journey",
       "ranked_modes": [
         "mania"
@@ -30,13 +20,23 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "mania": [
           2214270
         ],
-        "mania": [
+        "osu": [
           2214270
         ]
       }
+    },
+    {
+      "title": "Astral Heaven",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Disaster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Seisouken",
@@ -49,5 +49,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:36:34Z"
+  "updated_at": "2026-03-28T15:20:24Z"
 }

@@ -14,17 +14,13 @@
       }
     },
     {
-      "title": "a MUSIC is worth 1000 words",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Abendstern",
       "ranked_modes": [
         "mania"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
+          2127527,
           2325707
         ]
       }
@@ -56,26 +52,6 @@
       }
     },
     {
-      "title": "Ascension",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ataraxia (2020 Rework)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Brigade",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "CIRCVMZENITHAL:ARK",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cosmo Station",
       "ranked_modes": [
         "mania"
@@ -85,26 +61,6 @@
           1684406
         ]
       }
-    },
-    {
-      "title": "cryptic worthy widgEt",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dancing In The Blue",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DaRk TRiggeR",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Desintegrate of Eden",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Destiny Strings",
@@ -118,21 +74,16 @@
       }
     },
     {
-      "title": "Dilapidated Cathedral",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Diossido di Carbonio",
       "ranked_modes": [
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           2194018
         ],
-        "mania": [
+        "taiko": [
           2194018
         ]
       }
@@ -161,26 +112,6 @@
       }
     },
     {
-      "title": "discipline 01-INSOMNIA-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "discipline 02-WORTHLESS-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "discipline 03-BLACKOUT-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "discipline 04-FAREWELL-",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "DOOMSDAY THUNDERTEMPEST",
       "ranked_modes": [
         "mania"
@@ -191,11 +122,6 @@
           1700903
         ]
       }
-    },
-    {
-      "title": "EARTHBREAKER",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "efchi",
@@ -239,16 +165,6 @@
       }
     },
     {
-      "title": "Geton the Ascending Current (Spinoff of \"Loudly Cloudy\")",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gravity Through",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "GRAVITY ZONE",
       "ranked_modes": [
         "mania"
@@ -260,16 +176,6 @@
       }
     },
     {
-      "title": "GRiXiZM",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hakusen o Watatte",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hear+ of Marionette",
       "ranked_modes": [
         "osu"
@@ -279,26 +185,6 @@
           2255666
         ]
       }
-    },
-    {
-      "title": "Heavens Station",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hekikuu no Yakusoku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hoshi Furu Yoru to Ichirin no Hana",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HydroMe+eor",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ILLEGAL LEGACY",
@@ -316,36 +202,6 @@
       }
     },
     {
-      "title": "In The Scapes",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Jikan Sensou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "kuro+seatrus - Bellum",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Liminalcave",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Little World Adventure",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "M A X I M U M B L A S T E R",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Melty Lover",
       "ranked_modes": [
         "mania",
@@ -357,24 +213,14 @@
           2017987,
           2210112
         ],
-        "osu": [
-          2192587
-        ],
         "taiko": [
           2127141,
           2192587
+        ],
+        "osu": [
+          2192587
         ]
       }
-    },
-    {
-      "title": "Metal Globe",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Metamocluster",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MONONOKE",
@@ -387,16 +233,6 @@
           2241879
         ]
       }
-    },
-    {
-      "title": "morgenroete",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Night Thea+er Etude",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "O",
@@ -412,16 +248,6 @@
           1693010
         ]
       }
-    },
-    {
-      "title": "Oyasmy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Perl Tail",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "permitted",
@@ -458,16 +284,6 @@
       }
     },
     {
-      "title": "reXenivur",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rune Delta",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Scorcher on The Battlefield",
       "ranked_modes": [
         "fruits"
@@ -477,6 +293,235 @@
           2095161
         ]
       }
+    },
+    {
+      "title": "Soul Memory",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2226603
+        ]
+      }
+    },
+    {
+      "title": "Stargaze Station",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1585728
+        ]
+      }
+    },
+    {
+      "title": "TH3 5UMMONERS",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1497954
+        ]
+      }
+    },
+    {
+      "title": "V!rtuaresort",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1575193
+        ]
+      }
+    },
+    {
+      "title": "a MUSIC is worth 1000 words",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ascension",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ataraxia (2020 Rework)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Brigade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "CIRCVMZENITHAL:ARK",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cryptic worthy widgEt",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dancing In The Blue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DaRk TRiggeR",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Desintegrate of Eden",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dilapidated Cathedral",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "discipline 01-INSOMNIA-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "discipline 02-WORTHLESS-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "discipline 03-BLACKOUT-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "discipline 04-FAREWELL-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "EARTHBREAKER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Geton the Ascending Current (Spinoff of \"Loudly Cloudy\")",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gravity Through",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "GRiXiZM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hakusen o Watatte",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Heavens Station",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hekikuu no Yakusoku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hoshi Furu Yoru to Ichirin no Hana",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HydroMe+eor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "In The Scapes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jikan Sensou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kuro+seatrus - Bellum",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Liminalcave",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Little World Adventure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "M A X I M U M B L A S T E R",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Metal Globe",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Metamocluster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "morgenroete",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Night Thea+er Etude",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Oyasmy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Perl Tail",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "reXenivur",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rune Delta",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "seatrus + Halv - The Core",
@@ -509,31 +554,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Soul Memory",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2226603
-        ]
-      }
-    },
-    {
       "title": "Spooky Dance Party",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Stargaze Station",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1585728
-        ]
-      }
     },
     {
       "title": "Strawberry Latte",
@@ -556,17 +579,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "TH3 5UMMONERS",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1497954
-        ]
-      }
-    },
-    {
       "title": "The Burned Tableau",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -582,21 +594,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "V!rtuaresort",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1575193
-        ]
-      }
-    },
-    {
       "title": "Weekend Extravagance XD",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:06:24Z"
+  "updated_at": "2026-03-28T14:40:59Z"
 }

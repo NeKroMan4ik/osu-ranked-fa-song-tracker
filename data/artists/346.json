@@ -14,16 +14,6 @@
       }
     },
     {
-      "title": "Mediks feat. Astronaut - Blown Away",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Mediks feat. Astronaut - Blown Away (Raise Spirit Remix)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Nightmare",
       "ranked_modes": [
         "osu"
@@ -41,13 +31,23 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           527082
         ],
-        "taiko": [
+        "osu": [
           527082
         ]
       }
+    },
+    {
+      "title": "Mediks feat. Astronaut - Blown Away",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mediks feat. Astronaut - Blown Away (Raise Spirit Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snake Charmer",
@@ -55,5 +55,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:29:43Z"
+  "updated_at": "2026-03-28T13:48:07Z"
 }

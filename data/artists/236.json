@@ -3,16 +3,6 @@
   "name": "bill wurtz",
   "tracks": [
     {
-      "title": "and the day goes on",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "at the airport terminal",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "christmas isn't real",
       "ranked_modes": [
         "taiko"
@@ -41,6 +31,62 @@
           1689393
         ]
       }
+    },
+    {
+      "title": "La de da de da de da de day oh",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          725234
+        ]
+      }
+    },
+    {
+      "title": "school",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1879228
+        ],
+        "taiko": [
+          1784539
+        ],
+        "osu": [
+          1689478,
+          1689557
+        ]
+      }
+    },
+    {
+      "title": "the moon is made of cheese, but i can't taste it",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2473858
+        ],
+        "osu": [
+          1689938
+        ]
+      }
+    },
+    {
+      "title": "and the day goes on",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "at the airport terminal",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "got to know what's going on",
@@ -78,17 +124,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "La de da de da de da de day oh",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          725234
-        ]
-      }
-    },
-    {
       "title": "long long long journey",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -114,44 +149,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "school",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1879228
-        ],
-        "taiko": [
-          1784539
-        ],
-        "osu": [
-          1689478,
-          1689557
-        ]
-      }
-    },
-    {
       "title": "slow down",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "the moon is made of cheese, but i can't taste it",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2473858
-        ],
-        "osu": [
-          1689938
-        ]
-      }
     },
     {
       "title": "when i get older",
@@ -159,5 +159,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:31:13Z"
+  "updated_at": "2026-03-28T12:18:11Z"
 }

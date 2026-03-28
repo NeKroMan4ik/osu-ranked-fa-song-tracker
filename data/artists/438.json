@@ -14,6 +14,28 @@
       }
     },
     {
+      "title": "Reimei",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1862286
+        ]
+      }
+    },
+    {
+      "title": "Time to beat the odds",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2107939
+        ]
+      }
+    },
+    {
       "title": "Crazy banger",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -34,32 +56,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Reimei",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1862286
-        ]
-      }
-    },
-    {
       "title": "SHIKI - Lapis (Kagetora. remix)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Time to beat the odds",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2107939
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:11:31Z"
+  "updated_at": "2026-03-28T13:21:13Z"
 }

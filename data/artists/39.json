@@ -3,11 +3,6 @@
   "name": "James Landino",
   "tracks": [
     {
-      "title": "Anti Hero",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aresene's Bazaar",
       "ranked_modes": [
         "mania",
@@ -40,21 +35,6 @@
       }
     },
     {
-      "title": "Hit That feat. Hentai Dude & Tofuku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "James Landino & Kabuki - Birdsong",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "James Landino, Funk Fiction, Motoi - Dreaming",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Reaction feat. Slyleaf",
       "ranked_modes": [
         "mania",
@@ -69,11 +49,6 @@
           972816
         ]
       }
-    },
-    {
-      "title": "RUN2ME",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shiba Island",
@@ -116,7 +91,32 @@
           1034041
         ]
       }
+    },
+    {
+      "title": "Anti Hero",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hit That feat. Hentai Dude & Tofuku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "James Landino & Kabuki - Birdsong",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "James Landino, Funk Fiction, Motoi - Dreaming",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "RUN2ME",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:55:51Z"
+  "updated_at": "2026-03-28T13:18:16Z"
 }

@@ -3,11 +3,6 @@
   "name": "S3RL",
   "tracks": [
     {
-      "title": "Bass Slut (feat. Tamika)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Candy (feat. Sara)",
       "ranked_modes": [
         "mania",
@@ -21,26 +16,6 @@
           829956
         ]
       }
-    },
-    {
-      "title": "Catchit",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Feel The Melody (feat. Sara)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "FriendZoned (feat. Mixe Moon & MC Offside)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Genre Police (feat. Lexi)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I Will Pick You Up (feat. Tamika)",
@@ -73,16 +48,6 @@
       }
     },
     {
-      "title": "Little Kandi Raver 2012 (feat. Sara)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MTC",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Pika Girl",
       "ranked_modes": [
         "mania",
@@ -98,17 +63,73 @@
       }
     },
     {
+      "title": "Ravers Mashup",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          912916
+        ],
+        "osu": [
+          912916
+        ]
+      }
+    },
+    {
+      "title": "Well, That Was Awkward",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          660109
+        ]
+      }
+    },
+    {
+      "title": "Bass Slut (feat. Tamika)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Catchit",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Feel The Melody (feat. Sara)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FriendZoned (feat. Mixe Moon & MC Offside)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Genre Police (feat. Lexi)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Little Kandi Raver 2012 (feat. Sara)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MTC",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "R4V3 B0Y (feat. Krystal)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow Girl (feat. Tamika)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ravers Mashup",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -181,18 +202,7 @@
       "title": "Tell Me What You Want (feat. Tamika)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Well, That Was Awkward",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          660109
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T12:40:37Z"
+  "updated_at": "2026-03-28T14:37:11Z"
 }

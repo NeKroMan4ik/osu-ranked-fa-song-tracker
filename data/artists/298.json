@@ -25,6 +25,17 @@
       }
     },
     {
+      "title": "Zekkyou Mob B",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2143531
+        ]
+      }
+    },
+    {
       "title": "Kakokyou Dance",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -43,18 +54,7 @@
       "title": "Yakousei Niwatori Koushinkyoku",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Zekkyou Mob B",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2143531
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:40:06Z"
+  "updated_at": "2026-03-28T13:59:39Z"
 }

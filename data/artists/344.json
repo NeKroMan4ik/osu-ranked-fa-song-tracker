@@ -3,11 +3,6 @@
   "name": "True North",
   "tracks": [
     {
-      "title": "Ashes",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Disconnect",
       "ranked_modes": [
         "osu"
@@ -30,6 +25,11 @@
       }
     },
     {
+      "title": "Ashes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Piece Of You",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -45,5 +45,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:30:12Z"
+  "updated_at": "2026-03-28T15:11:36Z"
 }

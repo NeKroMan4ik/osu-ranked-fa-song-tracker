@@ -14,21 +14,6 @@
       }
     },
     {
-      "title": "Camellia & Massive New Krew - Octo-Bug (Massive New Krew Edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Diamond Chronicles",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Diamond Chronicles (Game Size)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ever Free (Raw Edit)",
       "ranked_modes": [
         "taiko"
@@ -82,10 +67,25 @@
       }
     },
     {
+      "title": "Camellia & Massive New Krew - Octo-Bug (Massive New Krew Edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Diamond Chronicles",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Diamond Chronicles (Game Size)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "The Daylight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:29:18Z"
+  "updated_at": "2026-03-28T13:47:22Z"
 }

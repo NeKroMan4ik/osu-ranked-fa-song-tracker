@@ -3,6 +3,60 @@
   "name": "Vektor",
   "tracks": [
     {
+      "title": "Cosmic Cortex",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          357996
+        ]
+      }
+    },
+    {
+      "title": "Fast Paced Society",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          518689,
+          1118123
+        ],
+        "osu": [
+          298996
+        ]
+      }
+    },
+    {
+      "title": "Outer Isolation",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          469408
+        ]
+      }
+    },
+    {
+      "title": "Tetrastructural Minds",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          361035,
+          2427971
+        ],
+        "taiko": [
+          1047259
+        ]
+      }
+    },
+    {
       "title": "Black Future",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -16,17 +70,6 @@
       "title": "Collapse",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cosmic Cortex",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          357996
-        ]
-      }
     },
     {
       "title": "Cygnus Terminal",
@@ -54,22 +97,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fast Paced Society",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          518689,
-          1118123
-        ],
-        "osu": [
-          298996
-        ]
-      }
-    },
-    {
       "title": "Hunger For Violence",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -88,17 +115,6 @@
       "title": "Oblivion",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Outer Isolation",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          469408
-        ]
-      }
     },
     {
       "title": "Pillars Of Sand",
@@ -121,22 +137,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tetrastructural Minds",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          361035,
-          2427971
-        ],
-        "taiko": [
-          1047259
-        ]
-      }
-    },
-    {
       "title": "Ultimate Artificer",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -147,5 +147,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:37:43Z"
+  "updated_at": "2026-03-28T15:21:12Z"
 }

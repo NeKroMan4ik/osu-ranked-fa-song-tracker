@@ -14,11 +14,6 @@
       }
     },
     {
-      "title": "Dangling",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mirai Isho",
       "ranked_modes": [
         "osu"
@@ -30,11 +25,6 @@
       }
     },
     {
-      "title": "Mx. Black Box",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Phantom Chain",
       "ranked_modes": [
         "osu"
@@ -44,7 +34,17 @@
           2105111
         ]
       }
+    },
+    {
+      "title": "Dangling",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mx. Black Box",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:51:28Z"
+  "updated_at": "2026-03-28T14:14:54Z"
 }

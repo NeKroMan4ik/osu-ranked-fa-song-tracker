@@ -3,21 +3,6 @@
   "name": "Morimori Atsushi",
   "tracks": [
     {
-      "title": "AAAA vs. Morimori Atsushi - Xrocus",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aduh!",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ake Hoshi",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Alter Ego",
       "ranked_modes": [
         "taiko"
@@ -40,26 +25,6 @@
       }
     },
     {
-      "title": "Amaterasu",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Apsaras",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aquamarine",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "COLLAGE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Funkotsu Saishin Casino",
       "ranked_modes": [
         "mania",
@@ -78,16 +43,6 @@
           1028937
         ]
       }
-    },
-    {
-      "title": "Hifuu Club no Chian Warui Kyoku ni Hamatteru Kata",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kurenai",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laevateinn",
@@ -143,6 +98,176 @@
       }
     },
     {
+      "title": "Paradigm Shift",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          765055
+        ],
+        "mania": [
+          765055
+        ],
+        "osu": [
+          432589
+        ]
+      }
+    },
+    {
+      "title": "Paradigm Shift (Extended Mix)",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2031183
+        ],
+        "mania": [
+          1286752,
+          2022063
+        ]
+      }
+    },
+    {
+      "title": "PUPA",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          366126,
+          2422504
+        ],
+        "fruits": [
+          660618
+        ],
+        "taiko": [
+          224164,
+          235506
+        ],
+        "osu": [
+          224164
+        ]
+      }
+    },
+    {
+      "title": "Time Capsule",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1186866
+        ]
+      }
+    },
+    {
+      "title": "Toono Gensou Monogatari (MRM REMIX)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2308571
+        ],
+        "fruits": [
+          1474955
+        ],
+        "osu": [
+          1089149,
+          1404277
+        ],
+        "taiko": [
+          812992
+        ]
+      }
+    },
+    {
+      "title": "Txxs or get the fxxk out!!",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2320547
+        ],
+        "osu": [
+          1686490
+        ],
+        "fruits": [
+          1388539
+        ]
+      }
+    },
+    {
+      "title": "un secret",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2236105
+        ]
+      }
+    },
+    {
+      "title": "AAAA vs. Morimori Atsushi - Xrocus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aduh!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ake Hoshi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amaterasu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Apsaras",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aquamarine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "COLLAGE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hifuu Club no Chian Warui Kyoku ni Hamatteru Kata",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kurenai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Morimori Atsushi + Ujico* - Vieille Ville",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -188,69 +313,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Paradigm Shift",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          765055
-        ],
-        "mania": [
-          765055
-        ],
-        "osu": [
-          432589
-        ]
-      }
-    },
-    {
-      "title": "Paradigm Shift (Extended Mix)",
-      "ranked_modes": [
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2031183
-        ],
-        "mania": [
-          1286752,
-          2022063
-        ]
-      }
-    },
-    {
       "title": "Prismriver San Shimai no UK Hardcore ni Hamatte Iru Kata (VIP)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "PUPA",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          366126,
-          2422504
-        ],
-        "fruits": [
-          660618
-        ],
-        "taiko": [
-          224164,
-          235506
-        ],
-        "osu": [
-          224164
-        ]
-      }
     },
     {
       "title": "PUPA (uma Remix)",
@@ -283,63 +348,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Time Capsule",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1186866
-        ]
-      }
-    },
-    {
       "title": "Time Machine",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Toono Gensou Monogatari (MRM REMIX)",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2308571
-        ],
-        "fruits": [
-          1474955
-        ],
-        "osu": [
-          1089149,
-          1404277
-        ],
-        "taiko": [
-          812992
-        ]
-      }
-    },
-    {
-      "title": "Txxs or get the fxxk out!!",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2320547
-        ],
-        "osu": [
-          1686490
-        ],
-        "fruits": [
-          1388539
-        ]
-      }
     },
     {
       "title": "uma vs. Morimori Atsushi - Crescent Moon",
@@ -400,18 +411,7 @@
       "title": "un deux trois...",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "un secret",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2236105
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:37:44Z"
+  "updated_at": "2026-03-28T13:56:06Z"
 }

@@ -3,6 +3,28 @@
   "name": "Sable Hills",
   "tracks": [
     {
+      "title": "Juggernaut",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1244973
+        ]
+      }
+    },
+    {
+      "title": "No Love Lost",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1278498
+        ]
+      }
+    },
+    {
       "title": "Abyss",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -33,28 +55,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Juggernaut",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1244973
-        ]
-      }
-    },
-    {
-      "title": "No Love Lost",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1278498
-        ]
-      }
-    },
-    {
       "title": "Not Falling",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -75,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:02:26Z"
+  "updated_at": "2026-03-28T14:37:28Z"
 }

@@ -3,6 +3,76 @@
   "name": "Risa Yuzuki",
   "tracks": [
     {
+      "title": "Cinderella Maker",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1688873
+        ]
+      }
+    },
+    {
+      "title": "Honogurai Tsuioku",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1544897
+        ]
+      }
+    },
+    {
+      "title": "Shuuen e no Keifu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2218272
+        ]
+      }
+    },
+    {
+      "title": "Transparent ZERO",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1814464
+        ]
+      }
+    },
+    {
+      "title": "Umbilical",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2332292
+        ]
+      }
+    },
+    {
+      "title": "Yumemiru Milky Way feat. Aitsuki Nakuru",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2180227
+        ],
+        "osu": [
+          1934189
+        ]
+      }
+    },
+    {
       "title": "Amatsu Sumizome",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -38,17 +108,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cinderella Maker",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1688873
-        ]
-      }
-    },
-    {
       "title": "Dear Marionette",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -62,17 +121,6 @@
       "title": "Filia no Rashinban",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Honogurai Tsuioku",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1544897
-        ]
-      }
     },
     {
       "title": "Hyakkiyakoujun",
@@ -130,17 +178,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shuuen e no Keifu",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2218272
-        ]
-      }
-    },
-    {
       "title": "Subekaraku Senrei",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -151,47 +188,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Transparent ZERO",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1814464
-        ]
-      }
-    },
-    {
-      "title": "Umbilical",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2332292
-        ]
-      }
-    },
-    {
       "title": "Yamatonadeshiko Dance Floor",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yumemiru Milky Way feat. Aitsuki Nakuru",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2180227
-        ],
-        "osu": [
-          1934189
-        ]
-      }
     }
   ],
-  "updated_at": "2026-03-24T21:58:38Z"
+  "updated_at": "2026-03-28T14:31:17Z"
 }

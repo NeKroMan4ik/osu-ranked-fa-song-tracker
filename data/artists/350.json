@@ -18,16 +18,6 @@
       }
     },
     {
-      "title": "ddm",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DeviousPanda",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Down",
       "ranked_modes": [
         "osu"
@@ -123,13 +113,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
+        "mania": [
           2503577
         ],
         "taiko": [
           2503577
         ],
-        "mania": [
+        "fruits": [
           2503577
         ],
         "osu": [
@@ -160,11 +150,6 @@
       }
     },
     {
-      "title": "UberFazz",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yamangomcpro6th",
       "ranked_modes": [
         "fruits",
@@ -182,7 +167,22 @@
           1715340
         ]
       }
+    },
+    {
+      "title": "ddm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DeviousPanda",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "UberFazz",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:45:38Z"
+  "updated_at": "2026-03-28T12:47:02Z"
 }

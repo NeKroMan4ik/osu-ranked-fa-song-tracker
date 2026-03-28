@@ -3,6 +3,197 @@
   "name": "Akiri",
   "tracks": [
     {
+      "title": "Beyond Wood",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2134266
+        ]
+      }
+    },
+    {
+      "title": "Blocko ET (feat. Jinjin)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2321263
+        ]
+      }
+    },
+    {
+      "title": "Don't Let Go",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2378998
+        ],
+        "mania": [
+          2149840
+        ]
+      }
+    },
+    {
+      "title": "Evolutionary Anima",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2314344,
+          2363694
+        ]
+      }
+    },
+    {
+      "title": "Fortnite Battle Pass",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2266660
+        ]
+      }
+    },
+    {
+      "title": "i forgot who i was supposed to be",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2393065
+        ]
+      }
+    },
+    {
+      "title": "I_O",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2177201
+        ]
+      }
+    },
+    {
+      "title": "Kuroi Hanabira",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1996162,
+          2366876
+        ]
+      }
+    },
+    {
+      "title": "MEOWWW",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2523537
+        ]
+      }
+    },
+    {
+      "title": "Symphony Of The Beginning",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2336324
+        ],
+        "mania": [
+          2242527
+        ]
+      }
+    },
+    {
+      "title": "Symphony Of The Lost Souls",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2365975
+        ],
+        "mania": [
+          2146189
+        ],
+        "fruits": [
+          2134741
+        ]
+      }
+    },
+    {
+      "title": "The Angel Of Fallen Origins",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2180748
+        ]
+      }
+    },
+    {
+      "title": "the song of 2024",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2465056
+        ],
+        "taiko": [
+          2325272
+        ]
+      }
+    },
+    {
+      "title": "Vespera Stella",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412328
+        ]
+      }
+    },
+    {
+      "title": "Void Of Altair",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2273374
+        ],
+        "mania": [
+          2246375
+        ]
+      }
+    },
+    {
       "title": "Ace Note",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -73,31 +264,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Beyond Wood",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2134266
-        ]
-      }
-    },
-    {
       "title": "BilliumMoto x Akiri - Cryochemistry",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Blocko ET (feat. Jinjin)",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2321263
-        ]
-      }
     },
     {
       "title": "Break For Everest",
@@ -140,36 +309,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Don't Let Go",
-      "ranked_modes": [
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2378998
-        ],
-        "mania": [
-          2149840
-        ]
-      }
-    },
-    {
       "title": "Dreamless Stars",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Evolutionary Anima",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2314344,
-          2363694
-        ]
-      }
     },
     {
       "title": "Existence",
@@ -190,17 +332,6 @@
       "title": "FINAL DESTINATION",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fortnite Battle Pass",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2266660
-        ]
-      }
     },
     {
       "title": "Fragmented Nexus",
@@ -243,17 +374,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "i forgot who i was supposed to be",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2393065
-        ]
-      }
-    },
-    {
       "title": "i punt my cat feat. basil",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -274,17 +394,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "I_O",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2177201
-        ]
-      }
-    },
-    {
       "title": "INSANITY, I HAVE LOST MYSELF",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -293,18 +402,6 @@
       "title": "It's Okay",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kuroi Hanabira",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1996162,
-          2366876
-        ]
-      }
     },
     {
       "title": "Leuenea",
@@ -323,11 +420,6 @@
     },
     {
       "title": "Love You Not",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MEOWWW",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -412,21 +504,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Symphony Of The Beginning",
-      "ranked_modes": [
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2336324
-        ],
-        "mania": [
-          2242527
-        ]
-      }
-    },
-    {
       "title": "Symphony Of The Dreamers feat. Hatsune Miku",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -447,25 +524,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Symphony Of The Lost Souls",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2365975
-        ],
-        "mania": [
-          2146189
-        ],
-        "fruits": [
-          2134741
-        ]
-      }
-    },
-    {
       "title": "Symphony Of The Remnants",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -481,35 +539,9 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Angel Of Fallen Origins",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2180748
-        ]
-      }
-    },
-    {
       "title": "The Moment You Left Me",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "the song of 2024",
-      "ranked_modes": [
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2465056
-        ],
-        "taiko": [
-          2325272
-        ]
-      }
     },
     {
       "title": "The Wanderers Irreversible Occecation",
@@ -532,32 +564,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Vespera Stella",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2412328
-        ]
-      }
-    },
-    {
-      "title": "Void Of Altair",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2273374
-        ],
-        "mania": [
-          2246375
-        ]
-      }
-    },
-    {
       "title": "Vortice Complex",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -573,5 +579,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:22:05Z"
+  "updated_at": "2026-03-28T12:06:33Z"
 }

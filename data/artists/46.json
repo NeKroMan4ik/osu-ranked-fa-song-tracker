@@ -48,26 +48,6 @@
       }
     },
     {
-      "title": "Transhumanist",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1642521,
-          2165052
-        ],
-        "mania": [
-          1069426
-        ],
-        "taiko": [
-          1069426
-        ]
-      }
-    },
-    {
       "title": "Billain & Kodin - Feed For Speed",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -89,6 +69,11 @@
     },
     {
       "title": "Billain & Vegas - Shinde",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Billain & Vorso - Transhumanist",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -163,5 +148,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T11:31:56Z"
+  "updated_at": "2026-03-29T19:49:57Z"
 }

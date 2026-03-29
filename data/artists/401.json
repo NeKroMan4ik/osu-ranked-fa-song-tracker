@@ -85,18 +85,6 @@
       }
     },
     {
-      "title": "Kuroi Hanabira",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1996162,
-          2366876
-        ]
-      }
-    },
-    {
       "title": "MEOWWW",
       "ranked_modes": [
         "mania"
@@ -209,7 +197,22 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Akiri feat. HowToPlayLN - The Cry of The Uncertain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Akiri feat. InabaYap - Tonight We Fly",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Akiri vs. HowToPlayLN - Cognitohazadrous Ocular Vision Impairing Disease",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Akiri X HowToPlayLN - Kuroi Hanabira",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -289,17 +292,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cognitohazadrous Ocular Vision Impairing Disease",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Collapsing Star Fragmentation",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cry of the Uncertain",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -579,5 +572,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T11:19:43Z"
+  "updated_at": "2026-03-29T19:37:36Z"
 }

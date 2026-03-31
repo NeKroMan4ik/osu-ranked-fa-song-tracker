@@ -10,8 +10,17 @@ const artistCache = new Map();
 /** Currently selected mode filter; null = all */
 let selectedMode = null;
 
+const MODE_ORDER = ['osu', 'taiko', 'fruits', 'mania'];
+
+/** @type {HTMLAudioElement|null} */
+let currentAudio = null;
+/** @type {HTMLButtonElement|null} */
+let currentPlayBtn = null;
+/** @type {string|null} */
+let currentAudioUrl = null;
+
 /**
- * @typedef {{ title: string, ranked_modes: string[], beatmapset_ids_by_mode: Record<string, number[]> }} Track
+ * @typedef {{ title: string, preview: string, ranked_modes: string[], beatmapset_ids_by_mode: Record<string, number[]> }} Track
  * @typedef {{ id: number, name: string, tracks: Track[], updated_at: string }} Artist
  */
 
@@ -26,6 +35,7 @@ async function init() {
 
   setupSearch();
   setupModeFilter();
+  createAudioPlayer();
 
   const params = new URLSearchParams(window.location.search);
   const q = params.get('artist');
@@ -203,10 +213,6 @@ function renderArtist(artist) {
       </span>
     </div>
     <ul class="track-list" id="track-list"></ul>
-    <div class="legend">
-      <span class="legend-item"><span class="dot ranked"></span>ranked</span>
-      <span class="legend-item"><span class="dot unranked"></span>unranked</span>
-    </div>
   `;
 
   const list = card.querySelector('#track-list');
@@ -235,7 +241,6 @@ function renderTrack(track) {
   const dotClass   = ranked ? 'ranked' : 'unranked';
   const titleClass = ranked ? 'is-ranked' : 'is-unranked';
 
-  const MODE_ORDER = ['osu', 'taiko', 'fruits', 'mania'];
   const sortedModes = [...track.ranked_modes].sort(
     (a, b) => MODE_ORDER.indexOf(a) - MODE_ORDER.indexOf(b)
   );
@@ -250,13 +255,189 @@ function renderTrack(track) {
       }).join('')}</span>`
     : '';
 
+  const previewBtn = track.preview
+    ? `<button class="preview-btn" data-url="${escHtml(track.preview)}" data-title="${escHtml(track.title)}"></button>`
+    : '';
+
   li.innerHTML = `
     <span class="dot ${dotClass}"></span>
     <span class="track-title ${titleClass}">${escHtml(track.title)}</span>
     ${modesBadges}
+    ${previewBtn}
   `;
 
+  const btn = li.querySelector('.preview-btn');
+  if (btn) {
+    btn.addEventListener('click', () => {
+      playAudio(btn.dataset.url, btn.dataset.title, btn);
+    });
+  }
+
   return li;
+}
+
+// ── Audio Player ─────────────────────────────────────────────────────────────
+
+function createAudioPlayer() {
+  const player = document.createElement('div');
+  player.id = 'audio-player';
+  player.className = 'audio-player';
+  player.innerHTML = `
+    <div class="audio-player-track">
+      <span class="audio-player-title"></span>
+      <button class="audio-player-close" title="Close"></button>
+    </div>
+    <div class="audio-player-controls">
+      <button class="audio-control-btn audio-play-pause"></button>
+      <div class="audio-progress-container">
+        <div class="audio-progress-bar"><div class="audio-progress-fill"></div></div>
+        <span class="audio-time">0:00 / 0:00</span>
+      </div>
+      <button class="audio-control-btn audio-copy-link" title="Copy link"></button>
+    </div>
+  `;
+
+  document.body.appendChild(player);
+
+  makeDraggable(player);
+
+  player.querySelector('.audio-player-close').addEventListener('click', closeAudioPlayer);
+
+  player.querySelector('.audio-play-pause').addEventListener('click', () => {
+    if (currentAudio) currentAudio.paused ? currentAudio.play() : currentAudio.pause();
+  });
+
+  player.querySelector('.audio-copy-link').addEventListener('click', async () => {
+    if (currentAudioUrl) {
+      try {
+        await navigator.clipboard.writeText(currentAudioUrl);
+        showToast('Link copied!');
+      } catch { showToast('Failed to copy'); }
+    }
+  });
+
+  player.querySelector('.audio-progress-bar').addEventListener('click', (e) => {
+    if (currentAudio && currentAudio.duration) {
+      const rect = e.currentTarget.getBoundingClientRect();
+      currentAudio.currentTime = ((e.clientX - rect.left) / rect.width) * currentAudio.duration;
+    }
+  });
+}
+
+function makeDraggable(el) {
+  let startX, startY, startLeft, startBottom;
+
+  el.querySelector('.audio-player-track').addEventListener('mousedown', (e) => {
+    if (e.target.closest('.audio-player-close')) return;
+
+    const rect = el.getBoundingClientRect();
+    startX = e.clientX;
+    startY = e.clientY;
+    startLeft = rect.left;
+    startBottom = window.innerHeight - rect.bottom;
+
+    el.style.right = 'auto';
+    el.style.left = startLeft + 'px';
+    el.style.bottom = startBottom + 'px';
+
+    function onMove(e) {
+      const dx = e.clientX - startX;
+      const dy = e.clientY - startY;
+      el.style.left = Math.max(0, Math.min(window.innerWidth - rect.width, startLeft + dx)) + 'px';
+      el.style.bottom = Math.max(0, Math.min(window.innerHeight - rect.height, startBottom - dy)) + 'px';
+    }
+
+    function onUp() {
+      document.removeEventListener('mousemove', onMove);
+      document.removeEventListener('mouseup', onUp);
+    }
+
+    document.addEventListener('mousemove', onMove);
+    document.addEventListener('mouseup', onUp);
+  });
+}
+
+function showToast(msg) {
+  let toast = document.querySelector('.copy-toast');
+  if (toast) toast.remove();
+  toast = document.createElement('div');
+  toast.className = 'copy-toast';
+  toast.textContent = msg;
+  document.body.appendChild(toast);
+  setTimeout(() => toast.classList.add('show'), 10);
+  setTimeout(() => { toast.classList.remove('show'); setTimeout(() => toast.remove(), 200); }, 2000);
+}
+
+function closeAudioPlayer() {
+  const player = document.getElementById('audio-player');
+  if (player) player.classList.remove('show');
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+  if (currentPlayBtn) { currentPlayBtn.classList.remove('is-playing', 'icon-pause'); currentPlayBtn = null; }
+  currentAudioUrl = null;
+}
+
+/** @type {AbortController|null} */
+let currentAudioAc = null;
+
+function playAudio(url, title, btn) {
+  const player = document.getElementById('audio-player');
+  const titleEl = player.querySelector('.audio-player-title');
+  const progressFill = player.querySelector('.audio-progress-fill');
+  const timeEl = player.querySelector('.audio-time');
+  const playPauseBtn = player.querySelector('.audio-play-pause');
+
+  if (currentAudio && currentAudioUrl === url) {
+    currentAudio.paused ? currentAudio.play() : currentAudio.pause();
+    return;
+  }
+
+  if (currentAudio) currentAudio.pause();
+  if (currentPlayBtn) currentPlayBtn.classList.remove('is-playing', 'icon-pause');
+  if (currentAudioAc) currentAudioAc.abort();
+
+  currentAudio = new Audio(url);
+  currentAudioUrl = url;
+  currentPlayBtn = btn;
+  currentAudioAc = new AbortController();
+  const { signal } = currentAudioAc;
+
+  titleEl.textContent = title;
+  requestAnimationFrame(() => player.classList.add('show'));
+
+  currentAudio.addEventListener('play', () => {
+    btn.classList.add('is-playing', 'icon-pause');
+    playPauseBtn.classList.add('is-playing', 'icon-pause');
+  }, { signal });
+
+  currentAudio.addEventListener('pause', () => {
+    btn.classList.remove('is-playing', 'icon-pause');
+    playPauseBtn.classList.remove('is-playing', 'icon-pause');
+  }, { signal });
+
+  currentAudio.addEventListener('ended', () => {
+    btn.classList.remove('is-playing', 'icon-pause');
+    playPauseBtn.classList.remove('is-playing', 'icon-pause');
+    progressFill.style.width = '0%';
+  }, { signal });
+
+  currentAudio.addEventListener('timeupdate', () => {
+    const pct = (currentAudio.currentTime / currentAudio.duration) * 100;
+    progressFill.style.width = pct + '%';
+    timeEl.textContent = formatTime(currentAudio.currentTime) + ' / ' + formatTime(currentAudio.duration);
+  }, { signal });
+
+  currentAudio.addEventListener('loadedmetadata', () => {
+    timeEl.textContent = '0:00 / ' + formatTime(currentAudio.duration);
+  }, { signal });
+
+  currentAudio.play();
+}
+
+function formatTime(sec) {
+  if (!sec || isNaN(sec)) return '0:00';
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return m + ':' + String(s).padStart(2, '0');
 }
 
 // ── States ───────────────────────────────────────────────────────────────────
@@ -286,5 +467,5 @@ function escHtml(str) {
 
 init().catch(err => {
   document.getElementById('results').innerHTML =
-    `<p class="state-msg">⚠ ${escHtml(err.message)}</p>`;
+    `<p class="state-msg">${escHtml(err.message)}</p>`;
 });

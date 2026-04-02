@@ -1,6 +1,6 @@
 from pathlib import Path
 
-SEARCH_DELAY = 1.25
+SEARCH_DELAY = 0.15
 DATA_DIR     = Path(__file__).parent.parent / "data"
 ARTISTS_DIR  = DATA_DIR / "artists"
 INDEX_PATH   = DATA_DIR / "index.json"
@@ -26,3 +26,12 @@ ARTIST_SEARCH_ALIASES = { # used for artists with compound names on the fa listi
     8: ["Sylvir", "sakuraburst"],
     132: ["Yuyoyuppe", "DJ'TEKINA//SOMETHING"],
 }
+
+VERSION_MARKERS = [ # ignore markers, parenthesis excluded
+    # only unofficial markers since official edits should be treated as separate songs
+    "cut ver.",
+    "sped up ver.",
+    "sped up & cut ver.",
+    "nightcore ver",
+    "nightcore & cut ver",
+]

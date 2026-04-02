@@ -87,6 +87,34 @@
       }
     },
     {
+      "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
+      "preview": "https://assets.ppy.sh/artists/32/Songs/onumi__Akira_Complex_-_Ethereal_Cyber_Angel_XV.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1793096
+        ],
+        "taiko": [
+          1744942
+        ]
+      }
+    },
+    {
+      "title": "onumi X Fluff Pink & Belak - TRAUMA",
+      "preview": "https://assets.ppy.sh/artists/32/TRAUMA/onumi X Fluff Pink %26 Belak - TRAUMA.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2408890
+        ]
+      }
+    },
+    {
       "title": "PERSONALITY",
       "preview": "https://assets.ppy.sh/artists/32/Songs/onumi_-_PERSONALITY.mp3",
       "ranked_modes": [
@@ -151,18 +179,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
-      "preview": "https://assets.ppy.sh/artists/32/Songs/onumi__Akira_Complex_-_Ethereal_Cyber_Angel_XV.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "onumi X Fluff Pink & Belak - TRAUMA",
-      "preview": "https://assets.ppy.sh/artists/32/TRAUMA/onumi X Fluff Pink %26 Belak - TRAUMA.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "section 9",
       "preview": "https://assets.ppy.sh/artists/32/previews/3033.mp3",
       "ranked_modes": [],
@@ -199,5 +215,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:28:38Z"
+  "updated_at": "2026-04-02T22:10:05Z"
 }

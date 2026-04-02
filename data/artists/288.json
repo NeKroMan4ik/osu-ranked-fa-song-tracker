@@ -59,6 +59,18 @@
       }
     },
     {
+      "title": "Xomu & ZxNX - Spiritworks",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/Xomu__ZxNX_-_Spiritworks.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2186482
+        ]
+      }
+    },
+    {
       "title": "Altair",
       "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX - Altair.mp3",
       "ranked_modes": [],
@@ -131,12 +143,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Xomu & ZxNX - Spiritworks",
-      "preview": "https://assets.ppy.sh/artists/288/Songs/Xomu__ZxNX_-_Spiritworks.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ZxNX & Delaina - Hydra",
       "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX %26 Delaina - Hydra.mp3",
       "ranked_modes": [],
@@ -191,5 +197,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:58:44Z"
+  "updated_at": "2026-04-02T22:29:33Z"
 }

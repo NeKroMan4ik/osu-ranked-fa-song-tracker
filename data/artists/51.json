@@ -3,6 +3,26 @@
   "name": "Akira Complex",
   "tracks": [
     {
+      "title": "Akira Complex & PSYQUI - Come to me",
+      "preview": "https://assets.ppy.sh/artists/51/HYPERSYNTHETIC/Akira Complex %26 PSYQUI - Come to me.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2044064
+        ],
+        "osu": [
+          2016906
+        ],
+        "mania": [
+          2016683
+        ]
+      }
+    },
+    {
       "title": "Akira Complex - rift.exe",
       "preview": "https://assets.ppy.sh/artists/51/Beats!!/Akira Complex - Akira Complex - rift.exe.mp3",
       "ranked_modes": [
@@ -60,6 +80,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          582089,
+          1016559,
+          1565791
+        ],
         "taiko": [
           997115,
           2208390
@@ -70,11 +95,6 @@
         ],
         "fruits": [
           2016764
-        ],
-        "osu": [
-          582089,
-          1016559,
-          1565791
         ]
       }
     },
@@ -119,6 +139,22 @@
       }
     },
     {
+      "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/onumi__Akira_Complex_-_Ethereal_Cyber_Angel_XV.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1793096
+        ],
+        "taiko": [
+          1744942
+        ]
+      }
+    },
+    {
       "title": "rift.exe (Camellia's \"De-compiling\" Remix)",
       "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - rift.exe (Camellia%27s De-compiling Remix).mp3",
       "ranked_modes": [
@@ -157,12 +193,6 @@
     {
       "title": "Akira Complex & N2 - Boot Sequence",
       "preview": "https://assets.ppy.sh/artists/51/HYPERSYNTHETIC/Akira Complex %26 N2 - Boot Sequence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Akira Complex & PSYQUI - Come to me",
-      "preview": "https://assets.ppy.sh/artists/51/HYPERSYNTHETIC/Akira Complex %26 PSYQUI - Come to me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -257,12 +287,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
-      "preview": "https://assets.ppy.sh/artists/51/Songs/onumi__Akira_Complex_-_Ethereal_Cyber_Angel_XV.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Show Me How (Defsharp Remix)",
       "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - Show Me How (Defsharp Remix).mp3",
       "ranked_modes": [],
@@ -281,5 +305,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:24:51Z"
+  "updated_at": "2026-04-02T21:42:50Z"
 }

@@ -3,6 +3,18 @@
   "name": "ak+q",
   "tracks": [
     {
+      "title": "ak+q & Redeilia - Enigma Helix",
+      "preview": "https://assets.ppy.sh/artists/466/Enigma Helix/ak%2Bq %26 Redeilia - Enigma Helix.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          867825
+        ]
+      }
+    },
+    {
       "title": "Excelsia",
       "preview": "https://assets.ppy.sh/artists/466/Excelsia/ak%2Bq - Excelsia.mp3",
       "ranked_modes": [
@@ -38,12 +50,6 @@
           2429471
         ]
       }
-    },
-    {
-      "title": "ak+q & Redeilia - Enigma Helix",
-      "preview": "https://assets.ppy.sh/artists/466/Enigma Helix/ak%2Bq %26 Redeilia - Enigma Helix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ardentium Nova",
@@ -94,5 +100,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:23:54Z"
+  "updated_at": "2026-04-02T21:42:37Z"
 }

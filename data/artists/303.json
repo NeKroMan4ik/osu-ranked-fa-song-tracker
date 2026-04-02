@@ -3,6 +3,27 @@
   "name": "Vorso",
   "tracks": [
     {
+      "title": "Billain & Vorso - Transhumanist",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/Billain__Vorso_-_Transhumanist.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1642521,
+          2165052
+        ],
+        "taiko": [
+          1069426
+        ],
+        "mania": [
+          1069426
+        ]
+      }
+    },
+    {
       "title": "Heliosphere",
       "preview": "https://assets.ppy.sh/artists/303/Songs/Vorso_-_Heliosphere.mp3",
       "ranked_modes": [
@@ -25,12 +46,6 @@
           818668
         ]
       }
-    },
-    {
-      "title": "Billain & Vorso - Transhumanist",
-      "preview": "https://assets.ppy.sh/artists/303/Songs/Billain__Vorso_-_Transhumanist.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Commanded",
@@ -57,5 +72,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:45:07Z"
+  "updated_at": "2026-04-02T22:26:33Z"
 }

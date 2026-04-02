@@ -3,6 +3,27 @@
   "name": "takehirotei",
   "tracks": [
     {
+      "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/Altermis__takehirotei__Violet_Delta_-_Christmas_Slop.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2479494
+        ],
+        "mania": [
+          2473122,
+          2477332
+        ],
+        "osu": [
+          2472271
+        ]
+      }
+    },
+    {
       "title": "Chronoexplorers (feat. Finite Limit)",
       "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei - Chronoexplorers (feat. Finite Limit).mp3",
       "ranked_modes": [
@@ -73,12 +94,6 @@
       }
     },
     {
-      "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
-      "preview": "https://assets.ppy.sh/artists/428/Songs/Altermis__takehirotei__Violet_Delta_-_Christmas_Slop.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "HowToPlayLN - Normal Distribution (takehirotei \"t-distribution\" remix)",
       "preview": "https://assets.ppy.sh/artists/428/Songs/HowToPlayLN - Normal Distribution (takehirotei t-distribution remix).mp3",
       "ranked_modes": [],
@@ -109,5 +124,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:23:57Z"
+  "updated_at": "2026-04-02T22:21:58Z"
 }

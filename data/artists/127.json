@@ -3,6 +3,35 @@
   "name": "Aitsuki Nakuru",
   "tracks": [
     {
+      "title": "A than_Lily feat. Aitsuki Nakuru - Presenter*",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/A than_Lily feat. Aitsuki Nakuru - Presenter.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1894355
+        ],
+        "osu": [
+          760473,
+          799156
+        ]
+      }
+    },
+    {
+      "title": "Aitsuki Nakuru & Miura Ko - Nounai Sociality",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Aitsuki Nakuru %26 Miura Ko - Nounai Sociality.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2175532
+        ]
+      }
+    },
+    {
       "title": "Feryquitous feat. Aitsuki Nakuru - Ether",
       "preview": "https://assets.ppy.sh/artists/127/JelLaboratory/Feryquitous feat. Aitsuki Nakuru - Ether.mp3",
       "ranked_modes": [
@@ -37,6 +66,18 @@
       }
     },
     {
+      "title": "Kabocha feat. Aitsuki Nakuru - Joker Parade",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Kabocha feat. Aitsuki Nakuru - Joker Parade.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1456196
+        ]
+      }
+    },
+    {
       "title": "Minagu feat. Aitsuki Nakuru - Enamel no Butoukai",
       "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Minagu feat. Aitsuki Nakuru - Enamel no Butoukai.mp3",
       "ranked_modes": [
@@ -61,10 +102,35 @@
       }
     },
     {
-      "title": "A than_Lily feat. Aitsuki Nakuru - Presenter*",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/A than_Lily feat. Aitsuki Nakuru - Presenter.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "title": "RD-Sounds feat. Aitsuki Nakuru - Azura Luno",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/RD-Sounds feat. Aitsuki Nakuru - Azura Luno.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1465077,
+          1471446
+        ],
+        "taiko": [
+          1338234
+        ]
+      }
+    },
+    {
+      "title": "Yosuke@KG feat. Aitsuki Nakuru - Monochrome Butterfly",
+      "preview": "https://assets.ppy.sh/artists/127/Tokoro Cranist/Yosuke%40KG feat. Aitsuki Nakuru - Monochrome Butterfly.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          770300,
+          1458599,
+          2308286
+        ]
+      }
     },
     {
       "title": "A than_Lily feat. Aitsuki Nakuru - Sono Na wa Rendezvous",
@@ -91,20 +157,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Aitsuki Nakuru & Miura Ko - Nounai Sociality",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Aitsuki Nakuru %26 Miura Ko - Nounai Sociality.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Applephilia no Himegoto feat. Aoi Sumito",
       "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Aitsuki Nakuru - Applephilia no Himegoto feat. Aoi Sumito.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kabocha feat. Aitsuki Nakuru - Joker Parade",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Kabocha feat. Aitsuki Nakuru - Joker Parade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -121,23 +175,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "RD-Sounds feat. Aitsuki Nakuru - Azura Luno",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/RD-Sounds feat. Aitsuki Nakuru - Azura Luno.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yosuke@KG feat. Aitsuki Nakuru - INFINITE DAYS",
       "preview": "https://assets.ppy.sh/artists/127/Nacollection!/Yosuke%40KG feat. Aitsuki Nakuru - INFINITE DAYS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yosuke@KG feat. Aitsuki Nakuru - Monochrome Butterfly",
-      "preview": "https://assets.ppy.sh/artists/127/Tokoro Cranist/Yosuke%40KG feat. Aitsuki Nakuru - Monochrome Butterfly.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:23:26Z"
+  "updated_at": "2026-04-02T21:42:31Z"
 }

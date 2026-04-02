@@ -308,6 +308,32 @@
       }
     },
     {
+      "title": "Camellia & DJ Genki - Feelin Sky",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia %26 DJ Genki - Feelin Sky.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          821987,
+          1506616,
+          2034706
+        ],
+        "osu": [
+          318848,
+          366706,
+          414543,
+          882932,
+          2034706
+        ],
+        "mania": [
+          524256
+        ]
+      }
+    },
+    {
       "title": "Camellia feat. Nanahira - Animal Land",
       "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Animal Land.mp3",
       "ranked_modes": [
@@ -328,9 +354,17 @@
       "title": "Camellia feat. Nanahira - Bassline Yatteru? w",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Bassline Yatteru w.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          809424
+        ],
+        "osu": [
+          715913
+        ],
         "fruits": [
           1643938
         ]
@@ -387,10 +421,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
+        "taiko": [
           2197076
         ],
-        "taiko": [
+        "mania": [
           2197076
         ],
         "osu": [
@@ -502,10 +536,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           2444077
         ],
-        "taiko": [
+        "osu": [
           2444077
         ]
       }
@@ -572,11 +606,32 @@
       "title": "Camellia feat. Yukacco - Be Wild",
       "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Yukacco - Be Wild.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          795610
+        ],
+        "mania": [
+          890491
+        ]
+      }
+    },
+    {
+      "title": "Camellia, Tsuko feat. Nanahira - Touhiron",
+      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia%2C Tsuko feat. Nanahira - Touhiron.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
-          890491
+          2056102,
+          2375712
+        ],
+        "osu": [
+          884977
         ]
       }
     },
@@ -697,20 +752,20 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2477885
+        ],
         "osu": [
           373240,
           396370,
           709946,
           2477885
         ],
-        "fruits": [
-          416308,
-          2477885
-        ],
         "mania": [
           2477885
         ],
-        "taiko": [
+        "fruits": [
+          416308,
           2477885
         ]
       }
@@ -1322,6 +1377,30 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1081920
+        ]
+      }
+    },
+    {
+      "title": "Ironmouse & Camellia - Waifu Jam",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Ironmouse and Camellia - Waifu Jam.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2129315
+        ]
+      }
+    },
+    {
+      "title": "Ironmouse & Camellia - Waifu Jam (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Ironmouse and Camellia - Waifu Jam (osu! edit).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1999975
         ]
       }
     },
@@ -2443,12 +2522,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia & DJ Genki - Feelin Sky",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia %26 DJ Genki - Feelin Sky.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Camellia - AREA 52",
       "preview": "https://assets.ppy.sh/artists/31/U.U.F.O/Camellia feat. Camellia - AREA 52.mp3",
       "ranked_modes": [],
@@ -2547,12 +2620,6 @@
     {
       "title": "Camellia, Tsuko feat. Nanahira - Present",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia%2C Tsuko feat. Nanahira - Present.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia, Tsuko feat. Nanahira - Touhiron",
-      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia%2C Tsuko feat. Nanahira - Touhiron.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -2673,18 +2740,6 @@
     {
       "title": "introduction - SCRAMBLE SUMMARY",
       "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 01/Camellia - introduction - SCRAMBLE SUMMARY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ironmouse & Camellia - Waifu Jam",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/Ironmouse and Camellia - Waifu Jam.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ironmouse & Camellia - Waifu Jam (osu! edit)",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/Ironmouse and Camellia - Waifu Jam (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -2941,5 +2996,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:52:01Z"
+  "updated_at": "2026-04-02T21:48:39Z"
 }

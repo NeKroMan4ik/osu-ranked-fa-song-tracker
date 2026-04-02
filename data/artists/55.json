@@ -58,11 +58,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          653534,
+        "taiko": [
           1066709
         ],
-        "taiko": [
+        "osu": [
+          653534,
           1066709
         ]
       }
@@ -104,6 +104,48 @@
         ],
         "osu": [
           504958
+        ]
+      }
+    },
+    {
+      "title": "Panda Eyes & Teminite - Highscore",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes %26 Teminite - Highscore.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1096769
+        ],
+        "mania": [
+          1079712
+        ],
+        "osu": [
+          332532
+        ]
+      }
+    },
+    {
+      "title": "Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes %26 Teminite - Immortal Flame (feat. Anna Yvette).mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1070984
+        ],
+        "fruits": [
+          703957,
+          1069737
+        ],
+        "osu": [
+          703957,
+          720024
         ]
       }
     },
@@ -330,18 +372,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Panda Eyes & Teminite - Highscore",
-      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes %26 Teminite - Highscore.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)",
-      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes %26 Teminite - Immortal Flame (feat. Anna Yvette).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Panda Eyes feat. Azuria Sky - One Smile",
       "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes feat. Azuria Sky - One Smile.mp3",
       "ranked_modes": [],
@@ -516,5 +546,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:36:25Z"
+  "updated_at": "2026-04-02T22:11:40Z"
 }

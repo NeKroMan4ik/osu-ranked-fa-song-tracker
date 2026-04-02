@@ -83,6 +83,18 @@
       }
     },
     {
+      "title": "S3RL feat. DEFI BRILATOR - Spoiler Alert",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._DEFI_BRILATOR_-_Spoiler_Alert.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1123726
+        ]
+      }
+    },
+    {
       "title": "S3RL feat. Kayliana - You Are Mine",
       "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Kayliana_-_You_Are_Mine.mp3",
       "ranked_modes": [
@@ -195,12 +207,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "S3RL feat. DEFI BRILATOR - Spoiler Alert",
-      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._DEFI_BRILATOR_-_Spoiler_Alert.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "S3RL feat. Emi - Escape",
       "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Emi_-_Escape.mp3",
       "ranked_modes": [],
@@ -255,5 +261,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:59:37Z"
+  "updated_at": "2026-04-02T22:16:42Z"
 }

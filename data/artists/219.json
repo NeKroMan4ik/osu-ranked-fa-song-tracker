@@ -3,6 +3,18 @@
   "name": "Matduke",
   "tracks": [
     {
+      "title": "Matduke & Veela - Bloodlip",
+      "preview": "https://assets.ppy.sh/artists/219/Songs/Matduke %26 Veela - Bloodlip.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          735660
+        ]
+      }
+    },
+    {
       "title": "Back To The Basics",
       "preview": "https://assets.ppy.sh/artists/219/BACK TO THE BASICS/Matduke - Back To The Basics.mp3",
       "ranked_modes": [],
@@ -39,12 +51,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Matduke & Veela - Bloodlip",
-      "preview": "https://assets.ppy.sh/artists/219/Songs/Matduke %26 Veela - Bloodlip.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Nomads",
       "preview": "https://assets.ppy.sh/artists/219/NOMADS/Matduke - Nomads.mp3",
       "ranked_modes": [],
@@ -63,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:09:26Z"
+  "updated_at": "2026-04-02T22:05:52Z"
 }

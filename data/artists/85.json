@@ -3,6 +3,66 @@
   "name": "Hyper Potions",
   "tracks": [
     {
+      "title": "Hyper Potions & Mega Flare - Where We Wanna Be (feat. Slyleaf)",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Mega Flare - Where We Wanna Be (feat. Slyleaf).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2120937
+        ]
+      }
+    },
+    {
+      "title": "Hyper Potions & MYLK - Jelly",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 MYLK - Jelly.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1192586
+        ]
+      }
+    },
+    {
+      "title": "Hyper Potions & Samme - Puppy Raceway",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Samme - Puppy Raceway.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1191714
+        ]
+      }
+    },
+    {
+      "title": "Hyper Potions & Skye Rocket - Shooting Star",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Skye Rocket - Shooting Star.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1191951
+        ]
+      }
+    },
+    {
+      "title": "Hyper Potions, Synthion & MYLK - Maboroshi",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions%2C Synthion %26 MYLK - Maboroshi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1175718
+        ]
+      }
+    },
+    {
       "title": "Jungle Cruise",
       "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Jungle Cruise.mp3",
       "ranked_modes": [
@@ -67,41 +127,11 @@
       }
     },
     {
-      "title": "Hyper Potions & Mega Flare - Where We Wanna Be (feat. Slyleaf)",
-      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Mega Flare - Where We Wanna Be (feat. Slyleaf).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hyper Potions & MYLK - Jelly",
-      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 MYLK - Jelly.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hyper Potions & Samme - Puppy Raceway",
-      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Samme - Puppy Raceway.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hyper Potions & Skye Rocket - Shooting Star",
-      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Skye Rocket - Shooting Star.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hyper Potions, Synthion & MYLK - Maboroshi",
-      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions%2C Synthion %26 MYLK - Maboroshi.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Trick or Treat",
       "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Trick or Treat.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:31:30Z"
+  "updated_at": "2026-04-02T21:57:17Z"
 }

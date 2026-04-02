@@ -3,6 +3,18 @@
   "name": "Station Earth / Blue Marble",
   "tracks": [
     {
+      "title": "Blue Marble & Gennady Tkachenko-Papizh - Genesis",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1844.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1102397
+        ]
+      }
+    },
+    {
       "title": "Blue Marble - Darkest Heights",
       "preview": "https://assets.ppy.sh/artists/66/previews/1847.mp3",
       "ranked_modes": [
@@ -75,10 +87,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
+        "taiko": [
           1103826
         ],
-        "taiko": [
+        "mania": [
           1103826
         ]
       }
@@ -92,12 +104,6 @@
     {
       "title": "Blue Marble & Axeela - Without Hue",
       "preview": "https://assets.ppy.sh/artists/66/previews/1843.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Blue Marble & Gennady Tkachenko-Papizh - Genesis",
-      "preview": "https://assets.ppy.sh/artists/66/previews/1844.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -192,5 +198,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:16:34Z"
+  "updated_at": "2026-04-02T22:20:21Z"
 }

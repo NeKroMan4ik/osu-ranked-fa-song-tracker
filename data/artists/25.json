@@ -3,6 +3,18 @@
   "name": "Nakanojojo",
   "tracks": [
     {
+      "title": "Toccoyaki & Nakanojojo - Kagami",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Toccoyaki__Nakanojojo_-_Kagami.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          936344
+        ]
+      }
+    },
+    {
       "title": "Nakanojojo & Farhan Sarasin - Vanilla",
       "preview": "https://assets.ppy.sh/artists/25/Songs/Nakanojojo__Farhan_Sarasin_-_Vanilla.mp3",
       "ranked_modes": [],
@@ -43,13 +55,7 @@
       "preview": "https://assets.ppy.sh/artists/25/Songs/Toccoyaki__Nakanojojo_-_Chounouryokusha_Dakedo_Mirai_Nante_Yomenai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Toccoyaki & Nakanojojo - Kagami",
-      "preview": "https://assets.ppy.sh/artists/25/Songs/Toccoyaki__Nakanojojo_-_Kagami.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:21:08Z"
+  "updated_at": "2026-04-02T22:08:25Z"
 }

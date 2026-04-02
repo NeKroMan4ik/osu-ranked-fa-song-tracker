@@ -39,6 +39,27 @@
       }
     },
     {
+      "title": "Kara & Kurokotei - Valley of Voices",
+      "preview": "https://assets.ppy.sh/artists/58/Songs/Kara %26 Kurokotei - Valley of Voices.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1714112
+        ],
+        "fruits": [
+          2210270
+        ],
+        "taiko": [
+          1377216,
+          1807672
+        ]
+      }
+    },
+    {
       "title": "Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)",
       "preview": "https://assets.ppy.sh/artists/58/Songs/Kurokotei feat. Sennzai - escape (the looking-glass%2C and what alice found there).mp3",
       "ranked_modes": [
@@ -98,12 +119,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kara & Kurokotei - Valley of Voices",
-      "preview": "https://assets.ppy.sh/artists/58/Songs/Kara %26 Kurokotei - Valley of Voices.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kurokotei as Lidelle + eili - Sfir'elle ~ la novella ~",
       "preview": "https://assets.ppy.sh/artists/58/Songs/Kurokotei_as_Lidelle__eili_-_Sfirelle__la_novella_.mp3",
       "ranked_modes": [],
@@ -134,5 +149,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:53:00Z"
+  "updated_at": "2026-04-02T22:02:00Z"
 }

@@ -48,9 +48,13 @@
       "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Nyanderful 3 Summer!!.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2505678
+        ],
         "osu": [
           2138147,
           2301406
@@ -79,5 +83,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:38:14Z"
+  "updated_at": "2026-04-02T22:12:06Z"
 }

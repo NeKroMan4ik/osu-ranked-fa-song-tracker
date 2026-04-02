@@ -56,6 +56,19 @@
       }
     },
     {
+      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2424891,
+          2433249
+        ]
+      }
+    },
+    {
       "title": "Quartzshaper",
       "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi_-_Quartzshaper.mp3",
       "ranked_modes": [
@@ -124,12 +137,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
-      "preview": "https://assets.ppy.sh/artists/183/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "King of Galaxy",
       "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - King of Galaxy.mp3",
       "ranked_modes": [],
@@ -172,5 +179,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:31:45Z"
+  "updated_at": "2026-04-02T21:44:20Z"
 }

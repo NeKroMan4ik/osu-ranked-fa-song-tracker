@@ -5,94 +5,42 @@
     {
       "title": "Shibayan feat. 3L - Getsurei 11.3 no Candle Magic",
       "preview": "https://assets.ppy.sh/artists/432/Kokoro vibration/Shibayan feat. 3L - Getsurei 11.3 no Candle Magic.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          795140
-        ]
-      }
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shibayan feat. 3L - LOVE",
       "preview": "https://assets.ppy.sh/artists/432/M%C3%A1gico Cat%C3%A1strofe/Shibayan feat. 3L - Love.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          182633
-        ]
-      }
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shibayan feat. 3L - LOVE (signum/ii remix)",
       "preview": "https://assets.ppy.sh/artists/432/Songs/Shibayan feat. 3L - LOVE (signumii remix).mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1576656
-        ]
-      }
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shibayan feat. 3L - Maigo no Echo",
       "preview": "https://assets.ppy.sh/artists/432/TOHO BOSSA NOVA/Shibayan feat. 3L - Maigo no Echo.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1141077
-        ]
-      }
-    },
-    {
-      "title": "Shibayan feat. 3L - MyonMyonMyonMyonMyonMyon!",
-      "preview": "https://assets.ppy.sh/artists/432/Dream Materialise/Shibayan feat. 3L - MyonMyonMyonMyonMyonMyon!.mp3",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2461093
-        ],
-        "mania": [
-          2195327
-        ]
-      }
-    },
-    {
-      "title": "Shibayan feat. 3L - Tiny Little Adiantum",
-      "preview": "https://assets.ppy.sh/artists/432/TOHO BOSSA NOVA 2/Shibayan feat. 3L - Tiny Little Adiantum.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1464714
-        ]
-      }
-    },
-    {
-      "title": "Shibayan feat. yana - Fall in the Dark",
-      "preview": "https://assets.ppy.sh/artists/432/M%C3%A1gico Cat%C3%A1strofe/Shibayan feat. yana - Fall in the Dark.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1531566
-        ]
-      }
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shibayan feat. 3L - Monochrome in the Night",
       "preview": "https://assets.ppy.sh/artists/432/Adrastea/Shibayan feat. 3L - Monochrome in the Night.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shibayan feat. 3L - MyonMyonMyonMyonMyonMyon!",
+      "preview": "https://assets.ppy.sh/artists/432/Dream Materialise/Shibayan feat. 3L - MyonMyonMyonMyonMyonMyon!.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shibayan feat. 3L - Tiny Little Adiantum",
+      "preview": "https://assets.ppy.sh/artists/432/TOHO BOSSA NOVA 2/Shibayan feat. 3L - Tiny Little Adiantum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -145,6 +93,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Shibayan feat. yana - Fall in the Dark",
+      "preview": "https://assets.ppy.sh/artists/432/M%C3%A1gico Cat%C3%A1strofe/Shibayan feat. yana - Fall in the Dark.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Shibayan feat. yana - Garota de venda medicamento",
       "preview": "https://assets.ppy.sh/artists/432/TOHO BOSSA NOVA 3/Shibayan feat. yana - Garota de venda medicamento.mp3",
       "ranked_modes": [],
@@ -175,5 +129,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:08:24Z"
+  "updated_at": "2026-04-02T22:18:34Z"
 }

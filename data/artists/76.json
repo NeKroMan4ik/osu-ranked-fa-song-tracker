@@ -131,10 +131,10 @@
         "osu": [
           1811658
         ],
-        "fruits": [
+        "mania": [
           1145368
         ],
-        "mania": [
+        "fruits": [
           1145368
         ],
         "taiko": [
@@ -380,6 +380,22 @@
       }
     },
     {
+      "title": "Zekk & poplavor - Gloomy Flash feat. mami",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk %26 poplavor - Gloomy Flash feat. mami.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2159087
+        ],
+        "mania": [
+          2025404
+        ]
+      }
+    },
+    {
       "title": "awfuless meets Zekk - MATOI",
       "preview": "https://assets.ppy.sh/artists/76/Songs/awfuless meets Zekk - MATOI.mp3",
       "ranked_modes": [],
@@ -470,12 +486,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Zekk & poplavor - Gloomy Flash feat. mami",
-      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk %26 poplavor - Gloomy Flash feat. mami.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Zekk & poplavor - glow feat. Such",
       "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk %26 poplavor - glow feat. Such.mp3",
       "ranked_modes": [],
@@ -488,5 +498,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:57:21Z"
+  "updated_at": "2026-04-02T22:29:14Z"
 }

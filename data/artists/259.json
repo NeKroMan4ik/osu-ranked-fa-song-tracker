@@ -3,6 +3,18 @@
   "name": "Aethral",
   "tracks": [
     {
+      "title": "Aethral & Renko - Together",
+      "preview": "https://assets.ppy.sh/artists/259/Songs/Aethral %26 Renko - Together.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2155475
+        ]
+      }
+    },
+    {
       "title": "It's Boss Time, dude",
       "preview": "https://assets.ppy.sh/artists/259/Songs/Aethral - It%27s Boss Time%2C dude.mp3",
       "ranked_modes": [
@@ -29,12 +41,6 @@
     {
       "title": "Aethral & Ranzor - Vast Space of Your Mind",
       "preview": "https://assets.ppy.sh/artists/259/Songs/Aethral %26 Ranzor - Vast Space of Your Mind.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aethral & Renko - Together",
-      "preview": "https://assets.ppy.sh/artists/259/Songs/Aethral %26 Renko - Together.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -81,5 +87,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:22:02Z"
+  "updated_at": "2026-04-02T21:42:11Z"
 }

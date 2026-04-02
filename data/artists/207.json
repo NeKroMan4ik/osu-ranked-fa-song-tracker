@@ -137,6 +137,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          227040,
           1122445,
           1591723,
           2146191
@@ -200,11 +201,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1612969
-        ],
         "taiko": [
+          381798,
           1601757
+        ],
+        "osu": [
+          380583,
+          1612969
         ]
       }
     },
@@ -218,6 +221,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          246416,
+          511637,
           2123901
         ],
         "taiko": [
@@ -288,6 +293,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          575372,
           1658950
         ],
         "taiko": [
@@ -363,10 +369,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           2198551
         ],
-        "taiko": [
+        "osu": [
           2198551
         ]
       }
@@ -404,10 +410,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
+        "taiko": [
           2194899
         ],
-        "taiko": [
+        "fruits": [
           2194899
         ],
         "osu": [
@@ -848,5 +854,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:13:25Z"
+  "updated_at": "2026-04-02T22:19:39Z"
 }

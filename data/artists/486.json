@@ -51,6 +51,18 @@
       }
     },
     {
+      "title": "Rakakun- & Dispel - Shitsusei (feat. Altair Aquila)",
+      "preview": "https://assets.ppy.sh/artists/486/Shitsusei/Rakakun- %26 Dispel - Shitsusei (feat. Altair Aquila).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2246218
+        ]
+      }
+    },
+    {
       "title": "Weiss Schnabel",
       "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Weiss Schnabel.mp3",
       "ranked_modes": [
@@ -91,13 +103,7 @@
       "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Monochrome Bouquet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rakakun- & Dispel - Shitsusei (feat. Altair Aquila)",
-      "preview": "https://assets.ppy.sh/artists/486/Shitsusei/Rakakun- %26 Dispel - Shitsusei (feat. Altair Aquila).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:05:00Z"
+  "updated_at": "2026-04-02T21:51:27Z"
 }

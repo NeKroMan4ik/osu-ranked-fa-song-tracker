@@ -37,6 +37,27 @@
       }
     },
     {
+      "title": "James Landino & Kabuki - Birdsong",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino %26 Kabuki - Birdsong.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1009907,
+          1949806
+        ],
+        "taiko": [
+          1010367
+        ],
+        "osu": [
+          972810
+        ]
+      }
+    },
+    {
       "title": "Reaction feat. Slyleaf",
       "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - Reaction feat. Slyleaf.mp3",
       "ranked_modes": [
@@ -111,12 +132,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "James Landino & Kabuki - Birdsong",
-      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino %26 Kabuki - Birdsong.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "James Landino, Funk Fiction, Motoi - Dreaming",
       "preview": "https://assets.ppy.sh/artists/39/Songs/James_Landino_Funk_Fiction_Motoi_-_Dreaming.mp3",
       "ranked_modes": [],
@@ -129,5 +144,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:39:56Z"
+  "updated_at": "2026-04-02T21:59:03Z"
 }

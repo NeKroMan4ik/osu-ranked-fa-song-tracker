@@ -15,6 +15,22 @@
       }
     },
     {
+      "title": "Boom Kitty & Ubi - Tokyo Takedown",
+      "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty %26 Ubi - Tokyo Takedown.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1737667
+        ],
+        "taiko": [
+          798245
+        ]
+      }
+    },
+    {
       "title": "Firewall",
       "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Firewall.mp3",
       "ranked_modes": [
@@ -83,12 +99,6 @@
     {
       "title": "Bassgasm",
       "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Bassgasm.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Boom Kitty & Ubi - Tokyo Takedown",
-      "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty %26 Ubi - Tokyo Takedown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -207,5 +217,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:45:14Z"
+  "updated_at": "2026-04-02T21:47:15Z"
 }

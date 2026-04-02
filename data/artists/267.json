@@ -48,13 +48,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
+        "taiko": [
           2501801
         ],
         "mania": [
           2501801
         ],
-        "taiko": [
+        "fruits": [
           2501801
         ],
         "osu": [
@@ -147,5 +147,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:41:27Z"
+  "updated_at": "2026-04-02T21:59:22Z"
 }

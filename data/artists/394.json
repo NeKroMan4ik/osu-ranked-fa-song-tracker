@@ -5,30 +5,61 @@
     {
       "title": "KOAN Sound & Asa - Fuego",
       "preview": "https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Fuego.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "KOAN Sound & Asa - Sanctuary feat. Alicia Kiah",
-      "preview": "https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Sanctuary feat. Alicia Kiah.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2152936
+        ]
+      }
     },
     {
       "title": "KOAN Sound & Asa - Starlite",
       "preview": "https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN_Sound__Asa_-_Starlite.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          294496,
+          628657,
+          1332346
+        ]
+      }
     },
     {
       "title": "KOAN Sound & Asa - Tetsuo's Redemption",
       "preview": "https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Tetsuo_s Redemption.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          617995,
+          2099816
+        ],
+        "mania": [
+          788366
+        ]
+      }
     },
     {
       "title": "KOAN Sound & Asa - This Time Around (feat. Koo)",
       "preview": "https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - This Time Around (feat. Koo).mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1309753
+        ]
+      }
+    },
+    {
+      "title": "KOAN Sound & Asa - Sanctuary feat. Alicia Kiah",
+      "preview": "https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Sanctuary feat. Alicia Kiah.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -57,5 +88,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:35:43Z"
+  "updated_at": "2026-04-02T21:45:13Z"
 }

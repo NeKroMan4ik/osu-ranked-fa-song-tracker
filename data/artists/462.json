@@ -3,6 +3,92 @@
   "name": "osu! community music",
   "tracks": [
     {
+      "title": "$k_Hwa$ vs. nominomu - .hereafter",
+      "preview": "https://assets.ppy.sh/artists/462/Kyoku 2024/k_Hwa_vs._nominomu_-_.hereafter.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2472263
+        ]
+      }
+    },
+    {
+      "title": "Kagetora. vs. ikaruga_nex - Gott der Apokalypse",
+      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Kagetora. vs. ikaruga%27nex - Gott der Apokalypse.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2226230
+        ]
+      }
+    },
+    {
+      "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2023/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1939761,
+          2184238,
+          2432691
+        ]
+      }
+    },
+    {
+      "title": "qfeileadh feat. Risa Kodaka - Tendou Musou no Homura",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/qfeileadh feat. Risa Kodaka - Tendou Musou no Homura.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401973
+        ]
+      }
+    },
+    {
+      "title": "RD-Sounds feat. Meramipop - On Seeking U",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/RD-Sounds_feat._Meramipop_-_On_Seeking_U.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2409840
+        ]
+      }
+    },
+    {
+      "title": "Tsukishiro feat. Inti - Neon Rebellion",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Tsukishiro feat. Inti - Neon Rebellion.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412288
+        ]
+      }
+    },
+    {
+      "title": "ZxKirara feat. Shian - Shiny Day Roam",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ZxKirara feat. Shian - Shiny Day Roam.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2439785
+        ]
+      }
+    },
+    {
       "title": "$k_Hwa$ - Facade",
       "preview": "https://assets.ppy.sh/artists/462/Songs/k_Hwa_-_Facade.mp3",
       "ranked_modes": [],
@@ -17,12 +103,6 @@
     {
       "title": "$k_Hwa$ vs. .gaietta - Nepotismo",
       "preview": "https://assets.ppy.sh/artists/462/Songs/k_Hwa_vs._.gaietta_-_Nepotismo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "$k_Hwa$ vs. nominomu - .hereafter",
-      "preview": "https://assets.ppy.sh/artists/462/Kyoku 2024/k_Hwa_vs._nominomu_-_.hereafter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -381,12 +461,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kagetora. vs. ikaruga_nex - Gott der Apokalypse",
-      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Kagetora. vs. ikaruga%27nex - Gott der Apokalypse.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kahxlyrio - Anything You Want",
       "preview": "https://assets.ppy.sh/artists/462/the tea party house/Kahxlyrio_-_Anything_You_Want.mp3",
       "ranked_modes": [],
@@ -543,12 +617,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
-      "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2023/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "NotNordax - Hexagon 26",
       "preview": "https://assets.ppy.sh/artists/462/5 Digit European Cup 2026/NotNordax - Hexagon 26.mp3",
       "ranked_modes": [],
@@ -605,18 +673,6 @@
     {
       "title": "ptar124 - A Platter of Primes",
       "preview": "https://assets.ppy.sh/artists/462/osu!catch 3 Digit World Cup 2024/ptar124 - A Platter of Primes.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "qfeileadh feat. Risa Kodaka - Tendou Musou no Homura",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/qfeileadh feat. Risa Kodaka - Tendou Musou no Homura.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "RD-Sounds feat. Meramipop - On Seeking U",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/RD-Sounds_feat._Meramipop_-_On_Seeking_U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -789,12 +845,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tsukishiro feat. Inti - Neon Rebellion",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Tsukishiro feat. Inti - Neon Rebellion.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Umeboshi Chazuke - Ao to Shiro no Hanataba wo",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Umeboshi Chazuke - Ao to Shiro no Hanataba wo.mp3",
       "ranked_modes": [],
@@ -871,13 +921,7 @@
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Xyris - Vitality Charger (feat. Hanakuma Chifuyu).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ZxKirara feat. Shian - Shiny Day Roam",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ZxKirara feat. Shian - Shiny Day Roam.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:21:25Z"
+  "updated_at": "2026-04-02T02:33:28Z"
 }

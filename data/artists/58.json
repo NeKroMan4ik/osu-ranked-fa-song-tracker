@@ -39,6 +39,27 @@
       }
     },
     {
+      "title": "Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)",
+      "preview": "https://assets.ppy.sh/artists/58/Songs/Kurokotei feat. Sennzai - escape (the looking-glass%2C and what alice found there).mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1942597,
+          2422601
+        ],
+        "taiko": [
+          1908229
+        ],
+        "osu": [
+          1880652
+        ]
+      }
+    },
+    {
       "title": "Lusamine in a Perfect World",
       "preview": "https://assets.ppy.sh/artists/58/previews/1674.mp3",
       "ranked_modes": [
@@ -89,12 +110,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)",
-      "preview": "https://assets.ppy.sh/artists/58/Songs/Kurokotei feat. Sennzai - escape (the looking-glass%2C and what alice found there).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "l'Historia",
       "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - l%27Historia.mp3",
       "ranked_modes": [],
@@ -119,5 +134,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:41:03Z"
+  "updated_at": "2026-04-02T01:53:00Z"
 }

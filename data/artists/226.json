@@ -3,6 +3,35 @@
   "name": "siromaru",
   "tracks": [
     {
+      "title": "D-D-Dice vs. siromaru - Catch the Glory",
+      "preview": "https://assets.ppy.sh/artists/226/Songs/D-D-Dice_vs._siromaru_-_Catch_the_Glory.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1796422,
+          1797184,
+          1974927,
+          2058832,
+          2402676
+        ],
+        "osu": [
+          1844532,
+          2092570
+        ],
+        "taiko": [
+          1828021
+        ],
+        "fruits": [
+          1794214
+        ]
+      }
+    },
+    {
       "title": "Imperial Prime Aggression",
       "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Imperial Prime Aggression.mp3",
       "ranked_modes": [
@@ -11,6 +40,22 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2089498
+        ]
+      }
+    },
+    {
+      "title": "Team Grimoire vs. siromaru - Glasya-Labolas",
+      "preview": "https://assets.ppy.sh/artists/226/Monochrome Rainbow/Team Grimoire vs. siromaru - Glasya-Labolas.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2321391
+        ],
+        "mania": [
+          1593180
         ]
       }
     },
@@ -41,12 +86,6 @@
     {
       "title": "Contractual Release",
       "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Contractual Release.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "D-D-Dice vs. siromaru - Catch the Glory",
-      "preview": "https://assets.ppy.sh/artists/226/Songs/D-D-Dice_vs._siromaru_-_Catch_the_Glory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -117,12 +156,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Team Grimoire vs. siromaru - Glasya-Labolas",
-      "preview": "https://assets.ppy.sh/artists/226/Monochrome Rainbow/Team Grimoire vs. siromaru - Glasya-Labolas.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tsuzumi",
       "preview": "https://assets.ppy.sh/artists/226/Beyond the Horizon/siromaru - Tsuzumi.mp3",
       "ranked_modes": [],
@@ -141,5 +174,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:59:14Z"
+  "updated_at": "2026-04-02T03:11:02Z"
 }

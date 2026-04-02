@@ -23,6 +23,27 @@
       }
     },
     {
+      "title": "II-L feat. amelie xoxo - THE EARTH",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L feat. amelie xoxo - THE EARTH.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2005876
+        ],
+        "mania": [
+          1937881,
+          2002137
+        ],
+        "osu": [
+          1889101
+        ]
+      }
+    },
+    {
       "title": "PIONEER-4",
       "preview": "https://assets.ppy.sh/artists/172/PIONEER PROGRAM/II-L - PIONEER-4.mp3",
       "ranked_modes": [
@@ -156,12 +177,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "II-L feat. amelie xoxo - THE EARTH",
-      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L feat. amelie xoxo - THE EARTH.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "LEVEL-DOWN",
       "preview": "https://assets.ppy.sh/artists/172/Songs/II-L - LEVEL-DOWN.mp3",
       "ranked_modes": [],
@@ -246,5 +261,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:24:12Z"
+  "updated_at": "2026-04-02T01:36:12Z"
 }

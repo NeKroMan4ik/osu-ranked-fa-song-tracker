@@ -47,9 +47,13 @@
       "title": "Jumper",
       "preview": "https://assets.ppy.sh/artists/291/Jumper/Waterflame - Jumper.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2520551
+        ],
         "fruits": [
           2399278
         ]
@@ -292,5 +296,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:35:07Z"
+  "updated_at": "2026-04-02T03:46:44Z"
 }

@@ -100,9 +100,13 @@
       "title": "Timeless (feat. Veela)",
       "preview": "https://assets.ppy.sh/artists/270/Timeless/Rameses B - Timeless (feat. Veela).mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2493412
+        ],
         "taiko": [
           869176
         ]
@@ -224,5 +228,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:29:16Z"
+  "updated_at": "2026-04-02T02:41:16Z"
 }

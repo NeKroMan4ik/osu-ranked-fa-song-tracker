@@ -3,6 +3,30 @@
   "name": "Dispel",
   "tracks": [
     {
+      "title": "Dispel vs. GoGoN- - Vindictive",
+      "preview": "https://assets.ppy.sh/artists/486/Vindicitve/Dispel_vs._GoGoN-_-_Vindictive.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2400382
+        ]
+      }
+    },
+    {
+      "title": "Dispel vs. Rakakun- - Funkotism",
+      "preview": "https://assets.ppy.sh/artists/486/Funkotism/Dispel vs. Rakakun- - Funkotism.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2120597
+        ]
+      }
+    },
+    {
       "title": "Hyacinth",
       "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Hyacinth.mp3",
       "ranked_modes": [
@@ -11,6 +35,18 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2050409
+        ]
+      }
+    },
+    {
+      "title": "KURORYU vs. Dispel - Miserea",
+      "preview": "https://assets.ppy.sh/artists/486/Miserea/KURORYU vs. Dispel - Miserea.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2329509
         ]
       }
     },
@@ -39,24 +75,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Dispel vs. GoGoN- - Vindictive",
-      "preview": "https://assets.ppy.sh/artists/486/Vindicitve/Dispel_vs._GoGoN-_-_Vindictive.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dispel vs. Rakakun- - Funkotism",
-      "preview": "https://assets.ppy.sh/artists/486/Funkotism/Dispel vs. Rakakun- - Funkotism.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "KURORYU vs. Dispel - Miserea",
-      "preview": "https://assets.ppy.sh/artists/486/Miserea/KURORYU vs. Dispel - Miserea.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lilium Lacrimae (feat. Mariela Riona)",
       "preview": "https://assets.ppy.sh/artists/486/Lilium Lacrimae/Dispel - Lilium Lacrimae (feat. Mariela Riona).mp3",
       "ranked_modes": [],
@@ -81,5 +99,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:53:40Z"
+  "updated_at": "2026-04-02T01:05:00Z"
 }

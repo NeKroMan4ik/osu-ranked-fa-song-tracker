@@ -3,17 +3,23 @@
   "name": "qfeileadh",
   "tracks": [
     {
+      "title": "qfeileadh feat. Risa Kodaka - Tendou Musou no Homura",
+      "preview": "https://assets.ppy.sh/artists/525/Songs/qfeileadh_feat._Risa_Kodaka_-_Tendou_Musou_no_Homura.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401973
+        ]
+      }
+    },
+    {
       "title": "qfeileadh feat. Resonance Moeko - Petals ~Mebuku Kotoba~",
       "preview": "https://assets.ppy.sh/artists/525/Songs/qfeileadh_feat._Resonance_Moeko_-_Petals_Mebuku_Kotoba.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "qfeileadh feat. Risa Kodaka - Tendou Musou no Homura",
-      "preview": "https://assets.ppy.sh/artists/525/Songs/qfeileadh_feat._Risa_Kodaka_-_Tendou_Musou_no_Homura.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:27:45Z"
+  "updated_at": "2026-04-02T02:39:49Z"
 }

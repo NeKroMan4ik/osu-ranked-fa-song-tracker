@@ -3,6 +3,31 @@
   "name": "satella",
   "tracks": [
     {
+      "title": "satella feat. Aitsuki Nakuru - Irith",
+      "preview": "https://assets.ppy.sh/artists/231/Irith/satella_feat._Aitsuki_Nakuru_-_Irith.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1352944
+        ]
+      }
+    },
+    {
+      "title": "satella feat. Sennzai - Thophia",
+      "preview": "https://assets.ppy.sh/artists/231/Thophia/satella feat. Sennzai - Thophia.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1679919,
+          1691110
+        ]
+      }
+    },
+    {
       "title": "Anima feat. An",
       "preview": "https://assets.ppy.sh/artists/231/Thophia/satella - Anima feat. An.mp3",
       "ranked_modes": [],
@@ -33,20 +58,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "satella feat. Aitsuki Nakuru - Irith",
-      "preview": "https://assets.ppy.sh/artists/231/Irith/satella_feat._Aitsuki_Nakuru_-_Irith.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "satella feat. Sennzai - Reincarnation",
       "preview": "https://assets.ppy.sh/artists/231/T%C3%B8destrieb/satella feat. Sennzai - Reincarnation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "satella feat. Sennzai - Thophia",
-      "preview": "https://assets.ppy.sh/artists/231/Thophia/satella feat. Sennzai - Thophia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -75,5 +88,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:48:49Z"
+  "updated_at": "2026-04-02T03:00:40Z"
 }

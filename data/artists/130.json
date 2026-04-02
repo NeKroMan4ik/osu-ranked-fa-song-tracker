@@ -75,6 +75,22 @@
       }
     },
     {
+      "title": "Symholic feat. Rina Komatsu - Veil of Ash",
+      "preview": "https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2397874
+        ],
+        "fruits": [
+          2391791
+        ]
+      }
+    },
+    {
       "title": "Tokei no Tsue",
       "preview": "https://assets.ppy.sh/artists/130/Maisery (Symholic 8th CD)/Symholic - Tokei no Tsue.mp3",
       "ranked_modes": [
@@ -327,12 +343,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Symholic feat. Rina Komatsu - Veil of Ash",
-      "preview": "https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tadahitotsu no Senritsu",
       "preview": "https://assets.ppy.sh/artists/130/Zahnrad -Suikuu to Michibiki no Haguruma- (Symholic 3rd CD)/Symholic - Tadahitotsu no Senritsu.mp3",
       "ranked_modes": [],
@@ -375,5 +385,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:09:27Z"
+  "updated_at": "2026-04-02T03:21:15Z"
 }

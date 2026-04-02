@@ -3,6 +3,18 @@
   "name": "7_7",
   "tracks": [
     {
+      "title": "7_7 feat. kasane vavzed - Yakou",
+      "preview": "https://assets.ppy.sh/artists/356/Songs/7_7_feat._kasane_vavzed_-_Yakou.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2194934
+        ]
+      }
+    },
+    {
       "title": ";w;",
       "preview": "https://assets.ppy.sh/artists/356/Songs/7_7_-_w.mp3",
       "ranked_modes": [
@@ -71,12 +83,6 @@
     {
       "title": "7_7 feat. kasane vavzed - 7D",
       "preview": "https://assets.ppy.sh/artists/356/Songs/7_7 feat. kasane vavzed - 7D.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "7_7 feat. kasane vavzed - Yakou",
-      "preview": "https://assets.ppy.sh/artists/356/Songs/7_7_feat._kasane_vavzed_-_Yakou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -195,5 +201,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:06:43Z"
+  "updated_at": "2026-04-02T00:18:04Z"
 }

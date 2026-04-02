@@ -147,6 +147,26 @@
       }
     },
     {
+      "title": "Street vs. Sin:ck - Adamantite",
+      "preview": "https://assets.ppy.sh/artists/89/Songs/Street vs. Sinck - Adamantite.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          524538
+        ],
+        "mania": [
+          1836849
+        ],
+        "taiko": [
+          1212678
+        ]
+      }
+    },
+    {
       "title": "2D Universe",
       "preview": "https://assets.ppy.sh/artists/89/Songs/Street - 2D Universe.mp3",
       "ranked_modes": [],
@@ -195,12 +215,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Street vs. Sin:ck - Adamantite",
-      "preview": "https://assets.ppy.sh/artists/89/Songs/Street vs. Sinck - Adamantite.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "tsumujikaze",
       "preview": "https://assets.ppy.sh/artists/89/Iroha/Street - tsumujikaze.mp3",
       "ranked_modes": [],
@@ -219,5 +233,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:05:24Z"
+  "updated_at": "2026-04-02T03:17:14Z"
 }

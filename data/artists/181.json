@@ -3,6 +3,38 @@
   "name": "Rish",
   "tracks": [
     {
+      "title": "Rish feat. Choko - Punai Punai Sensou",
+      "preview": "https://assets.ppy.sh/artists/181/Punai Punai Sensou/Rish feat. Choko - Punai Punai Sensou.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1328903
+        ],
+        "fruits": [
+          1109546
+        ]
+      }
+    },
+    {
+      "title": "Rish feat. Choko - Punai Punai Taisou",
+      "preview": "https://assets.ppy.sh/artists/181/Punai Punai Taisou/Rish feat. Choko - Punai Punai Taisou.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1532007
+        ],
+        "fruits": [
+          1560368
+        ]
+      }
+    },
+    {
       "title": "Claris (CV: Buta Hikari), Safia (CV: Hirota) - Chippa no Nichijou 8 ~Claris x Safia~",
       "preview": "https://assets.ppy.sh/artists/181/Haguruma Chippa 4/Claris (CV Buta Hikari)%2C Safia (CV Hirota) - Chippa no Nichijou 8 %7EClaris x Safia%7E.mp3",
       "ranked_modes": [],
@@ -39,18 +71,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rish feat. Choko - Punai Punai Sensou",
-      "preview": "https://assets.ppy.sh/artists/181/Punai Punai Sensou/Rish feat. Choko - Punai Punai Sensou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rish feat. Choko - Punai Punai Taisou",
-      "preview": "https://assets.ppy.sh/artists/181/Punai Punai Taisou/Rish feat. Choko - Punai Punai Taisou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rish feat. Choko - Take",
       "preview": "https://assets.ppy.sh/artists/181/Candy Panic Bomb!/Rish feat. Choko - Take.mp3",
       "ranked_modes": [],
@@ -81,5 +101,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:42:07Z"
+  "updated_at": "2026-04-02T02:53:59Z"
 }

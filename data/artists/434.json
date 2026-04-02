@@ -28,6 +28,18 @@
       }
     },
     {
+      "title": "March to the Constellations",
+      "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - March to the Constellations.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2492988
+        ]
+      }
+    },
+    {
       "title": "Ryuu no Koukyoukyoku",
       "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - Ryuu no Koukyoukyoku.mp3",
       "ranked_modes": [
@@ -126,12 +138,6 @@
     {
       "title": "KAIZER",
       "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - KAIZER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "March to the Constellations",
-      "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - March to the Constellations.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -250,5 +256,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:58:10Z"
+  "updated_at": "2026-04-02T03:09:58Z"
 }

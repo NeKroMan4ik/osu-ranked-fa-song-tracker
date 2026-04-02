@@ -12,10 +12,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
+        "fruits": [
           2230743
         ],
-        "fruits": [
+        "mania": [
           2230743
         ],
         "taiko": [
@@ -125,6 +125,18 @@
       "beatmapset_ids_by_mode": {
         "taiko": [
           2136846
+        ]
+      }
+    },
+    {
+      "title": "Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 0/Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1882782
         ]
       }
     },
@@ -313,12 +325,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love",
-      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 0/Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kimi wa Dekinai Ko",
       "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 3/Kikuo - Kimi wa Dekinai Ko.mp3",
       "ranked_modes": [],
@@ -343,5 +349,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:33:57Z"
+  "updated_at": "2026-04-02T01:45:57Z"
 }

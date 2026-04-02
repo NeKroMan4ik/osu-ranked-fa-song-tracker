@@ -3,6 +3,19 @@
   "name": "ikaruga_nex",
   "tracks": [
     {
+      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
+      "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruganex_vs._Kagetora._-_Grabinschrift_der_Goetter.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2318366,
+          2483755
+        ]
+      }
+    },
+    {
       "title": "Lilith ambivalence lovers",
       "preview": "https://assets.ppy.sh/artists/446/Lilith ambivalence lovers/ikaruga%27nex - Lilith ambivalence lovers.mp3",
       "ranked_modes": [
@@ -55,12 +68,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
-      "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruganex_vs._Kagetora._-_Grabinschrift_der_Goetter.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mirage",
       "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruga%27nex - Mirage.mp3",
       "ranked_modes": [],
@@ -73,5 +80,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:24:24Z"
+  "updated_at": "2026-04-02T01:36:23Z"
 }

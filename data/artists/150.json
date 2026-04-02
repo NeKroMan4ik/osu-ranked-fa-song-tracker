@@ -31,6 +31,106 @@
       }
     },
     {
+      "title": "BlackY feat. Risa Yuzuki - Crimsonate",
+      "preview": "https://assets.ppy.sh/artists/150/P.D.M.%5B%CE%B1%5D/BlackY feat. Risa Yuzuki - Crimsonate.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1608007
+        ]
+      }
+    },
+    {
+      "title": "BlackY feat. Risa Yuzuki - For Ulysses",
+      "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY feat. Risa Yuzuki - For Ulysses.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1595989
+        ]
+      }
+    },
+    {
+      "title": "BlackY feat. Risa Yuzuki - Furin Kagerou",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Furin Kagerou.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1511294
+        ]
+      }
+    },
+    {
+      "title": "BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1992691
+        ],
+        "osu": [
+          1730593
+        ]
+      }
+    },
+    {
+      "title": "BlackY feat. Risa Yuzuki - Stellalude",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Stellalude.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1515209
+        ]
+      }
+    },
+    {
+      "title": "BlackY feat. Risa Yuzuki - TEL TEL pause (album ver.)",
+      "preview": "https://assets.ppy.sh/artists/150/NextgalaxY/BlackY feat. Risa Yuzuki - TEL TEL pause (album ver.).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1860204
+        ]
+      }
+    },
+    {
+      "title": "BlackY vs. Yooh - Happy Voice",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Happy Voice.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          573298
+        ]
+      }
+    },
+    {
+      "title": "BlackYooh vs. siromaru - KERBEROX",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackYooh vs. siromaru - KERBEROX-1.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2096973
+        ]
+      }
+    },
+    {
       "title": "Double Pendulum",
       "preview": "https://assets.ppy.sh/artists/150/Hyperspark/BlackY - Double Pendulum.mp3",
       "ranked_modes": [
@@ -187,30 +287,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BlackY feat. Risa Yuzuki - Crimsonate",
-      "preview": "https://assets.ppy.sh/artists/150/P.D.M.%5B%CE%B1%5D/BlackY feat. Risa Yuzuki - Crimsonate.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BlackY feat. Risa Yuzuki - For Ulysses",
-      "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY feat. Risa Yuzuki - For Ulysses.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BlackY feat. Risa Yuzuki - Furin Kagerou",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Furin Kagerou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BlackY feat. Risa Yuzuki - melty light",
       "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - melty light.mp3",
       "ranked_modes": [],
@@ -225,18 +301,6 @@
     {
       "title": "BlackY feat. Risa Yuzuki - Saku wa Chiisana Yume no Hana",
       "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Saku wa Chiisana Yume no Hana.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BlackY feat. Risa Yuzuki - Stellalude",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Stellalude.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BlackY feat. Risa Yuzuki - TEL TEL pause (album ver.)",
-      "preview": "https://assets.ppy.sh/artists/150/NextgalaxY/BlackY feat. Risa Yuzuki - TEL TEL pause (album ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -277,12 +341,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BlackY vs. Yooh - Happy Voice",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Happy Voice.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BlackY vs. Yooh - Love System",
       "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Love System (1).mp3",
       "ranked_modes": [],
@@ -297,12 +355,6 @@
     {
       "title": "BlackY vs. Yooh - Warriorz",
       "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Warriorz.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BlackYooh vs. siromaru - KERBEROX",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackYooh vs. siromaru - KERBEROX-1.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -721,5 +773,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:31:08Z"
+  "updated_at": "2026-04-02T00:42:28Z"
 }

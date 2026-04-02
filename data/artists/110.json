@@ -5,24 +5,188 @@
     {
       "title": "Aoi feat. Sennzai - Bloody Garden",
       "preview": "https://assets.ppy.sh/artists/110/VTTRACT/Aoi feat. Sennzai - Bloody Garden.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2017584
+        ]
+      }
     },
     {
       "title": "Aoi feat. Sennzai - Freezing Rose",
       "preview": "https://assets.ppy.sh/artists/110/Fleurix/Aoi feat. Sennzai - Freezing Rose.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "bermei.inazawa feat. Sennzai - RedemptioN",
-      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/bermei.inazawa feat. Sennzai - RedemptioN.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2444182
+        ],
+        "taiko": [
+          1093906
+        ]
+      }
     },
     {
       "title": "Blacklolita feat. Sennzai - Tears of Warrior",
       "preview": "https://assets.ppy.sh/artists/110/Arr%C3%AAter le temps/Blacklolita feat. Sennzai - Tears of Warrior.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1242059
+        ]
+      }
+    },
+    {
+      "title": "Colorful Sounds Port feat. Sennzai - Jewelry Beans",
+      "preview": "https://assets.ppy.sh/artists/110/Fleurix/Colorful Sounds Port feat. Sennzai - Jewelry Beans.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1234969
+        ]
+      }
+    },
+    {
+      "title": "Feryquitous feat. Sennzai - Hi no Ao",
+      "preview": "https://assets.ppy.sh/artists/110/Arr%C3%AAter le temps/Feryquitous feat. Sennzai - Hi no Ao.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1107560
+        ]
+      }
+    },
+    {
+      "title": "Feryquitous feat. Sennzai - Rugie",
+      "preview": "https://assets.ppy.sh/artists/110/Arr%C3%AAter le temps/Feryquitous feat. Sennzai - Rugie.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1338217
+        ]
+      }
+    },
+    {
+      "title": "Gyapuichi feat. Sennzai - Seize Your Future",
+      "preview": "https://assets.ppy.sh/artists/110/VTTRACT/Gyapuichi feat. Sennzai - Seize Your Future.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2017028
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. Sennzai - Duplicity Shade",
+      "preview": "https://assets.ppy.sh/artists/110/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2302059
+        ],
+        "mania": [
+          1698284,
+          1945255,
+          2220829
+        ]
+      }
+    },
+    {
+      "title": "Minagu feat. Sennzai - Iris no Tayori",
+      "preview": "https://assets.ppy.sh/artists/110/Fleurix/Minagu feat. Sennzai - Iris no Tayori.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1863178
+        ]
+      }
+    },
+    {
+      "title": "Powerless feat. Sennzai - Todestrieb",
+      "preview": "https://assets.ppy.sh/artists/110/T%C3%B8destrieb/Powerless feat. Sennzai - Todestrieb.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1792060
+        ]
+      }
+    },
+    {
+      "title": "Powerless feat. Sennzai - Unrequited",
+      "preview": "https://assets.ppy.sh/artists/110/Arr%C3%AAter le temps/Powerless feat. Sennzai - Unrequited.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1442147
+        ]
+      }
+    },
+    {
+      "title": "PSYQUI feat. Sennzai - Swelling",
+      "preview": "https://assets.ppy.sh/artists/110/Fleurix/PSYQUI feat. Sennzai - Swelling.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2019842
+        ]
+      }
+    },
+    {
+      "title": "WHITEFISTS feat. Sennzai - Paralyzed Ash",
+      "preview": "https://assets.ppy.sh/artists/110/T%C3%B8destrieb/WHITEFISTS feat. Sennzai - Paralyzed Ash.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2149007
+        ],
+        "taiko": [
+          1733940
+        ]
+      }
+    },
+    {
+      "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo",
+      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2124582
+        ]
+      }
+    },
+    {
+      "title": "bermei.inazawa feat. Sennzai - RedemptioN",
+      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/bermei.inazawa feat. Sennzai - RedemptioN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -33,44 +197,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Colorful Sounds Port feat. Sennzai - Jewelry Beans",
-      "preview": "https://assets.ppy.sh/artists/110/Fleurix/Colorful Sounds Port feat. Sennzai - Jewelry Beans.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Feryquitous feat. Sennzai - Compensation",
       "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Feryquitous feat. Sennzai - Compensation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Feryquitous feat. Sennzai - Hi no Ao",
-      "preview": "https://assets.ppy.sh/artists/110/Arr%C3%AAter le temps/Feryquitous feat. Sennzai - Hi no Ao.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Feryquitous feat. Sennzai - Rugie",
-      "preview": "https://assets.ppy.sh/artists/110/Arr%C3%AAter le temps/Feryquitous feat. Sennzai - Rugie.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Feryquitous feat. Sennzai - Urei no Kaku",
       "preview": "https://assets.ppy.sh/artists/110/L%27%C3%A9veil/Feryquitous feat. Sennzai - Urei no Kaku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gyapuichi feat. Sennzai - Seize Your Future",
-      "preview": "https://assets.ppy.sh/artists/110/VTTRACT/Gyapuichi feat. Sennzai - Seize Your Future.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. Sennzai - Duplicity Shade",
-      "preview": "https://assets.ppy.sh/artists/110/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -111,32 +245,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Minagu feat. Sennzai - Iris no Tayori",
-      "preview": "https://assets.ppy.sh/artists/110/Fleurix/Minagu feat. Sennzai - Iris no Tayori.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Powerless feat. Sennzai - Todestrieb",
-      "preview": "https://assets.ppy.sh/artists/110/T%C3%B8destrieb/Powerless feat. Sennzai - Todestrieb.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Powerless feat. Sennzai - Unrequited",
-      "preview": "https://assets.ppy.sh/artists/110/Arr%C3%AAter le temps/Powerless feat. Sennzai - Unrequited.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PRIDASK feat. Sennzai - Not a God",
       "preview": "https://assets.ppy.sh/artists/110/VTTRACT/PRIDASK feat. Sennzai - Not a God.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "PSYQUI feat. Sennzai - Swelling",
-      "preview": "https://assets.ppy.sh/artists/110/Fleurix/PSYQUI feat. Sennzai - Swelling.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -149,12 +259,6 @@
     {
       "title": "Umiai feat. Sennzai - bailaora",
       "preview": "https://assets.ppy.sh/artists/110/L%27%C3%A9veil/Umiai feat. Sennzai - bailaora.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "WHITEFISTS feat. Sennzai - Paralyzed Ash",
-      "preview": "https://assets.ppy.sh/artists/110/T%C3%B8destrieb/WHITEFISTS feat. Sennzai - Paralyzed Ash.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -189,12 +293,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo",
-      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kuro Lily",
       "preview": "https://assets.ppy.sh/artists/110/Fleurix/Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kuro Lily.mp3",
       "ranked_modes": [],
@@ -213,5 +311,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:53:24Z"
+  "updated_at": "2026-04-02T03:05:14Z"
 }

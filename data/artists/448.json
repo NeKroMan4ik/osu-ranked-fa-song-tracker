@@ -3,6 +3,31 @@
   "name": "Kry.exe",
   "tracks": [
     {
+      "title": "Kry.exe feat. Ice - Last Wish",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe feat. Ice - Last Wish.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2039804,
+          2309425,
+          2369757
+        ],
+        "mania": [
+          1866317,
+          1924015,
+          1964175,
+          2294836
+        ],
+        "taiko": [
+          2146011
+        ]
+      }
+    },
+    {
       "title": "Moondread",
       "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - Moondread.mp3",
       "ranked_modes": [
@@ -11,6 +36,22 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2291491
+        ]
+      }
+    },
+    {
+      "title": "nm-y vs. Kry.exe - Kaiju",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/nm-y vs. Kry.exe - Kaiju.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2349383
+        ],
+        "osu": [
+          2284698
         ]
       }
     },
@@ -61,12 +102,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kry.exe feat. Ice - Last Wish",
-      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe feat. Ice - Last Wish.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "MUZAN",
       "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_MUZAN.mp3",
       "ranked_modes": [],
@@ -79,17 +114,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "nm-y vs. Kry.exe - Kaiju",
-      "preview": "https://assets.ppy.sh/artists/448/Songs/nm-y vs. Kry.exe - Kaiju.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "SIGMA",
       "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - SIGMA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:40:22Z"
+  "updated_at": "2026-04-02T01:52:19Z"
 }

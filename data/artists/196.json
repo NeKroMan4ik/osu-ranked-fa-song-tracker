@@ -71,6 +71,26 @@
       }
     },
     {
+      "title": "Sephid feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao ~ Little Raven",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao %7E Little Raven.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1953513
+        ],
+        "fruits": [
+          1618365
+        ],
+        "osu": [
+          1173187
+        ]
+      }
+    },
+    {
       "title": "Subterranean Blastoff",
       "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Subterranean Blastoff.mp3",
       "ranked_modes": [
@@ -169,12 +189,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sephid feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao ~ Little Raven",
-      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao %7E Little Raven.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Striking G10ry!",
       "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Striking G10ry!.mp3",
       "ranked_modes": [],
@@ -199,5 +213,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:53:53Z"
+  "updated_at": "2026-04-02T03:05:43Z"
 }

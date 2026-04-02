@@ -3,6 +3,18 @@
   "name": "Akiri",
   "tracks": [
     {
+      "title": "Akiri feat. InabaYap - Tonight We Fly",
+      "preview": "https://assets.ppy.sh/artists/401/Tonight We Fly/Akiri feat. InabaYap - Tonight We Fly.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2134137
+        ]
+      }
+    },
+    {
       "title": "Beyond Wood",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri - Beyond Wood.mp3",
       "ranked_modes": [
@@ -217,12 +229,6 @@
     {
       "title": "Akiri feat. HowToPlayLN - The Cry of The Uncertain",
       "preview": "https://assets.ppy.sh/artists/401/Akiri X Index Error/Akiri_feat._HowToPlayLN_-_The_Cry_of_The_Uncertain.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Akiri feat. InabaYap - Tonight We Fly",
-      "preview": "https://assets.ppy.sh/artists/401/Tonight We Fly/Akiri feat. InabaYap - Tonight We Fly.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -665,5 +671,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:15:35Z"
+  "updated_at": "2026-04-02T00:26:57Z"
 }

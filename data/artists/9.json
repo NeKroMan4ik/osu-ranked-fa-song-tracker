@@ -83,6 +83,46 @@
       }
     },
     {
+      "title": "S3RL feat. Kayliana - You Are Mine",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Kayliana_-_You_Are_Mine.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1294750
+        ]
+      }
+    },
+    {
+      "title": "S3RL feat. Nikolett - Silicon XX",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Nikolett_-_Silicon_XX.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          875743
+        ]
+      }
+    },
+    {
+      "title": "S3RL feat. Sara - Dopamine",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Sara_-_Dopamine.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2355421
+        ],
+        "osu": [
+          1712992
+        ]
+      }
+    },
+    {
       "title": "Well, That Was Awkward",
       "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_-_Well_That_Was_Awkward.mp3",
       "ranked_modes": [
@@ -179,26 +219,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "S3RL feat. Kayliana - You Are Mine",
-      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Kayliana_-_You_Are_Mine.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "S3RL feat. Lexi - Earth Bb",
       "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Lexi_-_Earth_Bb.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "S3RL feat. Nikolett - Silicon XX",
-      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Nikolett_-_Silicon_XX.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "S3RL feat. Sara - Dopamine",
-      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Sara_-_Dopamine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -233,5 +255,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:47:47Z"
+  "updated_at": "2026-04-02T02:59:37Z"
 }

@@ -124,6 +124,18 @@
       }
     },
     {
+      "title": "Spiegel vs. Ice - Rapsodie fer za Cactuses (*'v'*)",
+      "preview": "https://assets.ppy.sh/artists/484/Rapsodie fer za Cactuses (%27v%27)/Spiegel vs. Ice - Rapsodie fer za Cactuses (%27v%27).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2466933
+        ]
+      }
+    },
+    {
       "title": "Amber Wishes",
       "preview": "https://assets.ppy.sh/artists/484/Ice Works Compilation Album/Ice - Amber Wishes.mp3",
       "ranked_modes": [],
@@ -220,12 +232,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Spiegel vs. Ice - Rapsodie fer za Cactuses (*'v'*)",
-      "preview": "https://assets.ppy.sh/artists/484/Rapsodie fer za Cactuses (%27v%27)/Spiegel vs. Ice - Rapsodie fer za Cactuses (%27v%27).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Spiegel vs. Ice - Rapsodie fer za Cactuses (*'v'*) (Game Ver.)",
       "preview": "https://assets.ppy.sh/artists/484/Rapsodie fer za Cactuses (%27v%27)/Spiegel_vs._Ice_-_Rapsodie_fer_za_Cactuses_v_Game_Ver..mp3",
       "ranked_modes": [],
@@ -238,5 +244,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:23:18Z"
+  "updated_at": "2026-04-02T01:35:18Z"
 }

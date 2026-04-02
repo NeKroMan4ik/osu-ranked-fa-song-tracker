@@ -3,6 +3,18 @@
   "name": "Lime / Kankitsu",
   "tracks": [
     {
+      "title": "Kankitsu feat. Salita - Boku ga Mita Sekai",
+      "preview": "https://assets.ppy.sh/artists/116/previews/2995.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1325157
+        ]
+      }
+    },
+    {
       "title": "Lime - 8bit Adventurer",
       "preview": "https://assets.ppy.sh/artists/116/previews/2996.mp3",
       "ranked_modes": [
@@ -218,17 +230,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kankitsu feat. Salita - Boku ga Mita Sekai",
-      "preview": "https://assets.ppy.sh/artists/116/previews/2995.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lime - Stargazer",
       "preview": "https://assets.ppy.sh/artists/116/previews/3005.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:46:35Z"
+  "updated_at": "2026-04-02T01:58:33Z"
 }

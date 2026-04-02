@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "ptar124 feat. SEKAI vs. takehirotei - The Arcanists' Heist of 739 Magia Era",
+      "preview": "https://assets.ppy.sh/artists/409/The Arcanists_ Heist of 739 Magia Era/ptar124 feat. SEKAI vs. takehirotei - The Arcanists_ Heist of 739 Magia Era.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2109670
+        ]
+      }
+    },
+    {
       "title": "A Platter of Primes",
       "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_A_Platter_of_Primes.mp3",
       "ranked_modes": [],
@@ -51,12 +63,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ptar124 feat. SEKAI vs. takehirotei - The Arcanists' Heist of 739 Magia Era",
-      "preview": "https://assets.ppy.sh/artists/409/The Arcanists_ Heist of 739 Magia Era/ptar124 feat. SEKAI vs. takehirotei - The Arcanists_ Heist of 739 Magia Era.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Solitude In Shadow feat. Ethereal_Winter",
       "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_Solitude_In_Shadow_feat._Ethereal_Winter.mp3",
       "ranked_modes": [],
@@ -69,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:27:02Z"
+  "updated_at": "2026-04-02T02:39:07Z"
 }

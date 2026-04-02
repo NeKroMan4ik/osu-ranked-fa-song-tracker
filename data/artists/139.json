@@ -3,6 +3,22 @@
   "name": "Shawn Wasabi",
   "tracks": [
     {
+      "title": "Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix)",
+      "preview": "https://assets.ppy.sh/artists/139/Burnt Rice (feat. Yung GEMMY)/Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix).mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2229183
+        ],
+        "mania": [
+          2040781
+        ]
+      }
+    },
+    {
       "title": "Shawn Wasabi - HALO HALO (feat. Chevy)",
       "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - HALO HALO (feat. Chevy).mp3",
       "ranked_modes": [
@@ -37,12 +53,6 @@
     {
       "title": "Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY)",
       "preview": "https://assets.ppy.sh/artists/139/Burnt Rice (feat. Yung GEMMY)/Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix)",
-      "preview": "https://assets.ppy.sh/artists/139/Burnt Rice (feat. Yung GEMMY)/Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -83,5 +93,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:56:06Z"
+  "updated_at": "2026-04-02T03:07:55Z"
 }

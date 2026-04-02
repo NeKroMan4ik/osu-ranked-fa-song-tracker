@@ -308,6 +308,279 @@
       }
     },
     {
+      "title": "Camellia feat. Nanahira - Animal Land",
+      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Animal Land.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2134133,
+          2399045
+        ],
+        "osu": [
+          1083336
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Bassline Yatteru? w",
+      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Bassline Yatteru w.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1643938
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Bikkurisasetara Okoru yo!",
+      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia feat. Nanahira - Bikkurisasetara Okoru yo!.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1604806,
+          1748739
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Energy * Drin-ko Fein-chan!",
+      "preview": "https://assets.ppy.sh/artists/31/Replay/Camellia_feat._Nanahira_-_Energy_Drin-ko_Fein-chan.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          257407
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Force!",
+      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Force!.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          898932,
+          1541167
+        ],
+        "mania": [
+          1317226
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Hakuraku",
+      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia_feat._Nanahira_-_Hakuraku.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2197076
+        ],
+        "taiko": [
+          2197076
+        ],
+        "osu": [
+          894415,
+          2105591
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - IoT (Internet of Things) no Megami * Mononon *",
+      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - IoT (Internet of Things) no Megami  Mononon .mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1081013
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Kansoku Eisei",
+      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Kansoku Eisei.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          720294,
+          2173677
+        ],
+        "taiko": [
+          927544
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Kizuitara Shunkashuutou",
+      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia_feat._Nanahira_-_Kizuitara_Shunkashuutou.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2292569
+        ],
+        "mania": [
+          2134686
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Looking For A New Adventure",
+      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Looking For A New Adventure.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1197924
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Petals",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Nanahira - Petals.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1780166
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - senpai, notice me!",
+      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - senpai%2C notice me!.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1819588
+        ],
+        "osu": [
+          1683345
+        ],
+        "taiko": [
+          1062384,
+          1113149
+        ],
+        "fruits": [
+          822373,
+          962092
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Shakunetsu Candle Master Tomoshii",
+      "preview": "https://assets.ppy.sh/artists/31/Replay/Camellia_feat._Nanahira_-_Shakunetsu_Candle_Master_Tomoshii.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2444077
+        ],
+        "taiko": [
+          2444077
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Touryouka",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Nanahira - Touryouka.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2278272
+        ],
+        "taiko": [
+          1438624
+        ],
+        "osu": [
+          1022167
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Tsukitourou",
+      "preview": "https://assets.ppy.sh/artists/31/Replay/Camellia feat. Nanahira - Tsukitourou.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          383147,
+          627593,
+          2235131
+        ],
+        "fruits": [
+          1604962
+        ],
+        "taiko": [
+          1036751
+        ],
+        "mania": [
+          929044
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Versus!",
+      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia feat. Nanahira - Versus!.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          903542
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Yukacco - Be Wild",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Yukacco - Be Wild.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          890491
+        ]
+      }
+    },
+    {
       "title": "CICADA3302",
       "preview": "https://assets.ppy.sh/artists/31/U.U.F.O/Camellia - CICADA3302.mp3",
       "ranked_modes": [
@@ -424,14 +697,14 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          416308,
-          2477885
-        ],
         "osu": [
           373240,
           396370,
           709946,
+          2477885
+        ],
+        "fruits": [
+          416308,
           2477885
         ],
         "mania": [
@@ -1126,15 +1399,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1033067,
+          2373127
+        ],
         "osu": [
           945476,
           2244436
         ],
         "fruits": [
           1295992
-        ],
-        "taiko": [
-          1033067
         ]
       }
     },
@@ -2181,44 +2455,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia feat. Nanahira - Animal Land",
-      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Animal Land.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Bassline Yatteru? w",
-      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Bassline Yatteru w.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Bikkurisasetara Okoru yo!",
-      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia feat. Nanahira - Bikkurisasetara Okoru yo!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Nanahira - Energy * Drin-ko * Fein-chan! (Camellia's \"MONSTERISTIC\" D. M. P. Remix)",
       "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 02/Camellia_feat._Nanahira_-_Energy_Drin-ko_Fein-chan_Camellias_MONSTERISTIC_D._M._P._Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Energy * Drin-ko Fein-chan!",
-      "preview": "https://assets.ppy.sh/artists/31/Replay/Camellia_feat._Nanahira_-_Energy_Drin-ko_Fein-chan.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Force!",
-      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Force!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Hakuraku",
-      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia_feat._Nanahira_-_Hakuraku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -2231,30 +2469,6 @@
     {
       "title": "Camellia feat. Nanahira - Honey Trap",
       "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Honey Trap.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - IoT (Internet of Things) no Megami * Mononon *",
-      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - IoT (Internet of Things) no Megami  Mononon .mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Kansoku Eisei",
-      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Kansoku Eisei.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Kizuitara Shunkashuutou",
-      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia_feat._Nanahira_-_Kizuitara_Shunkashuutou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Looking For A New Adventure",
-      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Looking For A New Adventure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -2273,12 +2487,6 @@
     {
       "title": "Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catch Ball Taiketsu",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catch Ball Taiketsu.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Petals",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Nanahira - Petals.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -2307,18 +2515,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia feat. Nanahira - senpai, notice me!",
-      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - senpai%2C notice me!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Shakunetsu Candle Master Tomoshii",
-      "preview": "https://assets.ppy.sh/artists/31/Replay/Camellia_feat._Nanahira_-_Shakunetsu_Candle_Master_Tomoshii.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Nanahira - Sleep!",
       "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Sleep!.mp3",
       "ranked_modes": [],
@@ -2337,38 +2533,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia feat. Nanahira - Touryouka",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Nanahira - Touryouka.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - Tsukitourou",
-      "preview": "https://assets.ppy.sh/artists/31/Replay/Camellia feat. Nanahira - Tsukitourou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Nanahira - Usakick!",
       "preview": "https://assets.ppy.sh/artists/31/Lop Step Rabbits!!/Camellia feat. Nanahira - Usakick!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia feat. Nanahira - Versus!",
-      "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia feat. Nanahira - Versus!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.)",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Yukacco - Be Wild",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Yukacco - Be Wild.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -2769,5 +2941,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:40:42Z"
+  "updated_at": "2026-04-02T00:52:01Z"
 }

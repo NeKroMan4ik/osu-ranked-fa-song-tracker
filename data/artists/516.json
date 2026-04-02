@@ -3,14 +3,32 @@
   "name": "AKA",
   "tracks": [
     {
-      "title": "0 K - Panorama (feat. AKA)",
-      "preview": "https://assets.ppy.sh/artists/516/Songs/0 K - Panorama (feat. AKA).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "AZALI & indrop feat. AKA - Faceless Memories",
       "preview": "https://assets.ppy.sh/artists/516/re%27LOAD/AZALI %26 indrop feat. AKA - Faceless Memories.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2419849
+        ]
+      }
+    },
+    {
+      "title": "Sweet Dove feat. AKA - Omoide Kakera",
+      "preview": "https://assets.ppy.sh/artists/516/re%27LOAD/Sweet Dove feat. AKA - Omoide Kakera.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2433381
+        ]
+      }
+    },
+    {
+      "title": "0 K - Panorama (feat. AKA)",
+      "preview": "https://assets.ppy.sh/artists/516/Songs/0 K - Panorama (feat. AKA).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -33,12 +51,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sweet Dove feat. AKA - Omoide Kakera",
-      "preview": "https://assets.ppy.sh/artists/516/re%27LOAD/Sweet Dove feat. AKA - Omoide Kakera.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "UnhellDivA feat. AKA - Eternity",
       "preview": "https://assets.ppy.sh/artists/516/Eternity/UnhellDivA feat. AKA - Eternity.mp3",
       "ranked_modes": [],
@@ -51,5 +63,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:12:45Z"
+  "updated_at": "2026-04-02T00:24:06Z"
 }

@@ -68,6 +68,18 @@
       }
     },
     {
+      "title": "tokiwa feat. Nakamura Sanso - Kotodama Refrain",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Kotodama Refrain.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1703527
+        ]
+      }
+    },
+    {
       "title": "wasurena feat. Sennzai",
       "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Wasurena feat. Sennzai.mp3",
       "ranked_modes": [
@@ -103,13 +115,7 @@
       "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Snow White.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "tokiwa feat. Nakamura Sanso - Kotodama Refrain",
-      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Kotodama Refrain.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:19:41Z"
+  "updated_at": "2026-04-02T03:31:25Z"
 }

@@ -3,6 +3,56 @@
   "name": "Aiobahn",
   "tracks": [
     {
+      "title": "Aiobahn feat. KOTOKO - INTERNET OVERDOSE",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_OVERDOSE.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1794813
+        ],
+        "osu": [
+          1687132
+        ]
+      }
+    },
+    {
+      "title": "Aiobahn feat. KOTOKO - INTERNET YAMERO",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_YAMERO.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2045169,
+          2074198
+        ],
+        "mania": [
+          1962727
+        ],
+        "taiko": [
+          1961959
+        ]
+      }
+    },
+    {
+      "title": "Aiobahn feat. KOTOKO - MOON-RAINBOW BUTTERFLY",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_MOON-RAINBOW_BUTTERFLY.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2312639,
+          2323422
+        ]
+      }
+    },
+    {
       "title": "In My Head",
       "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - In My Head.mp3",
       "ranked_modes": [
@@ -82,24 +132,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Aiobahn feat. KOTOKO - INTERNET OVERDOSE",
-      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_OVERDOSE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aiobahn feat. KOTOKO - INTERNET YAMERO",
-      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_YAMERO.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aiobahn feat. KOTOKO - MOON-RAINBOW BUTTERFLY",
-      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_MOON-RAINBOW_BUTTERFLY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Burnt Rice (Aiobahn & Jh-Anu Remix)",
       "preview": "https://assets.ppy.sh/artists/166/Burnt Rice (feat. Yung GEMMY)/Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix).mp3",
       "ranked_modes": [],
@@ -154,5 +186,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:11:42Z"
+  "updated_at": "2026-04-02T00:23:03Z"
 }

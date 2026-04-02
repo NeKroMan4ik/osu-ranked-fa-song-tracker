@@ -15,6 +15,551 @@
       }
     },
     {
+      "title": "solfa feat. Aitsuki Nakuru - nothing",
+      "preview": "https://assets.ppy.sh/artists/207/star dome/solfa feat. Aitsuki Nakuru - nothing.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1977902
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Annabel - Stargazer",
+      "preview": "https://assets.ppy.sh/artists/207/flourish/solfa feat. Annabel - Stargazer.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2045702
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Aoba Ringo - Itsuwari no Hana",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -the moon-/solfa feat. Aoba Ringo - Itsuwari no Hana.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          905554,
+          1653301
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Ceui - brand new day",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Edog side%7E/solfa feat. Ceui - brand new day.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          110305,
+          825760
+        ],
+        "taiko": [
+          110305
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Ceui - Jewelry Kiss",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Ceui - Jewelry Kiss.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1433875,
+          1601548
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Ceui - Koiiro Recipe",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. Ceui - Koiiro Recipe.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2198327,
+          2478932
+        ],
+        "osu": [
+          981822,
+          1087207
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Ceui - melty love",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Emarine stage%7E/solfa feat. Ceui - melty love.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1620127
+        ],
+        "fruits": [
+          1617558
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecool splash%7E/solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1553899,
+          1931882
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Ceui - primal",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -white beat-/solfa feat. Ceui - primal.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1122445,
+          1591723,
+          2146191
+        ],
+        "fruits": [
+          1383242
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Ceui - smile again",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -the moon-/solfa feat. Ceui - smile again.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1857772
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata + Rita + Koharu Meu - treasure pleasure",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. Chata %2B Rita %2B Koharu Meu - treasure pleasure.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2251635
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - Colorful precious life",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa feat. Chata - Colorful precious life.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          54782,
+          112655,
+          1640724
+        ],
+        "fruits": [
+          1627187
+        ],
+        "mania": [
+          2287128
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - hot splash!",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -the sun-/solfa feat. Chata - hot splash!.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1612969
+        ],
+        "taiko": [
+          1601757
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - I will",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -white beat-/solfa feat. Chata - I will.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2123901
+        ],
+        "taiko": [
+          1607793
+        ],
+        "mania": [
+          1602476
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - Koi no Spirichu",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Chata - Koi no Spirichu.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1952184
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - Miracle infinity",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Edog side%7E/solfa feat. Chata - Miracle infinity.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2070063,
+          2249227
+        ],
+        "osu": [
+          104315,
+          132638,
+          240762,
+          811466,
+          1619982,
+          1989275,
+          2060717
+        ],
+        "taiko": [
+          894271
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - Pa Pa Pa Panda",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_feat._Chata_-_Pa_Pa_Pa_Panda.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2034609
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - Prism lovely day",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. Chata - Prism lovely day.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1658950
+        ],
+        "taiko": [
+          1606817
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Chata - sing a song!",
+      "preview": "https://assets.ppy.sh/artists/207/sing a song!/solfa feat. Chata - sing a song!.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2253450
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Hashimoto Miyuki - Nijiiro Spring",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Hashimoto Miyuki - Nijiiro Spring.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1843240
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Koharu Meu - Ashita no Hajimari",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - Ashita no Hajimari.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1105288
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Koharu Meu - far distance",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - far distance.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1236841
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. KOTOKO - affection",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Emarine stage%7E/solfa feat. KOTOKO - affection.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1160766
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. KOTOKO - Bum-out!",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -the sun-/solfa feat. KOTOKO - Bum-out!.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2198551
+        ],
+        "taiko": [
+          2198551
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. KOTOKO - Sakura Hitohira Koi Moyou",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. KOTOKO - Sakura Hitohira Koi Moyou.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2199081
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Misato Aki - Happy Beat!",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Misato Aki - Happy Beat!.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1169943
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. nao & Aoba Ringo - Motto! Icha*LOVE Paradise",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. nao %26 Aoba Ringo - Motto! IchaLOVE Paradise.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2194899
+        ],
+        "taiko": [
+          2194899
+        ],
+        "osu": [
+          1491854
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. nao - Kako to Mirai no Memory",
+      "preview": "https://assets.ppy.sh/artists/207/explorer/solfa feat. nao - Kako to Mirai no Memory.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2121405
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Rita - shield nine (new overdrive ver.)",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Rita - shield nine (new overdrive ver.).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2038622
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Sayaka Sasaki - Anata to Precious Days",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -the moon-/solfa feat. Sayaka Sasaki - Anata to Precious Days.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2022121
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Shimotsuki Haruka %2B Ceui - STUDY STEADY.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1907991,
+          2165707
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka + Ceui - study steady day!",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Shimotsuki Haruka %2B Ceui - study steady day!.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2240306
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka + Chata + Katakiri Rekka - go ahead!",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Edog side%7E/solfa feat. Shimotsuki Haruka %2B Chata %2B Katakiri Rekka - go ahead!.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2145549
+        ],
+        "osu": [
+          1096374
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka - leap in your mind",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Shimotsuki Haruka - leap in your mind.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          818672,
+          911281,
+          1376340
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka - Mr.Sister",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Shimotsuki Haruka - Mr.Sister.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1060509
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka - my sweet heart",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa feat. Shimotsuki Haruka - my sweet heart.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2156106
+        ],
+        "osu": [
+          2054648
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka - Natsuiro Ramune",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. Shimotsuki Haruka - Natsuiro Ramune.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          710897,
+          1601425
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. yuki - Yami no Rinne",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa_feat._yuki_-_Yami_no_Rinne.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2253414
+        ]
+      }
+    },
+    {
       "title": "-Daughter of black-",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa - Shikkoku no Reijou -Daughter of black-.mp3",
       "ranked_modes": [],
@@ -75,92 +620,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Aitsuki Nakuru - nothing",
-      "preview": "https://assets.ppy.sh/artists/207/star dome/solfa feat. Aitsuki Nakuru - nothing.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Annabel - Stargazer",
-      "preview": "https://assets.ppy.sh/artists/207/flourish/solfa feat. Annabel - Stargazer.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Aoba Ringo - Itsuwari no Hana",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -the moon-/solfa feat. Aoba Ringo - Itsuwari no Hana.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Ceui - brand new day",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Edog side%7E/solfa feat. Ceui - brand new day.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Ceui - Jewelry Kiss",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Ceui - Jewelry Kiss.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Ceui - Koiiro Recipe",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. Ceui - Koiiro Recipe.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Ceui - melty love",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Emarine stage%7E/solfa feat. Ceui - melty love.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecool splash%7E/solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Ceui - primal",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -white beat-/solfa feat. Ceui - primal.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Ceui - smile again",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -the moon-/solfa feat. Ceui - smile again.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata + Rita + Koharu Meu - treasure pleasure",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. Chata %2B Rita %2B Koharu Meu - treasure pleasure.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Chata - Amaku Amai Mama",
       "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Chata - Amaku Amai Mama.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - Colorful precious life",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa feat. Chata - Colorful precious life.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - hot splash!",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -the sun-/solfa feat. Chata - hot splash!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - I will",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -white beat-/solfa feat. Chata - I will.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -171,32 +632,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Chata - Koi no Spirichu",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Chata - Koi no Spirichu.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - Miracle infinity",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Edog side%7E/solfa feat. Chata - Miracle infinity.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Chata - Norikire Juken Wars",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Chata - Norikire Juken Wars.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - Pa Pa Pa Panda",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_feat._Chata_-_Pa_Pa_Pa_Panda.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - Prism lovely day",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. Chata - Prism lovely day.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -213,12 +650,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Chata - sing a song!",
-      "preview": "https://assets.ppy.sh/artists/207/sing a song!/solfa feat. Chata - sing a song!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Chata - Sugar x Sugar",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Chata - Sugar x Sugar.mp3",
       "ranked_modes": [],
@@ -227,12 +658,6 @@
     {
       "title": "solfa feat. Chata - Vanity in the Bloom",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Chata - Vanity in the Bloom.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Hashimoto Miyuki - Nijiiro Spring",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Hashimoto Miyuki - Nijiiro Spring.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -257,18 +682,6 @@
     {
       "title": "solfa feat. Koharu Meu - Aishite Koishite -happy forever-",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - Aishite Koishite -happy forever-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Koharu Meu - Ashita no Hajimari",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - Ashita no Hajimari.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Koharu Meu - far distance",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - far distance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -321,26 +734,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. KOTOKO - affection",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Emarine stage%7E/solfa feat. KOTOKO - affection.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. KOTOKO - Bum-out!",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -the sun-/solfa feat. KOTOKO - Bum-out!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. KOTOKO - Fancy Game!?",
       "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. KOTOKO - Fancy Game!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. KOTOKO - Sakura Hitohira Koi Moyou",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. KOTOKO - Sakura Hitohira Koi Moyou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -351,26 +746,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Misato Aki - Happy Beat!",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Misato Aki - Happy Beat!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Nanahira - Hikari to Ya",
       "preview": "https://assets.ppy.sh/artists/207/star dome/solfa feat. Nanahira - Hikari to Ya.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. nao & Aoba Ringo - Motto! Icha*LOVE Paradise",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. nao %26 Aoba Ringo - Motto! IchaLOVE Paradise.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. nao - Kako to Mirai no Memory",
-      "preview": "https://assets.ppy.sh/artists/207/explorer/solfa feat. nao - Kako to Mirai no Memory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -411,62 +788,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Rita - shield nine (new overdrive ver.)",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Rita - shield nine (new overdrive ver.).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Rita - under the dark moon",
       "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa feat. Rita - under the dark moon.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Sayaka Sasaki - Anata to Precious Days",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -the moon-/solfa feat. Sayaka Sasaki - Anata to Precious Days.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Shimotsuki Haruka %2B Ceui - STUDY STEADY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka + Ceui - study steady day!",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Shimotsuki Haruka %2B Ceui - study steady day!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka + Chata + Katakiri Rekka - go ahead!",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Edog side%7E/solfa feat. Shimotsuki Haruka %2B Chata %2B Katakiri Rekka - go ahead!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka - leap in your mind",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Shimotsuki Haruka - leap in your mind.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka - Mr.Sister",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Shimotsuki Haruka - Mr.Sister.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka - my sweet heart",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa feat. Shimotsuki Haruka - my sweet heart.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka - Natsuiro Ramune",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. Shimotsuki Haruka - Natsuiro Ramune.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -513,12 +836,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. yuki - Yami no Rinne",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa_feat._yuki_-_Yami_no_Rinne.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Yumeno Yuki - Princess Sisters!",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Yumeno Yuki - Princess Sisters!.mp3",
       "ranked_modes": [],
@@ -531,5 +848,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:01:35Z"
+  "updated_at": "2026-04-02T03:13:25Z"
 }

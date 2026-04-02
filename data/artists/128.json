@@ -15,6 +15,75 @@
       }
     },
     {
+      "title": "Getty vs. DJ DiA - Antifront Gears",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Antifront Gears.mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1321736
+        ],
+        "taiko": [
+          1043137
+        ]
+      }
+    },
+    {
+      "title": "Getty vs. DJ DiA - Engage-Rex-",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Engage-Rex-.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1336197
+        ]
+      }
+    },
+    {
+      "title": "Getty vs. DJ DiA - Grayed Out -Antifront-",
+      "preview": "https://assets.ppy.sh/artists/128/Grayed Out-Antifront-/Getty vs. DJ DiA - Grayed Out -Antifront-.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          518351,
+          2299375
+        ],
+        "taiko": [
+          1601533
+        ],
+        "fruits": [
+          1541235
+        ],
+        "osu": [
+          578755
+        ]
+      }
+    },
+    {
+      "title": "Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix)",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix).mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2194883
+        ],
+        "mania": [
+          1541196
+        ]
+      }
+    },
+    {
       "title": "Neo Bright feat. TEA",
       "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Neo Bright feat. TEA.mp3",
       "ranked_modes": [
@@ -51,32 +120,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Getty vs. DJ DiA - Antifront Gears",
-      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Antifront Gears.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Getty vs. DJ DiA - Counter Attack",
       "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Counter Attack.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Getty vs. DJ DiA - Engage-Rex-",
-      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Engage-Rex-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Getty vs. DJ DiA - Grayed Out -Antifront-",
-      "preview": "https://assets.ppy.sh/artists/128/Grayed Out-Antifront-/Getty vs. DJ DiA - Grayed Out -Antifront-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix)",
-      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -171,5 +216,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:10:35Z"
+  "updated_at": "2026-04-02T01:22:14Z"
 }

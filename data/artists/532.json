@@ -3,6 +3,18 @@
   "name": "LaXal",
   "tracks": [
     {
+      "title": "LaXal feat. Melissa Brooks - Horizons",
+      "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal feat. Melissa Brooks - Horizons.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2478800
+        ]
+      }
+    },
+    {
       "title": "By Your Side",
       "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal - By Your Side.mp3",
       "ranked_modes": [],
@@ -21,17 +33,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "LaXal feat. Melissa Brooks - Horizons",
-      "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal feat. Melissa Brooks - Horizons.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sans On The Move",
       "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal - Sans On The Move.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:42:48Z"
+  "updated_at": "2026-04-02T01:54:45Z"
 }

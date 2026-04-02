@@ -80,6 +80,48 @@
       }
     },
     {
+      "title": "polysha feat. Sennzai - Escape from the Abyss",
+      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha feat. Sennzai - Escape from the Abyss.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2147338
+        ]
+      }
+    },
+    {
+      "title": "polysha feat. Sennzai - Hurt Urge",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha feat. Sennzai - Hurt Urge.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1397802,
+          1434778,
+          2332124
+        ],
+        "taiko": [
+          2150623
+        ]
+      }
+    },
+    {
+      "title": "polysha feat. Takanashi Megumi - Kyou ga Owaru Toki made -coda-",
+      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha_feat._Takanashi_Megumi_-_Kyou_ga_Owaru_Toki_made_-coda-.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2211706
+        ]
+      }
+    },
+    {
       "title": "polysha - Has not come yet",
       "preview": "https://assets.ppy.sh/artists/146/Bloom/polysha - Has not come yet.mp3",
       "ranked_modes": [],
@@ -128,29 +170,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "polysha feat. Sennzai - Escape from the Abyss",
-      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha feat. Sennzai - Escape from the Abyss.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "polysha feat. Sennzai - Hurt Urge",
-      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha feat. Sennzai - Hurt Urge.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "polysha feat. Takanashi Megumi - Kyou ga Owaru Toki made -coda-",
-      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha_feat._Takanashi_Megumi_-_Kyou_ga_Owaru_Toki_made_-coda-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "polysha feat. TEA - Under The Moon, Adolesecence",
       "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha feat. TEA - Under The Moon, Adolesecence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:25:59Z"
+  "updated_at": "2026-04-02T02:38:04Z"
 }

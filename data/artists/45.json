@@ -171,6 +171,18 @@
       }
     },
     {
+      "title": "Iki wa Yoi Yoi",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1091.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524492
+        ]
+      }
+    },
+    {
       "title": "Kaeri wa Kowai",
       "preview": "https://assets.ppy.sh/artists/45/previews/1092.mp3",
       "ranked_modes": [
@@ -528,18 +540,20 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1020146,
+          1161067,
+          2466732
+        ],
+        "fruits": [
+          1091149,
+          2466732
+        ],
         "mania": [
           2302674
         ],
-        "osu": [
-          1020146,
-          1161067
-        ],
         "taiko": [
           1147179
-        ],
-        "fruits": [
-          1091149
         ]
       }
     },
@@ -792,12 +806,6 @@
     {
       "title": "Hyakki Yakou",
       "preview": "https://assets.ppy.sh/artists/45/previews/1090.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Iki wa Yoi Yoi",
-      "preview": "https://assets.ppy.sh/artists/45/previews/1091.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1138,5 +1146,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:26:14Z"
+  "updated_at": "2026-04-02T03:37:55Z"
 }

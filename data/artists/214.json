@@ -60,6 +60,47 @@
       }
     },
     {
+      "title": "LV.4 feat. Chiaki Iwasaki - B.O.L.",
+      "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Chiaki_Iwasaki_-_B.O.L..mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2055265
+        ]
+      }
+    },
+    {
+      "title": "LV.4 feat. Mawata Spica - Vortex of Sorrow",
+      "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Mawata_Spica_-_Vortex_of_Sorrow.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1980701
+        ]
+      }
+    },
+    {
+      "title": "LV.4 feat. Yuu Ikeba - Sentimental Surge",
+      "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Yuu_Ikeba_-_Sentimental_Surge.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2309140
+        ],
+        "mania": [
+          1935688,
+          1935957
+        ]
+      }
+    },
+    {
       "title": "Radiation 239",
       "preview": "https://assets.ppy.sh/artists/214/RADICAL INVASION/LV.4 - Radiation 239.mp3",
       "ranked_modes": [
@@ -132,26 +173,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "LV.4 feat. Chiaki Iwasaki - B.O.L.",
-      "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Chiaki_Iwasaki_-_B.O.L..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "LV.4 feat. Mawata Spica - Vortex of Sorrow",
-      "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Mawata_Spica_-_Vortex_of_Sorrow.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "LV.4 feat. monana - Signal (Girl's Vocal MIX)",
       "preview": "https://assets.ppy.sh/artists/214/INNOCENCE %26 INNOCENCE/LV.4 feat. monana - Signal (Girl%27s Vocal MIX).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "LV.4 feat. Yuu Ikeba - Sentimental Surge",
-      "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Yuu_Ikeba_-_Sentimental_Surge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -186,5 +209,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:54:09Z"
+  "updated_at": "2026-04-02T02:06:03Z"
 }

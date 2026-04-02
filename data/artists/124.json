@@ -43,6 +43,18 @@
       }
     },
     {
+      "title": "Jun Kuroda feat. Oshima Haruna - truth of me",
+      "preview": "https://assets.ppy.sh/artists/124/Natsukoi Hanabi EP/Jun Kuroda feat. Oshima Haruna - truth of me.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2228676
+        ]
+      }
+    },
+    {
       "title": "Meikyoshisui",
       "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Meikyoshisui.mp3",
       "ranked_modes": [
@@ -139,12 +151,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Jun Kuroda feat. Oshima Haruna - truth of me",
-      "preview": "https://assets.ppy.sh/artists/124/Natsukoi Hanabi EP/Jun Kuroda feat. Oshima Haruna - truth of me.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lily",
       "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Lily.mp3",
       "ranked_modes": [],
@@ -205,5 +211,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:30:05Z"
+  "updated_at": "2026-04-02T01:42:04Z"
 }

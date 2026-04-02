@@ -27,6 +27,22 @@
       }
     },
     {
+      "title": "Laur feat. Risa Yuzuki - Megaera",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Laur_feat._Risa_Yuzuki_-_Megaera.mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2004073
+        ],
+        "taiko": [
+          1766625
+        ]
+      }
+    },
+    {
       "title": "Shuuen e no Keifu",
       "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Shuuen e no Keifu.mp3",
       "ranked_modes": [
@@ -151,12 +167,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Laur feat. Risa Yuzuki - Megaera",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Laur_feat._Risa_Yuzuki_-_Megaera.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lemonade Fizz",
       "preview": "https://assets.ppy.sh/artists/211/Imitator/Risa Yuzuki - Lemonade Fizz.mp3",
       "ranked_modes": [],
@@ -223,5 +233,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:41:49Z"
+  "updated_at": "2026-04-02T02:53:41Z"
 }

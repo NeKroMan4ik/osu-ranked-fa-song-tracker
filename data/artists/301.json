@@ -3,6 +3,18 @@
   "name": "AAAA",
   "tracks": [
     {
+      "title": "AAAA vs. Frums - beepbit * futures",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA vs. Frums - beepbit  futures.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1633221
+        ]
+      }
+    },
+    {
       "title": "Bokutachi no Tabi to Epilogue.[Long ver.]",
       "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA - Bokutachi no Tabi to Epilogue.%5BLong ver.%5D.mp3",
       "ranked_modes": [
@@ -219,12 +231,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "AAAA vs. Frums - beepbit * futures",
-      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA vs. Frums - beepbit  futures.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long ver.)",
       "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA_-_Hoshi_o_Kakeru_Adventure__we_are_forever_friends__Long_ver..mp3",
       "ranked_modes": [],
@@ -237,5 +243,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:08:18Z"
+  "updated_at": "2026-04-02T00:19:39Z"
 }

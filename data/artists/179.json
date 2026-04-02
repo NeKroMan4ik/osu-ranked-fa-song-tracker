@@ -111,6 +111,18 @@
       }
     },
     {
+      "title": "Nazokake Alice",
+      "preview": "https://assets.ppy.sh/artists/179/10th Album %E3%80%8CNazokake Alice%E3%80%8D/ABSOLUTE_CASTAWAY_-_Nazokake_Alice.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2518752
+        ]
+      }
+    },
+    {
       "title": "Sadachbia no Himitsu",
       "preview": "https://assets.ppy.sh/artists/179/16th Album 「ASTRO=SIGN」/ABSOLUTE CASTAWAY - Sadachbia no Himitsu.mp3",
       "ranked_modes": [
@@ -396,12 +408,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nazokake Alice",
-      "preview": "https://assets.ppy.sh/artists/179/10th Album %E3%80%8CNazokake Alice%E3%80%8D/ABSOLUTE_CASTAWAY_-_Nazokake_Alice.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Nunki no Morito",
       "preview": "https://assets.ppy.sh/artists/179/16th Album 「ASTRO=SIGN」/ABSOLUTE CASTAWAY - Nunki no Morito.mp3",
       "ranked_modes": [],
@@ -474,5 +480,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:09:40Z"
+  "updated_at": "2026-04-02T00:21:00Z"
 }

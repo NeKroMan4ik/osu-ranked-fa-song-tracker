@@ -39,6 +39,23 @@
       }
     },
     {
+      "title": "Kurubukko vs. yukitani - Minamichita EVOLVED",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko vs. yukitani - Minamichita EVOLVED.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          136632,
+          1756970
+        ],
+        "osu": [
+          136632
+        ]
+      }
+    },
+    {
       "title": "Rain",
       "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Rain.mp3",
       "ranked_modes": [
@@ -105,12 +122,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kurubukko vs. yukitani - Minamichita EVOLVED",
-      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko vs. yukitani - Minamichita EVOLVED.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Missing",
       "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Missing.mp3",
       "ranked_modes": [],
@@ -123,5 +134,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:41:24Z"
+  "updated_at": "2026-04-02T01:53:21Z"
 }

@@ -3,6 +3,89 @@
   "name": "Sound piercer",
   "tracks": [
     {
+      "title": "Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT",
+      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer %26 ginkiha (feat. Yuzuha %26 NeLiME) - MILIGHT CONNECT.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2259046,
+          2341766,
+          2346444
+        ],
+        "osu": [
+          2236898
+        ]
+      }
+    },
+    {
+      "title": "Sound piercer feat. DAZBEE - Hanatachi ni Kibou o",
+      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound_piercer_feat._DAZBEE_-_Hanatachi_ni_Kibou_o.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2389587
+        ],
+        "osu": [
+          1229091,
+          1300204,
+          1538654,
+          2032476,
+          2108840,
+          2282278
+        ],
+        "mania": [
+          1259799,
+          1300204,
+          1694166,
+          1789857,
+          1805943,
+          1970783
+        ]
+      }
+    },
+    {
+      "title": "Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster)",
+      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster).mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2395406
+        ],
+        "osu": [
+          1378089,
+          1743604,
+          2108841,
+          2110025
+        ],
+        "taiko": [
+          1568419
+        ]
+      }
+    },
+    {
+      "title": "Sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai",
+      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2098695
+        ]
+      }
+    },
+    {
       "title": "Candy & Baguette",
       "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer - Candy %26 Baguette.mp3",
       "ranked_modes": [],
@@ -11,30 +94,6 @@
     {
       "title": "Sound piercer \"Espitz\" - NOVO HORIZONTE",
       "preview": "https://assets.ppy.sh/artists/334/Songs/Sound_piercer_Espitz_-_NOVO_HORIZONTE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT",
-      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer %26 ginkiha (feat. Yuzuha %26 NeLiME) - MILIGHT CONNECT.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sound piercer feat. DAZBEE - Hanatachi ni Kibou o",
-      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound_piercer_feat._DAZBEE_-_Hanatachi_ni_Kibou_o.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster)",
-      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai",
-      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -63,5 +122,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:02:24Z"
+  "updated_at": "2026-04-02T03:14:15Z"
 }

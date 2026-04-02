@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "BrayanKitsn vs. burger ate pizza - plana stella achernar",
+      "preview": "https://assets.ppy.sh/artists/506/plana stella achernar/BrayanKitsn vs. burger ate pizza - plana stella achernar.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2119559
+        ]
+      }
+    },
+    {
       "title": "Crystallized Snow",
       "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn_-_Crystallized_Snow_Short_Ver..mp3",
       "ranked_modes": [
@@ -35,12 +47,6 @@
     {
       "title": "BounceBack",
       "preview": "https://assets.ppy.sh/artists/506/BounceBack/BrayanKitsn - BounceBack.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BrayanKitsn vs. burger ate pizza - plana stella achernar",
-      "preview": "https://assets.ppy.sh/artists/506/plana stella achernar/BrayanKitsn vs. burger ate pizza - plana stella achernar.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -99,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:34:50Z"
+  "updated_at": "2026-04-02T00:46:09Z"
 }

@@ -51,6 +51,18 @@
       }
     },
     {
+      "title": "Yu_Asahina + penoreri feat. mikanzil - Romancing Fiction Life! (twiples ver.)",
+      "preview": "https://assets.ppy.sh/artists/118/WONDERLAND TRAVELERS/Yu_Asahina__penoreri_feat._mikanzil_-_Romancing_Fiction_Life_twiples_ver..mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1532633
+        ]
+      }
+    },
+    {
       "title": "Alborada",
       "preview": "https://assets.ppy.sh/artists/118/HAELEQUIN-HAELEQ∩INZ/Yu_Asahina - Alborada.mp3?1234",
       "ranked_modes": [],
@@ -141,17 +153,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yu_Asahina + penoreri feat. mikanzil - Romancing Fiction Life! (twiples ver.)",
-      "preview": "https://assets.ppy.sh/artists/118/WONDERLAND TRAVELERS/Yu_Asahina__penoreri_feat._mikanzil_-_Romancing_Fiction_Life_twiples_ver..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yu_Asahina - Glittering City Drop feat. Citrus and Ocean Colour",
       "preview": "https://assets.ppy.sh/artists/118/WONDERLAND TRAVELERS/Yu_Asahina - Glittering City Drop feat.Citrus and Ocean Colour.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:17:42Z"
+  "updated_at": "2026-04-02T02:29:38Z"
 }

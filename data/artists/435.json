@@ -3,6 +3,32 @@
   "name": "Supa7onyz",
   "tracks": [
     {
+      "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
+      "preview": "https://assets.ppy.sh/artists/435/Songs/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1939761,
+          2184238,
+          2432691
+        ]
+      }
+    },
+    {
+      "title": "Supa7onyz feat. 5-let - Les Cadences Magiques",
+      "preview": "https://assets.ppy.sh/artists/435/Songs/Supa7onyz feat. 5-let - Les Cadences Magiques.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2266240
+        ]
+      }
+    },
+    {
       "title": "Casual Talk",
       "preview": "https://assets.ppy.sh/artists/435/Songs/Supa7onyz - Casual Talk.mp3",
       "ranked_modes": [],
@@ -45,20 +71,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
-      "preview": "https://assets.ppy.sh/artists/435/Songs/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Supa7onyz & Normal1zer & Broken Nerdz - Moro -His Uncharted Odyssey-",
       "preview": "https://assets.ppy.sh/artists/435/Songs/Supa7onyz %26 Normal1zer %26 Broken Nerdz - Moro -His Uncharted Odyssey-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Supa7onyz feat. 5-let - Les Cadences Magiques",
-      "preview": "https://assets.ppy.sh/artists/435/Songs/Supa7onyz feat. 5-let - Les Cadences Magiques.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -81,5 +95,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:06:35Z"
+  "updated_at": "2026-04-02T03:18:24Z"
 }

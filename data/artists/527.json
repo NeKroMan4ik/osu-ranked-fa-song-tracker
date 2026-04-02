@@ -53,6 +53,34 @@
       }
     },
     {
+      "title": "Laur feat. Risa Yuzuki - Megaera",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur_feat._Risa_Yuzuki_-_Megaera.mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2004073
+        ],
+        "taiko": [
+          1766625
+        ]
+      }
+    },
+    {
+      "title": "Laur vs. CK - Lost Civilization",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur vs. CK - Lost Civilization.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1538278
+        ]
+      }
+    },
+    {
       "title": "PRISTINE",
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - PRISTINE.mp3",
       "ranked_modes": [
@@ -239,20 +267,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Laur feat. Risa Yuzuki - Megaera",
-      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur_feat._Risa_Yuzuki_-_Megaera.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Laur feat. Sennzai - Lure",
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur_feat._Sennzai_-_Lure.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Laur vs. CK - Lost Civilization",
-      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur vs. CK - Lost Civilization.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -281,5 +297,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:42:41Z"
+  "updated_at": "2026-04-02T01:54:38Z"
 }

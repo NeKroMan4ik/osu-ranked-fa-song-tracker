@@ -3,6 +3,18 @@
   "name": "Aoi",
   "tracks": [
     {
+      "title": "Aoi vs. siqlo - Hacktivism",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi vs. siqlo - Hacktivism.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1488148
+        ]
+      }
+    },
+    {
       "title": "aterlbus",
       "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - aterlbus.mp3",
       "ranked_modes": [
@@ -88,12 +100,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Aoi vs. siqlo - Hacktivism",
-      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi vs. siqlo - Hacktivism.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aoi with mAoA9 - to soar",
       "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi with mAoA9 - to soar.mp3",
       "ranked_modes": [],
@@ -166,5 +172,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:20:24Z"
+  "updated_at": "2026-04-02T00:31:45Z"
 }

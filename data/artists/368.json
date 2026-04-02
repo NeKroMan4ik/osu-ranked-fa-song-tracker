@@ -15,6 +15,35 @@
       }
     },
     {
+      "title": "Halv vs. kuro - Evreka",
+      "preview": "https://assets.ppy.sh/artists/368/Evreka/Halv_vs._kuro_-_Evreka.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2066192,
+          2203192,
+          2305057
+        ],
+        "mania": [
+          2028213,
+          2034830,
+          2262507
+        ],
+        "taiko": [
+          2153810
+        ],
+        "fruits": [
+          2011570,
+          2104337
+        ]
+      }
+    },
+    {
       "title": "4way",
       "preview": "https://assets.ppy.sh/artists/368/HARDCORE UTOPIA 3/Halv - 4way.mp3",
       "ranked_modes": [],
@@ -27,17 +56,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Halv vs. kuro - Evreka",
-      "preview": "https://assets.ppy.sh/artists/368/Evreka/Halv_vs._kuro_-_Evreka.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tell Me Now",
       "preview": "https://assets.ppy.sh/artists/368/HARDCORE UTOPIA 2/Halv - Tell Me Now.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:13:42Z"
+  "updated_at": "2026-04-02T01:25:25Z"
 }

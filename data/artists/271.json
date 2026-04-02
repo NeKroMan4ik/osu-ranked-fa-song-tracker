@@ -5,14 +5,60 @@
     {
       "title": "Ponchi feat. haxchi - Anemone",
       "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Anemone.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1753715
+        ]
+      }
     },
     {
       "title": "Ponchi feat. haxchi - Correct Hearts",
       "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Correct Hearts.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1742463
+        ]
+      }
+    },
+    {
+      "title": "Ponchi feat. haxchi - Mousou <3 Chuu!!",
+      "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Mousou 3 Chuu!!.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1726676,
+          1951939
+        ],
+        "taiko": [
+          1805100
+        ]
+      }
+    },
+    {
+      "title": "Ponchi feat. haxchi - Nyanderful <3 Summer!!",
+      "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Nyanderful 3 Summer!!.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2138147,
+          2301406
+        ],
+        "mania": [
+          2180235
+        ]
+      }
     },
     {
       "title": "Ponchi feat. haxchi - Inferno City",
@@ -27,23 +73,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ponchi feat. haxchi - Mousou <3 Chuu!!",
-      "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Mousou 3 Chuu!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ponchi feat. haxchi - Nyanderful <3 Summer!!",
-      "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Nyanderful 3 Summer!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ponchi feat. haxchi - Suisei Soda",
       "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Suisei Soda.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:26:09Z"
+  "updated_at": "2026-04-02T02:38:14Z"
 }

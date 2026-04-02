@@ -3,6 +3,66 @@
   "name": "Harumaki Gohan",
   "tracks": [
     {
+      "title": "Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare",
+      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1536400,
+          2294377
+        ],
+        "osu": [
+          944938,
+          1029792,
+          1855499
+        ]
+      }
+    },
+    {
+      "title": "Harumaki Gohan feat. Hatsune Miku - Photon Blue",
+      "preview": "https://assets.ppy.sh/artists/197/BLUE ENDING NOVA/Harumaki Gohan feat. Hatsune Miku - Photon Blue.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2164476
+        ]
+      }
+    },
+    {
+      "title": "Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1595412
+        ],
+        "osu": [
+          1215982,
+          1344515
+        ]
+      }
+    },
+    {
+      "title": "Harumaki Gohan feat. Hatsune Miku - Yakusoku",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Yakusoku.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1463668
+        ]
+      }
+    },
+    {
       "title": "Nana",
       "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan - Nana.mp3",
       "ranked_modes": [
@@ -112,18 +172,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare",
-      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Harumaki Gohan feat. Hatsune Miku - Photon Blue",
-      "preview": "https://assets.ppy.sh/artists/197/BLUE ENDING NOVA/Harumaki Gohan feat. Hatsune Miku - Photon Blue.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Harumaki Gohan feat. Hatsune Miku - Saikai",
       "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Saikai.mp3",
       "ranked_modes": [],
@@ -136,23 +184,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara",
-      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Harumaki Gohan feat. Hatsune Miku - Yakusoku",
-      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Yakusoku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Himitsu",
       "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan - Himitsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:15:45Z"
+  "updated_at": "2026-04-02T01:27:29Z"
 }

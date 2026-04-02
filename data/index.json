@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-03-31T02:47:56Z",
-    "total_artists": 529,
-    "total_songs": 9265
+    "last_updated": "2026-04-02T03:59:28Z",
+    "total_artists": 527,
+    "total_songs": 9246
   },
   "artists": [
     {
@@ -10,3703 +10,3689 @@
       "name": "*namirin",
       "song_count": 10,
       "ranked_count": 10,
-      "updated_at": "2026-03-30T23:01:26Z"
+      "updated_at": "2026-04-02T00:12:45Z"
     },
     {
       "id": 297,
       "name": "-45",
       "song_count": 117,
       "ranked_count": 41,
-      "updated_at": "2026-03-30T23:04:06Z"
+      "updated_at": "2026-04-02T00:15:25Z"
     },
     {
       "id": 424,
       "name": "0 K",
       "song_count": 11,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:04:21Z"
+      "updated_at": "2026-04-02T00:15:41Z"
     },
     {
       "id": 382,
       "name": "1914",
       "song_count": 7,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:04:31Z"
+      "updated_at": "2026-04-02T00:15:51Z"
     },
     {
       "id": 474,
       "name": "1zm8",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:04:44Z"
+      "updated_at": "2026-04-02T00:16:03Z"
     },
     {
       "id": 157,
       "name": "2TD",
       "song_count": 10,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:04:58Z"
+      "updated_at": "2026-04-02T00:16:19Z"
     },
     {
       "id": 187,
       "name": "3R2 / DJ Mashiro",
       "song_count": 10,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:05:26Z"
+      "updated_at": "2026-04-02T00:16:46Z"
     },
     {
       "id": 419,
       "name": "633397",
       "song_count": 18,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:05:51Z"
+      "updated_at": "2026-04-02T00:17:11Z"
     },
     {
       "id": 268,
       "name": "69 de 74",
       "song_count": 11,
       "ranked_count": 6,
-      "updated_at": "2026-03-30T23:06:06Z"
+      "updated_at": "2026-04-02T00:17:27Z"
     },
     {
       "id": 356,
       "name": "7_7",
       "song_count": 27,
-      "ranked_count": 5,
-      "updated_at": "2026-03-30T23:06:43Z"
+      "ranked_count": 6,
+      "updated_at": "2026-04-02T00:18:04Z"
     },
     {
       "id": 275,
       "name": ":Poin7less",
       "song_count": 10,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:06:57Z"
+      "updated_at": "2026-04-02T00:18:18Z"
     },
     {
       "id": 168,
       "name": "A-One",
       "song_count": 23,
-      "ranked_count": 1,
-      "updated_at": "2026-03-30T23:07:29Z"
+      "ranked_count": 12,
+      "updated_at": "2026-04-02T00:18:50Z"
     },
     {
       "id": 253,
       "name": "A.SAKA",
       "song_count": 13,
       "ranked_count": 9,
-      "updated_at": "2026-03-30T23:07:47Z"
+      "updated_at": "2026-04-02T00:19:08Z"
     },
     {
       "id": 301,
       "name": "AAAA",
       "song_count": 22,
-      "ranked_count": 11,
-      "updated_at": "2026-03-30T23:08:18Z"
+      "ranked_count": 12,
+      "updated_at": "2026-04-02T00:19:39Z"
     },
     {
       "id": 179,
       "name": "ABSOLUTE CASTAWAY",
       "song_count": 60,
-      "ranked_count": 15,
-      "updated_at": "2026-03-30T23:09:40Z"
+      "ranked_count": 16,
+      "updated_at": "2026-04-02T00:21:00Z"
     },
     {
       "id": 294,
       "name": "Abuse",
       "song_count": 8,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:09:51Z"
+      "updated_at": "2026-04-02T00:21:12Z"
     },
     {
       "id": 191,
       "name": "Aether",
       "song_count": 14,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:10:10Z"
+      "updated_at": "2026-04-02T00:21:31Z"
     },
     {
       "id": 153,
       "name": "Aethoro",
       "song_count": 10,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:10:24Z"
+      "updated_at": "2026-04-02T00:21:45Z"
     },
     {
       "id": 259,
       "name": "Aethral",
       "song_count": 12,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:10:41Z"
+      "updated_at": "2026-04-02T00:22:02Z"
     },
     {
       "id": 164,
       "name": "Agressor Bunx",
       "song_count": 14,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:11:01Z"
+      "updated_at": "2026-04-02T00:22:21Z"
     },
     {
       "id": 360,
       "name": "Aice room",
       "song_count": 12,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:11:18Z"
+      "updated_at": "2026-04-02T00:22:38Z"
     },
     {
       "id": 166,
       "name": "Aiobahn",
       "song_count": 18,
-      "ranked_count": 5,
-      "updated_at": "2026-03-30T23:11:42Z"
+      "ranked_count": 8,
+      "updated_at": "2026-04-02T00:23:03Z"
     },
     {
       "id": 127,
       "name": "Aitsuki Nakuru",
       "song_count": 17,
-      "ranked_count": 0,
-      "updated_at": "2026-03-30T23:12:06Z"
+      "ranked_count": 4,
+      "updated_at": "2026-04-02T00:23:26Z"
     },
     {
       "id": 296,
       "name": "Aiyru",
       "song_count": 8,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:12:17Z"
+      "updated_at": "2026-04-02T00:23:38Z"
     },
     {
       "id": 466,
       "name": "ak+q",
       "song_count": 12,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:12:34Z"
+      "updated_at": "2026-04-02T00:23:54Z"
     },
     {
       "id": 516,
       "name": "AKA",
       "song_count": 8,
-      "ranked_count": 0,
-      "updated_at": "2026-03-30T23:12:45Z"
+      "ranked_count": 2,
+      "updated_at": "2026-04-02T00:24:06Z"
     },
     {
       "id": 51,
       "name": "Akira Complex",
       "song_count": 33,
-      "ranked_count": 6,
-      "updated_at": "2026-03-30T23:13:30Z"
+      "ranked_count": 10,
+      "updated_at": "2026-04-02T00:24:51Z"
     },
     {
       "id": 401,
       "name": "Akiri",
       "song_count": 92,
-      "ranked_count": 14,
-      "updated_at": "2026-03-30T23:15:35Z"
+      "ranked_count": 15,
+      "updated_at": "2026-04-02T00:26:57Z"
     },
     {
       "id": 513,
       "name": "Akts",
       "song_count": 10,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:15:49Z"
+      "updated_at": "2026-04-02T00:27:11Z"
     },
     {
       "id": 107,
       "name": "ALEPH",
       "song_count": 8,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:16:01Z"
+      "updated_at": "2026-04-02T00:27:23Z"
     },
     {
       "id": 304,
       "name": "Alestorm",
       "song_count": 11,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:16:16Z"
+      "updated_at": "2026-04-02T00:27:38Z"
     },
     {
       "id": 195,
       "name": "Alkome",
       "song_count": 11,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:16:32Z"
+      "updated_at": "2026-04-02T00:27:53Z"
     },
     {
       "id": 264,
       "name": "Allegaeon",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:16:44Z"
+      "updated_at": "2026-04-02T00:28:06Z"
     },
     {
       "id": 374,
       "name": "ALLMYFRIENDS",
       "song_count": 8,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:16:55Z"
+      "updated_at": "2026-04-02T00:28:17Z"
     },
     {
       "id": 151,
       "name": "Amidst",
       "song_count": 26,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:17:31Z"
+      "updated_at": "2026-04-02T00:28:53Z"
     },
     {
       "id": 454,
       "name": "Anamanaguchi",
       "song_count": 9,
       "ranked_count": 9,
-      "updated_at": "2026-03-30T23:17:44Z"
+      "updated_at": "2026-04-02T00:29:06Z"
     },
     {
       "id": 363,
       "name": "Andora",
       "song_count": 6,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:17:53Z"
+      "updated_at": "2026-04-02T00:29:14Z"
     },
     {
       "id": 177,
       "name": "Andromedik",
       "song_count": 15,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:18:14Z"
+      "updated_at": "2026-04-02T00:29:35Z"
     },
     {
       "id": 302,
       "name": "Andy Gillion",
       "song_count": 14,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:18:33Z"
+      "updated_at": "2026-04-02T00:29:54Z"
     },
     {
       "id": 234,
       "name": "Annabel",
       "song_count": 23,
       "ranked_count": 14,
-      "updated_at": "2026-03-30T23:19:05Z"
+      "updated_at": "2026-04-02T00:30:26Z"
     },
     {
       "id": 24,
       "name": "antiPLUR / Internet Death Machine",
       "song_count": 15,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:19:46Z"
+      "updated_at": "2026-04-02T00:31:07Z"
     },
     {
       "id": 397,
       "name": "anubasu-anubasu",
       "song_count": 7,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:19:56Z"
+      "updated_at": "2026-04-02T00:31:17Z"
     },
     {
       "id": 183,
       "name": "Aoi",
       "song_count": 20,
-      "ranked_count": 5,
-      "updated_at": "2026-03-30T23:20:24Z"
+      "ranked_count": 6,
+      "updated_at": "2026-04-02T00:31:45Z"
     },
     {
       "id": 467,
       "name": "AQUASINE",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:20:25Z"
+      "updated_at": "2026-04-02T00:31:47Z"
     },
     {
       "id": 380,
       "name": "Aquellex",
       "song_count": 9,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:20:38Z"
+      "updated_at": "2026-04-02T00:31:59Z"
     },
     {
       "id": 173,
       "name": "Aquestion",
       "song_count": 9,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:20:51Z"
+      "updated_at": "2026-04-02T00:32:12Z"
     },
     {
       "id": 282,
       "name": "aran",
       "song_count": 20,
       "ranked_count": 7,
-      "updated_at": "2026-03-30T23:21:19Z"
+      "updated_at": "2026-04-02T00:32:39Z"
     },
     {
       "id": 256,
       "name": "Archspire",
       "song_count": 5,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:21:26Z"
+      "updated_at": "2026-04-02T00:32:47Z"
     },
     {
       "id": 263,
       "name": "Ardolf",
       "song_count": 13,
       "ranked_count": 8,
-      "updated_at": "2026-03-30T23:21:44Z"
+      "updated_at": "2026-04-02T00:33:05Z"
     },
     {
       "id": 95,
       "name": "ARForest",
       "song_count": 20,
       "ranked_count": 16,
-      "updated_at": "2026-03-30T23:22:13Z"
+      "updated_at": "2026-04-02T00:33:33Z"
     },
     {
       "id": 93,
       "name": "Ariabl'eyeS",
       "song_count": 82,
       "ranked_count": 28,
-      "updated_at": "2026-03-30T23:24:04Z"
+      "updated_at": "2026-04-02T00:35:24Z"
     },
     {
       "id": 533,
       "name": "Ariz Kayaba",
       "song_count": 4,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:24:10Z"
+      "updated_at": "2026-04-02T00:35:30Z"
     },
     {
       "id": 394,
       "name": "Asa",
       "song_count": 9,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:24:23Z"
+      "updated_at": "2026-04-02T00:35:43Z"
     },
     {
       "id": 352,
       "name": "Ashrount",
       "song_count": 11,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:24:38Z"
+      "updated_at": "2026-04-02T00:35:58Z"
     },
     {
       "id": 487,
       "name": "Aspect",
       "song_count": 9,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:24:51Z"
+      "updated_at": "2026-04-02T00:36:11Z"
     },
     {
       "id": 309,
       "name": "Ata",
       "song_count": 6,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:25:00Z"
+      "updated_at": "2026-04-02T00:36:19Z"
     },
     {
       "id": 237,
       "name": "Atavistia",
       "song_count": 6,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:25:08Z"
+      "updated_at": "2026-04-02T00:36:28Z"
     },
     {
       "id": 451,
       "name": "Attoclef",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:25:10Z"
+      "updated_at": "2026-04-02T00:36:30Z"
     },
     {
       "id": 312,
       "name": "Au5",
       "song_count": 9,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:25:23Z"
+      "updated_at": "2026-04-02T00:36:42Z"
     },
     {
       "id": 198,
       "name": "Avizura",
       "song_count": 16,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:25:45Z"
+      "updated_at": "2026-04-02T00:37:04Z"
     },
     {
       "id": 441,
       "name": "Badly Wood Cup",
       "song_count": 8,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:25:56Z"
+      "updated_at": "2026-04-02T00:37:16Z"
     },
     {
       "id": 277,
       "name": "Beach Bunny",
       "song_count": 5,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:26:03Z"
+      "updated_at": "2026-04-02T00:37:23Z"
     },
     {
       "id": 377,
       "name": "beignet",
       "song_count": 8,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:26:15Z"
+      "updated_at": "2026-04-02T00:37:34Z"
     },
     {
       "id": 11,
       "name": "Ben Briggs",
       "song_count": 30,
       "ranked_count": 8,
-      "updated_at": "2026-03-30T23:26:56Z"
+      "updated_at": "2026-04-02T00:38:15Z"
     },
     {
       "id": 236,
       "name": "bill wurtz",
       "song_count": 21,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:27:25Z"
+      "updated_at": "2026-04-02T00:38:44Z"
     },
     {
       "id": 46,
       "name": "Billain",
       "song_count": 23,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:27:57Z"
+      "updated_at": "2026-04-02T00:39:16Z"
     },
     {
       "id": 38,
       "name": "BilliumMoto",
       "song_count": 28,
       "ranked_count": 9,
-      "updated_at": "2026-03-30T23:28:35Z"
+      "updated_at": "2026-04-02T00:39:56Z"
     },
     {
       "id": 417,
       "name": "Billx",
       "song_count": 4,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:28:41Z"
+      "updated_at": "2026-04-02T00:40:02Z"
     },
     {
       "id": 150,
       "name": "BlackY",
       "song_count": 108,
-      "ranked_count": 10,
-      "updated_at": "2026-03-30T23:31:08Z"
+      "ranked_count": 18,
+      "updated_at": "2026-04-02T00:42:28Z"
     },
     {
       "id": 80,
       "name": "BLANKFIELD",
       "song_count": 31,
       "ranked_count": 8,
-      "updated_at": "2026-03-30T23:31:50Z"
+      "updated_at": "2026-04-02T00:43:10Z"
     },
     {
       "id": 284,
       "name": "Blind Guardian",
       "song_count": 11,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:32:06Z"
+      "updated_at": "2026-04-02T00:43:26Z"
     },
     {
       "id": 115,
       "name": "BLOOD CODE",
       "song_count": 9,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:32:18Z"
+      "updated_at": "2026-04-02T00:43:38Z"
     },
     {
       "id": 126,
       "name": "BLOOD STAIN CHILD",
       "song_count": 13,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:32:36Z"
+      "updated_at": "2026-04-02T00:43:56Z"
     },
     {
       "id": 65,
       "name": "Blue Stahli",
       "song_count": 27,
       "ranked_count": 7,
-      "updated_at": "2026-03-30T23:33:13Z"
+      "updated_at": "2026-04-02T00:44:33Z"
     },
     {
       "id": 233,
       "name": "Boom Kitty",
       "song_count": 30,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:33:54Z"
+      "updated_at": "2026-04-02T00:45:14Z"
     },
     {
       "id": 119,
       "name": "Bossfight",
       "song_count": 13,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:34:12Z"
+      "updated_at": "2026-04-02T00:45:32Z"
     },
     {
       "id": 154,
       "name": "Boxplot",
       "song_count": 13,
       "ranked_count": 7,
-      "updated_at": "2026-03-30T23:34:31Z"
+      "updated_at": "2026-04-02T00:45:50Z"
     },
     {
       "id": 506,
       "name": "BrayanKitsn",
       "song_count": 14,
-      "ranked_count": 2,
-      "updated_at": "2026-03-30T23:34:50Z"
+      "ranked_count": 3,
+      "updated_at": "2026-04-02T00:46:09Z"
     },
     {
       "id": 378,
       "name": "C-Show",
       "song_count": 23,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:35:22Z"
+      "updated_at": "2026-04-02T00:46:41Z"
     },
     {
       "id": 31,
       "name": "Camellia",
       "song_count": 234,
-      "ranked_count": 116,
-      "updated_at": "2026-03-30T23:40:42Z"
-    },
-    {
-      "id": 431,
-      "name": "Candle",
-      "song_count": 8,
-      "ranked_count": 1,
-      "updated_at": "2026-03-30T23:40:53Z"
+      "ranked_count": 133,
+      "updated_at": "2026-04-02T00:52:01Z"
     },
     {
       "id": 407,
       "name": "Cansol",
       "song_count": 8,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:41:05Z"
+      "updated_at": "2026-04-02T00:52:28Z"
     },
     {
       "id": 42,
       "name": "Carpool Tunnel",
       "song_count": 11,
       "ranked_count": 8,
-      "updated_at": "2026-03-30T23:41:20Z"
+      "updated_at": "2026-04-02T00:52:43Z"
     },
     {
       "id": 436,
       "name": "cast heal",
       "song_count": 10,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:41:34Z"
+      "updated_at": "2026-04-02T00:52:57Z"
     },
     {
       "id": 528,
       "name": "celtix",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:41:36Z"
+      "updated_at": "2026-04-02T00:52:59Z"
     },
     {
       "id": 354,
       "name": "CHON",
       "song_count": 17,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:41:59Z"
+      "updated_at": "2026-04-02T00:53:22Z"
     },
     {
       "id": 215,
       "name": "Chroma",
       "song_count": 20,
-      "ranked_count": 17,
-      "updated_at": "2026-03-30T23:42:27Z"
+      "ranked_count": 18,
+      "updated_at": "2026-04-02T00:53:50Z"
     },
     {
       "id": 341,
       "name": "Cinamoro",
       "song_count": 6,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:42:36Z"
+      "updated_at": "2026-04-02T00:53:59Z"
     },
     {
       "id": 78,
       "name": "CircusP",
       "song_count": 8,
       "ranked_count": 6,
-      "updated_at": "2026-03-30T23:42:47Z"
+      "updated_at": "2026-04-02T00:54:10Z"
     },
     {
       "id": 245,
       "name": "City Girl",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:43:00Z"
+      "updated_at": "2026-04-02T00:54:23Z"
     },
     {
       "id": 384,
       "name": "ColBreakz",
       "song_count": 28,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:43:38Z"
+      "updated_at": "2026-04-02T00:55:01Z"
     },
     {
       "id": 381,
       "name": "Corsace",
       "song_count": 17,
-      "ranked_count": 0,
-      "updated_at": "2026-03-30T23:44:02Z"
+      "ranked_count": 1,
+      "updated_at": "2026-04-02T00:55:24Z"
     },
     {
       "id": 23,
       "name": "Cranky",
       "song_count": 81,
       "ranked_count": 24,
-      "updated_at": "2026-03-30T23:45:52Z"
+      "updated_at": "2026-04-02T00:57:14Z"
     },
     {
       "id": 36,
       "name": "Creo",
       "song_count": 17,
       "ranked_count": 8,
-      "updated_at": "2026-03-30T23:46:16Z"
+      "updated_at": "2026-04-02T00:57:38Z"
     },
     {
       "id": 147,
       "name": "Cres.",
       "song_count": 14,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:46:35Z"
+      "updated_at": "2026-04-02T00:57:57Z"
     },
     {
       "id": 321,
       "name": "Crywolf",
       "song_count": 6,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:46:44Z"
+      "updated_at": "2026-04-02T00:58:06Z"
     },
     {
       "id": 29,
       "name": "Culprate",
       "song_count": 17,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:47:07Z"
+      "updated_at": "2026-04-02T00:58:29Z"
     },
     {
       "id": 105,
       "name": "cute girls doing cute things",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:47:20Z"
+      "updated_at": "2026-04-02T00:58:42Z"
     },
     {
       "id": 359,
       "name": "cygnus",
       "song_count": 103,
       "ranked_count": 30,
-      "updated_at": "2026-03-30T23:49:41Z"
+      "updated_at": "2026-04-02T01:01:02Z"
     },
     {
       "id": 2,
       "name": "cYsmix",
       "song_count": 28,
       "ranked_count": 18,
-      "updated_at": "2026-03-30T23:50:20Z"
+      "updated_at": "2026-04-02T01:01:41Z"
     },
     {
       "id": 493,
       "name": "d0tc0mmie",
       "song_count": 12,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:50:36Z"
+      "updated_at": "2026-04-02T01:01:57Z"
     },
     {
       "id": 6,
       "name": "dark cat",
       "song_count": 17,
       "ranked_count": 7,
-      "updated_at": "2026-03-30T23:51:00Z"
+      "updated_at": "2026-04-02T01:02:21Z"
     },
     {
       "id": 290,
       "name": "Darkney",
       "song_count": 14,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:51:20Z"
+      "updated_at": "2026-04-02T01:02:40Z"
     },
     {
       "id": 422,
       "name": "DeBisco",
       "song_count": 7,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:51:30Z"
+      "updated_at": "2026-04-02T01:02:50Z"
     },
     {
       "id": 229,
       "name": "DGK",
       "song_count": 9,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:51:42Z"
+      "updated_at": "2026-04-02T01:03:03Z"
     },
     {
       "id": 134,
       "name": "Dimrain47",
       "song_count": 26,
       "ranked_count": 9,
-      "updated_at": "2026-03-30T23:52:18Z"
+      "updated_at": "2026-04-02T01:03:39Z"
     },
     {
       "id": 81,
       "name": "Disasterpeace",
       "song_count": 16,
       "ranked_count": 5,
-      "updated_at": "2026-03-30T23:52:40Z"
+      "updated_at": "2026-04-02T01:04:01Z"
     },
     {
       "id": 44,
       "name": "Disko Warp",
       "song_count": 32,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:53:24Z"
+      "updated_at": "2026-04-02T01:04:44Z"
     },
     {
       "id": 486,
       "name": "Dispel",
       "song_count": 11,
-      "ranked_count": 2,
-      "updated_at": "2026-03-30T23:53:40Z"
+      "ranked_count": 5,
+      "updated_at": "2026-04-02T01:05:00Z"
     },
     {
       "id": 295,
       "name": "DJ Genki / Gram",
       "song_count": 39,
-      "ranked_count": 9,
-      "updated_at": "2026-03-30T23:55:26Z"
+      "ranked_count": 17,
+      "updated_at": "2026-04-02T01:07:11Z"
     },
     {
       "id": 204,
       "name": "DJ Raisei",
       "song_count": 13,
       "ranked_count": 4,
-      "updated_at": "2026-03-30T23:55:44Z"
+      "updated_at": "2026-04-02T01:07:29Z"
     },
     {
       "id": 425,
       "name": "Doomsday",
       "song_count": 7,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:55:54Z"
+      "updated_at": "2026-04-02T01:07:39Z"
     },
     {
       "id": 390,
       "name": "DOT96",
       "song_count": 4,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:56:00Z"
+      "updated_at": "2026-04-02T01:07:45Z"
     },
     {
       "id": 350,
       "name": "Down",
       "song_count": 14,
       "ranked_count": 11,
-      "updated_at": "2026-03-30T23:56:20Z"
+      "updated_at": "2026-04-02T01:08:04Z"
     },
     {
       "id": 488,
       "name": "DraGonis",
       "song_count": 7,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:56:30Z"
+      "updated_at": "2026-04-02T01:08:14Z"
     },
     {
       "id": 403,
       "name": "Draper",
       "song_count": 4,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:56:36Z"
+      "updated_at": "2026-04-02T01:08:20Z"
     },
     {
       "id": 496,
       "name": "Drazically",
       "song_count": 13,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:56:54Z"
+      "updated_at": "2026-04-02T01:08:38Z"
     },
     {
       "id": 111,
       "name": "Dual Alter World",
       "song_count": 10,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:57:08Z"
+      "updated_at": "2026-04-02T01:08:52Z"
     },
     {
       "id": 386,
       "name": "Dustvoxx",
       "song_count": 13,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:57:26Z"
+      "updated_at": "2026-04-02T01:09:10Z"
     },
     {
       "id": 503,
       "name": "Dvwnpour",
       "song_count": 12,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:57:43Z"
+      "updated_at": "2026-04-02T01:09:27Z"
     },
     {
       "id": 322,
       "name": "E0ri4",
       "song_count": 7,
       "ranked_count": 2,
-      "updated_at": "2026-03-30T23:57:53Z"
+      "updated_at": "2026-04-02T01:09:37Z"
     },
     {
       "id": 458,
       "name": "EBIMAYO",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-30T23:57:55Z"
+      "updated_at": "2026-04-02T01:09:39Z"
     },
     {
       "id": 326,
       "name": "Ekcle",
       "song_count": 7,
       "ranked_count": 3,
-      "updated_at": "2026-03-30T23:58:05Z"
+      "updated_at": "2026-04-02T01:09:49Z"
     },
     {
       "id": 69,
       "name": "ELFENSJóN",
       "song_count": 46,
       "ranked_count": 0,
-      "updated_at": "2026-03-30T23:59:07Z"
+      "updated_at": "2026-04-02T01:10:51Z"
     },
     {
       "id": 160,
       "name": "Emille's Moonlight Serenade",
       "song_count": 64,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:00:35Z"
+      "updated_at": "2026-04-02T01:12:18Z"
     },
     {
       "id": 246,
       "name": "EmoCosine",
       "song_count": 18,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T00:01:00Z"
+      "updated_at": "2026-04-02T01:12:43Z"
     },
     {
       "id": 145,
       "name": "Empty Peperoncino",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:01:12Z"
+      "updated_at": "2026-04-02T01:12:56Z"
     },
     {
       "id": 320,
       "name": "Ensou",
       "song_count": 8,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:01:24Z"
+      "updated_at": "2026-04-02T01:13:07Z"
     },
     {
       "id": 519,
       "name": "ePiaeon",
       "song_count": 4,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:01:30Z"
+      "updated_at": "2026-04-02T01:13:13Z"
     },
     {
       "id": 100,
       "name": "EPICA",
       "song_count": 21,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:01:59Z"
+      "updated_at": "2026-04-02T01:13:42Z"
     },
     {
       "id": 125,
       "name": "Erik McClure",
       "song_count": 10,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:02:13Z"
+      "updated_at": "2026-04-02T01:13:56Z"
     },
     {
       "id": 335,
       "name": "Etherwood",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:02:20Z"
+      "updated_at": "2026-04-02T01:14:03Z"
     },
     {
       "id": 333,
       "name": "Euchaeta",
       "song_count": 9,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T00:02:33Z"
+      "updated_at": "2026-04-02T01:14:16Z"
     },
     {
       "id": 143,
       "name": "Extra Terra",
       "song_count": 10,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:02:47Z"
+      "updated_at": "2026-04-02T01:14:30Z"
     },
     {
       "id": 285,
       "name": "Exyl",
       "song_count": 8,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:02:58Z"
+      "updated_at": "2026-04-02T01:14:41Z"
     },
     {
       "id": 60,
       "name": "F-777",
       "song_count": 42,
       "ranked_count": 15,
-      "updated_at": "2026-03-31T00:03:56Z"
+      "updated_at": "2026-04-02T01:15:39Z"
     },
     {
       "id": 52,
       "name": "False Noise",
       "song_count": 11,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:04:12Z"
+      "updated_at": "2026-04-02T01:15:54Z"
     },
     {
       "id": 216,
       "name": "FATE GEAR",
       "song_count": 14,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:04:31Z"
+      "updated_at": "2026-04-02T01:16:13Z"
     },
     {
       "id": 306,
       "name": "Feint",
       "song_count": 31,
       "ranked_count": 18,
-      "updated_at": "2026-03-31T00:05:14Z"
+      "updated_at": "2026-04-02T01:16:56Z"
     },
     {
       "id": 332,
       "name": "Fellowship",
       "song_count": 10,
-      "ranked_count": 5,
-      "updated_at": "2026-03-31T00:05:30Z"
+      "ranked_count": 6,
+      "updated_at": "2026-04-02T01:17:10Z"
     },
     {
       "id": 156,
       "name": "fiend",
       "song_count": 5,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:05:37Z"
+      "updated_at": "2026-04-02T01:17:18Z"
     },
     {
       "id": 170,
       "name": "Fleshgod Apocalypse",
       "song_count": 19,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:06:04Z"
+      "updated_at": "2026-04-02T01:17:44Z"
     },
     {
       "id": 313,
       "name": "Fractal",
       "song_count": 5,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:06:11Z"
+      "updated_at": "2026-04-02T01:17:51Z"
     },
     {
       "id": 15,
       "name": "Fractal Dreamers",
       "song_count": 31,
       "ranked_count": 18,
-      "updated_at": "2026-03-31T00:06:54Z"
+      "updated_at": "2026-04-02T01:18:34Z"
     },
     {
       "id": 339,
       "name": "FRASER EDWARDS",
       "song_count": 32,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:07:38Z"
+      "updated_at": "2026-04-02T01:19:18Z"
     },
     {
       "id": 180,
       "name": "Fred V & Grafix",
       "song_count": 7,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:07:48Z"
+      "updated_at": "2026-04-02T01:19:28Z"
     },
     {
       "id": 68,
       "name": "Frums",
       "song_count": 21,
       "ranked_count": 18,
-      "updated_at": "2026-03-31T00:08:18Z"
+      "updated_at": "2026-04-02T01:19:57Z"
     },
     {
       "id": 114,
       "name": "Fuki",
       "song_count": 11,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T00:08:33Z"
+      "updated_at": "2026-04-02T01:20:13Z"
     },
     {
       "id": 444,
       "name": "Future Witness",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:08:35Z"
+      "updated_at": "2026-04-02T01:20:15Z"
     },
     {
       "id": 212,
       "name": "garlagan",
       "song_count": 16,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:08:57Z"
+      "updated_at": "2026-04-02T01:20:37Z"
     },
     {
       "id": 529,
       "name": "Genesis",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:08:59Z"
+      "updated_at": "2026-04-02T01:20:39Z"
     },
     {
       "id": 358,
       "name": "Genkaku Aria",
       "song_count": 8,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:09:11Z"
+      "updated_at": "2026-04-02T01:20:50Z"
     },
     {
       "id": 133,
       "name": "Geoxor",
       "song_count": 35,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:09:59Z"
+      "updated_at": "2026-04-02T01:21:38Z"
     },
     {
       "id": 128,
       "name": "Getty",
       "song_count": 26,
-      "ranked_count": 2,
-      "updated_at": "2026-03-31T00:10:35Z"
+      "ranked_count": 6,
+      "updated_at": "2026-04-02T01:22:14Z"
     },
     {
       "id": 72,
       "name": "ginkiha",
       "song_count": 29,
       "ranked_count": 17,
-      "updated_at": "2026-03-31T00:11:15Z"
+      "updated_at": "2026-04-02T01:22:54Z"
     },
     {
       "id": 511,
       "name": "gladde paling",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:11:17Z"
+      "updated_at": "2026-04-02T01:22:56Z"
     },
     {
       "id": 113,
       "name": "glass beach",
       "song_count": 17,
       "ranked_count": 10,
-      "updated_at": "2026-03-31T00:11:41Z"
+      "updated_at": "2026-04-02T01:23:21Z"
     },
     {
       "id": 311,
       "name": "GLORYHAMMER",
       "song_count": 16,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:12:03Z"
+      "updated_at": "2026-04-02T01:23:44Z"
     },
     {
       "id": 522,
       "name": "gmtn. / witch's slave",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:12:06Z"
+      "updated_at": "2026-04-02T01:23:49Z"
     },
     {
       "id": 240,
       "name": "Good Kid",
       "song_count": 21,
       "ranked_count": 18,
-      "updated_at": "2026-03-31T00:12:35Z"
+      "updated_at": "2026-04-02T01:24:18Z"
     },
     {
       "id": 57,
       "name": "goreshit",
       "song_count": 23,
       "ranked_count": 10,
-      "updated_at": "2026-03-31T00:13:07Z"
+      "updated_at": "2026-04-02T01:24:50Z"
     },
     {
       "id": 410,
       "name": "Grabbitz",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:13:09Z"
+      "updated_at": "2026-04-02T01:24:52Z"
     },
     {
       "id": 281,
       "name": "Grant",
       "song_count": 4,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:13:14Z"
+      "updated_at": "2026-04-02T01:24:57Z"
     },
     {
       "id": 159,
       "name": "Grynpyret",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:13:27Z"
+      "updated_at": "2026-04-02T01:25:10Z"
     },
     {
       "id": 492,
       "name": "GRYSCL",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:13:34Z"
+      "updated_at": "2026-04-02T01:25:17Z"
     },
     {
       "id": 368,
       "name": "Halv",
       "song_count": 5,
-      "ranked_count": 1,
-      "updated_at": "2026-03-31T00:13:42Z"
+      "ranked_count": 2,
+      "updated_at": "2026-04-02T01:25:25Z"
     },
     {
       "id": 289,
       "name": "Hamu",
       "song_count": 17,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T00:14:05Z"
+      "updated_at": "2026-04-02T01:25:48Z"
     },
     {
       "id": 317,
       "name": "happy30",
       "song_count": 6,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:14:14Z"
+      "updated_at": "2026-04-02T01:25:57Z"
     },
     {
       "id": 205,
       "name": "HARDCORE UTOPIA",
       "song_count": 51,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:15:23Z"
+      "updated_at": "2026-04-02T01:27:06Z"
     },
     {
       "id": 197,
       "name": "Harumaki Gohan",
       "song_count": 16,
-      "ranked_count": 4,
-      "updated_at": "2026-03-31T00:15:45Z"
+      "ranked_count": 8,
+      "updated_at": "2026-04-02T01:27:29Z"
     },
     {
       "id": 230,
       "name": "Haywyre",
       "song_count": 13,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:16:04Z"
+      "updated_at": "2026-04-02T01:27:47Z"
     },
     {
       "id": 238,
       "name": "HEAD PHONES PRESIDENT",
       "song_count": 10,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:16:18Z"
+      "updated_at": "2026-04-02T01:28:01Z"
     },
     {
       "id": 5,
       "name": "Helblinde",
       "song_count": 15,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:16:38Z"
+      "updated_at": "2026-04-02T01:28:21Z"
     },
     {
       "id": 26,
       "name": "High Tea Music",
       "song_count": 52,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:17:49Z"
+      "updated_at": "2026-04-02T01:29:32Z"
     },
     {
       "id": 463,
       "name": "hikota",
       "song_count": 35,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:18:37Z"
+      "updated_at": "2026-04-02T01:30:20Z"
     },
     {
       "id": 315,
       "name": "Hinkik",
       "song_count": 8,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:18:48Z"
+      "updated_at": "2026-04-02T01:30:31Z"
     },
     {
       "id": 272,
       "name": "Hino Isuka",
       "song_count": 13,
-      "ranked_count": 3,
-      "updated_at": "2026-03-31T00:19:06Z"
+      "ranked_count": 4,
+      "updated_at": "2026-04-02T01:30:49Z"
     },
     {
       "id": 395,
       "name": "Hitori Tori",
       "song_count": 6,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:19:15Z"
+      "updated_at": "2026-04-02T01:30:58Z"
     },
     {
       "id": 319,
       "name": "HoneyComeBear",
       "song_count": 7,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T00:19:25Z"
+      "updated_at": "2026-04-02T01:31:08Z"
     },
     {
       "id": 310,
       "name": "Hybrid Minds",
       "song_count": 5,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:19:32Z"
+      "updated_at": "2026-04-02T01:31:15Z"
     },
     {
       "id": 85,
       "name": "Hyper Potions",
       "song_count": 11,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:19:47Z"
+      "updated_at": "2026-04-02T01:31:30Z"
     },
     {
       "id": 33,
       "name": "HyuN / INFX",
       "song_count": 50,
-      "ranked_count": 14,
-      "updated_at": "2026-03-31T00:22:03Z"
+      "ranked_count": 23,
+      "updated_at": "2026-04-02T01:34:02Z"
     },
     {
       "id": 117,
       "name": "I love you Orchestra",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:22:16Z"
+      "updated_at": "2026-04-02T01:34:14Z"
     },
     {
       "id": 3,
       "name": "IAHN",
       "song_count": 18,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:22:41Z"
+      "updated_at": "2026-04-02T01:34:40Z"
     },
     {
       "id": 484,
       "name": "Ice",
       "song_count": 27,
-      "ranked_count": 8,
-      "updated_at": "2026-03-31T00:23:18Z"
+      "ranked_count": 9,
+      "updated_at": "2026-04-02T01:35:18Z"
     },
     {
       "id": 210,
       "name": "iFeature",
       "song_count": 10,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:23:32Z"
+      "updated_at": "2026-04-02T01:35:32Z"
     },
     {
       "id": 172,
       "name": "II-L",
       "song_count": 29,
-      "ranked_count": 8,
-      "updated_at": "2026-03-31T00:24:12Z"
+      "ranked_count": 9,
+      "updated_at": "2026-04-02T01:36:12Z"
     },
     {
       "id": 446,
       "name": "ikaruga_nex",
       "song_count": 8,
-      "ranked_count": 3,
-      "updated_at": "2026-03-31T00:24:24Z"
+      "ranked_count": 4,
+      "updated_at": "2026-04-02T01:36:23Z"
     },
     {
       "id": 35,
       "name": "Imperial Circus Dead Decadence",
       "song_count": 28,
       "ranked_count": 15,
-      "updated_at": "2026-03-31T00:25:03Z"
+      "updated_at": "2026-04-02T01:37:02Z"
     },
     {
       "id": 99,
       "name": "Imy",
       "song_count": 31,
-      "ranked_count": 17,
-      "updated_at": "2026-03-31T00:25:45Z"
+      "ranked_count": 20,
+      "updated_at": "2026-04-02T01:37:45Z"
     },
     {
       "id": 257,
       "name": "in love with a ghost",
       "song_count": 10,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T00:26:00Z"
+      "updated_at": "2026-04-02T01:37:59Z"
     },
     {
       "id": 43,
       "name": "Inferi",
       "song_count": 34,
       "ranked_count": 15,
-      "updated_at": "2026-03-31T00:26:47Z"
+      "updated_at": "2026-04-02T01:38:45Z"
     },
     {
       "id": 323,
       "name": "Innocent Key",
       "song_count": 14,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:27:07Z"
+      "updated_at": "2026-04-02T01:39:05Z"
     },
     {
       "id": 399,
       "name": "iroha(sasaki)",
       "song_count": 11,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:27:22Z"
+      "updated_at": "2026-04-02T01:39:21Z"
     },
     {
       "id": 135,
       "name": "Irreversible Mechanism",
       "song_count": 14,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:27:41Z"
+      "updated_at": "2026-04-02T01:39:40Z"
     },
     {
       "id": 39,
       "name": "James Landino",
       "song_count": 11,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:27:57Z"
+      "updated_at": "2026-04-02T01:39:56Z"
     },
     {
       "id": 477,
       "name": "JinoBeats",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:27:59Z"
+      "updated_at": "2026-04-02T01:39:58Z"
     },
     {
       "id": 109,
       "name": "Joe Ford",
       "song_count": 38,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:28:50Z"
+      "updated_at": "2026-04-02T01:40:49Z"
     },
     {
       "id": 524,
       "name": "John Grant",
       "song_count": 10,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:29:04Z"
+      "updated_at": "2026-04-02T01:41:03Z"
     },
     {
       "id": 267,
       "name": "JOYLESS",
       "song_count": 17,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:29:28Z"
+      "updated_at": "2026-04-02T01:41:27Z"
     },
     {
       "id": 124,
       "name": "Jun Kuroda",
       "song_count": 27,
-      "ranked_count": 6,
-      "updated_at": "2026-03-31T00:30:05Z"
+      "ranked_count": 7,
+      "updated_at": "2026-04-02T01:42:04Z"
     },
     {
       "id": 365,
       "name": "Junk",
       "song_count": 7,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:30:15Z"
+      "updated_at": "2026-04-02T01:42:14Z"
     },
     {
       "id": 490,
       "name": "Juwubi",
       "song_count": 6,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:30:24Z"
+      "updated_at": "2026-04-02T01:42:23Z"
     },
     {
       "id": 531,
       "name": "Juztan",
       "song_count": 4,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:30:30Z"
+      "updated_at": "2026-04-02T01:42:28Z"
     },
     {
       "id": 345,
       "name": "Kabocha",
       "song_count": 10,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T00:30:44Z"
+      "ranked_count": 1,
+      "updated_at": "2026-04-02T01:42:42Z"
     },
     {
       "id": 438,
       "name": "Kagetora.",
       "song_count": 8,
-      "ranked_count": 3,
-      "updated_at": "2026-03-31T00:30:55Z"
+      "ranked_count": 4,
+      "updated_at": "2026-04-02T01:42:54Z"
     },
     {
       "id": 364,
       "name": "kaitendaentai",
       "song_count": 10,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:31:09Z"
+      "updated_at": "2026-04-02T01:43:08Z"
     },
     {
       "id": 336,
       "name": "kakichoco",
       "song_count": 7,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:31:19Z"
+      "updated_at": "2026-04-02T01:43:18Z"
     },
     {
       "id": 367,
       "name": "kanemiko",
       "song_count": 14,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:31:39Z"
+      "updated_at": "2026-04-02T01:43:38Z"
     },
     {
       "id": 123,
       "name": "kanone",
       "song_count": 13,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:31:57Z"
+      "updated_at": "2026-04-02T01:43:56Z"
     },
     {
       "id": 274,
       "name": "Kanpyohgo",
       "song_count": 7,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:32:07Z"
+      "updated_at": "2026-04-02T01:44:08Z"
     },
     {
       "id": 375,
       "name": "Kardashev",
       "song_count": 15,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:32:28Z"
+      "updated_at": "2026-04-02T01:44:29Z"
     },
     {
       "id": 343,
       "name": "KASHIWA Daisuke",
       "song_count": 11,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:32:43Z"
+      "updated_at": "2026-04-02T01:44:44Z"
     },
     {
       "id": 176,
       "name": "katagiri",
       "song_count": 12,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:33:00Z"
+      "updated_at": "2026-04-02T01:45:01Z"
     },
     {
       "id": 523,
       "name": "kefi",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:33:02Z"
+      "updated_at": "2026-04-02T01:45:03Z"
     },
     {
       "id": 351,
       "name": "Kenneyon",
       "song_count": 7,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:33:12Z"
+      "updated_at": "2026-04-02T01:45:13Z"
     },
     {
       "id": 497,
       "name": "kikoyu",
       "song_count": 7,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:33:22Z"
+      "updated_at": "2026-04-02T01:45:23Z"
     },
     {
       "id": 314,
       "name": "Kikuo",
       "song_count": 25,
-      "ranked_count": 19,
-      "updated_at": "2026-03-31T00:33:57Z"
+      "ranked_count": 20,
+      "updated_at": "2026-04-02T01:45:57Z"
     },
     {
       "id": 222,
       "name": "KINEMA106",
       "song_count": 37,
       "ranked_count": 11,
-      "updated_at": "2026-03-31T00:34:48Z"
+      "updated_at": "2026-04-02T01:46:48Z"
     },
     {
       "id": 27,
       "name": "KIRA",
       "song_count": 9,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:35:01Z"
+      "updated_at": "2026-04-02T01:47:00Z"
     },
     {
       "id": 101,
       "name": "kiraku",
       "song_count": 8,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:35:12Z"
+      "updated_at": "2026-04-02T01:47:11Z"
     },
     {
       "id": 165,
       "name": "Kitazawa Kyouhei",
       "song_count": 8,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:35:23Z"
+      "updated_at": "2026-04-02T01:47:23Z"
     },
     {
       "id": 56,
       "name": "Klayton / Celldweller",
       "song_count": 29,
       "ranked_count": 13,
-      "updated_at": "2026-03-31T00:36:43Z"
+      "updated_at": "2026-04-02T01:48:41Z"
     },
     {
       "id": 391,
       "name": "Knife",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:36:50Z"
+      "updated_at": "2026-04-02T01:48:49Z"
     },
     {
       "id": 48,
       "name": "KNOWER",
       "song_count": 13,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:37:08Z"
+      "updated_at": "2026-04-02T01:49:07Z"
     },
     {
       "id": 49,
       "name": "KOAN Sound",
       "song_count": 28,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:37:47Z"
+      "updated_at": "2026-04-02T01:49:45Z"
     },
     {
       "id": 96,
       "name": "Kobaryo",
       "song_count": 26,
-      "ranked_count": 18,
-      "updated_at": "2026-03-31T00:38:23Z"
+      "ranked_count": 19,
+      "updated_at": "2026-04-02T01:50:21Z"
     },
     {
       "id": 67,
       "name": "Kola Kid",
       "song_count": 14,
       "ranked_count": 12,
-      "updated_at": "2026-03-31T00:38:43Z"
+      "updated_at": "2026-04-02T01:50:41Z"
     },
     {
       "id": 379,
       "name": "Kommisar",
       "song_count": 12,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:39:00Z"
+      "updated_at": "2026-04-02T01:50:58Z"
     },
     {
       "id": 383,
       "name": "Kou!",
       "song_count": 9,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T00:39:13Z"
+      "updated_at": "2026-04-02T01:51:10Z"
     },
     {
       "id": 293,
       "name": "Koven",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:39:20Z"
+      "updated_at": "2026-04-02T01:51:17Z"
     },
     {
       "id": 371,
       "name": "Krimek",
       "song_count": 34,
-      "ranked_count": 5,
-      "updated_at": "2026-03-31T00:40:07Z"
+      "ranked_count": 7,
+      "updated_at": "2026-04-02T01:52:04Z"
     },
     {
       "id": 448,
       "name": "Kry.exe",
       "song_count": 11,
-      "ranked_count": 3,
-      "updated_at": "2026-03-31T00:40:22Z"
+      "ranked_count": 5,
+      "updated_at": "2026-04-02T01:52:19Z"
     },
     {
       "id": 13,
       "name": "Kuba Oms",
       "song_count": 13,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:40:40Z"
+      "updated_at": "2026-04-02T01:52:37Z"
     },
     {
       "id": 369,
       "name": "kuro",
       "song_count": 2,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T00:40:43Z"
+      "ranked_count": 1,
+      "updated_at": "2026-04-02T01:52:41Z"
     },
     {
       "id": 58,
       "name": "Kurokotei",
       "song_count": 14,
-      "ranked_count": 4,
-      "updated_at": "2026-03-31T00:41:03Z"
+      "ranked_count": 5,
+      "updated_at": "2026-04-02T01:53:00Z"
     },
     {
       "id": 217,
       "name": "Kurubukko",
       "song_count": 15,
-      "ranked_count": 5,
-      "updated_at": "2026-03-31T00:41:24Z"
+      "ranked_count": 6,
+      "updated_at": "2026-04-02T01:53:21Z"
     },
     {
       "id": 476,
       "name": "Kyutatsuki",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:41:31Z"
+      "updated_at": "2026-04-02T01:53:28Z"
     },
     {
       "id": 174,
       "name": "La prière",
       "song_count": 11,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T00:41:47Z"
+      "updated_at": "2026-04-02T01:53:44Z"
     },
     {
       "id": 327,
       "name": "LandRoot",
       "song_count": 10,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:42:01Z"
+      "updated_at": "2026-04-02T01:53:58Z"
     },
     {
       "id": 527,
       "name": "Laur",
       "song_count": 29,
-      "ranked_count": 11,
-      "updated_at": "2026-03-31T00:42:41Z"
+      "ranked_count": 13,
+      "updated_at": "2026-04-02T01:54:38Z"
     },
     {
       "id": 532,
       "name": "LaXal",
       "song_count": 5,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T00:42:48Z"
+      "ranked_count": 1,
+      "updated_at": "2026-04-02T01:54:45Z"
     },
     {
       "id": 73,
       "name": "LeaF",
       "song_count": 30,
       "ranked_count": 21,
-      "updated_at": "2026-03-31T00:43:30Z"
+      "updated_at": "2026-04-02T01:55:27Z"
     },
     {
       "id": 88,
       "name": "LEAF XCEED Music Division",
       "song_count": 8,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:43:42Z"
+      "updated_at": "2026-04-02T01:55:38Z"
     },
     {
       "id": 415,
       "name": "lemm",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:43:43Z"
+      "updated_at": "2026-04-02T01:55:40Z"
     },
     {
       "id": 208,
       "name": "Lexurus",
       "song_count": 11,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:43:59Z"
+      "updated_at": "2026-04-02T01:55:55Z"
     },
     {
       "id": 510,
       "name": "lexxndr",
       "song_count": 25,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:44:33Z"
+      "updated_at": "2026-04-02T01:56:29Z"
     },
     {
       "id": 468,
       "name": "lexycat",
       "song_count": 10,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:44:47Z"
+      "updated_at": "2026-04-02T01:56:43Z"
     },
     {
       "id": 283,
       "name": "Liar-soft",
       "song_count": 15,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:45:08Z"
+      "updated_at": "2026-04-02T01:57:04Z"
     },
     {
       "id": 122,
       "name": "Lifetheory",
       "song_count": 19,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T00:45:34Z"
+      "updated_at": "2026-04-02T01:57:30Z"
     },
     {
       "id": 325,
       "name": "LilyPichu",
       "song_count": 14,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:45:54Z"
+      "updated_at": "2026-04-02T01:57:50Z"
     },
     {
       "id": 116,
       "name": "Lime / Kankitsu",
       "song_count": 15,
-      "ranked_count": 12,
-      "updated_at": "2026-03-31T00:46:35Z"
+      "ranked_count": 13,
+      "updated_at": "2026-04-02T01:58:33Z"
     },
     {
       "id": 213,
       "name": "linear ring",
       "song_count": 9,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:46:48Z"
+      "updated_at": "2026-04-02T01:58:45Z"
     },
     {
       "id": 340,
       "name": "Liquicity",
       "song_count": 7,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:46:58Z"
+      "updated_at": "2026-04-02T01:58:55Z"
     },
     {
       "id": 201,
       "name": "litmus* / Ester",
       "song_count": 22,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:47:58Z"
+      "updated_at": "2026-04-02T01:59:55Z"
     },
     {
       "id": 7,
       "name": "Loki / Thaehan",
       "song_count": 58,
       "ranked_count": 29,
-      "updated_at": "2026-03-31T00:50:37Z"
+      "updated_at": "2026-04-02T02:02:32Z"
     },
     {
       "id": 171,
       "name": "love solfege",
       "song_count": 10,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:50:51Z"
+      "updated_at": "2026-04-02T02:02:46Z"
     },
     {
       "id": 459,
       "name": "Ludicin",
       "song_count": 11,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T00:51:07Z"
+      "updated_at": "2026-04-02T02:03:02Z"
     },
     {
       "id": 12,
       "name": "LukHash",
       "song_count": 82,
       "ranked_count": 14,
-      "updated_at": "2026-03-31T00:52:58Z"
+      "updated_at": "2026-04-02T02:04:53Z"
     },
     {
       "id": 203,
       "name": "Lundy",
       "song_count": 19,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:53:24Z"
+      "updated_at": "2026-04-02T02:05:19Z"
     },
     {
       "id": 449,
       "name": "Lusumi",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:53:26Z"
+      "updated_at": "2026-04-02T02:05:21Z"
     },
     {
       "id": 250,
       "name": "luvlxckdown",
       "song_count": 5,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:53:34Z"
+      "updated_at": "2026-04-02T02:05:28Z"
     },
     {
       "id": 500,
       "name": "LUZE",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:53:35Z"
+      "updated_at": "2026-04-02T02:05:30Z"
     },
     {
       "id": 214,
       "name": "LV.4",
       "song_count": 24,
-      "ranked_count": 5,
-      "updated_at": "2026-03-31T00:54:09Z"
+      "ranked_count": 8,
+      "updated_at": "2026-04-02T02:06:03Z"
     },
     {
       "id": 161,
       "name": "m108",
       "song_count": 11,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:54:24Z"
+      "updated_at": "2026-04-02T02:06:18Z"
     },
     {
       "id": 235,
       "name": "Maduk",
       "song_count": 27,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:55:01Z"
+      "updated_at": "2026-04-02T02:06:55Z"
     },
     {
       "id": 258,
       "name": "Mage",
       "song_count": 5,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:55:09Z"
+      "updated_at": "2026-04-02T02:07:02Z"
     },
     {
       "id": 94,
       "name": "Magnetude",
       "song_count": 22,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T00:55:39Z"
+      "updated_at": "2026-04-02T02:07:32Z"
     },
     {
       "id": 209,
       "name": "Mameyudoufu",
       "song_count": 14,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T00:55:59Z"
+      "updated_at": "2026-04-02T02:07:52Z"
     },
     {
       "id": 504,
       "name": "MARETU",
       "song_count": 12,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:56:15Z"
+      "updated_at": "2026-04-02T02:08:08Z"
     },
     {
       "id": 220,
       "name": "Marmalade butcher",
       "song_count": 28,
       "ranked_count": 13,
-      "updated_at": "2026-03-31T00:56:55Z"
+      "updated_at": "2026-04-02T02:08:47Z"
     },
     {
       "id": 136,
       "name": "Masahiro \"Godspeed\" Aoki",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:57:07Z"
+      "updated_at": "2026-04-02T02:09:00Z"
     },
     {
       "id": 318,
       "name": "Massive New Krew",
       "song_count": 9,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T00:57:20Z"
+      "updated_at": "2026-04-02T02:09:13Z"
     },
     {
       "id": 219,
       "name": "Matduke",
       "song_count": 10,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T00:57:34Z"
+      "updated_at": "2026-04-02T02:09:26Z"
     },
     {
       "id": 61,
       "name": "MDK",
       "song_count": 17,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:57:58Z"
+      "updated_at": "2026-04-02T02:09:50Z"
     },
     {
       "id": 346,
       "name": "Mediks",
       "song_count": 6,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:58:06Z"
+      "updated_at": "2026-04-02T02:09:58Z"
     },
     {
       "id": 75,
       "name": "meganeko",
       "song_count": 33,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:58:52Z"
+      "updated_at": "2026-04-02T02:10:44Z"
     },
     {
       "id": 508,
       "name": "MEMODEMO",
       "song_count": 8,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:59:03Z"
+      "updated_at": "2026-04-02T02:10:55Z"
     },
     {
       "id": 430,
       "name": "MetaHumanBoi",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T00:59:16Z"
+      "updated_at": "2026-04-02T02:11:07Z"
     },
     {
       "id": 206,
       "name": "METAROOM",
       "song_count": 15,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T00:59:37Z"
+      "updated_at": "2026-04-02T02:11:28Z"
     },
     {
       "id": 182,
       "name": "Michael Cera Palin",
       "song_count": 9,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T00:59:49Z"
+      "updated_at": "2026-04-02T02:11:41Z"
     },
     {
       "id": 515,
       "name": "MIDInco",
       "song_count": 5,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T00:59:57Z"
+      "updated_at": "2026-04-02T02:11:48Z"
     },
     {
       "id": 331,
       "name": "Mili",
       "song_count": 31,
       "ranked_count": 28,
-      "updated_at": "2026-03-31T01:00:40Z"
+      "updated_at": "2026-04-02T02:12:31Z"
     },
     {
       "id": 77,
       "name": "MIMI",
       "song_count": 14,
       "ranked_count": 12,
-      "updated_at": "2026-03-31T01:01:01Z"
+      "updated_at": "2026-04-02T02:12:51Z"
     },
     {
       "id": 505,
       "name": "mimizu",
       "song_count": 5,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:01:08Z"
+      "updated_at": "2026-04-02T02:12:59Z"
     },
     {
       "id": 349,
       "name": "Minstrel",
       "song_count": 13,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T01:01:26Z"
+      "updated_at": "2026-04-02T02:13:17Z"
     },
     {
       "id": 162,
       "name": "miraie",
       "song_count": 17,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:01:50Z"
+      "updated_at": "2026-04-02T02:13:40Z"
     },
     {
       "id": 239,
       "name": "MisoilePunch",
       "song_count": 10,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:02:04Z"
+      "updated_at": "2026-04-02T02:13:54Z"
     },
     {
       "id": 243,
       "name": "MisomyL",
       "song_count": 7,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:02:14Z"
+      "updated_at": "2026-04-02T02:14:04Z"
     },
     {
       "id": 292,
       "name": "Mitsukiyo",
       "song_count": 12,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T01:02:31Z"
+      "updated_at": "2026-04-02T02:14:21Z"
     },
     {
       "id": 307,
       "name": "Mono.",
       "song_count": 8,
-      "ranked_count": 2,
-      "updated_at": "2026-03-31T01:02:43Z"
+      "ranked_count": 3,
+      "updated_at": "2026-04-02T02:14:33Z"
     },
     {
       "id": 255,
       "name": "Monstercat",
       "song_count": 102,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:05:01Z"
+      "updated_at": "2026-04-02T02:16:51Z"
     },
     {
       "id": 108,
       "name": "Morimori Atsushi",
       "song_count": 52,
-      "ranked_count": 14,
-      "updated_at": "2026-03-31T01:06:13Z"
+      "ranked_count": 23,
+      "updated_at": "2026-04-02T02:18:03Z"
     },
     {
       "id": 19,
       "name": "MOtOLOiD",
       "song_count": 9,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:06:25Z"
+      "updated_at": "2026-04-02T02:18:15Z"
     },
     {
       "id": 120,
       "name": "MuryokuP / Powerless",
       "song_count": 22,
       "ranked_count": 11,
-      "updated_at": "2026-03-31T01:07:26Z"
+      "updated_at": "2026-04-02T02:19:15Z"
     },
     {
       "id": 491,
       "name": "muyu",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:07:28Z"
+      "updated_at": "2026-04-02T02:19:17Z"
     },
     {
       "id": 261,
       "name": "MUZZ",
       "song_count": 12,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T01:07:44Z"
+      "updated_at": "2026-04-02T02:19:34Z"
     },
     {
       "id": 252,
       "name": "my sound life",
       "song_count": 14,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T01:08:04Z"
+      "updated_at": "2026-04-02T02:19:53Z"
     },
     {
       "id": 62,
       "name": "MYLK",
       "song_count": 15,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:08:25Z"
+      "updated_at": "2026-04-02T02:20:14Z"
     },
     {
       "id": 495,
       "name": "Myntian",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:08:27Z"
+      "updated_at": "2026-04-02T02:20:16Z"
     },
     {
       "id": 121,
       "name": "MYUKKE.",
       "song_count": 22,
       "ranked_count": 12,
-      "updated_at": "2026-03-31T01:08:57Z"
+      "updated_at": "2026-04-02T02:20:46Z"
     },
     {
       "id": 447,
       "name": "nagiha",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:08:59Z"
+      "updated_at": "2026-04-02T02:20:48Z"
     },
     {
       "id": 471,
       "name": "Naikou",
       "song_count": 6,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:09:08Z"
+      "updated_at": "2026-04-02T02:20:57Z"
     },
     {
       "id": 25,
       "name": "Nakanojojo",
       "song_count": 8,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:09:19Z"
+      "updated_at": "2026-04-02T02:21:08Z"
     },
     {
       "id": 426,
       "name": "Nakura",
       "song_count": 4,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:09:25Z"
+      "updated_at": "2026-04-02T02:21:14Z"
     },
     {
       "id": 10,
       "name": "nanobii",
       "song_count": 11,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T01:09:41Z"
+      "updated_at": "2026-04-02T02:21:29Z"
     },
     {
       "id": 298,
       "name": "Nashimoto Ui",
       "song_count": 7,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:09:51Z"
+      "updated_at": "2026-04-02T02:21:39Z"
     },
     {
       "id": 50,
       "name": "Native Construct",
       "song_count": 7,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T01:10:01Z"
+      "updated_at": "2026-04-02T02:21:49Z"
     },
     {
       "id": 189,
       "name": "Natsume Itsuki",
       "song_count": 19,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T01:10:27Z"
+      "updated_at": "2026-04-02T02:22:15Z"
     },
     {
       "id": 86,
       "name": "Ne Obliviscaris",
       "song_count": 20,
       "ranked_count": 12,
-      "updated_at": "2026-03-31T01:10:55Z"
+      "updated_at": "2026-04-02T02:22:43Z"
     },
     {
       "id": 266,
       "name": "Neko Hacker",
       "song_count": 17,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T01:11:18Z"
+      "updated_at": "2026-04-02T02:23:07Z"
     },
     {
       "id": 1,
       "name": "nekodex",
       "song_count": 11,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T01:11:34Z"
+      "updated_at": "2026-04-02T02:23:22Z"
     },
     {
       "id": 53,
       "name": "Nekrogoblikon",
       "song_count": 13,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:11:52Z"
+      "updated_at": "2026-04-02T02:23:40Z"
     },
     {
       "id": 251,
       "name": "Never Say Die",
       "song_count": 16,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:12:14Z"
+      "updated_at": "2026-04-02T02:24:02Z"
     },
     {
       "id": 260,
       "name": "Nile",
       "song_count": 8,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:12:26Z"
+      "updated_at": "2026-04-02T02:24:13Z"
     },
     {
       "id": 278,
       "name": "NILFRUITS",
       "song_count": 7,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:12:36Z"
+      "updated_at": "2026-04-02T02:24:23Z"
     },
     {
       "id": 299,
       "name": "Nitro Fun",
       "song_count": 4,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:12:42Z"
+      "updated_at": "2026-04-02T02:24:29Z"
     },
     {
       "id": 21,
       "name": "niu arx",
       "song_count": 19,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:13:08Z"
+      "updated_at": "2026-04-02T02:24:55Z"
     },
     {
       "id": 228,
       "name": "NIWASHI",
       "song_count": 17,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T01:13:31Z"
+      "updated_at": "2026-04-02T02:25:19Z"
     },
     {
       "id": 324,
       "name": "Noisestorm",
       "song_count": 4,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:13:37Z"
+      "updated_at": "2026-04-02T02:25:25Z"
     },
     {
       "id": 84,
       "name": "Noisia",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:13:50Z"
+      "updated_at": "2026-04-02T02:25:37Z"
     },
     {
       "id": 286,
       "name": "NOISZ",
       "song_count": 20,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:14:18Z"
+      "ranked_count": 4,
+      "updated_at": "2026-04-02T02:26:05Z"
     },
     {
       "id": 141,
       "name": "nora2r",
       "song_count": 16,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:14:40Z"
+      "updated_at": "2026-04-02T02:26:27Z"
     },
     {
       "id": 456,
       "name": "ntyn",
       "song_count": 6,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:14:49Z"
+      "updated_at": "2026-04-02T02:26:36Z"
     },
     {
       "id": 90,
       "name": "Numtack05",
       "song_count": 15,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T01:15:10Z"
+      "updated_at": "2026-04-02T02:26:57Z"
     },
     {
       "id": 330,
       "name": "nyankobrq",
       "song_count": 5,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:15:17Z"
+      "updated_at": "2026-04-02T02:27:04Z"
     },
     {
       "id": 74,
       "name": "O2i3",
       "song_count": 8,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T01:15:28Z"
+      "updated_at": "2026-04-02T02:27:15Z"
     },
     {
       "id": 411,
       "name": "ODDEEO",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:15:30Z"
+      "updated_at": "2026-04-02T02:27:17Z"
     },
     {
       "id": 17,
       "name": "OISHII",
       "song_count": 7,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:15:40Z"
+      "updated_at": "2026-04-02T02:27:31Z"
     },
     {
       "id": 535,
       "name": "OLDUCT",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:15:42Z"
+      "updated_at": "2026-04-02T02:27:33Z"
     },
     {
       "id": 104,
       "name": "Omoi",
       "song_count": 24,
       "ranked_count": 11,
-      "updated_at": "2026-03-31T01:16:16Z"
+      "updated_at": "2026-04-02T02:28:08Z"
     },
     {
       "id": 32,
       "name": "onumi",
       "song_count": 21,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T01:16:45Z"
+      "updated_at": "2026-04-02T02:28:38Z"
     },
     {
       "id": 118,
       "name": "orangentle / Yu_Asahina",
       "song_count": 21,
-      "ranked_count": 4,
-      "updated_at": "2026-03-31T01:17:42Z"
+      "ranked_count": 5,
+      "updated_at": "2026-04-02T02:29:38Z"
     },
     {
       "id": 269,
       "name": "Origami Angel",
       "song_count": 17,
       "ranked_count": 11,
-      "updated_at": "2026-03-31T01:18:06Z"
+      "updated_at": "2026-04-02T02:30:02Z"
     },
     {
       "id": 462,
       "name": "osu! community music",
       "song_count": 146,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:21:25Z"
+      "ranked_count": 7,
+      "updated_at": "2026-04-02T02:33:28Z"
     },
     {
       "id": 200,
       "name": "Our Stolen Theory",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:21:27Z"
+      "updated_at": "2026-04-02T02:33:29Z"
     },
     {
       "id": 140,
       "name": "ovEnola",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:21:39Z"
+      "updated_at": "2026-04-02T02:33:42Z"
     },
     {
       "id": 106,
       "name": "P4koo",
       "song_count": 33,
       "ranked_count": 17,
-      "updated_at": "2026-03-31T01:22:25Z"
+      "updated_at": "2026-04-02T02:34:28Z"
     },
     {
       "id": 412,
       "name": "Pa's Lam System",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:22:27Z"
+      "updated_at": "2026-04-02T02:34:31Z"
     },
     {
       "id": 414,
       "name": "PaceMKR",
       "song_count": 8,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:22:38Z"
+      "updated_at": "2026-04-02T02:34:42Z"
     },
     {
       "id": 55,
       "name": "Panda Eyes",
       "song_count": 75,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T01:24:20Z"
+      "updated_at": "2026-04-02T02:36:25Z"
     },
     {
       "id": 405,
       "name": "Pandize",
       "song_count": 6,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:24:29Z"
+      "updated_at": "2026-04-02T02:36:34Z"
     },
     {
       "id": 366,
       "name": "passchooo",
       "song_count": 7,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:24:39Z"
+      "updated_at": "2026-04-02T02:36:44Z"
     },
     {
       "id": 287,
       "name": "Pegboard Nerds",
       "song_count": 11,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T01:24:54Z"
+      "updated_at": "2026-04-02T02:36:59Z"
     },
     {
       "id": 526,
       "name": "penoreri",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:24:56Z"
+      "updated_at": "2026-04-02T02:37:01Z"
     },
     {
       "id": 129,
       "name": "Phantom Sage",
       "song_count": 10,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:25:10Z"
+      "updated_at": "2026-04-02T02:37:15Z"
     },
     {
       "id": 387,
       "name": "PHAZE",
       "song_count": 5,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:25:17Z"
+      "updated_at": "2026-04-02T02:37:22Z"
     },
     {
       "id": 249,
       "name": "Plum",
       "song_count": 13,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T01:25:36Z"
+      "updated_at": "2026-04-02T02:37:40Z"
     },
     {
       "id": 146,
       "name": "polysha",
       "song_count": 17,
-      "ranked_count": 5,
-      "updated_at": "2026-03-31T01:25:59Z"
+      "ranked_count": 8,
+      "updated_at": "2026-04-02T02:38:04Z"
     },
     {
       "id": 271,
       "name": "Ponchi",
       "song_count": 7,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:26:09Z"
+      "ranked_count": 4,
+      "updated_at": "2026-04-02T02:38:14Z"
     },
     {
       "id": 457,
       "name": "Powerwolf",
       "song_count": 13,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:26:27Z"
+      "updated_at": "2026-04-02T02:38:32Z"
     },
     {
       "id": 175,
       "name": "Pratanallis",
       "song_count": 15,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:26:48Z"
+      "ranked_count": 11,
+      "updated_at": "2026-04-02T02:38:53Z"
     },
     {
       "id": 409,
       "name": "ptar124",
       "song_count": 10,
-      "ranked_count": 1,
-      "updated_at": "2026-03-31T01:27:02Z"
+      "ranked_count": 2,
+      "updated_at": "2026-04-02T02:39:07Z"
     },
     {
       "id": 227,
       "name": "PTB10",
       "song_count": 8,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:27:13Z"
+      "updated_at": "2026-04-02T02:39:18Z"
     },
     {
       "id": 79,
       "name": "PUP",
       "song_count": 20,
       "ranked_count": 12,
-      "updated_at": "2026-03-31T01:27:41Z"
+      "updated_at": "2026-04-02T02:39:46Z"
     },
     {
       "id": 525,
       "name": "qfeileadh",
       "song_count": 2,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:27:45Z"
+      "ranked_count": 1,
+      "updated_at": "2026-04-02T02:39:49Z"
     },
     {
       "id": 469,
       "name": "Quarkee",
       "song_count": 2,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:27:48Z"
+      "updated_at": "2026-04-02T02:39:52Z"
     },
     {
       "id": 242,
       "name": "Rabbit House",
       "song_count": 24,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T01:28:21Z"
+      "updated_at": "2026-04-02T02:40:25Z"
     },
     {
       "id": 464,
       "name": "rae",
       "song_count": 4,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:28:27Z"
+      "updated_at": "2026-04-02T02:40:31Z"
     },
     {
       "id": 247,
       "name": "Raimukun",
       "song_count": 8,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T01:28:38Z"
+      "updated_at": "2026-04-02T02:40:42Z"
     },
     {
       "id": 270,
       "name": "Rameses B",
       "song_count": 24,
       "ranked_count": 11,
-      "updated_at": "2026-03-31T01:29:16Z"
+      "updated_at": "2026-04-02T02:41:16Z"
     },
     {
       "id": 502,
       "name": "Raphiiel",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:29:18Z"
+      "updated_at": "2026-04-02T02:41:17Z"
     },
     {
       "id": 439,
       "name": "Raytrax Music Collective",
       "song_count": 6,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:29:26Z"
+      "updated_at": "2026-04-02T02:41:26Z"
     },
     {
       "id": 413,
       "name": "REAPER",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:29:28Z"
+      "updated_at": "2026-04-02T02:41:28Z"
     },
     {
       "id": 91,
       "name": "Receptor",
       "song_count": 44,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T01:30:28Z"
+      "updated_at": "2026-04-02T02:42:28Z"
     },
     {
       "id": 184,
       "name": "Redside",
       "song_count": 10,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:30:43Z"
+      "updated_at": "2026-04-02T02:42:42Z"
     },
     {
       "id": 199,
       "name": "rejection",
       "song_count": 28,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T01:31:22Z"
+      "updated_at": "2026-04-02T02:43:20Z"
     },
     {
       "id": 163,
       "name": "Reku Mochizuki",
       "song_count": 16,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T01:31:44Z"
+      "updated_at": "2026-04-02T02:43:43Z"
     },
     {
       "id": 194,
       "name": "Release Hallucination",
       "song_count": 25,
       "ranked_count": 10,
-      "updated_at": "2026-03-31T01:32:19Z"
+      "updated_at": "2026-04-02T02:44:17Z"
     },
     {
       "id": 300,
       "name": "Rezonate",
       "song_count": 2,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:32:22Z"
+      "updated_at": "2026-04-02T02:44:20Z"
     },
     {
       "id": 54,
       "name": "Ricky Montgomery",
       "song_count": 10,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T01:32:36Z"
+      "updated_at": "2026-04-02T02:44:34Z"
     },
     {
       "id": 14,
       "name": "Rin / Function Phantom",
       "song_count": 177,
       "ranked_count": 36,
-      "updated_at": "2026-03-31T01:40:39Z"
-    },
-    {
-      "id": 262,
-      "name": "RINYA",
-      "song_count": 11,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:40:55Z"
+      "updated_at": "2026-04-02T02:52:32Z"
     },
     {
       "id": 40,
       "name": "RiraN",
       "song_count": 9,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:41:08Z"
+      "updated_at": "2026-04-02T02:53:00Z"
     },
     {
       "id": 211,
       "name": "Risa Yuzuki",
       "song_count": 30,
-      "ranked_count": 6,
-      "updated_at": "2026-03-31T01:41:49Z"
+      "ranked_count": 7,
+      "updated_at": "2026-04-02T02:53:41Z"
     },
     {
       "id": 181,
       "name": "Rish",
       "song_count": 13,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:42:07Z"
+      "ranked_count": 2,
+      "updated_at": "2026-04-02T02:53:59Z"
     },
     {
       "id": 41,
       "name": "Rising Sun Traxx",
       "song_count": 48,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:43:12Z"
+      "updated_at": "2026-04-02T02:55:05Z"
     },
     {
       "id": 305,
       "name": "Ritorikal",
       "song_count": 12,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:43:29Z"
+      "updated_at": "2026-04-02T02:55:21Z"
     },
     {
       "id": 63,
       "name": "Rivers of Nihil",
       "song_count": 8,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T01:43:40Z"
+      "updated_at": "2026-04-02T02:55:33Z"
     },
     {
       "id": 241,
       "name": "Riya",
       "song_count": 9,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:43:53Z"
+      "updated_at": "2026-04-02T02:55:45Z"
     },
     {
       "id": 190,
       "name": "rN",
       "song_count": 8,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:44:04Z"
+      "updated_at": "2026-04-02T02:55:56Z"
     },
     {
       "id": 400,
       "name": "Rocket Start",
       "song_count": 5,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:44:12Z"
+      "updated_at": "2026-04-02T02:56:04Z"
     },
     {
       "id": 501,
       "name": "roer",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:44:14Z"
+      "updated_at": "2026-04-02T02:56:05Z"
     },
     {
       "id": 82,
       "name": "Rohi",
       "song_count": 10,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T01:44:28Z"
+      "updated_at": "2026-04-02T02:56:20Z"
     },
     {
       "id": 280,
       "name": "Rootkit",
       "song_count": 2,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:44:31Z"
+      "updated_at": "2026-04-02T02:56:23Z"
     },
     {
       "id": 429,
       "name": "Rose Quartz",
       "song_count": 9,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:44:44Z"
+      "updated_at": "2026-04-02T02:56:36Z"
     },
     {
       "id": 418,
       "name": "Rubatonin",
       "song_count": 44,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:45:44Z"
+      "updated_at": "2026-04-02T02:57:35Z"
     },
     {
       "id": 370,
       "name": "Ruby My Dear",
       "song_count": 18,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:46:08Z"
+      "updated_at": "2026-04-02T02:58:00Z"
     },
     {
       "id": 87,
       "name": "Rusty K",
       "song_count": 14,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:46:28Z"
+      "updated_at": "2026-04-02T02:58:19Z"
     },
     {
       "id": 148,
       "name": "RYUJIN / GYZE",
       "song_count": 14,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:47:06Z"
+      "updated_at": "2026-04-02T02:58:57Z"
     },
     {
       "id": 9,
       "name": "S3RL",
       "song_count": 29,
-      "ranked_count": 6,
-      "updated_at": "2026-03-31T01:47:47Z"
+      "ranked_count": 9,
+      "updated_at": "2026-04-02T02:59:37Z"
     },
     {
       "id": 103,
       "name": "Sable Hills",
       "song_count": 12,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:48:03Z"
+      "updated_at": "2026-04-02T02:59:54Z"
     },
     {
       "id": 494,
       "name": "Sad Keyboard Guy",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:48:05Z"
+      "updated_at": "2026-04-02T02:59:55Z"
     },
     {
       "id": 273,
       "name": "SAMString",
       "song_count": 20,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T01:48:33Z"
+      "updated_at": "2026-04-02T03:00:23Z"
     },
     {
       "id": 231,
       "name": "satella",
       "song_count": 12,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:48:49Z"
+      "ranked_count": 2,
+      "updated_at": "2026-04-02T03:00:40Z"
     },
     {
       "id": 328,
       "name": "Satyr",
       "song_count": 5,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:48:57Z"
+      "updated_at": "2026-04-02T03:00:47Z"
     },
     {
       "id": 112,
       "name": "Se-U-Ra",
       "song_count": 39,
       "ranked_count": 13,
-      "updated_at": "2026-03-31T01:49:50Z"
+      "updated_at": "2026-04-02T03:01:40Z"
     },
     {
       "id": 185,
       "name": "seatrus",
       "song_count": 77,
-      "ranked_count": 25,
-      "updated_at": "2026-03-31T01:51:35Z"
+      "ranked_count": 26,
+      "updated_at": "2026-04-02T03:03:25Z"
     },
     {
       "id": 186,
       "name": "SEBii",
       "song_count": 6,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T01:51:44Z"
+      "updated_at": "2026-04-02T03:03:34Z"
     },
     {
       "id": 137,
       "name": "SECONDWALL",
       "song_count": 10,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T01:51:58Z"
+      "updated_at": "2026-04-02T03:03:48Z"
     },
     {
       "id": 138,
       "name": "seleP",
       "song_count": 28,
-      "ranked_count": 4,
-      "updated_at": "2026-03-31T01:52:37Z"
+      "ranked_count": 5,
+      "updated_at": "2026-04-02T03:04:26Z"
     },
     {
       "id": 110,
       "name": "Sennzai",
       "song_count": 35,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:53:24Z"
+      "ranked_count": 14,
+      "updated_at": "2026-04-02T03:05:14Z"
     },
     {
       "id": 196,
       "name": "Sephid",
       "song_count": 21,
-      "ranked_count": 7,
-      "updated_at": "2026-03-31T01:53:53Z"
+      "ranked_count": 8,
+      "updated_at": "2026-04-02T03:05:43Z"
     },
     {
       "id": 225,
       "name": "Seraph",
       "song_count": 40,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:54:48Z"
+      "updated_at": "2026-04-02T03:06:37Z"
     },
     {
       "id": 461,
       "name": "SEVEN LIVES",
       "song_count": 16,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:55:10Z"
+      "updated_at": "2026-04-02T03:06:59Z"
     },
     {
       "id": 169,
       "name": "Sewerslvt / Cynthoni",
       "song_count": 9,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T01:55:35Z"
+      "updated_at": "2026-04-02T03:07:24Z"
     },
     {
       "id": 362,
       "name": "Shadren",
       "song_count": 12,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T01:55:52Z"
+      "updated_at": "2026-04-02T03:07:41Z"
     },
     {
       "id": 139,
       "name": "Shawn Wasabi",
       "song_count": 10,
-      "ranked_count": 2,
-      "updated_at": "2026-03-31T01:56:06Z"
+      "ranked_count": 3,
+      "updated_at": "2026-04-02T03:07:55Z"
     },
     {
       "id": 432,
       "name": "ShibayanRecords",
       "song_count": 21,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T01:56:35Z"
+      "ranked_count": 7,
+      "updated_at": "2026-04-02T03:08:24Z"
     },
     {
       "id": 483,
       "name": "Shirobon",
       "song_count": 10,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:56:49Z"
+      "updated_at": "2026-04-02T03:08:37Z"
     },
     {
       "id": 92,
       "name": "Silentroom",
       "song_count": 22,
       "ranked_count": 13,
-      "updated_at": "2026-03-31T01:57:19Z"
+      "updated_at": "2026-04-02T03:09:08Z"
     },
     {
       "id": 434,
       "name": "SiLiS",
       "song_count": 37,
-      "ranked_count": 4,
-      "updated_at": "2026-03-31T01:58:10Z"
+      "ranked_count": 5,
+      "updated_at": "2026-04-02T03:09:58Z"
     },
     {
       "id": 481,
       "name": "Simon Safhalter",
       "song_count": 11,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T01:58:25Z"
+      "updated_at": "2026-04-02T03:10:14Z"
     },
     {
       "id": 102,
       "name": "siqlo",
       "song_count": 13,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T01:58:44Z"
+      "updated_at": "2026-04-02T03:10:32Z"
     },
     {
       "id": 226,
       "name": "siromaru",
       "song_count": 22,
-      "ranked_count": 1,
-      "updated_at": "2026-03-31T01:59:14Z"
+      "ranked_count": 3,
+      "updated_at": "2026-04-02T03:11:02Z"
     },
     {
       "id": 465,
       "name": "Slax",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T01:59:16Z"
+      "updated_at": "2026-04-02T03:11:04Z"
     },
     {
       "id": 338,
       "name": "Sobrem",
       "song_count": 10,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T01:59:30Z"
+      "updated_at": "2026-04-02T03:11:18Z"
     },
     {
       "id": 388,
       "name": "Solarbear",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T01:59:37Z"
+      "updated_at": "2026-04-02T03:11:25Z"
     },
     {
       "id": 207,
       "name": "solfa",
       "song_count": 87,
-      "ranked_count": 1,
-      "updated_at": "2026-03-31T02:01:35Z"
+      "ranked_count": 39,
+      "updated_at": "2026-04-02T03:13:25Z"
     },
     {
       "id": 30,
       "name": "SOOOO",
       "song_count": 12,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:01:52Z"
+      "updated_at": "2026-04-02T03:13:42Z"
     },
     {
       "id": 376,
       "name": "soowamisu",
       "song_count": 12,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:02:08Z"
+      "updated_at": "2026-04-02T03:13:58Z"
     },
     {
       "id": 393,
       "name": "Sorry about my face",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:02:10Z"
+      "updated_at": "2026-04-02T03:14:00Z"
     },
     {
       "id": 334,
       "name": "Sound piercer",
       "song_count": 10,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T02:02:24Z"
+      "ranked_count": 4,
+      "updated_at": "2026-04-02T03:14:15Z"
     },
     {
       "id": 70,
       "name": "Sound Souler",
       "song_count": 19,
       "ranked_count": 14,
-      "updated_at": "2026-03-31T02:02:51Z"
+      "updated_at": "2026-04-02T03:14:41Z"
     },
     {
       "id": 398,
       "name": "Sparxe",
       "song_count": 7,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:03:01Z"
+      "updated_at": "2026-04-02T03:14:51Z"
     },
     {
       "id": 489,
       "name": "SPIRIT GARDEN *",
       "song_count": 4,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:03:07Z"
+      "updated_at": "2026-04-02T03:14:57Z"
     },
     {
       "id": 517,
       "name": "Stariah",
       "song_count": 16,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:03:29Z"
+      "updated_at": "2026-04-02T03:15:19Z"
     },
     {
       "id": 353,
       "name": "Stars Hollow",
       "song_count": 9,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:03:41Z"
+      "updated_at": "2026-04-02T03:15:32Z"
     },
     {
       "id": 66,
       "name": "Station Earth / Blue Marble",
       "song_count": 23,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T02:04:44Z"
+      "updated_at": "2026-04-02T03:16:34Z"
     },
     {
       "id": 514,
       "name": "steelplus",
       "song_count": 1,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:04:46Z"
+      "updated_at": "2026-04-02T03:16:36Z"
     },
     {
       "id": 254,
       "name": "Stonebank",
       "song_count": 6,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:04:55Z"
+      "updated_at": "2026-04-02T03:16:45Z"
     },
     {
       "id": 89,
       "name": "Street",
       "song_count": 21,
-      "ranked_count": 9,
-      "updated_at": "2026-03-31T02:05:24Z"
+      "ranked_count": 10,
+      "updated_at": "2026-04-02T03:17:14Z"
     },
     {
       "id": 421,
       "name": "Strelitzia",
       "song_count": 13,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:05:42Z"
+      "updated_at": "2026-04-02T03:17:32Z"
     },
     {
       "id": 442,
       "name": "sugosugiii",
       "song_count": 25,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:06:17Z"
+      "updated_at": "2026-04-02T03:18:06Z"
     },
     {
       "id": 435,
       "name": "Supa7onyz",
       "song_count": 13,
-      "ranked_count": 0,
-      "updated_at": "2026-03-31T02:06:35Z"
+      "ranked_count": 2,
+      "updated_at": "2026-04-02T03:18:24Z"
     },
     {
       "id": 373,
       "name": "Supire",
       "song_count": 15,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T02:06:56Z"
+      "updated_at": "2026-04-02T03:18:45Z"
     },
     {
       "id": 348,
       "name": "SWORD OF JUSTICE",
       "song_count": 7,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:07:06Z"
+      "updated_at": "2026-04-02T03:18:55Z"
     },
     {
       "id": 392,
       "name": "Sydosys",
       "song_count": 14,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T02:07:25Z"
+      "updated_at": "2026-04-02T03:19:14Z"
     },
     {
       "id": 8,
       "name": "Sylvir / sakuraburst",
       "song_count": 17,
       "ranked_count": 14,
-      "updated_at": "2026-03-31T02:08:12Z"
+      "updated_at": "2026-04-02T03:20:00Z"
     },
     {
       "id": 130,
       "name": "Symholic",
       "song_count": 55,
-      "ranked_count": 7,
-      "updated_at": "2026-03-31T02:09:27Z"
+      "ranked_count": 8,
+      "updated_at": "2026-04-02T03:21:15Z"
     },
     {
       "id": 357,
       "name": "Synthion",
       "song_count": 10,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:09:41Z"
+      "updated_at": "2026-04-02T03:21:29Z"
     },
     {
       "id": 188,
       "name": "T & Sugah",
       "song_count": 12,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:09:58Z"
+      "updated_at": "2026-04-02T03:21:46Z"
     },
     {
       "id": 396,
       "name": "t+pazolite",
       "song_count": 58,
-      "ranked_count": 26,
-      "updated_at": "2026-03-31T02:11:17Z"
+      "ranked_count": 29,
+      "updated_at": "2026-04-02T03:23:05Z"
     },
     {
       "id": 520,
       "name": "tachibanaka",
       "song_count": 17,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:11:41Z"
+      "updated_at": "2026-04-02T03:23:28Z"
     },
     {
       "id": 404,
       "name": "Takamachi Walk",
       "song_count": 9,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T02:11:54Z"
+      "updated_at": "2026-04-02T03:23:41Z"
     },
     {
       "id": 428,
       "name": "takehirotei",
       "song_count": 11,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T02:12:09Z"
+      "updated_at": "2026-04-02T03:23:57Z"
     },
     {
       "id": 144,
       "name": "Tanchiky",
       "song_count": 27,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:12:46Z"
+      "updated_at": "2026-04-02T03:24:33Z"
     },
     {
       "id": 507,
       "name": "Tanger",
       "song_count": 22,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:13:16Z"
+      "updated_at": "2026-04-02T03:25:03Z"
     },
     {
       "id": 97,
       "name": "Task Horizon",
       "song_count": 40,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:14:11Z"
+      "updated_at": "2026-04-02T03:25:58Z"
     },
     {
       "id": 221,
       "name": "Tasty",
       "song_count": 14,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:14:30Z"
+      "updated_at": "2026-04-02T03:26:17Z"
     },
     {
       "id": 193,
       "name": "technoplanet",
       "song_count": 14,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T02:14:50Z"
+      "updated_at": "2026-04-02T03:26:36Z"
     },
     {
       "id": 223,
       "name": "Tedjimo yomigY",
       "song_count": 9,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:15:03Z"
+      "updated_at": "2026-04-02T03:26:49Z"
     },
     {
       "id": 64,
       "name": "Teminite",
       "song_count": 55,
       "ranked_count": 18,
-      "updated_at": "2026-03-31T02:16:18Z"
+      "updated_at": "2026-04-02T03:28:04Z"
     },
     {
       "id": 265,
       "name": "Tenchio",
       "song_count": 30,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T02:16:59Z"
+      "updated_at": "2026-04-02T03:28:45Z"
     },
     {
       "id": 361,
       "name": "tephe",
       "song_count": 2,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:17:02Z"
+      "updated_at": "2026-04-02T03:28:49Z"
     },
     {
       "id": 470,
       "name": "Terminal 11",
       "song_count": 9,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:17:15Z"
+      "updated_at": "2026-04-02T03:29:01Z"
     },
     {
       "id": 420,
       "name": "TEST Open",
       "song_count": 5,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:17:22Z"
+      "updated_at": "2026-04-02T03:29:08Z"
     },
     {
       "id": 83,
       "name": "Thank You Scientist",
       "song_count": 21,
       "ranked_count": 14,
-      "updated_at": "2026-03-31T02:17:54Z"
+      "updated_at": "2026-04-02T03:29:37Z"
     },
     {
       "id": 37,
       "name": "The Flashbulb",
       "song_count": 30,
       "ranked_count": 19,
-      "updated_at": "2026-03-31T02:18:35Z"
+      "updated_at": "2026-04-02T03:30:18Z"
     },
     {
       "id": 142,
       "name": "The Gentle Men",
       "song_count": 6,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:18:44Z"
+      "updated_at": "2026-04-02T03:30:27Z"
     },
     {
       "id": 478,
       "name": "The Musical Ghost",
       "song_count": 8,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:18:55Z"
+      "updated_at": "2026-04-02T03:30:39Z"
     },
     {
       "id": 34,
       "name": "tieff",
       "song_count": 12,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T02:19:12Z"
+      "updated_at": "2026-04-02T03:30:55Z"
     },
     {
       "id": 131,
       "name": "Tiny Waves",
       "song_count": 13,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:19:30Z"
+      "updated_at": "2026-04-02T03:31:13Z"
     },
     {
       "id": 202,
       "name": "tokiwa",
       "song_count": 8,
-      "ranked_count": 5,
-      "updated_at": "2026-03-31T02:19:41Z"
+      "ranked_count": 6,
+      "updated_at": "2026-04-02T03:31:25Z"
     },
     {
       "id": 276,
       "name": "Tokyo Machine",
       "song_count": 9,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:19:54Z"
+      "updated_at": "2026-04-02T03:31:37Z"
     },
     {
       "id": 308,
       "name": "Tokyo.MeltiMelt",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:20:01Z"
+      "updated_at": "2026-04-02T03:31:44Z"
     },
     {
       "id": 437,
       "name": "tomspicy",
       "song_count": 17,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:20:25Z"
+      "updated_at": "2026-04-02T03:32:08Z"
     },
     {
       "id": 480,
       "name": "TONE::FURY",
       "song_count": 22,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:20:55Z"
+      "updated_at": "2026-04-02T03:32:38Z"
     },
     {
       "id": 279,
       "name": "Toromaru",
       "song_count": 17,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T02:21:19Z"
+      "updated_at": "2026-04-02T03:33:01Z"
     },
     {
       "id": 20,
       "name": "Trial & Error",
       "song_count": 37,
       "ranked_count": 11,
-      "updated_at": "2026-03-31T02:22:10Z"
+      "updated_at": "2026-04-02T03:33:52Z"
     },
     {
       "id": 440,
       "name": "Trina Lydia",
       "song_count": 9,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:22:23Z"
+      "updated_at": "2026-04-02T03:34:05Z"
     },
     {
       "id": 344,
       "name": "True North",
       "song_count": 6,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:22:31Z"
+      "updated_at": "2026-04-02T03:34:14Z"
     },
     {
       "id": 329,
       "name": "tsunamix",
       "song_count": 10,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:22:45Z"
+      "updated_at": "2026-04-02T03:34:28Z"
     },
     {
       "id": 98,
       "name": "Umeboshi Chazuke",
       "song_count": 20,
       "ranked_count": 10,
-      "updated_at": "2026-03-31T02:23:13Z"
+      "updated_at": "2026-04-02T03:34:55Z"
     },
     {
       "id": 45,
       "name": "UNDEAD CORPORATION",
       "song_count": 132,
-      "ranked_count": 33,
-      "updated_at": "2026-03-31T02:26:14Z"
+      "ranked_count": 34,
+      "updated_at": "2026-04-02T03:37:55Z"
     },
     {
       "id": 509,
       "name": "unfeeling",
       "song_count": 36,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:27:03Z"
+      "updated_at": "2026-04-02T03:38:44Z"
     },
     {
       "id": 479,
       "name": "UNTONE Music",
       "song_count": 140,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:30:13Z"
+      "updated_at": "2026-04-02T03:41:52Z"
     },
     {
       "id": 149,
       "name": "URBANGARDE",
       "song_count": 6,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:30:22Z"
+      "updated_at": "2026-04-02T03:42:01Z"
     },
     {
       "id": 248,
       "name": "USAO",
       "song_count": 25,
       "ranked_count": 11,
-      "updated_at": "2026-03-31T02:30:57Z"
+      "updated_at": "2026-04-02T03:42:35Z"
     },
     {
       "id": 402,
       "name": "uselet",
       "song_count": 11,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T02:31:12Z"
+      "updated_at": "2026-04-02T03:42:51Z"
     },
     {
       "id": 453,
       "name": "uynet",
       "song_count": 7,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:31:22Z"
+      "updated_at": "2026-04-02T03:43:01Z"
     },
     {
       "id": 232,
       "name": "Vansire",
       "song_count": 13,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T02:31:40Z"
+      "updated_at": "2026-04-02T03:43:19Z"
     },
     {
       "id": 158,
       "name": "Vektor",
       "song_count": 22,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:32:10Z"
+      "updated_at": "2026-04-02T03:43:49Z"
     },
     {
       "id": 71,
       "name": "Venetian Snares",
       "song_count": 8,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T02:32:22Z"
+      "updated_at": "2026-04-02T03:44:00Z"
     },
     {
       "id": 22,
       "name": "VINXIS",
       "song_count": 15,
       "ranked_count": 9,
-      "updated_at": "2026-03-31T02:32:43Z"
+      "updated_at": "2026-04-02T03:44:21Z"
     },
     {
       "id": 28,
       "name": "Virtual Self",
       "song_count": 6,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:32:52Z"
+      "updated_at": "2026-04-02T03:44:30Z"
     },
     {
       "id": 59,
       "name": "Voicians",
       "song_count": 10,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T02:33:06Z"
+      "updated_at": "2026-04-02T03:44:43Z"
     },
     {
       "id": 521,
       "name": "voira",
       "song_count": 10,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:33:20Z"
+      "updated_at": "2026-04-02T03:44:57Z"
     },
     {
       "id": 303,
       "name": "Vorso",
       "song_count": 7,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:33:30Z"
+      "updated_at": "2026-04-02T03:45:07Z"
     },
     {
       "id": 427,
       "name": "WangleLine",
       "song_count": 32,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T02:34:14Z"
+      "updated_at": "2026-04-02T03:45:51Z"
     },
     {
       "id": 291,
       "name": "Waterflame",
       "song_count": 39,
       "ranked_count": 7,
-      "updated_at": "2026-03-31T02:35:07Z"
+      "updated_at": "2026-04-02T03:46:44Z"
     },
     {
       "id": 416,
       "name": "watering",
       "song_count": 8,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:35:18Z"
+      "updated_at": "2026-04-02T03:46:55Z"
     },
     {
       "id": 460,
       "name": "WEARY",
       "song_count": 14,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:35:38Z"
+      "updated_at": "2026-04-02T03:47:15Z"
     },
     {
       "id": 347,
       "name": "Whispered",
       "song_count": 15,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T02:35:59Z"
+      "updated_at": "2026-04-02T03:47:35Z"
     },
     {
       "id": 512,
       "name": "WhiteSakata",
       "song_count": 5,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:36:06Z"
+      "updated_at": "2026-04-02T03:47:43Z"
     },
     {
       "id": 192,
       "name": "Wiklund",
       "song_count": 10,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T02:36:20Z"
+      "updated_at": "2026-04-02T03:47:57Z"
     },
     {
       "id": 385,
       "name": "Will Stetson",
       "song_count": 4,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:36:26Z"
+      "updated_at": "2026-04-02T03:48:03Z"
     },
     {
       "id": 337,
       "name": "WINTERHORDE",
       "song_count": 6,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:36:35Z"
+      "updated_at": "2026-04-02T03:48:11Z"
     },
     {
       "id": 16,
       "name": "Wisp X",
       "song_count": 27,
       "ranked_count": 13,
-      "updated_at": "2026-03-31T02:37:12Z"
+      "updated_at": "2026-04-02T03:48:48Z"
     },
     {
       "id": 178,
       "name": "wotoha",
       "song_count": 10,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:37:26Z"
+      "updated_at": "2026-04-02T03:49:02Z"
     },
     {
       "id": 445,
       "name": "WyvernP",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:37:33Z"
+      "updated_at": "2026-04-02T03:49:10Z"
     },
     {
       "id": 152,
       "name": "Xanthochroid",
       "song_count": 17,
       "ranked_count": 10,
-      "updated_at": "2026-03-31T02:37:57Z"
+      "updated_at": "2026-04-02T03:49:33Z"
     },
     {
       "id": 482,
       "name": "XenjeS",
       "song_count": 31,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:38:40Z"
+      "updated_at": "2026-04-02T03:50:15Z"
     },
     {
       "id": 499,
       "name": "Xeon Diversity",
       "song_count": 12,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:38:56Z"
+      "updated_at": "2026-04-02T03:50:32Z"
     },
     {
       "id": 475,
       "name": "Xeven",
       "song_count": 10,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:39:10Z"
+      "updated_at": "2026-04-02T03:50:46Z"
     },
     {
       "id": 452,
       "name": "XH",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:39:12Z"
+      "updated_at": "2026-04-02T03:50:48Z"
     },
     {
       "id": 727,
       "name": "xi",
       "song_count": 42,
       "ranked_count": 32,
-      "updated_at": "2026-03-31T02:40:11Z"
+      "updated_at": "2026-04-02T03:51:47Z"
     },
     {
       "id": 423,
       "name": "xiiiac13",
       "song_count": 12,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:40:28Z"
+      "updated_at": "2026-04-02T03:52:03Z"
     },
     {
       "id": 433,
       "name": "Xyris",
       "song_count": 9,
       "ranked_count": 6,
-      "updated_at": "2026-03-31T02:40:41Z"
+      "updated_at": "2026-04-02T03:52:16Z"
     },
     {
       "id": 342,
       "name": "yaseta",
       "song_count": 10,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:40:55Z"
+      "updated_at": "2026-04-02T03:52:30Z"
     },
     {
       "id": 472,
       "name": "yoho",
       "song_count": 1,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:40:57Z"
+      "updated_at": "2026-04-02T03:52:32Z"
     },
     {
       "id": 355,
       "name": "Yokomin",
       "song_count": 11,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:41:12Z"
+      "updated_at": "2026-04-02T03:52:47Z"
     },
     {
       "id": 406,
       "name": "YonKaGor",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:41:20Z"
+      "updated_at": "2026-04-02T03:52:55Z"
     },
     {
       "id": 218,
       "name": "Yooh",
       "song_count": 31,
       "ranked_count": 8,
-      "updated_at": "2026-03-31T02:42:02Z"
+      "updated_at": "2026-04-02T03:53:37Z"
     },
     {
       "id": 389,
       "name": "you",
       "song_count": 10,
-      "ranked_count": 2,
-      "updated_at": "2026-03-31T02:42:17Z"
+      "ranked_count": 6,
+      "updated_at": "2026-04-02T03:53:51Z"
     },
     {
       "id": 372,
       "name": "YUC'e",
       "song_count": 27,
       "ranked_count": 15,
-      "updated_at": "2026-03-31T02:42:54Z"
+      "updated_at": "2026-04-02T03:54:28Z"
     },
     {
       "id": 4,
       "name": "yuki.",
       "song_count": 9,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:43:07Z"
+      "updated_at": "2026-04-02T03:54:41Z"
     },
     {
       "id": 167,
       "name": "yukitani",
       "song_count": 5,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:43:14Z"
+      "updated_at": "2026-04-02T03:54:48Z"
     },
     {
       "id": 244,
       "name": "Yunosuke",
       "song_count": 18,
       "ranked_count": 5,
-      "updated_at": "2026-03-31T02:43:39Z"
+      "updated_at": "2026-04-02T03:55:13Z"
     },
     {
       "id": 408,
       "name": "Yuuni",
       "song_count": 2,
       "ranked_count": 0,
-      "updated_at": "2026-03-31T02:43:42Z"
+      "updated_at": "2026-04-02T03:55:16Z"
     },
     {
       "id": 132,
       "name": "Yuyoyuppe / DJ'TEKINA//SOMETHING",
       "song_count": 19,
       "ranked_count": 14,
-      "updated_at": "2026-03-31T02:44:34Z"
+      "updated_at": "2026-04-02T03:56:08Z"
     },
     {
       "id": 155,
       "name": "YUZUKINGDOM",
       "song_count": 11,
       "ranked_count": 2,
-      "updated_at": "2026-03-31T02:44:50Z"
+      "updated_at": "2026-04-02T03:56:23Z"
     },
     {
       "id": 76,
       "name": "Zekk",
       "song_count": 42,
       "ranked_count": 24,
-      "updated_at": "2026-03-31T02:45:48Z"
+      "updated_at": "2026-04-02T03:57:21Z"
     },
     {
       "id": 316,
       "name": "Zenpaku",
       "song_count": 7,
       "ranked_count": 3,
-      "updated_at": "2026-03-31T02:45:58Z"
+      "updated_at": "2026-04-02T03:57:31Z"
     },
     {
       "id": 450,
       "name": "Zmey Gorynich",
       "song_count": 8,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:46:09Z"
+      "updated_at": "2026-04-02T03:57:42Z"
     },
     {
       "id": 224,
       "name": "Zomboy",
       "song_count": 7,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:46:19Z"
+      "updated_at": "2026-04-02T03:57:52Z"
     },
     {
       "id": 455,
       "name": "ZVLIAN",
       "song_count": 12,
       "ranked_count": 1,
-      "updated_at": "2026-03-31T02:46:36Z"
+      "updated_at": "2026-04-02T03:58:09Z"
     },
     {
       "id": 288,
       "name": "ZxNX",
       "song_count": 26,
       "ranked_count": 4,
-      "updated_at": "2026-03-31T02:47:12Z"
+      "updated_at": "2026-04-02T03:58:44Z"
     },
     {
       "id": 47,
       "name": "Æther Realm",
       "song_count": 32,
       "ranked_count": 19,
-      "updated_at": "2026-03-31T02:47:56Z"
+      "updated_at": "2026-04-02T03:59:28Z"
     }
   ]
 }

@@ -49,15 +49,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2120553,
+          2524246
+        ],
         "taiko": [
           2120820
         ],
         "mania": [
           1808850,
           2120611
-        ],
-        "osu": [
-          2120553
         ],
         "fruits": [
           1748257
@@ -187,5 +188,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:26:00Z"
+  "updated_at": "2026-04-02T01:37:59Z"
 }

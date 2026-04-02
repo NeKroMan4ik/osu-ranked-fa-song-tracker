@@ -18,9 +18,13 @@
       "title": "And The Vulture Beholds",
       "preview": "https://assets.ppy.sh/artists/170/King/Fleshgod Apocalypse - And The Vulture Beholds.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2524362
+        ],
         "taiko": [
           987536
         ]
@@ -165,5 +169,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:06:04Z"
+  "updated_at": "2026-04-02T01:17:44Z"
 }

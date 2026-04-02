@@ -3,6 +3,18 @@
   "name": "DJ Genki / Gram",
   "tracks": [
     {
+      "title": "Camellia vs. DJ Genki - Traveller feat. moimoi",
+      "preview": "https://assets.ppy.sh/artists/295/ULTIMATE HAPPY CARNIVAL/Camellia vs. DJ Genki - Traveller feat. moimoi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2135455
+        ]
+      }
+    },
+    {
       "title": "DJ Genki - GAME 0VER",
       "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki - GAME 0VER.mp3",
       "ranked_modes": [
@@ -55,6 +67,86 @@
         ],
         "osu": [
           2142885
+        ]
+      }
+    },
+    {
+      "title": "DJ Genki feat. Aitsuki Nakuru - 1,2,3 no LOVE Sign",
+      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki feat. Aitsuki Nakuru - 1%2C2%2C3 no LOVE Sign.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2498155
+        ],
+        "osu": [
+          2135153
+        ]
+      }
+    },
+    {
+      "title": "DJ Genki feat. NU-KO - My New World",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki feat. NU-KO - My New World.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2313743
+        ]
+      }
+    },
+    {
+      "title": "DJ Genki vs. Camellia feat. moimoi - Sunshine",
+      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki vs. Camellia feat. moimoi - Sunshine.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1454177
+        ],
+        "osu": [
+          729588,
+          769181,
+          1033156
+        ],
+        "taiko": [
+          781957
+        ],
+        "mania": [
+          715728
+        ]
+      }
+    },
+    {
+      "title": "DJ Genki vs. Camellia feat. moimoi - YELL!",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki vs. Camellia feat. moimoi - YELL!.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          564539,
+          2514455
+        ],
+        "fruits": [
+          1884804
+        ],
+        "taiko": [
+          1788470
+        ],
+        "mania": [
+          591786,
+          661022
         ]
       }
     },
@@ -150,14 +242,59 @@
       }
     },
     {
-      "title": "C-Show vs. DJ Genki - BLACK LABEL",
-      "preview": "https://assets.ppy.sh/artists/295/FUSION AXELL/C-Show vs. DJ Genki - BLACK LABEL.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "title": "Gram vs. Camellia - Ragnarok",
+      "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram vs. Camellia - Ragnarok.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          999032,
+          2424143
+        ],
+        "osu": [
+          2254730,
+          2374105
+        ],
+        "taiko": [
+          1031273,
+          1893673
+        ],
+        "fruits": [
+          928515
+        ]
+      }
     },
     {
-      "title": "Camellia vs. DJ Genki - Traveller feat. moimoi",
-      "preview": "https://assets.ppy.sh/artists/295/ULTIMATE HAPPY CARNIVAL/Camellia vs. DJ Genki - Traveller feat. moimoi.mp3",
+      "title": "Gram vs. DJ Genki - XIchedelic Nova Trinity",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/Gram_vs._DJ_Genki_-_XIchedelic_Nova_Trinity.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2334475
+        ]
+      }
+    },
+    {
+      "title": "Gram vs. Yooh - Apocalypse",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram vs. Yooh - Apocalypse.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1816401
+        ]
+      }
+    },
+    {
+      "title": "C-Show vs. DJ Genki - BLACK LABEL",
+      "preview": "https://assets.ppy.sh/artists/295/FUSION AXELL/C-Show vs. DJ Genki - BLACK LABEL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -222,18 +359,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "DJ Genki feat. Aitsuki Nakuru - 1,2,3 no LOVE Sign",
-      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki feat. Aitsuki Nakuru - 1%2C2%2C3 no LOVE Sign.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Genki feat. NU-KO - My New World",
-      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki feat. NU-KO - My New World.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "DJ Genki feat. yukacco - Alphard no Hana",
       "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki feat. yukacco - Alphard no Hana.mp3",
       "ranked_modes": [],
@@ -248,18 +373,6 @@
     {
       "title": "DJ Genki feat. yukacco - HAPPY HAPPY REVOLUTION!!!!!",
       "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki feat. yukacco - HAPPY HAPPY REVOLUTION!!!!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Genki vs. Camellia feat. moimoi - Sunshine",
-      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki vs. Camellia feat. moimoi - Sunshine.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Genki vs. Camellia feat. moimoi - YELL!",
-      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki vs. Camellia feat. moimoi - YELL!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -300,26 +413,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Gram vs. Camellia - Ragnarok",
-      "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram vs. Camellia - Ragnarok.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gram vs. DJ Genki - XIchedelic Nova Trinity",
-      "preview": "https://assets.ppy.sh/artists/295/Songs/Gram_vs._DJ_Genki_-_XIchedelic_Nova_Trinity.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Gram vs. HiTECH NINJA - Sa MaRichi",
       "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram vs. HiTECH NINJA - Sa MaRichi.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gram vs. Yooh - Apocalypse",
-      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram vs. Yooh - Apocalypse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -330,5 +425,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:55:26Z"
+  "updated_at": "2026-04-02T01:07:11Z"
 }

@@ -3,6 +3,62 @@
   "name": "NOISZ",
   "tracks": [
     {
+      "title": "Camellia feat. chiisana - re:||VERSE",
+      "preview": "https://assets.ppy.sh/artists/286/NOISZ reVERSE OST/Camellia feat. chiisana - reVERSE.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2448938
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Mayumi Morinaga - re:||BIRTH",
+      "preview": "https://assets.ppy.sh/artists/286/NOISZ reVERSE OST/Camellia feat. Mayumi Morinaga - reBIRTH.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2195010
+        ],
+        "mania": [
+          1815435
+        ],
+        "osu": [
+          1779714
+        ]
+      }
+    },
+    {
+      "title": "M-Project feat. Mayumi Morinaga - D.C. al coda (OP ver.)",
+      "preview": "https://assets.ppy.sh/artists/286/NOISZ reVERSE OST/M-Project feat. Mayumi Morinaga - D.C. al coda (OP ver.).mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1817236
+        ]
+      }
+    },
+    {
+      "title": "Soleily feat. SUNRaiSE - Rise Above",
+      "preview": "https://assets.ppy.sh/artists/286/Rise Above - Parhelion/Soleily feat. SUNRaiSE - Rise Above.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1767895
+        ]
+      }
+    },
+    {
       "title": "Camellia - LIVHT MY WAY (Instrumental)",
       "preview": "https://assets.ppy.sh/artists/286/LIVHT MY WAY - galaXXy brain/Camellia - LIVHT MY WAY (Instrumental).mp3",
       "ranked_modes": [],
@@ -17,18 +73,6 @@
     {
       "title": "Camellia - re:||VERSE (Instrumental)",
       "preview": "https://assets.ppy.sh/artists/286/NOISZ reVERSE OST/Camellia - reVERSE (Instrumental).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. chiisana - re:||VERSE",
-      "preview": "https://assets.ppy.sh/artists/286/NOISZ reVERSE OST/Camellia feat. chiisana - reVERSE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Mayumi Morinaga - re:||BIRTH",
-      "preview": "https://assets.ppy.sh/artists/286/NOISZ reVERSE OST/Camellia feat. Mayumi Morinaga - reBIRTH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,12 +113,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "M-Project feat. Mayumi Morinaga - D.C. al coda (OP ver.)",
-      "preview": "https://assets.ppy.sh/artists/286/NOISZ reVERSE OST/M-Project feat. Mayumi Morinaga - D.C. al coda (OP ver.).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Nhato - galaXXy brain (Instrumental)",
       "preview": "https://assets.ppy.sh/artists/286/LIVHT MY WAY - galaXXy brain/Nhato - galaXXy brain (Instrumental).mp3",
       "ranked_modes": [],
@@ -105,12 +143,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Soleily feat. SUNRaiSE - Rise Above",
-      "preview": "https://assets.ppy.sh/artists/286/Rise Above - Parhelion/Soleily feat. SUNRaiSE - Rise Above.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Synthion - True (Instrumental)",
       "preview": "https://assets.ppy.sh/artists/286/Done in Love - True/Synthion - True (Instrumental).mp3",
       "ranked_modes": [],
@@ -123,5 +155,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:14:18Z"
+  "updated_at": "2026-04-02T02:26:05Z"
 }

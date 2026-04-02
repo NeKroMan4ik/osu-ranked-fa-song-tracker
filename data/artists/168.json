@@ -3,6 +3,158 @@
   "name": "A-One",
   "tracks": [
     {
+      "title": "A-One feat. Aki & Rute - Drive Your Fire",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 16 ETERNAL NIGHT VIGNETTE/A-One feat. Aki & Rute - Drive Your Fire.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1955038
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Aki - Darkish",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 7 MOUNTAIN OF FAITH/A-One feat. Aki - Darkish.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2112194,
+          2267353
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. ayaponzu* - Justice Monster",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 17 FLOWER VIEWING MOUND/A-One feat. ayaponzu - Justice Monster.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2011565
+        ],
+        "osu": [
+          1513750
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Kanipan. - Endless, Sleepless Night",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 1/A-One feat. Kanipan. - Endless, Sleepless Night.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1050772,
+          2241601
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. misa - Only Treasure",
+      "preview": "https://assets.ppy.sh/artists/168/DYSTOPIA/A-One feat. misa - Only Treasure.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2271678
+        ],
+        "fruits": [
+          1633053
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Rute - Spider's Blood",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 8 SUBTERRANEAN ANIMISM/A-One feat. Rute - Spider's Blood.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2037983
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Shihori - Bamboo Dance",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 2/A-One feat. Shihori - Bamboo Dance.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2075280
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Shihori - Bloody Night",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 4 PERFECT CHERRY BLOSSOM/A-One feat. Shihori - Bloody Night.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1543564
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Shihori - DAY BREAKER",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 3 THE EMBODIMENT OF SCARLET DEVIL/A-One feat. Shihori - DAY BREAKER.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1499636
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Shihori - Magic Girl !!",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 3 THE EMBODIMENT OF SCARLET DEVIL/A-One feat. Shihori - Magic Girl !!.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1583787,
+          1999914,
+          2074627
+        ],
+        "taiko": [
+          1704340
+        ],
+        "fruits": [
+          1644488
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Shihori - ToRyan-Se",
+      "preview": "https://assets.ppy.sh/artists/168/POLYGON RAIN/A-One feat. Shihori - ToRyan-Se.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1989147
+        ]
+      }
+    },
+    {
       "title": "Side by Side",
       "preview": "https://assets.ppy.sh/artists/168/Songs/A-One_-_Side_by_Side.mp3",
       "ranked_modes": [
@@ -26,18 +178,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "A-One feat. Aki & Rute - Drive Your Fire",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 16 ETERNAL NIGHT VIGNETTE/A-One feat. Aki & Rute - Drive Your Fire.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. Aki - Darkish",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 7 MOUNTAIN OF FAITH/A-One feat. Aki - Darkish.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "A-One feat. Aki - Wanna Be My Dream",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT presents THE REVIVAL MIX/A-One feat. Aki - Wanna Be My Dream.mp3",
       "ranked_modes": [],
@@ -46,12 +186,6 @@
     {
       "title": "A-One feat. Aki - Zenmai Koidokei (T.E.B Summer Mix)",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 4 PERFECT CHERRY BLOSSOM/A-One feat. Aki - Zenmai Koidokei (T.E.B Summer Mix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. ayaponzu* - Justice Monster",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 17 FLOWER VIEWING MOUND/A-One feat. ayaponzu - Justice Monster.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -74,12 +208,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "A-One feat. Kanipan. - Endless, Sleepless Night",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 1/A-One feat. Kanipan. - Endless, Sleepless Night.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "A-One feat. Mamemi - Love the BEAT",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 10 HIGHLY RESPONSIVE TO PRAYERS/A-One feat. Mamemi - Love the BEAT.mp3",
       "ranked_modes": [],
@@ -88,12 +216,6 @@
     {
       "title": "A-One feat. Mamemi - One-Way Highway",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 11 TEN DESIRES/A-One feat. Mamemi - One-Way Highway.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. misa - Only Treasure",
-      "preview": "https://assets.ppy.sh/artists/168/DYSTOPIA/A-One feat. misa - Only Treasure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -114,43 +236,7 @@
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 13 LEGACY OF LUNATIC KINGDOM/A-One feat. Rute - Say Around.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. Rute - Spider's Blood",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 8 SUBTERRANEAN ANIMISM/A-One feat. Rute - Spider's Blood.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. Shihori - Bamboo Dance",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 2/A-One feat. Shihori - Bamboo Dance.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. Shihori - Bloody Night",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 4 PERFECT CHERRY BLOSSOM/A-One feat. Shihori - Bloody Night.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. Shihori - DAY BREAKER",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 3 THE EMBODIMENT OF SCARLET DEVIL/A-One feat. Shihori - DAY BREAKER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. Shihori - Magic Girl !!",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 3 THE EMBODIMENT OF SCARLET DEVIL/A-One feat. Shihori - Magic Girl !!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "A-One feat. Shihori - ToRyan-Se",
-      "preview": "https://assets.ppy.sh/artists/168/POLYGON RAIN/A-One feat. Shihori - ToRyan-Se.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:07:29Z"
+  "updated_at": "2026-04-02T00:18:50Z"
 }

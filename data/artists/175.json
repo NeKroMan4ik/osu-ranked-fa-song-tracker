@@ -5,42 +5,144 @@
     {
       "title": "Pratanallis feat. eupe - Orion",
       "preview": "https://assets.ppy.sh/artists/175/Casa Blanca/Pratanallis feat. eupe - Orion.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1580048
+        ]
+      }
     },
     {
       "title": "Pratanallis feat. eupe - Snowing Heart",
       "preview": "https://assets.ppy.sh/artists/175/Deep White Fairies/Pratanallis feat. eupe - Snowing Heart.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1501327
+        ]
+      }
     },
     {
       "title": "Pratanallis feat. KOKOMI - Black Berserker",
       "preview": "https://assets.ppy.sh/artists/175/Songs/Pratanallis_feat._KOKOMI_-_Black_Berserker.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2091014,
+          2130327,
+          2204750
+        ]
+      }
     },
     {
       "title": "Pratanallis feat. KOKOMI - Crocus",
       "preview": "https://assets.ppy.sh/artists/175/Tears Nocturne/Pratanallis feat. KOKOMI - Crocus.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1878262
+        ]
+      }
     },
     {
       "title": "Pratanallis feat. KOKOMI - Marguerite",
       "preview": "https://assets.ppy.sh/artists/175/Casa Blanca/Pratanallis feat. KOKOMI - Marguerite.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pratanallis feat. KOKOMI - Moon Desire",
-      "preview": "https://assets.ppy.sh/artists/175/Casa Blanca/Pratanallis feat. KOKOMI - Moon Desire.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2393002
+        ]
+      }
     },
     {
       "title": "Pratanallis feat. Kyoko - Braking Down",
       "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Kyoko - Braking Down.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2440240
+        ]
+      }
+    },
+    {
+      "title": "Pratanallis feat. Meramipop - My Happiness",
+      "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Meramipop - My Happiness.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1501364
+        ]
+      }
+    },
+    {
+      "title": "Pratanallis feat. Meramipop - Tears Nocturn",
+      "preview": "https://assets.ppy.sh/artists/175/Tears Nocturne/Pratanallis feat. Meramipop - Tears Nocturn.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2102643
+        ]
+      }
+    },
+    {
+      "title": "Pratanallis feat. Rina Komatsu - Meet Again",
+      "preview": "https://assets.ppy.sh/artists/175/Deep White Fairies/Pratanallis feat. Rina Komatsu - Meet Again.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1784645
+        ]
+      }
+    },
+    {
+      "title": "Pratanallis feat. Sakuya Kurosaki - Justynusty",
+      "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Sakuya Kurosaki - Justynusty.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2343207
+        ],
+        "taiko": [
+          1763586
+        ]
+      }
+    },
+    {
+      "title": "Pratanallis feat. Tsuyuri Karin - Ren'ai Fantasy",
+      "preview": "https://assets.ppy.sh/artists/175/Renai Fantasy/Pratanallis feat. Tsuyuri Karin - Renai Fantasy.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1546547
+        ]
+      }
+    },
+    {
+      "title": "Pratanallis feat. KOKOMI - Moon Desire",
+      "preview": "https://assets.ppy.sh/artists/175/Casa Blanca/Pratanallis feat. KOKOMI - Moon Desire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -61,37 +163,7 @@
       "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Meramipop - Menina Eris.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pratanallis feat. Meramipop - My Happiness",
-      "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Meramipop - My Happiness.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pratanallis feat. Meramipop - Tears Nocturn",
-      "preview": "https://assets.ppy.sh/artists/175/Tears Nocturne/Pratanallis feat. Meramipop - Tears Nocturn.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pratanallis feat. Rina Komatsu - Meet Again",
-      "preview": "https://assets.ppy.sh/artists/175/Deep White Fairies/Pratanallis feat. Rina Komatsu - Meet Again.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pratanallis feat. Sakuya Kurosaki - Justynusty",
-      "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Sakuya Kurosaki - Justynusty.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pratanallis feat. Tsuyuri Karin - Ren'ai Fantasy",
-      "preview": "https://assets.ppy.sh/artists/175/Renai Fantasy/Pratanallis feat. Tsuyuri Karin - Renai Fantasy.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:26:48Z"
+  "updated_at": "2026-04-02T02:38:53Z"
 }

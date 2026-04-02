@@ -3,6 +3,18 @@
   "name": "Kabocha",
   "tracks": [
     {
+      "title": "Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi",
+      "preview": "https://assets.ppy.sh/artists/345/Hacchi Pocchi Hitoribocchi/Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1934595
+        ]
+      }
+    },
+    {
       "title": "Grin Like A Cheshire Cat",
       "preview": "https://assets.ppy.sh/artists/345/SENTINEL/Kabocha - Grin Like A Cheshire Cat.mp3",
       "ranked_modes": [],
@@ -39,12 +51,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi",
-      "preview": "https://assets.ppy.sh/artists/345/Hacchi Pocchi Hitoribocchi/Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kabocha feat. miko - Yume no Kuni e",
       "preview": "https://assets.ppy.sh/artists/345/Hacchi Pocchi Hitoribocchi/Kabocha feat. miko - Yume no Kuni e.mp3",
       "ranked_modes": [],
@@ -63,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:30:44Z"
+  "updated_at": "2026-04-02T01:42:42Z"
 }

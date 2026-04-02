@@ -397,6 +397,50 @@
       }
     },
     {
+      "title": "t+pazolite feat. Kabocha - OPENING",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite feat. Kabocha - OPENING.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2180177
+        ],
+        "taiko": [
+          2121288
+        ],
+        "osu": [
+          2108634
+        ]
+      }
+    },
+    {
+      "title": "t+pazolite feat. Nanahira - Otsukimi PARTY HARD",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite feat. Nanahira - Otsukimi PARTY HARD.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2443256
+        ]
+      }
+    },
+    {
+      "title": "t+pazolite feat. Rizna - Distorted Lovesong (Full length)",
+      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/t%2Bpazolite feat. Rizna - Distorted Lovesong (Full length).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1959806
+        ]
+      }
+    },
+    {
       "title": "Bad Boy's missa",
       "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite - Bad Boy_s missa.mp3",
       "ranked_modes": [],
@@ -529,26 +573,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "t+pazolite feat. Kabocha - OPENING",
-      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite feat. Kabocha - OPENING.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "t+pazolite feat. Komiya Mao - Sugary Sweets",
       "preview": "https://assets.ppy.sh/artists/396/Ponko2 Girlish/t%2Bpazolite feat. Komiya Mao - Sugary Sweets.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "t+pazolite feat. Nanahira - Otsukimi PARTY HARD",
-      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite feat. Nanahira - Otsukimi PARTY HARD.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "t+pazolite feat. Rizna - Distorted Lovesong (Full length)",
-      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/t%2Bpazolite feat. Rizna - Distorted Lovesong (Full length).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -589,5 +615,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:11:17Z"
+  "updated_at": "2026-04-02T03:23:05Z"
 }

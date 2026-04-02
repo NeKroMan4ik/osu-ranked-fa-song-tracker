@@ -6,6 +6,7 @@
       "title": "KAGUTSUCHI",
       "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA_-_KAGUTSUCHI.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu",
         "taiko"
@@ -13,6 +14,9 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2345029
+        ],
+        "fruits": [
+          2198988
         ],
         "taiko": [
           2114688
@@ -177,5 +181,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:07:47Z"
+  "updated_at": "2026-04-02T00:19:08Z"
 }

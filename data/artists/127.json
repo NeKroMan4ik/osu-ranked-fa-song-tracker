@@ -3,6 +3,64 @@
   "name": "Aitsuki Nakuru",
   "tracks": [
     {
+      "title": "Feryquitous feat. Aitsuki Nakuru - Ether",
+      "preview": "https://assets.ppy.sh/artists/127/JelLaboratory/Feryquitous feat. Aitsuki Nakuru - Ether.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2077432
+        ],
+        "osu": [
+          902425,
+          1341385
+        ]
+      }
+    },
+    {
+      "title": "Feryquitous feat. Aitsuki Nakuru - Fake",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/Feryquitous feat. Aitsuki Nakuru - Fake.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2428547
+        ],
+        "osu": [
+          1146723,
+          1559330
+        ]
+      }
+    },
+    {
+      "title": "Minagu feat. Aitsuki Nakuru - Enamel no Butoukai",
+      "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Minagu feat. Aitsuki Nakuru - Enamel no Butoukai.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1929891
+        ]
+      }
+    },
+    {
+      "title": "Minagu feat. Aitsuki Nakuru - Theater Endroll",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Minagu feat. Aitsuki Nakuru - Theater Endroll.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1342280
+        ]
+      }
+    },
+    {
       "title": "A than_Lily feat. Aitsuki Nakuru - Presenter*",
       "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/A than_Lily feat. Aitsuki Nakuru - Presenter.mp3",
       "ranked_modes": [],
@@ -45,18 +103,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Feryquitous feat. Aitsuki Nakuru - Ether",
-      "preview": "https://assets.ppy.sh/artists/127/JelLaboratory/Feryquitous feat. Aitsuki Nakuru - Ether.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Feryquitous feat. Aitsuki Nakuru - Fake",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/Feryquitous feat. Aitsuki Nakuru - Fake.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kabocha feat. Aitsuki Nakuru - Joker Parade",
       "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Kabocha feat. Aitsuki Nakuru - Joker Parade.mp3",
       "ranked_modes": [],
@@ -71,18 +117,6 @@
     {
       "title": "lapix feat. Aitsuki Nakuru - Merry Merry Go Round",
       "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/lapix feat. Aitsuki Nakuru - Merry Merry Go Round.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Minagu feat. Aitsuki Nakuru - Enamel no Butoukai",
-      "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Minagu feat. Aitsuki Nakuru - Enamel no Butoukai.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Minagu feat. Aitsuki Nakuru - Theater Endroll",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Minagu feat. Aitsuki Nakuru - Theater Endroll.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -105,5 +139,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:12:06Z"
+  "updated_at": "2026-04-02T00:23:26Z"
 }

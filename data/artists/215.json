@@ -26,6 +26,22 @@
       }
     },
     {
+      "title": "Chroma feat. mikanzil - Koi no Kuuchuu Bunkai",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma feat. mikanzil - Koi no Kuuchuu Bunkai.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2120253
+        ],
+        "mania": [
+          2014990
+        ]
+      }
+    },
+    {
       "title": "Daisan Kuuchuu Jikken",
       "preview": "https://assets.ppy.sh/artists/215/Ai o Yorokobu Machi/Chroma - Daisan Kuuchuu Jikken.mp3",
       "ranked_modes": [
@@ -263,12 +279,6 @@
       }
     },
     {
-      "title": "Chroma feat. mikanzil - Koi no Kuuchuu Bunkai",
-      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma feat. mikanzil - Koi no Kuuchuu Bunkai.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Learn The Language",
       "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Learn The Language.mp3",
       "ranked_modes": [],
@@ -281,5 +291,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:42:27Z"
+  "updated_at": "2026-04-02T00:53:50Z"
 }

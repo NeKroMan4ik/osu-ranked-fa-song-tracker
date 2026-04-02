@@ -47,6 +47,59 @@
       }
     },
     {
+      "title": "you feat. nayuta - Color (2019 Reworks)",
+      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Color (2019 Reworks).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2089375,
+          2421045
+        ]
+      }
+    },
+    {
+      "title": "you feat. nayuta - Diamond Smile (2019 Reworks)",
+      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Diamond Smile (2019 Reworks).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2197689
+        ]
+      }
+    },
+    {
+      "title": "you feat. nayuta - Let's Jump! (2019 Reworks)",
+      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Let_s Jump! (2019 Reworks).mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2125961
+        ],
+        "taiko": [
+          1108981
+        ]
+      }
+    },
+    {
+      "title": "you feat. ugu - PAINTER",
+      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. ugu - PAINTER.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2305181
+        ]
+      }
+    },
+    {
       "title": "Marble Spray",
       "preview": "https://assets.ppy.sh/artists/389/Songs/you - Marble Spray.mp3",
       "ranked_modes": [],
@@ -69,31 +122,7 @@
       "preview": "https://assets.ppy.sh/artists/389/Songs/you - Sokka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "you feat. nayuta - Color (2019 Reworks)",
-      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Color (2019 Reworks).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "you feat. nayuta - Diamond Smile (2019 Reworks)",
-      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Diamond Smile (2019 Reworks).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "you feat. nayuta - Let's Jump! (2019 Reworks)",
-      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Let_s Jump! (2019 Reworks).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "you feat. ugu - PAINTER",
-      "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. ugu - PAINTER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:42:17Z"
+  "updated_at": "2026-04-02T03:53:51Z"
 }

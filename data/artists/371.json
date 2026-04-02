@@ -51,6 +51,30 @@
       }
     },
     {
+      "title": "Krimek feat. dokxid - Gravity Hole",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_feat._dokxid_-_Gravity_Hole.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1983505
+        ]
+      }
+    },
+    {
+      "title": "Krimek feat. michiri9 - Lunaria",
+      "preview": "https://assets.ppy.sh/artists/371/Lunaria/Krimek feat. michiri9 - Lunaria.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2469831
+        ]
+      }
+    },
+    {
       "title": "Lunar Eclipse",
       "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Lunar_Eclipse.mp3",
       "ranked_modes": [
@@ -135,12 +159,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Krimek feat. dokxid - Gravity Hole",
-      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_feat._dokxid_-_Gravity_Hole.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Krimek feat. eili - Silent Sentinel",
       "preview": "https://assets.ppy.sh/artists/371/Silent Sentinel/Krimek feat. eili - Silent Sentinel.mp3",
       "ranked_modes": [],
@@ -149,12 +167,6 @@
     {
       "title": "Krimek feat. Hexxone - Take Off",
       "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_feat._Hexxone_-_Take_Off.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Krimek feat. michiri9 - Lunaria",
-      "preview": "https://assets.ppy.sh/artists/371/Lunaria/Krimek feat. michiri9 - Lunaria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -237,5 +249,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:40:07Z"
+  "updated_at": "2026-04-02T01:52:04Z"
 }

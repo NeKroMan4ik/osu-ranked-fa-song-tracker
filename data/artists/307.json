@@ -3,6 +3,18 @@
   "name": "Mono.",
   "tracks": [
     {
+      "title": "Mono. (feat. Hatsune Miku) - Everlasting Game",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono._feat._Hatsune_Miku_-_Everlasting_Game.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1908891
+        ]
+      }
+    },
+    {
       "title": "Peaceful+Piece",
       "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - Peaceful%2BPiece.mp3",
       "ranked_modes": [
@@ -25,12 +37,6 @@
           2441208
         ]
       }
-    },
-    {
-      "title": "Mono. (feat. Hatsune Miku) - Everlasting Game",
-      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono._feat._Hatsune_Miku_-_Everlasting_Game.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ROCKET START",
@@ -63,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:02:43Z"
+  "updated_at": "2026-04-02T02:14:33Z"
 }

@@ -15,6 +15,19 @@
       }
     },
     {
+      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
+      "preview": "https://assets.ppy.sh/artists/438/Songs/ikaruga%27nex vs. Kagetora. - Grabinschrift der Goetter.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2318366,
+          2483755
+        ]
+      }
+    },
+    {
       "title": "Reimei",
       "preview": "https://assets.ppy.sh/artists/438/Songs/Kagetora. - Reimei.mp3",
       "ranked_modes": [
@@ -57,17 +70,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
-      "preview": "https://assets.ppy.sh/artists/438/Songs/ikaruga%27nex vs. Kagetora. - Grabinschrift der Goetter.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "SHIKI - Lapis (Kagetora. remix)",
       "preview": "https://assets.ppy.sh/artists/438/Songs/SHIKI - Lapis (Kagetora. remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:30:55Z"
+  "updated_at": "2026-04-02T01:42:54Z"
 }

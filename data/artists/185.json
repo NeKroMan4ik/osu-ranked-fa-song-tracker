@@ -316,6 +316,18 @@
       }
     },
     {
+      "title": "seatrus feat. Dadaco - diamond dust",
+      "preview": "https://assets.ppy.sh/artists/185/Loudly Cloudy/seatrus feat. Dadaco - diamond dust.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2210200
+        ]
+      }
+    },
+    {
       "title": "Soul Memory",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Soul_Memory.mp3",
       "ranked_modes": [
@@ -598,12 +610,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "seatrus feat. Dadaco - diamond dust",
-      "preview": "https://assets.ppy.sh/artists/185/Loudly Cloudy/seatrus feat. Dadaco - diamond dust.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "seatrus feat. Marumoko - Ori Yamanu Ame",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus feat. Marumoko - Ori Yamanu Ame.mp3",
       "ranked_modes": [],
@@ -676,5 +682,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:51:35Z"
+  "updated_at": "2026-04-02T03:03:25Z"
 }

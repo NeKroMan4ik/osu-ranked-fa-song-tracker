@@ -36,7 +36,8 @@
       "beatmapset_ids_by_mode": {
         "fruits": [
           1970965,
-          2398246
+          2398246,
+          2524832
         ],
         "osu": [
           1724057
@@ -62,5 +63,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T02:36:35Z"
+  "updated_at": "2026-04-02T03:48:11Z"
 }

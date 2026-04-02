@@ -89,6 +89,176 @@
       }
     },
     {
+      "title": "HyuN feat. Aerial - Exodus",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Aerial - Exodus.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1631931
+        ],
+        "osu": [
+          1069611
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. Ato - Asu wa Ame ga Yamukara",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Ato - Asu wa Ame ga Yamukara.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          891339,
+          1718085
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. JeeE - Fallen Angel",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. JeeE - Fallen Angel.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1141049
+        ],
+        "osu": [
+          891335
+        ],
+        "taiko": [
+          891335
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. LyuU - CROSS OVER",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. LyuU - CROSS OVER.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1972391
+        ],
+        "osu": [
+          891337,
+          922249,
+          1063700,
+          1209029,
+          1270122
+        ],
+        "fruits": [
+          1233114
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. Ms.Valentine - CROSS FATE",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Ms.Valentine - CROSS FATE.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2351935
+        ],
+        "taiko": [
+          1047632
+        ],
+        "osu": [
+          937247
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. Sennzai - Duplicity Shade",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2302059
+        ],
+        "mania": [
+          1698284,
+          1945255,
+          2220829
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. Syepias - CROSS SOUL",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Syepias - CROSS SOUL.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2167288,
+          2418706
+        ],
+        "taiko": [
+          2403124
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. Yu-A - My life is for you",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Yu-A - My life is for you.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          976311
+        ],
+        "osu": [
+          891417
+        ]
+      }
+    },
+    {
+      "title": "HyuN feat. YURI - Disorder",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. YURI - Disorder.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1636276
+        ],
+        "osu": [
+          891632,
+          1229471,
+          1632819
+        ],
+        "mania": [
+          1131640
+        ],
+        "taiko": [
+          1062977
+        ]
+      }
+    },
+    {
       "title": "Illusion of Inflict",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Illusion of Inflict.mp3",
       "ranked_modes": [
@@ -262,68 +432,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "HyuN feat. Aerial - Exodus",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Aerial - Exodus.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. Ato - Asu wa Ame ga Yamukara",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Ato - Asu wa Ame ga Yamukara.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. JeeE - Fallen Angel",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. JeeE - Fallen Angel.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "HyuN feat. JP-8 Eater - THE SERVANT OF EVIL",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. JP-8 Eater - THE SERVANT OF EVIL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "HyuN feat. LyuU - CROSS OVER",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. LyuU - CROSS OVER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. Ms.Valentine - CROSS FATE",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Ms.Valentine - CROSS FATE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "HyuN feat. rerone - Untitled Soul",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. rerone - Untitled Soul.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. Sennzai - Duplicity Shade",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. Syepias - CROSS SOUL",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Syepias - CROSS SOUL.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. Yu-A - My life is for you",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Yu-A - My life is for you.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "HyuN feat. YURI - Disorder",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. YURI - Disorder.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -424,5 +540,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:22:03Z"
+  "updated_at": "2026-04-02T01:34:02Z"
 }

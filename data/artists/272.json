@@ -28,6 +28,23 @@
       }
     },
     {
+      "title": "Hino Isuka vs. s-don - Glooorious!!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka vs. s-don - Glooorious!!.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1935691,
+          1998672
+        ],
+        "taiko": [
+          1972551
+        ]
+      }
+    },
+    {
       "title": "Wonderful Paradise",
       "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Wonderful Paradise.mp3",
       "ranked_modes": [
@@ -70,12 +87,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hino Isuka vs. s-don - Glooorious!!",
-      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka vs. s-don - Glooorious!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!",
       "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!.mp3",
       "ranked_modes": [],
@@ -100,5 +111,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:19:06Z"
+  "updated_at": "2026-04-02T01:30:49Z"
 }

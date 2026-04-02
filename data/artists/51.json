@@ -15,6 +15,70 @@
       }
     },
     {
+      "title": "AUTUMN+GHOST feat. Akira Complex - PURE FURY",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/AUTUMN%2BGHOST feat. Akira Complex - PURE FURY.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2020285
+        ]
+      }
+    },
+    {
+      "title": "Camellia vs. Akira Complex - Railgun Roulette",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Camellia vs. Akira Complex - Railgun Roulette.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1041146
+        ]
+      }
+    },
+    {
+      "title": "Camellia vs. Akira Complex - Railgun Roulette (VIP)",
+      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Railgun Roulette (VIP).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          694402
+        ]
+      }
+    },
+    {
+      "title": "Camellia vs. Akira Complex - Reality Distortion",
+      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Reality Distortion.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          997115,
+          2208390
+        ],
+        "mania": [
+          1992065,
+          2036440
+        ],
+        "fruits": [
+          2016764
+        ],
+        "osu": [
+          582089,
+          1016559,
+          1565791
+        ]
+      }
+    },
+    {
       "title": "Dying Scarlet",
       "preview": "https://assets.ppy.sh/artists/51/Break Stasis/Akira Complex - Dying Scarlet.mp3",
       "ranked_modes": [
@@ -121,32 +185,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "AUTUMN+GHOST feat. Akira Complex - PURE FURY",
-      "preview": "https://assets.ppy.sh/artists/51/Songs/AUTUMN%2BGHOST feat. Akira Complex - PURE FURY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia - d:for the DELTA (Akira Complex Remix)",
       "preview": "https://assets.ppy.sh/artists/51/Songs/Camellia - dfor the DELTA (Akira Complex Remix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia vs. Akira Complex - Railgun Roulette",
-      "preview": "https://assets.ppy.sh/artists/51/Songs/Camellia vs. Akira Complex - Railgun Roulette.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia vs. Akira Complex - Railgun Roulette (VIP)",
-      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Railgun Roulette (VIP).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia vs. Akira Complex - Reality Distortion",
-      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Reality Distortion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -241,5 +281,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-30T23:13:30Z"
+  "updated_at": "2026-04-02T00:24:51Z"
 }

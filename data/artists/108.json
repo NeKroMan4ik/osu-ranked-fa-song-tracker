@@ -3,6 +3,30 @@
   "name": "Morimori Atsushi",
   "tracks": [
     {
+      "title": "AAAA vs. Morimori Atsushi - Xrocus",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/AAAA vs. Morimori Atsushi - Xrocus.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1825537
+        ],
+        "osu": [
+          1508694
+        ],
+        "fruits": [
+          1419078
+        ],
+        "taiko": [
+          1183776
+        ]
+      }
+    },
+    {
       "title": "Alter Ego",
       "preview": "https://assets.ppy.sh/artists/108/previews/2814.mp3",
       "ranked_modes": [
@@ -101,6 +125,61 @@
         ],
         "taiko": [
           592095
+        ]
+      }
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - Noel",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2842.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1105266
+        ],
+        "osu": [
+          999235
+        ]
+      }
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - Noel (long ver.)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2841.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          951273,
+          1483009
+        ],
+        "taiko": [
+          705224,
+          948070
+        ],
+        "osu": [
+          705224
+        ]
+      }
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - Sweet* Witch* Girl*",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2843.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          636160,
+          1401516
+        ],
+        "taiko": [
+          1316609
         ]
       }
     },
@@ -225,6 +304,74 @@
       }
     },
     {
+      "title": "uma vs. Morimori Atsushi - Kibou no Hoshi wa Seishou ni Noboru (uma vs. Morimori Atsushi Remix)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2846.mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2000358
+        ],
+        "taiko": [
+          1351589
+        ]
+      }
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Re: End of a Dream",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/uma_vs._Morimori_Atsushi_-_Re_End_of_a_Dream.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1897902
+        ]
+      }
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Re: End of a Dream (Long Ver.)",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/uma_vs._Morimori_Atsushi_-_Re_End_of_a_Dream_Long_Ver..mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2017836
+        ],
+        "taiko": [
+          1967200
+        ]
+      }
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Record one's Dream",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/uma vs. Morimori Atsushi - Record one%27s Dream.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2304138
+        ]
+      }
+    },
+    {
+      "title": "Umeboshi Chazuke vs. Morimori Atsushi - Pico*2 Funkoter*",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Umeboshi Chazuke vs. Morimori Atsushi - Pico2 Funkoter.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1061110
+        ]
+      }
+    },
+    {
       "title": "un secret",
       "preview": "https://assets.ppy.sh/artists/108/previews/2839.mp3",
       "ranked_modes": [
@@ -235,12 +382,6 @@
           2236105
         ]
       }
-    },
-    {
-      "title": "AAAA vs. Morimori Atsushi - Xrocus",
-      "preview": "https://assets.ppy.sh/artists/108/Songs/AAAA vs. Morimori Atsushi - Xrocus.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aduh!",
@@ -309,26 +450,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Morimori Atsushi vs. uma - Noel",
-      "preview": "https://assets.ppy.sh/artists/108/previews/2842.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Morimori Atsushi vs. uma - Noel (long ver.)",
-      "preview": "https://assets.ppy.sh/artists/108/previews/2841.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Morimori Atsushi vs. uma - Noel -Nordic Nation Edit-",
       "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi vs. uma - Noel -Nordic Nation Edit-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Morimori Atsushi vs. uma - Sweet* Witch* Girl*",
-      "preview": "https://assets.ppy.sh/artists/108/previews/2843.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -405,30 +528,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "uma vs. Morimori Atsushi - Kibou no Hoshi wa Seishou ni Noboru (uma vs. Morimori Atsushi Remix)",
-      "preview": "https://assets.ppy.sh/artists/108/previews/2846.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "uma vs. Morimori Atsushi - Re: End of a Dream",
-      "preview": "https://assets.ppy.sh/artists/108/Songs/uma_vs._Morimori_Atsushi_-_Re_End_of_a_Dream.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "uma vs. Morimori Atsushi - Re: End of a Dream (Long Ver.)",
-      "preview": "https://assets.ppy.sh/artists/108/Songs/uma_vs._Morimori_Atsushi_-_Re_End_of_a_Dream_Long_Ver..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "uma vs. Morimori Atsushi - Record one's Dream",
-      "preview": "https://assets.ppy.sh/artists/108/Songs/uma vs. Morimori Atsushi - Record one%27s Dream.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "uma vs. Morimori Atsushi - Shooting Star feat. Risa Yuzuki",
       "preview": "https://assets.ppy.sh/artists/108/Songs/uma vs. Morimori Atsushi - Shooting Star feat. Risa Yuzuki.mp3",
       "ranked_modes": [],
@@ -453,17 +552,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Umeboshi Chazuke vs. Morimori Atsushi - Pico*2 Funkoter*",
-      "preview": "https://assets.ppy.sh/artists/108/Songs/Umeboshi Chazuke vs. Morimori Atsushi - Pico2 Funkoter.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "un deux trois...",
       "preview": "https://assets.ppy.sh/artists/108/previews/2838.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T01:06:13Z"
+  "updated_at": "2026-04-02T02:18:03Z"
 }

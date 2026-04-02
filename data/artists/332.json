@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Glint",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Glint.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2298796
+        ]
+      }
+    },
+    {
       "title": "Glory Days",
       "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Glory Days.mp3",
       "ranked_modes": [
@@ -80,12 +92,6 @@
       }
     },
     {
-      "title": "Glint",
-      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Glint.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Oak and Ash",
       "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Oak and Ash.mp3",
       "ranked_modes": [],
@@ -110,5 +116,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:05:30Z"
+  "updated_at": "2026-04-02T01:17:10Z"
 }

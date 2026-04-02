@@ -55,6 +55,32 @@
       }
     },
     {
+      "title": "Gram vs. Kobaryo - Yggdrasil",
+      "preview": "https://assets.ppy.sh/artists/96/Songs/Gram_vs._Kobaryo_-_Yggdrasil.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2000386
+        ],
+        "taiko": [
+          766161,
+          959204,
+          1891674
+        ],
+        "osu": [
+          1769889
+        ],
+        "mania": [
+          737273
+        ]
+      }
+    },
+    {
       "title": "HUG AND KILL",
       "preview": "https://assets.ppy.sh/artists/96/Songs/Kobaryo_-_HUG_AND_KILL.mp3",
       "ranked_modes": [
@@ -280,12 +306,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Gram vs. Kobaryo - Yggdrasil",
-      "preview": "https://assets.ppy.sh/artists/96/Songs/Gram_vs._Kobaryo_-_Yggdrasil.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)",
       "preview": "https://assets.ppy.sh/artists/96/Songs/Kobaryo__Matatabi_Sound_System__DJ_NECOJITA__Shinonome_IF__blaxervant_-_HARD-COREMATA_HVS_VER..mp3",
       "ranked_modes": [],
@@ -310,5 +330,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-31T00:38:23Z"
+  "updated_at": "2026-04-02T01:50:21Z"
 }

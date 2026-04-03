@@ -3,6 +3,18 @@
   "name": "Sobrem",
   "tracks": [
     {
+      "title": "Sobrem & NIWASHI - A fight in Tunisia",
+      "preview": "https://assets.ppy.sh/artists/338/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2234592
+        ]
+      }
+    },
+    {
       "title": "2anyFirst",
       "preview": "https://assets.ppy.sh/artists/338/2anyFirst/Sobrem - 2anyFirst.mp3",
       "ranked_modes": [],
@@ -17,12 +29,6 @@
     {
       "title": "Lidelle x Sobrem x Sennzai - self-dissociation",
       "preview": "https://assets.ppy.sh/artists/338/self-dissociation/Lidelle x Sobrem x Sennzai - self-dissociation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sobrem & NIWASHI - A fight in Tunisia",
-      "preview": "https://assets.ppy.sh/artists/338/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -63,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:11:18Z"
+  "updated_at": "2026-04-02T22:19:12Z"
 }

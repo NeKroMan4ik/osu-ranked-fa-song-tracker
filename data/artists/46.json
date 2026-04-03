@@ -15,6 +15,64 @@
       }
     },
     {
+      "title": "Billain & Kodin - Feed For Speed",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Kodin - Feed For Speed.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1213713
+        ]
+      }
+    },
+    {
+      "title": "Billain & Malux - Extraction",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Malux - Extraction.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          878508,
+          2295594
+        ]
+      }
+    },
+    {
+      "title": "Billain & NickBee - Extrasensory",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 NickBee - Extrasensory.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          504511
+        ]
+      }
+    },
+    {
+      "title": "Billain & Vorso - Transhumanist",
+      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain__Vorso_-_Transhumanist.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1642521,
+          2165052
+        ],
+        "taiko": [
+          1069426
+        ],
+        "mania": [
+          1069426
+        ]
+      }
+    },
+    {
       "title": "Boogie",
       "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Boogie.mp3",
       "ranked_modes": [
@@ -51,38 +109,14 @@
       }
     },
     {
-      "title": "Billain & Kodin - Feed For Speed",
-      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Kodin - Feed For Speed.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Billain & Kursa - NEWGROOVEORDER",
       "preview": "https://assets.ppy.sh/artists/46/Lands Unbreached/Billain %26 Kursa - NEWGROOVEORDER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Billain & Malux - Extraction",
-      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Malux - Extraction.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Billain & NickBee - Extrasensory",
-      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 NickBee - Extrasensory.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Billain & Vegas - Shinde",
       "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Vegas - Shinde.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Billain & Vorso - Transhumanist",
-      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain__Vorso_-_Transhumanist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -171,5 +205,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:39:16Z"
+  "updated_at": "2026-04-02T21:46:00Z"
 }

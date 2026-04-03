@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "METAROOM & TELEMIST - DOG BUS",
+      "preview": "https://assets.ppy.sh/artists/206/DOG BUS/METAROOM %26 TELEMIST - DOG BUS.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2379880
+        ]
+      }
+    },
+    {
       "title": "OUT OF CONTROL",
       "preview": "https://assets.ppy.sh/artists/206/SWEET GENESIS/METAROOM - OUT OF CONTROL.mp3",
       "ranked_modes": [
@@ -97,12 +109,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "METAROOM & TELEMIST - DOG BUS",
-      "preview": "https://assets.ppy.sh/artists/206/DOG BUS/METAROOM %26 TELEMIST - DOG BUS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "STAR FACTORY",
       "preview": "https://assets.ppy.sh/artists/206/SWEET GENESIS/METAROOM - STAR FACTORY.mp3",
       "ranked_modes": [],
@@ -133,5 +139,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:11:28Z"
+  "updated_at": "2026-04-02T22:06:18Z"
 }

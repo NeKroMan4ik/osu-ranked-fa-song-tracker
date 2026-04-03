@@ -3,6 +3,51 @@
   "name": "aran",
   "tracks": [
     {
+      "title": "aran & Kobaryo - While Shining feat. yukacco",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 Kobaryo - While Shining feat. yukacco.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1012649
+        ]
+      }
+    },
+    {
+      "title": "aran & lapix - KALACAKLA",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 lapix - KALACAKLA.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2071593
+        ],
+        "taiko": [
+          1908824
+        ],
+        "osu": [
+          1773829
+        ]
+      }
+    },
+    {
+      "title": "aran & t+pazolite - Chobit Flavor",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 t%2Bpazolite - Chobit Flavor.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          723975,
+          1098377
+        ]
+      }
+    },
+    {
       "title": "Back 2 Life",
       "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Back 2 Life.mp3",
       "ranked_modes": [
@@ -98,24 +143,6 @@
       }
     },
     {
-      "title": "aran & Kobaryo - While Shining feat. yukacco",
-      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 Kobaryo - While Shining feat. yukacco.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "aran & lapix - KALACAKLA",
-      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 lapix - KALACAKLA.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "aran & t+pazolite - Chobit Flavor",
-      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 t%2Bpazolite - Chobit Flavor.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "aran vs USAO - Shizuku",
       "preview": "https://assets.ppy.sh/artists/282/Songs/aran vs USAO - Shizuku.mp3",
       "ranked_modes": [],
@@ -176,5 +203,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:32:39Z"
+  "updated_at": "2026-04-02T21:44:32Z"
 }

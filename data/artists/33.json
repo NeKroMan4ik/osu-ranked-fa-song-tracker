@@ -89,6 +89,19 @@
       }
     },
     {
+      "title": "HyuN & Ritoru - Apocalypse in Love",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN %26 Ritoru - Apocalypse in Love.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          891338,
+          1071677
+        ]
+      }
+    },
+    {
       "title": "HyuN feat. Aerial - Exodus",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Aerial - Exodus.mp3",
       "ranked_modes": [
@@ -129,10 +142,10 @@
         "fruits": [
           1141049
         ],
-        "osu": [
+        "taiko": [
           891335
         ],
-        "taiko": [
+        "osu": [
           891335
         ]
       }
@@ -426,12 +439,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "HyuN & Ritoru - Apocalypse in Love",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN %26 Ritoru - Apocalypse in Love.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "HyuN feat. JP-8 Eater - THE SERVANT OF EVIL",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. JP-8 Eater - THE SERVANT OF EVIL.mp3",
       "ranked_modes": [],
@@ -540,5 +547,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:34:02Z"
+  "updated_at": "2026-04-02T21:57:44Z"
 }

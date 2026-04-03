@@ -3,17 +3,23 @@
   "name": "Yuuni",
   "tracks": [
     {
+      "title": "Quarkee & Yuuni - Fabricated Exaltation",
+      "preview": "https://assets.ppy.sh/artists/408/Songs/Quarkee__Yuuni_-_Fabricated_Exaltation.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2169950
+        ]
+      }
+    },
+    {
       "title": "Frozen Blood",
       "preview": "https://assets.ppy.sh/artists/408/Songs/Yuuni - Frozen Blood.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Quarkee & Yuuni - Fabricated Exaltation",
-      "preview": "https://assets.ppy.sh/artists/408/Songs/Quarkee__Yuuni_-_Fabricated_Exaltation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:55:16Z"
+  "updated_at": "2026-04-02T22:28:48Z"
 }

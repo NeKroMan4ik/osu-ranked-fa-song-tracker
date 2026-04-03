@@ -3,6 +3,32 @@
   "name": "Fractal",
   "tracks": [
     {
+      "title": "Au5 & Fractal - Blue",
+      "preview": "https://assets.ppy.sh/artists/313/Secret Weapon/Au5 %26 Fractal - Blue.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          305381,
+          697327,
+          763015
+        ]
+      }
+    },
+    {
+      "title": "Au5 & Fractal - Halcyon",
+      "preview": "https://assets.ppy.sh/artists/313/Monstercat 013 - Awakening/Au5 %26 Fractal - Halcyon.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1135050
+        ]
+      }
+    },
+    {
       "title": "Collide (feat. Danyka Nadeau)",
       "preview": "https://assets.ppy.sh/artists/313/Gaia/Fractal - Collide (feat. Danyka Nadeau).mp3",
       "ranked_modes": [
@@ -37,19 +63,7 @@
           942117
         ]
       }
-    },
-    {
-      "title": "Au5 & Fractal - Blue",
-      "preview": "https://assets.ppy.sh/artists/313/Secret Weapon/Au5 %26 Fractal - Blue.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Au5 & Fractal - Halcyon",
-      "preview": "https://assets.ppy.sh/artists/313/Monstercat 013 - Awakening/Au5 %26 Fractal - Halcyon.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:17:51Z"
+  "updated_at": "2026-04-02T21:54:16Z"
 }

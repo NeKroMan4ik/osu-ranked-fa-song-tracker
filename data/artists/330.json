@@ -3,6 +3,30 @@
   "name": "nyankobrq",
   "tracks": [
     {
+      "title": "nyankobrq & yaca - twinkle night (feat. somunia)",
+      "preview": "https://assets.ppy.sh/artists/330/Songs/nyankobrq _ yaca - twinkle night (feat. somunia).mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2451061
+        ],
+        "fruits": [
+          2329391
+        ],
+        "mania": [
+          2266557
+        ],
+        "osu": [
+          1684705
+        ]
+      }
+    },
+    {
       "title": "Snorkel",
       "preview": "https://assets.ppy.sh/artists/330/Songs/nyankobrq - Snorkel.mp3",
       "ranked_modes": [
@@ -31,13 +55,7 @@
       "preview": "https://assets.ppy.sh/artists/330/Songs/nyankobrq - Memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "nyankobrq & yaca - twinkle night (feat. somunia)",
-      "preview": "https://assets.ppy.sh/artists/330/Songs/nyankobrq _ yaca - twinkle night (feat. somunia).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:27:04Z"
+  "updated_at": "2026-04-02T22:09:45Z"
 }

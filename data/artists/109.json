@@ -3,6 +3,23 @@
   "name": "Joe Ford",
   "tracks": [
     {
+      "title": "Culprate & Joe Ford - Gaucho",
+      "preview": "https://assets.ppy.sh/artists/29/previews/629.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          936234,
+          937645
+        ],
+        "osu": [
+          847776
+        ]
+      }
+    },
+    {
       "title": "Villain",
       "preview": "https://assets.ppy.sh/artists/109/previews/2885.mp3",
       "ranked_modes": [
@@ -53,12 +70,6 @@
     {
       "title": "Cosine",
       "preview": "https://assets.ppy.sh/artists/109/previews/2859.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate & Joe Ford - Gaucho",
-      "preview": "https://assets.ppy.sh/artists/29/previews/629.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -237,5 +248,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:40:49Z"
+  "updated_at": "2026-04-02T21:59:14Z"
 }

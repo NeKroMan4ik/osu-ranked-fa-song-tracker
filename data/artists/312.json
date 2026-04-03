@@ -3,6 +3,32 @@
   "name": "Au5",
   "tracks": [
     {
+      "title": "Au5 & Fractal - Blue",
+      "preview": "https://assets.ppy.sh/artists/312/Secret Weapon/Au5 %26 Fractal - Blue.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          305381,
+          697327,
+          763015
+        ]
+      }
+    },
+    {
+      "title": "Au5 & Fractal - Halcyon",
+      "preview": "https://assets.ppy.sh/artists/312/Monstercat 013 - Awakening/Au5 %26 Fractal - Halcyon.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1135050
+        ]
+      }
+    },
+    {
       "title": "Blossom",
       "preview": "https://assets.ppy.sh/artists/312/Blossom EP/Au5 - Blossom.mp3",
       "ranked_modes": [
@@ -11,6 +37,33 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1186559
+        ]
+      }
+    },
+    {
+      "title": "Culprate & Au5 - Impulse",
+      "preview": "https://assets.ppy.sh/artists/312/Unity Project pt. 2/Culprate %26 Au5 - Impulse.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          751401,
+          1726063
+        ],
+        "mania": [
+          1297543,
+          1349658
+        ],
+        "fruits": [
+          725601
+        ],
+        "osu": [
+          703926,
+          705788
         ]
       }
     },
@@ -45,26 +98,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Au5 & Fractal - Blue",
-      "preview": "https://assets.ppy.sh/artists/312/Secret Weapon/Au5 %26 Fractal - Blue.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Au5 & Fractal - Halcyon",
-      "preview": "https://assets.ppy.sh/artists/312/Monstercat 013 - Awakening/Au5 %26 Fractal - Halcyon.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Au5 & Nytrix - Always in a Nightmare",
       "preview": "https://assets.ppy.sh/artists/312/Always in a Nightmare/Au5 %26 Nytrix - Always in a Nightmare.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate & Au5 - Impulse",
-      "preview": "https://assets.ppy.sh/artists/312/Unity Project pt. 2/Culprate %26 Au5 - Impulse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -75,5 +110,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:36:42Z"
+  "updated_at": "2026-04-02T21:45:27Z"
 }

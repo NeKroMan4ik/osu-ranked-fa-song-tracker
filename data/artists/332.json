@@ -80,13 +80,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
+        "taiko": [
           2489329
         ],
         "osu": [
           2489329
         ],
-        "taiko": [
+        "fruits": [
           2489329
         ]
       }
@@ -116,5 +116,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:17:10Z"
+  "updated_at": "2026-04-02T21:54:06Z"
 }

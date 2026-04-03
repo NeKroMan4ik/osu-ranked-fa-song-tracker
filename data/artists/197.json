@@ -34,19 +34,45 @@
       }
     },
     {
-      "title": "Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara",
-      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara.mp3",
+      "title": "Harumaki Gohan feat. Hatsune Miku - Saikai",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Saikai.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
         "fruits": [
-          1595412
+          1724432
+        ],
+        "osu": [
+          1602654
+        ]
+      }
+    },
+    {
+      "title": "Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1990123
+        ],
+        "taiko": [
+          1477941,
+          1718774
         ],
         "osu": [
           1215982,
-          1344515
+          1344515,
+          1654195
+        ],
+        "fruits": [
+          1595412
         ]
       }
     },
@@ -54,9 +80,13 @@
       "title": "Harumaki Gohan feat. Hatsune Miku - Yakusoku",
       "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Yakusoku.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1749417
+        ],
         "fruits": [
           1463668
         ]
@@ -172,12 +202,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Harumaki Gohan feat. Hatsune Miku - Saikai",
-      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Saikai.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Harumaki Gohan feat. Hatsune Miku - Sekai ga Owaru no yo",
       "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Sekai ga Owaru no yo.mp3",
       "ranked_modes": [],
@@ -190,5 +214,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:27:29Z"
+  "updated_at": "2026-04-02T21:56:24Z"
 }

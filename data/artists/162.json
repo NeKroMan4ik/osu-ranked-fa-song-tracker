@@ -3,6 +3,38 @@
   "name": "miraie",
   "tracks": [
     {
+      "title": "Milkoi & miraie - Solemnity",
+      "preview": "https://assets.ppy.sh/artists/162/Somnolent/Milkoi & miraie - Solemnity.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1808304
+        ]
+      }
+    },
+    {
+      "title": "miraie & blackwinterwells - facade",
+      "preview": "https://assets.ppy.sh/artists/162/facade/miraie & blackwinterwells - facade.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2055329
+        ],
+        "taiko": [
+          1617724
+        ],
+        "osu": [
+          1320542
+        ]
+      }
+    },
+    {
       "title": "miraie - heal",
       "preview": "https://assets.ppy.sh/artists/162/heal/miraie - heal.mp3",
       "ranked_modes": [
@@ -55,6 +87,18 @@
       }
     },
     {
+      "title": "yuju, kid sora, colton, & miraie - feelings",
+      "preview": "https://assets.ppy.sh/artists/162/feelings/yuju_kid_sora_colton__miraie_-_feelings.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1345859
+        ]
+      }
+    },
+    {
       "title": "cute girls doing cute things - I like cute girls (with Miraie)",
       "preview": "https://assets.ppy.sh/artists/162/i like cute girls/cute girls doing cute things - I like cute girls (with Miraie).mp3",
       "ranked_modes": [],
@@ -63,18 +107,6 @@
     {
       "title": "kuru x miraie - re:start",
       "preview": "https://assets.ppy.sh/artists/162/Songs/kuru%20x%20miraie%20-%20restart%20%28space%20%2B%20kuru%29.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Milkoi & miraie - Solemnity",
-      "preview": "https://assets.ppy.sh/artists/162/Somnolent/Milkoi & miraie - Solemnity.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "miraie & blackwinterwells - facade",
-      "preview": "https://assets.ppy.sh/artists/162/facade/miraie & blackwinterwells - facade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -125,13 +157,7 @@
       "preview": "https://assets.ppy.sh/artists/162/for real world/yandere feat. miraie & kid sora - for real world .mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "yuju, kid sora, colton, & miraie - feelings",
-      "preview": "https://assets.ppy.sh/artists/162/feelings/yuju_kid_sora_colton__miraie_-_feelings.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:13:40Z"
+  "updated_at": "2026-04-02T22:06:49Z"
 }

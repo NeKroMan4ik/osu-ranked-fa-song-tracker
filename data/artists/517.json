@@ -3,6 +3,18 @@
   "name": "Stariah",
   "tracks": [
     {
+      "title": "Stariah & ColBreakz - Dreams",
+      "preview": "https://assets.ppy.sh/artists/517/Stellar Aura/Stariah %26 ColBreakz - Dreams.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2428963
+        ]
+      }
+    },
+    {
       "title": "Celestial",
       "preview": "https://assets.ppy.sh/artists/517/Stellar Aura/Stariah - Celestial.mp3",
       "ranked_modes": [],
@@ -57,12 +69,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Stariah & ColBreakz - Dreams",
-      "preview": "https://assets.ppy.sh/artists/517/Stellar Aura/Stariah %26 ColBreakz - Dreams.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Stariah & INDX8 - Eclipse",
       "preview": "https://assets.ppy.sh/artists/517/Stellar Aura/Stariah %26 INDX8 - Eclipse.mp3",
       "ranked_modes": [],
@@ -99,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:15:19Z"
+  "updated_at": "2026-04-02T22:20:05Z"
 }

@@ -3,6 +3,18 @@
   "name": "Aether",
   "tracks": [
     {
+      "title": "Aether & Sizzlebird - Raccoon City (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/191/Raccoon City/Aether %26 Sizzlebird - Raccoon City (feat. Veela).mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2133228
+        ]
+      }
+    },
+    {
       "title": "Aether & Ekcle - Everything The Light Graces",
       "preview": "https://assets.ppy.sh/artists/191/Nexus II/Aether %26 Ekcle - Everything The Light Graces.mp3",
       "ranked_modes": [],
@@ -11,12 +23,6 @@
     {
       "title": "Aether & Ekcle - Gloom.8",
       "preview": "https://assets.ppy.sh/artists/191/Nexus/Aether %26 Ekcle - Gloom.8.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aether & Sizzlebird - Raccoon City (feat. Veela)",
-      "preview": "https://assets.ppy.sh/artists/191/Raccoon City/Aether %26 Sizzlebird - Raccoon City (feat. Veela).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -87,5 +93,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:21:31Z"
+  "updated_at": "2026-04-02T21:42:04Z"
 }

@@ -59,6 +59,22 @@
       }
     },
     {
+      "title": "ToYou & DJ Raisei - ADHD",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/ToYou %26 DJ Raisei - ADHD.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1948527
+        ],
+        "fruits": [
+          1789527
+        ]
+      }
+    },
+    {
       "title": "#Kurutta Minzoku AGNIKAYANIZM",
       "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - %23Kurutta Minzoku AGNIKAYANIZM.mp3",
       "ranked_modes": [],
@@ -95,12 +111,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ToYou & DJ Raisei - ADHD",
-      "preview": "https://assets.ppy.sh/artists/204/Songs/ToYou %26 DJ Raisei - ADHD.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "TWC Sound Team \"Strike Back Squad\" - BUZZ CUTZ",
       "preview": "https://assets.ppy.sh/artists/204/Songs/TWC_Sound_Team_Strike_Back_Squad_-_BUZZ_CUTZ.mp3",
       "ranked_modes": [],
@@ -113,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:07:29Z"
+  "updated_at": "2026-04-02T21:51:53Z"
 }

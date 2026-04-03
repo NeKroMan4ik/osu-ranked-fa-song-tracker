@@ -3,6 +3,18 @@
   "name": "WEARY",
   "tracks": [
     {
+      "title": "WEARY & IlluminatedGalaxy - Journey",
+      "preview": "https://assets.ppy.sh/artists/460/Journey/WEARY %26 IlluminatedGalaxy - Journey.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2216028
+        ]
+      }
+    },
+    {
       "title": "Febbs! - Remain Standing (1NFR4CT1ON & WEARY Chill Mix)",
       "preview": "https://assets.ppy.sh/artists/460/Save the Spectrum Remixes/Febbs! - Remain Standing (1NFR4CT1ON %26 WEARY Chill Mix).mp3",
       "ranked_modes": [],
@@ -69,12 +81,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "WEARY & IlluminatedGalaxy - Journey",
-      "preview": "https://assets.ppy.sh/artists/460/Journey/WEARY %26 IlluminatedGalaxy - Journey.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "WEARY x IlluminatedGalaxy - Compassvale",
       "preview": "https://assets.ppy.sh/artists/460/Compassvale/WEARY x IlluminatedGalaxy - Compassvale.mp3",
       "ranked_modes": [],
@@ -87,5 +93,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:47:15Z"
+  "updated_at": "2026-04-02T22:27:00Z"
 }

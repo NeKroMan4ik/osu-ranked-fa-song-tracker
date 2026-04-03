@@ -3,14 +3,24 @@
   "name": "Hybrid Minds",
   "tracks": [
     {
-      "title": "Fire (feat. Stevie Parker)",
-      "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds - Fire (feat. Stevie Parker).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hybrid Minds & Fred V - Drowning In You",
       "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds %26 Fred V - Drowning In You.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1866910
+        ],
+        "osu": [
+          1603851
+        ]
+      }
+    },
+    {
+      "title": "Fire (feat. Stevie Parker)",
+      "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds - Fire (feat. Stevie Parker).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -33,5 +43,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:31:15Z"
+  "updated_at": "2026-04-02T21:57:13Z"
 }

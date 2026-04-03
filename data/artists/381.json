@@ -3,18 +3,6 @@
   "name": "Corsace",
   "tracks": [
     {
-      "title": "Kagetora. vs. ikaruga_nex - Gott der Apokalypse",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2024/Kagetora. vs. ikaruga%27nex - Gott der Apokalypse.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2226230
-        ]
-      }
-    },
-    {
       "title": "Aethoro - Inertia Split",
       "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Aethoro - Inertia Split.mp3",
       "ranked_modes": [],
@@ -47,6 +35,12 @@
     {
       "title": "Kabocha - Draw me a map, Let me feel the tap (off vocal)",
       "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Kabocha - Draw me a map%2C Let me feel the tap (off vocal).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kagetora. vs. ikaruga_nex - Gott der Apokalypse",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2024/Kagetora. vs. ikaruga%27nex - Gott der Apokalypse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -111,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:55:24Z"
+  "updated_at": "2026-04-02T21:49:24Z"
 }

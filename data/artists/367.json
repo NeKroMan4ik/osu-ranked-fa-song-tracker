@@ -56,6 +56,19 @@
       }
     },
     {
+      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2424891,
+          2433249
+        ]
+      }
+    },
+    {
       "title": "Ruin in Cascade",
       "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Ruin_in_Cascade.mp3",
       "ranked_modes": [
@@ -107,12 +120,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
-      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "kanemiko feat. usagidenki - Impermanence",
       "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_feat._usagidenki_-_Impermanence.mp3",
       "ranked_modes": [],
@@ -143,5 +150,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:43:38Z"
+  "updated_at": "2026-04-02T21:59:52Z"
 }

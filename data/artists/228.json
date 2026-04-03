@@ -55,6 +55,18 @@
       }
     },
     {
+      "title": "Sobrem & NIWASHI - A fight in Tunisia",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2234592
+        ]
+      }
+    },
+    {
       "title": "The Fascinating Cat's Eye",
       "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - The Fascinating Cat%27s Eye.mp3",
       "ranked_modes": [
@@ -121,12 +133,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sobrem & NIWASHI - A fight in Tunisia",
-      "preview": "https://assets.ppy.sh/artists/228/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "T_ritama Breaker",
       "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - T_ritama Breaker.mp3",
       "ranked_modes": [],
@@ -163,5 +169,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T02:25:19Z"
+  "updated_at": "2026-04-02T22:09:21Z"
 }

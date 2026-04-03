@@ -84,10 +84,10 @@
         "fruits": [
           2137143
         ],
-        "osu": [
+        "taiko": [
           27752
         ],
-        "taiko": [
+        "osu": [
           27752
         ]
       }
@@ -288,10 +288,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
+        "taiko": [
           42669
         ],
-        "taiko": [
+        "osu": [
           42669
         ]
       }
@@ -393,6 +393,18 @@
         ],
         "taiko": [
           680385
+        ]
+      }
+    },
+    {
+      "title": "t+pazolite & Komiya Mao - Elustametat",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite _ Komiya Mao - Elustametat.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2117392
         ]
       }
     },
@@ -567,12 +579,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "t+pazolite & Komiya Mao - Elustametat",
-      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite _ Komiya Mao - Elustametat.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "t+pazolite feat. Komiya Mao - Sugary Sweets",
       "preview": "https://assets.ppy.sh/artists/396/Ponko2 Girlish/t%2Bpazolite feat. Komiya Mao - Sugary Sweets.mp3",
       "ranked_modes": [],
@@ -615,5 +621,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:23:05Z"
+  "updated_at": "2026-04-02T22:21:46Z"
 }

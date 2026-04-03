@@ -31,6 +31,34 @@
       }
     },
     {
+      "title": "BilliumMoto & Dictate - 1KARUGA",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto %26 Dictate - 1KARUGA.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1976834
+        ]
+      }
+    },
+    {
+      "title": "BilliumMoto & Miyolophone - IX's Shadow",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto__Miyolophone_-_IXs_Shadow.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2421957
+        ],
+        "taiko": [
+          1827828
+        ]
+      }
+    },
+    {
       "title": "four veiled stars",
       "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - four veiled stars.mp3",
       "ranked_modes": [
@@ -146,18 +174,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BilliumMoto & Dictate - 1KARUGA",
-      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto %26 Dictate - 1KARUGA.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BilliumMoto & Miyolophone - IX's Shadow",
-      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto__Miyolophone_-_IXs_Shadow.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BilliumMoto x Akiri - Cryochemistry",
       "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_x_Akiri_-_Cryochemistry.mp3",
       "ranked_modes": [],
@@ -242,5 +258,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:39:56Z"
+  "updated_at": "2026-04-02T21:46:08Z"
 }

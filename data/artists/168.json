@@ -6,9 +6,13 @@
       "title": "A-One feat. Aki & Rute - Drive Your Fire",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 16 ETERNAL NIGHT VIGNETTE/A-One feat. Aki & Rute - Drive Your Fire.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          1480185
+        ],
         "osu": [
           1955038
         ]
@@ -24,6 +28,18 @@
         "osu": [
           2112194,
           2267353
+        ]
+      }
+    },
+    {
+      "title": "A-One feat. Aki - Wanna Be My Dream",
+      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT presents THE REVIVAL MIX/A-One feat. Aki - Wanna Be My Dream.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1840481
         ]
       }
     },
@@ -76,9 +92,13 @@
       "title": "A-One feat. Rute - Spider's Blood",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 8 SUBTERRANEAN ANIMISM/A-One feat. Rute - Spider's Blood.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          832564
+        ],
         "mania": [
           2037983
         ]
@@ -178,12 +198,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "A-One feat. Aki - Wanna Be My Dream",
-      "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT presents THE REVIVAL MIX/A-One feat. Aki - Wanna Be My Dream.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "A-One feat. Aki - Zenmai Koidokei (T.E.B Summer Mix)",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 4 PERFECT CHERRY BLOSSOM/A-One feat. Aki - Zenmai Koidokei (T.E.B Summer Mix).mp3",
       "ranked_modes": [],
@@ -238,5 +252,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:18:50Z"
+  "updated_at": "2026-04-02T21:41:29Z"
 }

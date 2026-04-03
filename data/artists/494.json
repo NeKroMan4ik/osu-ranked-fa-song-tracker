@@ -5,9 +5,15 @@
     {
       "title": "Sad Keyboard Guy & Myntian - Void//Shader (feat. xia)",
       "preview": "https://assets.ppy.sh/artists/494/Songs/Sad Keyboard Guy %26 Myntian - VoidShader (feat. xia).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2428561
+        ]
+      }
     }
   ],
-  "updated_at": "2026-04-02T02:59:55Z"
+  "updated_at": "2026-04-02T22:16:46Z"
 }

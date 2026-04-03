@@ -3,6 +3,119 @@
   "name": "Culprate",
   "tracks": [
     {
+      "title": "Culprate & Au5 - Impulse",
+      "preview": "https://assets.ppy.sh/artists/29/previews/625.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          751401,
+          1726063
+        ],
+        "mania": [
+          1297543,
+          1349658
+        ],
+        "fruits": [
+          725601
+        ],
+        "osu": [
+          703926,
+          705788
+        ]
+      }
+    },
+    {
+      "title": "Culprate & Bloom - Aurora",
+      "preview": "https://assets.ppy.sh/artists/29/previews/626.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          848003
+        ]
+      }
+    },
+    {
+      "title": "Culprate & Dictate - Pencilina",
+      "preview": "https://assets.ppy.sh/artists/29/Unity Project%2C pt. 2/Culprate__Dictate_-_Pencilina.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          722634,
+          755651
+        ]
+      }
+    },
+    {
+      "title": "Culprate & Joe Ford - Gaucho",
+      "preview": "https://assets.ppy.sh/artists/29/previews/629.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          936234,
+          937645
+        ],
+        "osu": [
+          847776
+        ]
+      }
+    },
+    {
+      "title": "Culprate & Skorpion - Jester",
+      "preview": "https://assets.ppy.sh/artists/29/previews/634.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          848259
+        ]
+      }
+    },
+    {
+      "title": "Culprate & Zenji - Ghostmachine",
+      "preview": "https://assets.ppy.sh/artists/29/previews/637.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1779478
+        ],
+        "taiko": [
+          1615826
+        ],
+        "osu": [
+          1420993
+        ]
+      }
+    },
+    {
+      "title": "Culprate, Keota & Sophie Meiers - Mechanic Heartbeat",
+      "preview": "https://assets.ppy.sh/artists/29/previews/630.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          876227
+        ]
+      }
+    },
+    {
       "title": "Florn",
       "preview": "https://assets.ppy.sh/artists/29/previews/628.mp3",
       "ranked_modes": [
@@ -69,30 +182,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Culprate & Au5 - Impulse",
-      "preview": "https://assets.ppy.sh/artists/29/previews/625.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate & Bloom - Aurora",
-      "preview": "https://assets.ppy.sh/artists/29/previews/626.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate & Dictate - Pencilina",
-      "preview": "https://assets.ppy.sh/artists/29/Unity Project%2C pt. 2/Culprate__Dictate_-_Pencilina.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate & Joe Ford - Gaucho",
-      "preview": "https://assets.ppy.sh/artists/29/previews/629.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Culprate & Roger Wilco - Mutant",
       "preview": "https://assets.ppy.sh/artists/29/previews/632.mp3",
       "ranked_modes": [],
@@ -101,24 +190,6 @@
     {
       "title": "Culprate & Signal - Hydraulic",
       "preview": "https://assets.ppy.sh/artists/29/previews/633.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate & Skorpion - Jester",
-      "preview": "https://assets.ppy.sh/artists/29/previews/634.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate & Zenji - Ghostmachine",
-      "preview": "https://assets.ppy.sh/artists/29/previews/637.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Culprate, Keota & Sophie Meiers - Mechanic Heartbeat",
-      "preview": "https://assets.ppy.sh/artists/29/previews/630.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -141,5 +212,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:58:29Z"
+  "updated_at": "2026-04-02T21:50:03Z"
 }

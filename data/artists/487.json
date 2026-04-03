@@ -3,14 +3,20 @@
   "name": "Aspect",
   "tracks": [
     {
-      "title": "Aspect & Gardens - Sunken Forest",
-      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Gardens - Sunken Forest.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aspect & Viznode - Astral Grove (Viznode Remix) [Aspect 2023 Live Edit]",
       "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Viznode - Astral Grove (Viznode Remix) %5BAspect 2023 Live Edit%5D.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2304854
+        ]
+      }
+    },
+    {
+      "title": "Aspect & Gardens - Sunken Forest",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Gardens - Sunken Forest.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -57,5 +63,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T00:36:11Z"
+  "updated_at": "2026-04-02T21:45:19Z"
 }

@@ -15,6 +15,30 @@
       }
     },
     {
+      "title": "Doxx & Feint - Mind In Motion",
+      "preview": "https://assets.ppy.sh/artists/306/Doxx %26 Feint EP/Doxx %26 Feint - Mind In Motion.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          222565
+        ]
+      }
+    },
+    {
+      "title": "Doxx & Feint - The Pink Fields",
+      "preview": "https://assets.ppy.sh/artists/306/Doxx %26 Feint EP/Doxx %26 Feint - The Pink Fields.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          329290
+        ]
+      }
+    },
+    {
       "title": "Drifters (feat. Elizaveta)",
       "preview": "https://assets.ppy.sh/artists/306/Drifters/Feint - Drifters (feat. Elizaveta).mp3",
       "ranked_modes": [
@@ -36,6 +60,23 @@
         "osu": [
           240329,
           324369
+        ]
+      }
+    },
+    {
+      "title": "Feint & Boyinaband - Time Bomb (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/306/Monstercat 007 - Solace/Feint %26 Boyinaband - Time Bomb (feat. Veela).mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          652909,
+          1722335
+        ],
+        "fruits": [
+          912369
         ]
       }
     },
@@ -68,6 +109,22 @@
         ],
         "osu": [
           997556
+        ]
+      }
+    },
+    {
+      "title": "MUZZ, Koven & Feint - Worth The Lie",
+      "preview": "https://assets.ppy.sh/artists/306/Monstercat Uncaged - Vol. 3/MUZZ%2C Koven %26 Feint - Worth The Lie.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2136934
+        ],
+        "osu": [
+          1217548
         ]
       }
     },
@@ -274,26 +331,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Doxx & Feint - Mind In Motion",
-      "preview": "https://assets.ppy.sh/artists/306/Doxx %26 Feint EP/Doxx %26 Feint - Mind In Motion.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Doxx & Feint - The Pink Fields",
-      "preview": "https://assets.ppy.sh/artists/306/Doxx %26 Feint EP/Doxx %26 Feint - The Pink Fields.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Feint & Andromedik - I'll Be There (feat. Cammie Robinson)",
       "preview": "https://assets.ppy.sh/artists/306/Liquicity Alchemy 3/Feint %26 Andromedik - I%27ll Be There (feat. Cammie Robinson).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Feint & Boyinaband - Time Bomb (feat. Veela)",
-      "preview": "https://assets.ppy.sh/artists/306/Monstercat 007 - Solace/Feint %26 Boyinaband - Time Bomb (feat. Veela).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -312,12 +351,6 @@
     {
       "title": "Horizons",
       "preview": "https://assets.ppy.sh/artists/306/Liquicity Memoirs/Feint - Horizons.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MUZZ, Koven & Feint - Worth The Lie",
-      "preview": "https://assets.ppy.sh/artists/306/Monstercat Uncaged - Vol. 3/MUZZ%2C Koven %26 Feint - Worth The Lie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -346,5 +379,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T01:16:56Z"
+  "updated_at": "2026-04-02T21:54:03Z"
 }

@@ -39,6 +39,24 @@
       }
     },
     {
+      "title": "DJKurara & Supire - Search And Destroy",
+      "preview": "https://assets.ppy.sh/artists/373/Twilight EP/DJKurara %26 Supire - Search And Destroy.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2047070,
+          2197177,
+          2329041
+        ],
+        "taiko": [
+          2101692
+        ]
+      }
+    },
+    {
       "title": "Forgotten Hate",
       "preview": "https://assets.ppy.sh/artists/373/Howling EP/Supire - Forgotten Hate.mp3",
       "ranked_modes": [
@@ -121,12 +139,6 @@
       }
     },
     {
-      "title": "DJKurara & Supire - Search And Destroy",
-      "preview": "https://assets.ppy.sh/artists/373/Twilight EP/DJKurara %26 Supire - Search And Destroy.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "kaitendaentai - Toki no Ryousen (Supire Remix)",
       "preview": "https://assets.ppy.sh/artists/373/Songs/kaitendaentai - Toki no Ryousen (Supire Remix).mp3",
       "ranked_modes": [],
@@ -157,5 +169,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:18:45Z"
+  "updated_at": "2026-04-02T22:20:50Z"
 }

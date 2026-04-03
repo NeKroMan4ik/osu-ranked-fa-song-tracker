@@ -52,6 +52,30 @@
       }
     },
     {
+      "title": "takehirotei & SiLiS - Isekai Magistrate",
+      "preview": "https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_Isekai_Magistrate.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2262171
+        ]
+      }
+    },
+    {
+      "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
+      "preview": "https://assets.ppy.sh/artists/434/Songs/Viatores_Nebulae_ptar124__SiLiS_-_Ad_infinitum_ein_sof.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2265664
+        ]
+      }
+    },
+    {
       "title": "Yukisarashi",
       "preview": "https://assets.ppy.sh/artists/434/The 3rd Edition%27 Saaya%27s Welcome/SiLiS - Yukisarashi.mp3",
       "ranked_modes": [
@@ -202,12 +226,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "takehirotei & SiLiS - Isekai Magistrate",
-      "preview": "https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_Isekai_Magistrate.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "takehirotei & SiLiS - WATAGASHI RUSH",
       "preview": "https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_WATAGASHI_RUSH.mp3",
       "ranked_modes": [],
@@ -222,12 +240,6 @@
     {
       "title": "Vanaheimr",
       "preview": "https://assets.ppy.sh/artists/434/The 3rd Edition%27 Saaya%27s Welcome/SiLiS - Vanaheimr.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
-      "preview": "https://assets.ppy.sh/artists/434/Songs/Viatores_Nebulae_ptar124__SiLiS_-_Ad_infinitum_ein_sof.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -256,5 +268,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T03:09:58Z"
+  "updated_at": "2026-04-02T22:18:54Z"
 }

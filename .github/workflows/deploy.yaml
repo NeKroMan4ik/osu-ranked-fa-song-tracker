@@ -8,6 +8,9 @@ on:
       - 'style.css'
       - 'app.js'
       - 'data/**'
+  workflow_run:
+    workflows: ["Update Data"]
+    types: [completed]
 
 permissions:
   contents: read
@@ -17,6 +20,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

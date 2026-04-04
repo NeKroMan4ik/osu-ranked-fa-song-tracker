@@ -5,7 +5,6 @@ import json
 import os
 import sys
 from datetime import datetime, timezone
-from typing import Optional
 
 from dotenv import load_dotenv
 from ossapi import Ossapi
@@ -61,7 +60,7 @@ def load_existing_artists() -> dict:
     return result
 
 
-def find_artist(raw_artists: list[dict], search: str) -> Optional[dict]:
+def find_artist(raw_artists: list[dict], search: str) -> dict | None:
     try:
         artist_id = int(search)
         for a in raw_artists:
@@ -95,11 +94,6 @@ def find_artist(raw_artists: list[dict], search: str) -> Optional[dict]:
 
 
 def run() -> None:
-    """
-    python main.py                          — resume, skip existing artists
-    python main.py --rebuild all            — rebuild all
-    python main.py --rebuild "name" 123     — rebuild specific artists by name or id
-    """
     parser = argparse.ArgumentParser()
     parser.add_argument("--rebuild", nargs="+", metavar="TARGET",
                         help="'all' or artist name(s)/id(s)")
@@ -154,9 +148,12 @@ def run() -> None:
     for raw in tqdm(raw_artists, desc="Artists"):
         artist_path = ARTISTS_DIR / f"{raw['id']}.json"
 
-        if not rebuild_all and artist_path.exists():
-            results.append(json.loads(artist_path.read_text(encoding="utf-8")))
-            continue
+        if not rebuild_all:
+            try:
+                results.append(json.loads(artist_path.read_text(encoding="utf-8")))
+                continue
+            except FileNotFoundError:
+                pass
 
         try:
             artist = build_artist_record(html_client, api, raw)

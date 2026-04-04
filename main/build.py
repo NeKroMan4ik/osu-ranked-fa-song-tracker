@@ -1,25 +1,10 @@
-"""
-Output format per track:
-{
-  "title": "...",
-  "preview": "https://assets.ppy.sh/artists/...",
-  "ranked_modes": ["mania", "osu"],
-  "beatmapset_ids_by_mode": {
-    "mania": [2449706],
-    "osu": [1987654]
-  }
-}
-"""
-
 from __future__ import annotations
 
-import time
 from datetime import datetime, timezone
 from ossapi import Ossapi
 
 from parser import HtmlClient
-from config import SEARCH_DELAY, ARTIST_SEARCH_ALIASES
-from api_beatmapset_search import find_ranked_beatmapsets
+from api_beatmapset_search import fetch_all_ranked_for_artist
 
 
 def build_artist_record(
@@ -32,49 +17,19 @@ def build_artist_record(
 
     print(f"  → {artist_name} (id={artist_id})", flush=True)
 
-    search_names   = ARTIST_SEARCH_ALIASES.get(artist_id, [artist_name])
-    track_items    = html_client.get_artist_tracks(artist_id)
-    track_previews = html_client.get_artist_track_previews(artist_id)
+    track_items, track_previews = html_client.get_artist_data(artist_id)
+    ranked_data = fetch_all_ranked_for_artist(api, artist_id)
     tracks: list[dict] = []
 
     for track in track_items:
         title = track["title"]
-        all_ids: list[int] = []
-        mode_to_ids: dict[str, list[int]] = {}
-
-        # Split "OtherArtist feat. X - TrackTitle" when left part contains a collaboration keyword (feat./vs./×/&)
-        if " - " in title:
-            left, right = title.split(" - ", 1)
-            has_collab_keyword = any(kw in left.lower() for kw in ("feat.", "vs.", "×", "&"))
-            should_split = has_collab_keyword
+        title_lower = title.lower()
+        if title_lower in ranked_data:
+            mode_to_ids = ranked_data[title_lower]
+        elif " - " in title:
+            mode_to_ids = ranked_data.get(title.split(" - ", 1)[1].lower(), {})
         else:
-            should_split = False
-
-        if should_split:
-            _, search_title = left, right
-            searches = [(name, search_title) for name in search_names]
-        else:
-            searches = []
-            for name in search_names:
-                search_title = title
-                prefix = f"{name} - "
-                if search_title.lower().startswith(prefix.lower()):
-                    search_title = search_title[len(prefix):]
-                searches.append((name, search_title))
-
-        for s_artist, s_title in searches:
-            print(f"    searching: artist={s_artist!r} title={s_title!r}", flush=True)
-            ids, modes = find_ranked_beatmapsets(api, s_artist, s_title)
-            all_ids.extend(ids)
-            for mode, beatmapset_ids in modes.items():
-                mode_to_ids.setdefault(mode, []).extend(beatmapset_ids)
-            time.sleep(SEARCH_DELAY)
-
-        # deduplicate
-        all_ids = sorted(set(all_ids))
-        for mode in mode_to_ids:
-            mode_to_ids[mode] = sorted(set(mode_to_ids[mode]))
-
+            mode_to_ids = {}
         ranked_modes = sorted(mode_to_ids.keys())
 
         tracks.append({

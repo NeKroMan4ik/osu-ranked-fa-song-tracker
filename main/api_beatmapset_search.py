@@ -1,45 +1,47 @@
 from __future__ import annotations
 
 import sys
-from typing import Dict, List, Tuple
+import time
 
 from ossapi import Ossapi
-from ossapi.enums import BeatmapsetSearchCategory  # RANKED = only ranked maps
+from ossapi.enums import BeatmapsetSearchCategory
 
-def find_ranked_beatmapsets(
+from config import SEARCH_DELAY
+
+
+def fetch_all_ranked_for_artist(
     api: Ossapi,
-    artist: str,
-    title: str,
-) -> Tuple[List[int], Dict[str, List[int]]]:
-    query = f'artist="{artist}" title="{title}"'
-    try:
-        result = api.search_beatmapsets(
-            query=query,
-            category=BeatmapsetSearchCategory.RANKED,
-        )
-    except Exception as e:
-        print(f"  Search failed for '{title}': {e}", file=sys.stderr)
-        return [], {}
+    artist_id: int,
+) -> dict[str, dict[str, list[int]]]:
+    result_map: dict[str, dict[str, list[int]]] = {}
+    cursor = None
 
-    found_ids = []
-    mode_to_ids: Dict[str, List[int]] = {}
+    while True:
+        try:
+            result = api.search_beatmapsets(
+                query=f"featured_artist={artist_id}",
+                category=BeatmapsetSearchCategory.RANKED,
+                cursor=cursor,
+            )
+        except Exception as e:
+            print(f"  Search failed for artist_id={artist_id}: {e}", file=sys.stderr)
+            break
 
-    for bms in result.beatmapsets:
-        if title.lower() == bms.title.lower():
-            found_ids.append(bms.id)
-
-            modes_here = set()
+        for bms in result.beatmapsets:
+            key = bms.title.lower()
+            modes = result_map.setdefault(key, {})
             if hasattr(bms, "beatmaps") and bms.beatmaps:
                 for bm in bms.beatmaps:
-                    mode_str = bm.mode.value.lower()
-                    modes_here.add(mode_str)
+                    modes.setdefault(bm.mode.value.lower(), []).append(bms.id)
             elif hasattr(bms, "mode") and bms.mode:
-                modes_here.add(bms.mode.value.lower())
+                modes.setdefault(bms.mode.value.lower(), []).append(bms.id)
 
-            for m in modes_here:
-                mode_to_ids.setdefault(m, []).append(bms.id)
+        time.sleep(SEARCH_DELAY)
+        cursor = result.cursor
+        if cursor is None:
+            break
 
-    for m in mode_to_ids:
-        mode_to_ids[m] = sorted(set(mode_to_ids[m]))
-
-    return sorted(set(found_ids)), mode_to_ids
+    return {
+        key: {m: sorted(set(mids)) for m, mids in modes.items()}
+        for key, modes in result_map.items()
+    }

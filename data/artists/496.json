@@ -3,6 +3,18 @@
   "name": "Drazically",
   "tracks": [
     {
+      "title": "JinoBeats, Double-U & Drazically - INSIPIDITY",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/JinoBeats_Double-U__Drazically_-_INSIPIDITY.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2542510
+        ]
+      }
+    },
+    {
       "title": "Reality:SHIFT (feat. Hatsune Miku)",
       "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - RealitySHIFT (feat. Hatsune Miku).mp3",
       "ranked_modes": [
@@ -51,12 +63,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "JinoBeats, Double-U & Drazically - INSIPIDITY",
-      "preview": "https://assets.ppy.sh/artists/496/Songs/JinoBeats_Double-U__Drazically_-_INSIPIDITY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kafkaesque",
       "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - Kafkaesque.mp3",
       "ranked_modes": [],
@@ -93,5 +99,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:02:30Z"
+  "updated_at": "2026-07-26T20:05:36Z"
 }

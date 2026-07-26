@@ -22,11 +22,16 @@
       "title": "Black Rose",
       "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Black Rose.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          1621706
+          1621706,
+          2378815
+        ],
+        "taiko": [
+          2378815
         ]
       }
     },
@@ -106,7 +111,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          1860204
+          1860204,
+          2528327
         ]
       }
     },
@@ -808,5 +814,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:00:58Z"
+  "updated_at": "2026-07-26T20:04:08Z"
 }

@@ -3,6 +3,28 @@
   "name": "Getter Jaani",
   "tracks": [
     {
+      "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]",
+      "preview": "https://assets.ppy.sh/artists/536/Rockefeller Street/Getter_Jaani_-_Rockefeller_Street_New_Nightcore_Rockefellerstreet_Remix.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2377500
+        ],
+        "taiko": [
+          2533885
+        ],
+        "osu": [
+          2533993,
+          2534169,
+          2547427
+        ]
+      }
+    },
+    {
       "title": "The Game",
       "preview": "https://assets.ppy.sh/artists/536/The Game/Getter Jaani - The Game.mp3",
       "ranked_modes": [
@@ -31,13 +53,7 @@
       "preview": "https://assets.ppy.sh/artists/536/Rockefeller Street/Getter Jaani - Rockefeller Street.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]",
-      "preview": "https://assets.ppy.sh/artists/536/Rockefeller Street/Getter_Jaani_-_Rockefeller_Street_New_Nightcore_Rockefellerstreet_Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:03:36Z"
+  "updated_at": "2026-07-26T20:06:40Z"
 }

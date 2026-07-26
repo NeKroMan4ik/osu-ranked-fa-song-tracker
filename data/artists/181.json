@@ -3,6 +3,18 @@
   "name": "Rish",
   "tracks": [
     {
+      "title": "Rish feat. Choko - Omochachachachacha!!!!!",
+      "preview": "https://assets.ppy.sh/artists/181/Omochachachachacha!!!!!/Rish feat. Choko - Omochachachachacha!!!!!.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2530419
+        ]
+      }
+    },
+    {
       "title": "Rish feat. Choko - Punai Punai Sensou",
       "preview": "https://assets.ppy.sh/artists/181/Punai Punai Sensou/Rish feat. Choko - Punai Punai Sensou.mp3",
       "ranked_modes": [
@@ -84,12 +96,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rish feat. Choko - Omochachachachacha!!!!!",
-      "preview": "https://assets.ppy.sh/artists/181/Omochachachachacha!!!!!/Rish feat. Choko - Omochachachachacha!!!!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rish feat. Choko - Punai Punai Gensou",
       "preview": "https://assets.ppy.sh/artists/181/Punai Punai Gensou/Rish feat. Choko - Punai Punai Gensou.mp3",
       "ranked_modes": [],
@@ -120,5 +126,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:03Z"
+  "updated_at": "2026-07-26T20:13:00Z"
 }

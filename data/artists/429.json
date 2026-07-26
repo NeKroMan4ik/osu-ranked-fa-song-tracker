@@ -39,6 +39,18 @@
       }
     },
     {
+      "title": "Luminous Echoes",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Luminous Echoes.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2537515
+        ]
+      }
+    },
+    {
       "title": "CHAOS; [Deconstruction]",
       "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - CHAOS%27 %5BDeconstruction%5D.mp3",
       "ranked_modes": [],
@@ -63,17 +75,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Luminous Echoes",
-      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Luminous Echoes.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Twisted Reality",
       "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Twisted Reality.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:19Z"
+  "updated_at": "2026-07-26T20:13:16Z"
 }

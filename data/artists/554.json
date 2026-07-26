@@ -1,0 +1,37 @@
+{
+  "id": 554,
+  "name": "awoKen",
+  "tracks": [
+    {
+      "title": "breath of fresh air",
+      "preview": "https://assets.ppy.sh/artists/554/breath of fresh air/awoKen - breath of fresh air.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cantar!",
+      "preview": "https://assets.ppy.sh/artists/554/cantar!/awoKen - cantar!.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "GO!!!",
+      "preview": "https://assets.ppy.sh/artists/554/GO!!!/awoKen - GO!!!.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PATTERN5",
+      "preview": "https://assets.ppy.sh/artists/554/PATTERN5/awoKen - PATTERN5.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sunGlow!",
+      "preview": "https://assets.ppy.sh/artists/554/sunGlow!/awoKen - sunGlow!.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-07-26T20:03:54Z"
+}

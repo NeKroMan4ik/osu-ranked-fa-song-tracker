@@ -111,6 +111,18 @@
       }
     },
     {
+      "title": "Nazokake Alice",
+      "preview": "https://assets.ppy.sh/artists/179/10th Album %E3%80%8CNazokake Alice%E3%80%8D/ABSOLUTE_CASTAWAY_-_Nazokake_Alice.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2518752
+        ]
+      }
+    },
+    {
       "title": "Ouka Enbu",
       "preview": "https://assets.ppy.sh/artists/179/13th Album 「Toushin Gengi Oku」/ABSOLUTE CASTAWAY - Ouka Enbu.mp3",
       "ranked_modes": [
@@ -175,6 +187,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2200412
+        ]
+      }
+    },
+    {
+      "title": "Sirius no Yuuen -Hacka-",
+      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Sirius no Yuuen -Hacka-.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2403846
         ]
       }
     },
@@ -408,12 +432,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nazokake Alice",
-      "preview": "https://assets.ppy.sh/artists/179/10th Album %E3%80%8CNazokake Alice%E3%80%8D/ABSOLUTE_CASTAWAY_-_Nazokake_Alice.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Nunki no Morito",
       "preview": "https://assets.ppy.sh/artists/179/16th Album 「ASTRO=SIGN」/ABSOLUTE CASTAWAY - Nunki no Morito.mp3",
       "ranked_modes": [],
@@ -434,12 +452,6 @@
     {
       "title": "Sekai ga Kiraina Kimi e",
       "preview": "https://assets.ppy.sh/artists/179/6th Album 「Cielo Azul」/ABSOLUTE CASTAWAY - Sekai ga Kiraina Kimi e.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sirius no Yuuen -Hacka-",
-      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Sirius no Yuuen -Hacka-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -480,5 +492,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T19:59:27Z"
+  "updated_at": "2026-07-26T20:02:38Z"
 }

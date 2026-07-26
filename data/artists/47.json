@@ -73,11 +73,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1677257,
+          2542153
+        ],
         "taiko": [
           1834864
-        ],
-        "osu": [
-          1677257
         ]
       }
     },
@@ -163,9 +164,13 @@
       "preview": "https://assets.ppy.sh/artists/47/previews/1205.mp3",
       "ranked_modes": [
         "fruits",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2531897
+        ],
         "fruits": [
           2277450
         ],
@@ -247,7 +252,8 @@
           933630,
           2062496,
           2458122,
-          2513060
+          2513060,
+          2536594
         ],
         "fruits": [
           2138675
@@ -360,5 +366,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:14:27Z"
+  "updated_at": "2026-07-26T20:17:14Z"
 }

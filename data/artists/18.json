@@ -6,6 +6,7 @@
       "title": "*namirin feat. Mitsukiyo - Koishiteiku Planet",
       "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_feat._Mitsukiyo_-_Koishiteiku_Planet.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
@@ -13,6 +14,9 @@
           916990,
           2146169,
           2510520
+        ],
+        "mania": [
+          2028034
         ]
       }
     },
@@ -107,10 +111,15 @@
       "title": "Kanzen Shouri*Esper Girl",
       "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Kanzen_ShouriEsper_Girl.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1004416,
+          1994349
+        ],
         "osu": [
           954272
         ],
@@ -162,5 +171,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-19T19:59:02Z"
+  "updated_at": "2026-07-26T20:02:14Z"
 }

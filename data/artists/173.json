@@ -3,6 +3,18 @@
   "name": "Aquestion",
   "tracks": [
     {
+      "title": "Aquestion - Arrogation",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_Arrogation.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2277779
+        ]
+      }
+    },
+    {
       "title": "Aquestion - ENERGY INFLATION",
       "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_ENERGY_INFLATION.mp3",
       "ranked_modes": [
@@ -44,12 +56,6 @@
       }
     },
     {
-      "title": "Aquestion - Arrogation",
-      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_Arrogation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aquestion - ice cream",
       "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_ice_cream.mp3",
       "ranked_modes": [],
@@ -80,5 +86,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:00:20Z"
+  "updated_at": "2026-07-26T20:03:30Z"
 }

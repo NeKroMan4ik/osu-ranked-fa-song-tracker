@@ -18,10 +18,14 @@
       "title": "Euphoria (feat. WaMi)",
       "preview": "https://assets.ppy.sh/artists/363/Euphoria (feat. WaMi)/Andora - Euphoria (feat. WaMi).mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2540935
+        ],
         "taiko": [
           2022737
         ],
@@ -76,5 +80,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:00:05Z"
+  "updated_at": "2026-07-26T20:03:15Z"
 }

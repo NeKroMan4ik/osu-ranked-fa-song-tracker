@@ -350,6 +350,18 @@
       }
     },
     {
+      "title": "seatrus feat. Hanakuma Chifuyu - Ushio",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_feat._Hanakuma_Chifuyu_-_Ushio.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2527426
+        ]
+      }
+    },
+    {
       "title": "Soul Memory",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Soul_Memory.mp3",
       "ranked_modes": [
@@ -662,12 +674,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "seatrus feat. Hanakuma Chifuyu - Ushio",
-      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_feat._Hanakuma_Chifuyu_-_Ushio.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "seatrus feat. Marumoko - Ori Yamanu Ame",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus feat. Marumoko - Ori Yamanu Ame.mp3",
       "ranked_modes": [],
@@ -764,5 +770,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:40Z"
+  "updated_at": "2026-07-26T20:13:36Z"
 }

@@ -3,6 +3,18 @@
   "name": "Dazzling",
   "tracks": [
     {
+      "title": "ataraxia",
+      "preview": "https://assets.ppy.sh/artists/545/Songs/Dazzling_-_ataraxia.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2559062
+        ]
+      }
+    },
+    {
       "title": "krystAL (Dazzling vs. XH) - Future MicrrrOwave",
       "preview": "https://assets.ppy.sh/artists/545/Songs/krystAL (Dazzling vs. XH) - Future MicrrrOwave.mp3",
       "ranked_modes": [
@@ -25,13 +37,7 @@
           2468185
         ]
       }
-    },
-    {
-      "title": "ataraxia",
-      "preview": "https://assets.ppy.sh/artists/545/Songs/Dazzling_-_ataraxia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:02:05Z"
+  "updated_at": "2026-07-26T20:05:13Z"
 }

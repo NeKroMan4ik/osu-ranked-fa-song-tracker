@@ -139,6 +139,18 @@
       }
     },
     {
+      "title": "Succubi",
+      "preview": "https://assets.ppy.sh/artists/32/previews/809.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2531319
+        ]
+      }
+    },
+    {
       "title": "body",
       "preview": "https://assets.ppy.sh/artists/32/previews/3031.mp3",
       "ranked_modes": [],
@@ -193,17 +205,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Succubi",
-      "preview": "https://assets.ppy.sh/artists/32/previews/809.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Varien - One Shot One Kill (onumi remix)",
       "preview": "https://assets.ppy.sh/artists/32/Songs/Varien - One Shot One Kill (onumi remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:08:47Z"
+  "updated_at": "2026-07-26T20:11:46Z"
 }

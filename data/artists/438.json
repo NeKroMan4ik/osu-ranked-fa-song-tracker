@@ -30,9 +30,13 @@
       "title": "Eisyo-kobu - Faithtival",
       "preview": "https://assets.ppy.sh/artists/438/Songs/Eisyo-kobu - Faithtival.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2524484
+        ],
         "taiko": [
           1813733,
           2254161
@@ -98,5 +102,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:05:08Z"
+  "updated_at": "2026-07-26T20:08:08Z"
 }

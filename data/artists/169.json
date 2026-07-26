@@ -64,6 +64,18 @@
       }
     },
     {
+      "title": "Oni",
+      "preview": "https://assets.ppy.sh/artists/169/Sewer--slvt/Sewerslvt - Oni.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2456780
+        ]
+      }
+    },
+    {
       "title": "Blacklight",
       "preview": "https://assets.ppy.sh/artists/169/Drowning in the Sewer/Sewerslvt - Blacklight.mp3",
       "ranked_modes": [],
@@ -72,12 +84,6 @@
     {
       "title": "Cyberia Lyr2",
       "preview": "https://assets.ppy.sh/artists/169/Cyberia 1+2=3/Sewerslvt - Cyberia Lyr2.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Oni",
-      "preview": "https://assets.ppy.sh/artists/169/Sewer--slvt/Sewerslvt - Oni.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -94,5 +100,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:53Z"
+  "updated_at": "2026-07-26T20:13:49Z"
 }

@@ -7,9 +7,13 @@
       "preview": "https://assets.ppy.sh/artists/502/Songs/Raphiiel - Once Forgotten%2C Nothing Remains.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2554986
+        ],
         "mania": [
           2482958
         ],
@@ -19,5 +23,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-19T20:09:40Z"
+  "updated_at": "2026-07-26T20:12:38Z"
 }

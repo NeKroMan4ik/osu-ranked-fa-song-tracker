@@ -51,6 +51,18 @@
       }
     },
     {
+      "title": "agu - unbound",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/agu_-_unbound.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412346
+        ]
+      }
+    },
+    {
       "title": "aidolon - Replay",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/aidolon - Replay.mp3",
       "ranked_modes": [
@@ -536,6 +548,18 @@
       }
     },
     {
+      "title": "Midnight Research Institute - Convalescence",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Midnight_Research_Institute_-_Convalescence.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2242286
+        ]
+      }
+    },
+    {
       "title": "MYUKKE. - Unknown Amnasia",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/MYUKKE. - Unknown Amnasia.mp3",
       "ranked_modes": [
@@ -958,12 +982,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "agu - unbound",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/agu_-_unbound.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "aidolon - Nexus",
       "preview": "https://assets.ppy.sh/artists/462/Newcomers World Cup 2025/aidolon - Nexus.mp3",
       "ranked_modes": [],
@@ -1332,12 +1350,6 @@
     {
       "title": "mananatheone - Name",
       "preview": "https://assets.ppy.sh/artists/462/Newcomers World Cup 2025/mananatheone - Name.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Midnight Research Institute - Convalescence",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Midnight_Research_Institute_-_Convalescence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1732,5 +1744,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:08:53Z"
+  "updated_at": "2026-07-26T20:11:52Z"
 }

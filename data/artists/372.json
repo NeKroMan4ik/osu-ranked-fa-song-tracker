@@ -172,9 +172,13 @@
       "title": "PUMP",
       "preview": "https://assets.ppy.sh/artists/372/Future Cake/YUC%27e - PUMP.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2323626
+        ],
         "taiko": [
           1014283
         ]
@@ -337,5 +341,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:14:05Z"
+  "updated_at": "2026-07-26T20:16:53Z"
 }

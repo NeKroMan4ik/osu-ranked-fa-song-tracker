@@ -180,6 +180,39 @@
       }
     },
     {
+      "title": "Lime - Smiling",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3004.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1837955
+        ],
+        "mania": [
+          810911
+        ]
+      }
+    },
+    {
+      "title": "Lime - Smiling (Long Ver.)",
+      "preview": "https://assets.ppy.sh/artists/116/Songs/Lime_-_Smiling_Long_Ver..mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2479175,
+          2481621
+        ],
+        "fruits": [
+          2469713
+        ]
+      }
+    },
+    {
       "title": "Lime - Tsukuyomi",
       "preview": "https://assets.ppy.sh/artists/116/previews/3006.mp3",
       "ranked_modes": [
@@ -198,23 +231,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Lime - Smiling",
-      "preview": "https://assets.ppy.sh/artists/116/previews/3004.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Smiling (Long Ver.)",
-      "preview": "https://assets.ppy.sh/artists/116/Songs/Lime_-_Smiling_Long_Ver..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lime - Stargazer",
       "preview": "https://assets.ppy.sh/artists/116/previews/3005.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:06:27Z"
+  "updated_at": "2026-07-26T20:09:30Z"
 }

@@ -106,6 +106,18 @@
       }
     },
     {
+      "title": "Do I Smile?",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - Do I Smile.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2530999
+        ]
+      }
+    },
+    {
       "title": "Dogbite",
       "preview": "https://assets.ppy.sh/artists/396/without Permission/t%2Bpazolite - Dogbite.mp3",
       "ranked_modes": [
@@ -121,9 +133,13 @@
       "title": "Electric Butterfly",
       "preview": "https://assets.ppy.sh/artists/396/The Best of tpz 2 the Best!!!/t%2Bpazolite - Electric Butterfly.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2473136
+        ],
         "fruits": [
           2114419
         ]
@@ -240,12 +256,13 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1988057,
+          2524454
+        ],
         "fruits": [
           2109206,
           2535258
-        ],
-        "mania": [
-          1988057
         ],
         "osu": [
           186677
@@ -563,12 +580,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Do I Smile?",
-      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - Do I Smile.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hong-Kong-Tea-Soda (replay2014)",
       "preview": "https://assets.ppy.sh/artists/396/I bun densho A la carte/t%2Bpazolite - Hong-Kong-Tea-Soda (replay2014).mp3",
       "ranked_modes": [],
@@ -671,5 +682,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:11:58Z"
+  "updated_at": "2026-07-26T20:14:53Z"
 }

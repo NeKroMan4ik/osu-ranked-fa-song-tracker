@@ -24,9 +24,13 @@
       "title": "Meteor (feat. TEA)",
       "preview": "https://assets.ppy.sh/artists/389/Songs/you_-_Meteor_feat._TEA.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2528359
+        ],
         "osu": [
           1984574
         ]
@@ -145,5 +149,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:14:03Z"
+  "updated_at": "2026-07-26T20:16:51Z"
 }

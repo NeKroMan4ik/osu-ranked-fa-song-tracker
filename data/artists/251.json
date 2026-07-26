@@ -3,6 +3,19 @@
   "name": "Never Say Die",
   "tracks": [
     {
+      "title": "Cutline - Die For You (Shock One Remix)",
+      "preview": "https://assets.ppy.sh/artists/251/Songs/Cutline_-_Die_For_You_Shock_One_Remix.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          155285,
+          166435
+        ]
+      }
+    },
+    {
       "title": "Zomboy - Nuclear (Hands Up)",
       "preview": "https://assets.ppy.sh/artists/251/Songs/Zomboy - Nuclear (Hands Up).mp3",
       "ranked_modes": [
@@ -13,12 +26,6 @@
           449299
         ]
       }
-    },
-    {
-      "title": "Cutline - Die For You (Shock One Remix)",
-      "preview": "https://assets.ppy.sh/artists/251/Songs/Cutline_-_Die_For_You_Shock_One_Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eptic & Habstrakt - On The Block",
@@ -105,5 +112,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:08:17Z"
+  "updated_at": "2026-07-26T20:11:17Z"
 }

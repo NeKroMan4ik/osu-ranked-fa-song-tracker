@@ -23,6 +23,18 @@
       }
     },
     {
+      "title": "ii. maturity",
+      "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - ii. maturity.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2500073
+        ]
+      }
+    },
+    {
       "title": "mentavarium",
       "preview": "https://assets.ppy.sh/artists/497/mentavarium/kikoyu - mentavarium.mp3",
       "ranked_modes": [
@@ -57,13 +69,7 @@
       "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - i. immaturity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ii. maturity",
-      "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - ii. maturity.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:05:27Z"
+  "updated_at": "2026-07-26T20:08:26Z"
 }

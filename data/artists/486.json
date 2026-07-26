@@ -66,9 +66,13 @@
       "title": "Rakakun- & Dispel - Shitsusei (feat. Altair Aquila)",
       "preview": "https://assets.ppy.sh/artists/486/Shitsusei/Rakakun- %26 Dispel - Shitsusei (feat. Altair Aquila).mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2552355
+        ],
         "mania": [
           2246218
         ]
@@ -111,5 +115,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:02:16Z"
+  "updated_at": "2026-07-26T20:05:24Z"
 }

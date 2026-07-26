@@ -132,6 +132,18 @@
       }
     },
     {
+      "title": "Yosuke@KG feat. Aitsuki Nakuru - INFINITE DAYS",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection!/Yosuke%40KG feat. Aitsuki Nakuru - INFINITE DAYS.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2538845
+        ]
+      }
+    },
+    {
       "title": "Yosuke@KG feat. Aitsuki Nakuru - Monochrome Butterfly",
       "preview": "https://assets.ppy.sh/artists/127/Tokoro Cranist/Yosuke%40KG feat. Aitsuki Nakuru - Monochrome Butterfly.mp3",
       "ranked_modes": [
@@ -180,13 +192,7 @@
       "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/lapix feat. Aitsuki Nakuru - Merry Merry Go Round.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yosuke@KG feat. Aitsuki Nakuru - INFINITE DAYS",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection!/Yosuke%40KG feat. Aitsuki Nakuru - INFINITE DAYS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T19:59:42Z"
+  "updated_at": "2026-07-26T20:02:53Z"
 }

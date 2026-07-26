@@ -3,6 +3,18 @@
   "name": "DGK",
   "tracks": [
     {
+      "title": "Kinki to Hiiro Gensou -The Primary Plasm-",
+      "preview": "https://assets.ppy.sh/artists/229/Kinki to Hiiro Gensou -The Primary Plasm-/DGK - Kinki to Hiiro Gensou -The Primary Plasm-.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2554426
+        ]
+      }
+    },
+    {
       "title": "NoKANY - Mujinku -Vacuum Track#ADD8E6-",
       "preview": "https://assets.ppy.sh/artists/229/Mujinku-Vacuum Track%23ADD8E6-/NoKANY_-_Mujinku_-Vacuum_TrackADD8E6-.mp3",
       "ranked_modes": [
@@ -17,12 +29,6 @@
           2524947
         ]
       }
-    },
-    {
-      "title": "Kinki to Hiiro Gensou -The Primary Plasm-",
-      "preview": "https://assets.ppy.sh/artists/229/Kinki to Hiiro Gensou -The Primary Plasm-/DGK - Kinki to Hiiro Gensou -The Primary Plasm-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Link Out",
@@ -67,5 +73,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:02:10Z"
+  "updated_at": "2026-07-26T20:05:17Z"
 }

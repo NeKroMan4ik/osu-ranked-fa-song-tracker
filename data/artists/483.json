@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Step It",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon_-_Step_It.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2409038
+        ]
+      }
+    },
+    {
       "title": "Born Survivor",
       "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Born Survivor.mp3",
       "ranked_modes": [],
@@ -57,17 +69,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Step It",
-      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon_-_Step_It.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Take Me To Pleasure Island",
       "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Take Me To Pleasure Island.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:11:00Z"
+  "updated_at": "2026-07-26T20:13:56Z"
 }

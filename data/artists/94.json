@@ -87,9 +87,13 @@
       "title": "Signals",
       "preview": "https://assets.ppy.sh/artists/94/previews/3027.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2355701
+        ],
         "osu": [
           850972
         ]
@@ -192,5 +196,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:06:59Z"
+  "updated_at": "2026-07-26T20:10:01Z"
 }

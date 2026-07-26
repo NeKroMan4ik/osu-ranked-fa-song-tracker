@@ -96,6 +96,18 @@
       }
     },
     {
+      "title": "S3RL feat. Emi - Escape",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Emi_-_Escape.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2525429
+        ]
+      }
+    },
+    {
       "title": "S3RL feat. Kayliana - You Are Mine",
       "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Kayliana_-_You_Are_Mine.mp3",
       "ranked_modes": [
@@ -132,6 +144,18 @@
         ],
         "osu": [
           1712992
+        ]
+      }
+    },
+    {
+      "title": "S3RL feat. Sara - Less Than 3",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Sara_-_Less_Than_3.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2533449
         ]
       }
     },
@@ -208,12 +232,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "S3RL feat. Emi - Escape",
-      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Emi_-_Escape.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "S3RL feat. Harri Rush - Nostalgic",
       "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Harri_Rush_-_Nostalgic.mp3",
       "ranked_modes": [],
@@ -228,12 +246,6 @@
     {
       "title": "S3RL feat. Lexi - Earth Bb",
       "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Lexi_-_Earth_Bb.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "S3RL feat. Sara - Less Than 3",
-      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Sara_-_Less_Than_3.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -262,5 +274,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:28Z"
+  "updated_at": "2026-07-26T20:13:24Z"
 }

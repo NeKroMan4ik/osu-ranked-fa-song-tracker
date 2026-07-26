@@ -40,33 +40,18 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1572038,
+          2301655
+        ],
         "mania": [
           2211531
         ],
         "fruits": [
           2148620
         ],
-        "osu": [
-          1572038
-        ],
         "taiko": [
           1578572
-        ]
-      }
-    },
-    {
-      "title": "OVERPROTECTION",
-      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - OVERPROTECTION.mp3",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1984348
-        ],
-        "osu": [
-          1703896
         ]
       }
     },
@@ -165,8 +150,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hermatical Reverie",
-      "preview": "https://assets.ppy.sh/artists/196/OVERPROTECTION/Sephid - Hermatical Reverie.mp3",
+      "title": "Hermetical Reverie",
+      "preview": "https://assets.ppy.sh/artists/196/OVERPROTECTION/Sephid_-_Hermetical_Reverie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -179,6 +164,12 @@
     {
       "title": "Nothing But Seven",
       "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Nothing But Seven.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S&S Munitions (Sephid & system [Sigma]) - OVERPROTECTION",
+      "preview": "https://assets.ppy.sh/artists/196/OVERPROTECTION/SS_Munitions_SEPHID__system_Sigma_-_OVERPROTECTION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -213,5 +204,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:48Z"
+  "updated_at": "2026-07-26T20:13:44Z"
 }

@@ -26,6 +26,18 @@
       }
     },
     {
+      "title": "Dakishimeru made. feat. KAFU",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Dakishimeru_made._feat._KAFU.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2033504
+        ]
+      }
+    },
+    {
       "title": "Floremie",
       "preview": "https://assets.ppy.sh/artists/77/previews/2077.mp3",
       "ranked_modes": [
@@ -415,6 +427,18 @@
       }
     },
     {
+      "title": "Trick Heart feat. Kasane Teto SV",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Trick_Heart_feat._Kasane_Teto_SV.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2520954
+        ]
+      }
+    },
+    {
       "title": "UNFADING",
       "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_UNFADING.mp3",
       "ranked_modes": [
@@ -455,12 +479,6 @@
       }
     },
     {
-      "title": "Dakishimeru made. feat. KAFU",
-      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Dakishimeru_made._feat._KAFU.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Le Rouge",
       "preview": "https://assets.ppy.sh/artists/77/previews/3021.mp3",
       "ranked_modes": [],
@@ -477,13 +495,7 @@
       "preview": "https://assets.ppy.sh/artists/77/previews/3022.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Trick Heart feat. Kasane Teto SV",
-      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Trick_Heart_feat._Kasane_Teto_SV.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:07:28Z"
+  "updated_at": "2026-07-26T20:10:29Z"
 }

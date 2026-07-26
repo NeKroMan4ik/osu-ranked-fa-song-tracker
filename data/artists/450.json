@@ -18,9 +18,14 @@
       "title": "Morozoboy",
       "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey_Gorynich_-_Morozoboy.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2246798,
+          2301786
+        ],
         "mania": [
           2077021
         ]
@@ -83,5 +88,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:14:21Z"
+  "updated_at": "2026-07-26T20:17:08Z"
 }

@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "BlackY feat. Risa Yuzuki - Shuumatsu Kinema",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Shuumatsu_Kinema.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1820113
+        ]
+      }
+    },
+    {
       "title": "Cinderella Maker",
       "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Cinderella Maker.mp3",
       "ranked_modes": [
@@ -83,6 +95,18 @@
       }
     },
     {
+      "title": "Ponchi feat. Risa Yuzuki - Ironical Parade",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Ponchi_feat._Risa_Yuzuki_-_Ironical_Parade.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2545702
+        ]
+      }
+    },
+    {
       "title": "Shuuen e no Keifu",
       "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Shuuen e no Keifu.mp3",
       "ranked_modes": [
@@ -91,6 +115,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2218272
+        ]
+      }
+    },
+    {
+      "title": "t+pazolite feat. Risa Yuzuki - PEAKY FREAKY",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/tpazolite_feat._Risa_Yuzuki_-_PEAKY_FREAKY.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2545622
         ]
       }
     },
@@ -143,12 +179,6 @@
     {
       "title": "BlackY feat. Risa Yuzuki - PARADOXY",
       "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - PARADOXY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "BlackY feat. Risa Yuzuki - Shuumatsu Kinema",
-      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Shuumatsu_Kinema.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -213,12 +243,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ponchi feat. Risa Yuzuki - Ironical Parade",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Ponchi_feat._Risa_Yuzuki_-_Ironical_Parade.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Replayer",
       "preview": "https://assets.ppy.sh/artists/211/Stellalude/Risa Yuzuki - Replayer.mp3",
       "ranked_modes": [],
@@ -237,12 +261,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "t+pazolite feat. Risa Yuzuki - PEAKY FREAKY",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/tpazolite_feat._Risa_Yuzuki_-_PEAKY_FREAKY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tarantella",
       "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Tarantella.mp3",
       "ranked_modes": [],
@@ -255,5 +273,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:02Z"
+  "updated_at": "2026-07-26T20:12:59Z"
 }

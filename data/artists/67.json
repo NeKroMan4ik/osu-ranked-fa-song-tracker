@@ -74,9 +74,13 @@
       "title": "contra88",
       "preview": "https://assets.ppy.sh/artists/67/previews/1870.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2489537
+        ],
         "taiko": [
           1126630
         ]
@@ -218,5 +222,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:05:46Z"
+  "updated_at": "2026-07-26T20:08:44Z"
 }

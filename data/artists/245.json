@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "WII DATE (feat. tiffi, highvyn, siopaolo)",
+      "preview": "https://assets.ppy.sh/artists/245/WII DATE/City Girl - WII DATE (feat. tiffi%2C highvyn%2C siopaolo).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2534305
+        ]
+      }
+    },
+    {
       "title": "Contour (feat. Christina Shin)",
       "preview": "https://assets.ppy.sh/artists/245/Chroma Velocity/City Girl - Contour (feat. Christina Shin).mp3",
       "ranked_modes": [],
@@ -57,17 +69,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "WII DATE (feat. tiffi, highvyn, siopaolo)",
-      "preview": "https://assets.ppy.sh/artists/245/WII DATE/City Girl - WII DATE (feat. tiffi%2C highvyn%2C siopaolo).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "WISHING ON YOU (feat. ry, tiffi)",
       "preview": "https://assets.ppy.sh/artists/245/C-GIRL/City Girl - WISHING ON YOU (feat. ry%2C tiffi).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:01:39Z"
+  "updated_at": "2026-07-26T20:04:47Z"
 }

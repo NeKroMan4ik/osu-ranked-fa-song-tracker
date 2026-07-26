@@ -3,6 +3,18 @@
   "name": "rN",
   "tracks": [
     {
+      "title": "Hundred Voices and the Heartbroken Girl",
+      "preview": "https://assets.ppy.sh/artists/190/Songs/rN - Hundred Voices and the Heartbroken Girl.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2478131
+        ]
+      }
+    },
+    {
       "title": "My Dearest Nightmare",
       "preview": "https://assets.ppy.sh/artists/190/Crescent Moon under the Raining Sky/rN - My Dearest Nightmare.mp3",
       "ranked_modes": [
@@ -37,12 +49,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hundred Voices and the Heartbroken Girl",
-      "preview": "https://assets.ppy.sh/artists/190/Songs/rN - Hundred Voices and the Heartbroken Girl.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lunembres",
       "preview": "https://assets.ppy.sh/artists/190/Crescent Moon under the Raining Sky/rN - Lunembres.mp3",
       "ranked_modes": [],
@@ -67,5 +73,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:11Z"
+  "updated_at": "2026-07-26T20:13:08Z"
 }

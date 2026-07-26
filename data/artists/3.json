@@ -57,6 +57,19 @@
       }
     },
     {
+      "title": "Snowdrop",
+      "preview": "https://assets.ppy.sh/artists/3/Songs/IAHN_-_Snowdrop.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          716219,
+          2290676
+        ]
+      }
+    },
+    {
       "title": "All in One",
       "preview": "https://assets.ppy.sh/artists/3/previews/385.mp3",
       "ranked_modes": [],
@@ -111,12 +124,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Snowdrop",
-      "preview": "https://assets.ppy.sh/artists/3/Songs/IAHN_-_Snowdrop.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Summer Vacation",
       "preview": "https://assets.ppy.sh/artists/3/previews/22.mp3",
       "ranked_modes": [],
@@ -141,5 +148,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:04:29Z"
+  "updated_at": "2026-07-26T20:07:30Z"
 }

@@ -129,9 +129,13 @@
       "title": "The Abhorrent Art",
       "preview": "https://assets.ppy.sh/artists/43/Of Sunless Realms/Inferi - The Abhorrent Art.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2421659
+        ],
         "taiko": [
           1335192
         ]
@@ -146,6 +150,18 @@
       "beatmapset_ids_by_mode": {
         "taiko": [
           1006161
+        ]
+      }
+    },
+    {
+      "title": "The Ophidian Form",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1036.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2112254
         ]
       }
     },
@@ -296,12 +312,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Ophidian Form",
-      "preview": "https://assets.ppy.sh/artists/43/previews/1036.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The War Machine Embodiment",
       "preview": "https://assets.ppy.sh/artists/43/previews/1028.mp3",
       "ranked_modes": [],
@@ -332,5 +342,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:04:44Z"
+  "updated_at": "2026-07-26T20:07:44Z"
 }

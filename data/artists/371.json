@@ -90,9 +90,13 @@
       "title": "Transientia",
       "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Transientia.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2564470
+        ],
         "osu": [
           2539614
         ]
@@ -261,5 +265,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:05:53Z"
+  "updated_at": "2026-07-26T20:08:50Z"
 }

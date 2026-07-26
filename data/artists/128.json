@@ -97,6 +97,18 @@
       }
     },
     {
+      "title": "Party Out",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Party Out.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2438662
+        ]
+      }
+    },
+    {
       "title": "Blaze (Shandy Kubota remix)",
       "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Blaze (Shandy Kubota remix).mp3",
       "ranked_modes": [],
@@ -181,12 +193,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Party Out",
-      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Party Out.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Pump It",
       "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Pump It.mp3",
       "ranked_modes": [],
@@ -217,5 +223,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:03:38Z"
+  "updated_at": "2026-07-26T20:06:42Z"
 }

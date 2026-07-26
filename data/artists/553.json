@@ -3,6 +3,18 @@
   "name": "Otsukisama Koukyoukyoku",
   "tracks": [
     {
+      "title": "Kieyuku Koe to Zanmei no Chikai",
+      "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama Koukyoukyoku - Kieyuku Koe to Zanmei no Chikai.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2023431
+        ]
+      }
+    },
+    {
       "title": "Caligula",
       "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama Koukyoukyoku - Caligula.mp3",
       "ranked_modes": [],
@@ -63,12 +75,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kieyuku Koe to Zanmei no Chikai",
-      "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama Koukyoukyoku - Kieyuku Koe to Zanmei no Chikai.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kieyuku Koe to Zanmei no Chikai (Game Ver.)",
       "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama_Koukyoukyoku_-_Kieyuku_Koe_to_Zanmei_no_Chikai_Game_Ver..mp3",
       "ranked_modes": [],
@@ -117,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:08:55Z"
+  "updated_at": "2026-07-26T20:11:54Z"
 }

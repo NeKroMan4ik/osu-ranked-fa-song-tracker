@@ -10,7 +10,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          2220393
+          2220393,
+          2529109
         ]
       }
     },
@@ -68,7 +69,8 @@
           1804362,
           2046040,
           2264836,
-          2539465
+          2539465,
+          2540293
         ],
         "taiko": [
           2047718
@@ -88,6 +90,18 @@
         "osu": [
           1986827,
           2052686
+        ]
+      }
+    },
+    {
+      "title": "Lux",
+      "preview": "https://assets.ppy.sh/artists/375/Peripety/Kardashev - Lux.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2164402
         ]
       }
     },
@@ -128,12 +142,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Lux",
-      "preview": "https://assets.ppy.sh/artists/375/Peripety/Kardashev - Lux.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Potentiality",
       "preview": "https://assets.ppy.sh/artists/375/Excipio/Kardashev - Potentiality.mp3",
       "ranked_modes": [],
@@ -152,5 +160,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:05:18Z"
+  "updated_at": "2026-07-26T20:08:17Z"
 }

@@ -118,6 +118,18 @@
       }
     },
     {
+      "title": "Laur feat. Sennzai - Lure",
+      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Laur feat. Sennzai - Lure.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2338521
+        ]
+      }
+    },
+    {
       "title": "Minagu feat. Sennzai - Iris no Tayori",
       "preview": "https://assets.ppy.sh/artists/110/Fleurix/Minagu feat. Sennzai - Iris no Tayori.mp3",
       "ranked_modes": [
@@ -224,12 +236,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Laur feat. Sennzai - Lure",
-      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Laur feat. Sennzai - Lure.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Powerless feat. Sennzai - Todestrieb",
       "preview": "https://assets.ppy.sh/artists/110/T%C3%B8destrieb/Powerless feat. Sennzai - Todestrieb.mp3",
       "ranked_modes": [],
@@ -308,5 +314,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:10:47Z"
+  "updated_at": "2026-07-26T20:13:43Z"
 }

@@ -33,12 +33,16 @@
     },
     {
       "title": "Cutter",
-      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Cutter_Short_Ver..mp3",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Cutter.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2471756
+        ],
         "mania": [
           2150376
         ],
@@ -50,7 +54,7 @@
     },
     {
       "title": "Give You My World",
-      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Give_You_My_World_Short_Ver..mp3",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Give_You_My_World.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -62,7 +66,7 @@
     },
     {
       "title": "Love Kills U",
-      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Love_Kills_U_Short_Ver..mp3",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Love_Kills_U.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -100,7 +104,7 @@
     },
     {
       "title": "MAGENTA POTION",
-      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_MAGENTA_POTION_Short_Ver..mp3",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_MAGENTA_POTION.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -118,9 +122,13 @@
       "title": "Nekojarashi",
       "preview": "https://assets.ppy.sh/artists/246/Songs/EmoCosine - Nekojarashi.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1734058
+        ],
         "osu": [
           1710593
         ]
@@ -140,7 +148,7 @@
     },
     {
       "title": "Is This Your Memory",
-      "preview": "https://assets.ppy.sh/artists/246/My Future%2C Your Memory/EmoCosine_-_Is_This_Your_Memory_Short_Ver..mp3",
+      "preview": "https://assets.ppy.sh/artists/246/My Future%2C Your Memory/EmoCosine_-_Is_This_Your_Memory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -164,7 +172,7 @@
     },
     {
       "title": "Step to Sky",
-      "preview": "https://assets.ppy.sh/artists/246/Shake The Future! EP/EmoCosine_-_Step_to_Sky_Short_Ver..mp3",
+      "preview": "https://assets.ppy.sh/artists/246/Shake The Future! EP/EmoCosine_-_Step_to_Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -182,10 +190,10 @@
     },
     {
       "title": "This Club is Not 4 U",
-      "preview": "https://assets.ppy.sh/artists/246/DEBUT!/EmoCosine_-_This_Club_is_Not_4_U_Short_Ver..mp3",
+      "preview": "https://assets.ppy.sh/artists/246/DEBUT!/EmoCosine_-_This_Club_is_Not_4_U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:02:46Z"
+  "updated_at": "2026-07-26T20:05:52Z"
 }

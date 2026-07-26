@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Fight the Devil's throne",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_-_Fight_the_Devils_throne.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2526597
+        ]
+      }
+    },
+    {
       "title": "solfa feat. Aitsuki Nakuru - nothing",
       "preview": "https://assets.ppy.sh/artists/207/star dome/solfa feat. Aitsuki Nakuru - nothing.mp3",
       "ranked_modes": [
@@ -340,6 +352,18 @@
       }
     },
     {
+      "title": "solfa feat. Chata - snow white syndrome",
+      "preview": "https://assets.ppy.sh/artists/207/sing a song!/solfa_feat._Chata_-_snow_white_syndrome.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2535868
+        ]
+      }
+    },
+    {
       "title": "solfa feat. Chata - Sugar x Sugar",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Chata - Sugar x Sugar.mp3",
       "ranked_modes": [
@@ -400,6 +424,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1236841
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Koharu Meu - Kokoro no Tobira",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - Kokoro no Tobira.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2046378
         ]
       }
     },
@@ -520,6 +556,18 @@
       }
     },
     {
+      "title": "solfa feat. nao - Shinshoku no Sacrifice",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. nao - Shinshoku no Sacrifice.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2539053
+        ]
+      }
+    },
+    {
       "title": "solfa feat. Rita - shield nine (new overdrive ver.)",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Rita - shield nine (new overdrive ver.).mp3",
       "ranked_modes": [
@@ -540,6 +588,31 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2022121
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY (Game Ver.)",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_feat._Shimotsuki_Haruka__Ceui_-_STUDY_STEADY_Game_Ver..mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2499482,
+          2532890
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka + Ceui - study steady day!",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Shimotsuki Haruka %2B Ceui - study steady day!.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2240306
         ]
       }
     },
@@ -627,6 +700,18 @@
       }
     },
     {
+      "title": "solfa feat. yanaginagi - Mizu no Naka no Kumo",
+      "preview": "https://assets.ppy.sh/artists/207/heart to heart/solfa_feat._yanaginagi_-_Mizu_no_Naka_no_Kumo.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2545613
+        ]
+      }
+    },
+    {
       "title": "solfa feat. yuiko - Freezing RosE",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. yuiko - Freezing RosE.mp3",
       "ranked_modes": [
@@ -681,12 +766,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fight the Devil's throne",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_-_Fight_the_Devils_throne.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ground of Far North",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa - Ground of Far North.mp3",
       "ranked_modes": [],
@@ -719,12 +798,6 @@
     {
       "title": "solfa feat. Chata - pureness heart",
       "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Chata - pureness heart.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - snow white syndrome",
-      "preview": "https://assets.ppy.sh/artists/207/sing a song!/solfa_feat._Chata_-_snow_white_syndrome.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -771,12 +844,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Koharu Meu - Kokoro no Tobira",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - Kokoro no Tobira.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Koharu Meu - losing",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Koharu Meu - losing.mp3",
       "ranked_modes": [],
@@ -819,12 +886,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. nao - Shinshoku no Sacrifice",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. nao - Shinshoku no Sacrifice.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. nao - Tasogare no Rebellion",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_feat._nao_-_Tasogare_no_Rebellion.mp3",
       "ranked_modes": [],
@@ -849,26 +910,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY (Game Ver.)",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_feat._Shimotsuki_Haruka__Ceui_-_STUDY_STEADY_Game_Ver..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka + Ceui - study steady day!",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Shimotsuki Haruka %2B Ceui - study steady day!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Tsukiyono Usagi (CV: Moca Choco) - Marshmallow Whip",
       "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. Tsukiyono Usagi (CV Moca Choco) - Marshmallow Whip.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. yanaginagi - Mizu no Naka no Kumo",
-      "preview": "https://assets.ppy.sh/artists/207/heart to heart/solfa_feat._yanaginagi_-_Mizu_no_Naka_no_Kumo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -903,5 +946,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:11:17Z"
+  "updated_at": "2026-07-26T20:14:13Z"
 }

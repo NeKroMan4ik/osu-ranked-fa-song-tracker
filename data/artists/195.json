@@ -18,9 +18,13 @@
       "title": "Mind Disorder",
       "preview": "https://assets.ppy.sh/artists/195/Mind Disorder/Alkome - Mind Disorder.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2583521
+        ],
         "osu": [
           1301375
         ]
@@ -93,5 +97,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T19:59:57Z"
+  "updated_at": "2026-07-26T20:03:07Z"
 }

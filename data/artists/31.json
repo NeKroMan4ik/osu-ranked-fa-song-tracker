@@ -664,9 +664,13 @@
       "title": "Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.)",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.).mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2537686
+        ],
         "fruits": [
           2541752
         ]
@@ -1544,7 +1548,8 @@
           636839,
           1185464,
           2182833,
-          2544980
+          2544980,
+          2548984
         ],
         "taiko": [
           668239,
@@ -1567,10 +1572,14 @@
       "title": "KASAI HARCORES - TRIPLE PLAY",
       "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - TRIPLE PLAY.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2566333
+        ],
         "mania": [
           1738026
         ],
@@ -2334,9 +2343,13 @@
       "title": "Sulfide",
       "preview": "https://assets.ppy.sh/artists/31/Reality Distortion/Camellia - Sulfide.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2255671
+        ],
         "taiko": [
           736594
         ]
@@ -3156,5 +3169,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:01:23Z"
+  "updated_at": "2026-07-26T20:04:32Z"
 }

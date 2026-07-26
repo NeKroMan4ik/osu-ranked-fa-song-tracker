@@ -72,9 +72,13 @@
       "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - TAKEMIKADUCHI.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2455620
+        ],
         "mania": [
           1357994,
           2326684
@@ -188,5 +192,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:09:19Z"
+  "updated_at": "2026-07-26T20:12:17Z"
 }

@@ -18,9 +18,13 @@
       "title": "Continue",
       "preview": "https://assets.ppy.sh/artists/489/Songs/SPIRIT GARDEN  - Continue.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2570665
+        ],
         "fruits": [
           2343693
         ]
@@ -39,5 +43,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:11:28Z"
+  "updated_at": "2026-07-26T20:14:24Z"
 }

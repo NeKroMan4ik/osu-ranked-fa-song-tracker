@@ -51,6 +51,18 @@
       }
     },
     {
+      "title": "Kingborn",
+      "preview": "https://assets.ppy.sh/artists/170/Labyrinth/Fleshgod_Apocalypse_-_Kingborn.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2533328
+        ]
+      }
+    },
+    {
       "title": "The Deceit",
       "preview": "https://assets.ppy.sh/artists/170/Agony/Fleshgod Apocalypse - The Deceit.mp3",
       "ranked_modes": [
@@ -79,6 +91,22 @@
       }
     },
     {
+      "title": "The Hypocrisy",
+      "preview": "https://assets.ppy.sh/artists/170/Agony/Fleshgod_Apocalypse_-_The_Hypocrisy.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2550803
+        ],
+        "mania": [
+          397784
+        ]
+      }
+    },
+    {
       "title": "Elegy",
       "preview": "https://assets.ppy.sh/artists/170/Labyrinth/Fleshgod Apocalypse - Elegy.mp3",
       "ranked_modes": [],
@@ -87,12 +115,6 @@
     {
       "title": "Healing Through War",
       "preview": "https://assets.ppy.sh/artists/170/King/Fleshgod Apocalypse - Healing Through War.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kingborn",
-      "preview": "https://assets.ppy.sh/artists/170/Labyrinth/Fleshgod_Apocalypse_-_Kingborn.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -139,12 +161,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Hypocrisy",
-      "preview": "https://assets.ppy.sh/artists/170/Agony/Fleshgod_Apocalypse_-_The_Hypocrisy.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Imposition",
       "preview": "https://assets.ppy.sh/artists/170/Agony/Fleshgod Apocalypse - The Imposition.mp3",
       "ranked_modes": [],
@@ -163,5 +179,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-19T20:03:16Z"
+  "updated_at": "2026-07-26T20:06:21Z"
 }

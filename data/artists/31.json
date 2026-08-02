@@ -1702,10 +1702,14 @@
       "title": "LET'S JUMP",
       "preview": "https://assets.ppy.sh/artists/31/%5Bdiffraction%5D/Camellia - LET%27S JUMP.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2568602
+        ],
         "osu": [
           384263,
           1023679
@@ -3169,5 +3173,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:04:32Z"
+  "updated_at": "2026-08-02T20:04:23Z"
 }

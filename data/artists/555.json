@@ -1,0 +1,55 @@
+{
+  "id": 555,
+  "name": "acromanic",
+  "tracks": [
+    {
+      "title": "(manicure)",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - (manicure).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "(stargaze)",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - (stargaze).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "(tunneling)",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - (tunneling).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "entering acrosphere",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - entering acrosphere.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "moonsoar!",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - moonsoar!.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "renaissance",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - renaissance.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SPREAD MY WINGS",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - SPREAD MY WINGS.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "wanderstar",
+      "preview": "https://assets.ppy.sh/artists/555/Songs/acromanic - wanderstar.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-08-02T20:02:37Z"
+}

@@ -69,6 +69,18 @@
       }
     },
     {
+      "title": "In The Night (feat. Sullivan King)",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - In The Night (feat. Sullivan King).mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2559505
+        ]
+      }
+    },
+    {
       "title": "Lost Forever",
       "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Lost Forever.mp3",
       "ranked_modes": [
@@ -133,17 +145,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "In The Night (feat. Sullivan King)",
-      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - In The Night (feat. Sullivan King).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Play (feat. UK:ID)",
       "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Play (feat. UKID).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:10:50Z"
+  "updated_at": "2026-08-02T20:10:20Z"
 }

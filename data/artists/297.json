@@ -587,6 +587,18 @@
       }
     },
     {
+      "title": "Yomitsu Hirasaka CORRUPTION",
+      "preview": "https://assets.ppy.sh/artists/297/Enri Edo/-45_-_Yomitsu_Hirasaka_CORRUPTION.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          845441
+        ]
+      }
+    },
+    {
       "title": "yoshikawa45 vs. siesta45 Battle of HongKong",
       "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - yoshikawa45 vs. siesta45 Battle of HongKong.mp3",
       "ranked_modes": [
@@ -1005,12 +1017,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yomitsu Hirasaka CORRUPTION",
-      "preview": "https://assets.ppy.sh/artists/297/Enri Edo/-45_-_Yomitsu_Hirasaka_CORRUPTION.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yomotsu Hirasaka",
       "preview": "https://assets.ppy.sh/artists/297/Songs/-45_-_Yomotsu_Hirasaka.mp3",
       "ranked_modes": [],
@@ -1047,5 +1053,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:02:17Z"
+  "updated_at": "2026-08-02T20:02:13Z"
 }

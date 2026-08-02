@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "BlackY feat. Risa Yuzuki - Lemonade Fizz",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Lemonade_Fizz.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524476
+        ]
+      }
+    },
+    {
       "title": "BlackY feat. Risa Yuzuki - Shuumatsu Kinema",
       "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Shuumatsu_Kinema.mp3",
       "ranked_modes": [
@@ -171,12 +183,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BlackY feat. Risa Yuzuki - Lemonade Fizz",
-      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Lemonade_Fizz.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BlackY feat. Risa Yuzuki - PARADOXY",
       "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - PARADOXY.mp3",
       "ranked_modes": [],
@@ -273,5 +279,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:12:59Z"
+  "updated_at": "2026-08-02T20:12:26Z"
 }

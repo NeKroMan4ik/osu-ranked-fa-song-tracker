@@ -124,9 +124,13 @@
       "title": "Ariabl'eyeS - Houkai no Bigaku",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Ariabl%27eyeS - Houkai no Bigaku.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2531219
+        ],
         "osu": [
           2401063
         ]
@@ -398,9 +402,13 @@
       "title": "katagiri - VIVID ABYSS",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/katagiri - VIVID ABYSS.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2552173
+        ],
         "mania": [
           2525312
         ]
@@ -508,6 +516,18 @@
       }
     },
     {
+      "title": "Kuro feat. Kasane Teto - Anomaly Maria",
+      "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Kuro_feat._Kasane_Teto_-_Anomaly_Maria.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2530692
+        ]
+      }
+    },
+    {
       "title": "Kurokotei as Lidelle + eili - Sfir'elle ~ la novella ~",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Kurokotei_as_Lidelle__eili_-_Sfirelle__la_novella_.mp3",
       "ranked_modes": [
@@ -539,9 +559,13 @@
       "title": "MetaHumanBoi - kinetic flux",
       "preview": "https://assets.ppy.sh/artists/462/Songs/MetaHumanBoi_-_kinetic_flux.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2526295
+        ],
         "osu": [
           2412316
         ]
@@ -1312,12 +1336,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kuro feat. Kasane Teto - Anomaly Maria",
-      "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Kuro_feat._Kasane_Teto_-_Anomaly_Maria.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kyutatsuki - SOUND ARCHITECT",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Closed 2024/Kyutatsuki - SOUND ARCHITECT.mp3",
       "ranked_modes": [],
@@ -1744,5 +1762,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:11:52Z"
+  "updated_at": "2026-08-02T20:11:22Z"
 }

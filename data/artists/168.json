@@ -42,7 +42,8 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           128432,
-          2084799
+          2084799,
+          2376975
         ],
         "taiko": [
           1840481
@@ -127,9 +128,13 @@
       "title": "A-One feat. Shihori - Bamboo Dance",
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 2/A-One feat. Shihori - Bamboo Dance.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2561367
+        ],
         "osu": [
           39056,
           2075280
@@ -287,5 +292,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:02:33Z"
+  "updated_at": "2026-08-02T20:02:29Z"
 }

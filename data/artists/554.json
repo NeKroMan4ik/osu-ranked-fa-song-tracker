@@ -3,14 +3,20 @@
   "name": "awoKen",
   "tracks": [
     {
-      "title": "breath of fresh air",
-      "preview": "https://assets.ppy.sh/artists/554/breath of fresh air/awoKen - breath of fresh air.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "cantar!",
       "preview": "https://assets.ppy.sh/artists/554/cantar!/awoKen - cantar!.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2405849
+        ]
+      }
+    },
+    {
+      "title": "breath of fresh air",
+      "preview": "https://assets.ppy.sh/artists/554/breath of fresh air/awoKen - breath of fresh air.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -33,5 +39,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:03:54Z"
+  "updated_at": "2026-08-02T20:03:47Z"
 }

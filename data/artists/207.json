@@ -595,12 +595,16 @@
       "title": "solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY (Game Ver.)",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_feat._Shimotsuki_Haruka__Ceui_-_STUDY_STEADY_Game_Ver..mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
           2499482,
           2532890
+        ],
+        "taiko": [
+          2334111
         ]
       }
     },
@@ -946,5 +950,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:14:13Z"
+  "updated_at": "2026-08-02T20:13:35Z"
 }

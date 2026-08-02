@@ -23,6 +23,18 @@
       }
     },
     {
+      "title": "Fallen Amaterasu",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Fallen Amaterasu.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1864683
+        ]
+      }
+    },
+    {
       "title": "Hold the Sword",
       "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Hold the Sword.mp3",
       "ranked_modes": [
@@ -125,12 +137,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fallen Amaterasu",
-      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Fallen Amaterasu.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lady of the Wind",
       "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Lady of the Wind.mp3",
       "ranked_modes": [],
@@ -161,5 +167,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:16:17Z"
+  "updated_at": "2026-08-02T20:15:34Z"
 }

@@ -20,6 +20,18 @@
       }
     },
     {
+      "title": "Endgame",
+      "preview": "https://assets.ppy.sh/artists/291/Endgame/Waterflame - Endgame.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2543019
+        ]
+      }
+    },
+    {
       "title": "Final Battle",
       "preview": "https://assets.ppy.sh/artists/291/Final Battle/Waterflame - Final Battle.mp3",
       "ranked_modes": [
@@ -145,12 +157,6 @@
     {
       "title": "Conclusion",
       "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame - Conclusion.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Endgame",
-      "preview": "https://assets.ppy.sh/artists/291/Endgame/Waterflame - Endgame.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -317,5 +323,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:16:13Z"
+  "updated_at": "2026-08-02T20:15:30Z"
 }

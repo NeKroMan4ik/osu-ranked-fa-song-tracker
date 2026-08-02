@@ -6,9 +6,13 @@
       "title": "Hakudou",
       "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - Hakudou.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2566314
+        ],
         "osu": [
           2069664
         ]
@@ -78,5 +82,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-26T20:08:11Z"
+  "updated_at": "2026-08-02T20:07:54Z"
 }

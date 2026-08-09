@@ -30,9 +30,13 @@
       "title": "Dead Aire",
       "preview": "https://assets.ppy.sh/artists/373/Songs/Supire_-_Dead_Aire.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2455636
+        ],
         "taiko": [
           2347284
         ]
@@ -195,5 +199,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:14:02Z"
+  "updated_at": "2026-08-09T19:34:54Z"
 }

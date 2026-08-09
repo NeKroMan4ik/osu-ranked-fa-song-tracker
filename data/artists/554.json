@@ -15,14 +15,20 @@
       }
     },
     {
-      "title": "breath of fresh air",
-      "preview": "https://assets.ppy.sh/artists/554/breath of fresh air/awoKen - breath of fresh air.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "GO!!!",
       "preview": "https://assets.ppy.sh/artists/554/GO!!!/awoKen - GO!!!.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2413778
+        ]
+      }
+    },
+    {
+      "title": "breath of fresh air",
+      "preview": "https://assets.ppy.sh/artists/554/breath of fresh air/awoKen - breath of fresh air.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -39,5 +45,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:03:47Z"
+  "updated_at": "2026-08-09T19:24:02Z"
 }

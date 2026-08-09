@@ -3,6 +3,18 @@
   "name": "Otsukisama Koukyoukyoku",
   "tracks": [
     {
+      "title": "Futoumeisha to Fuwa no Koe",
+      "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama Koukyoukyoku - Futoumeisha to Fuwa no Koe.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1812996
+        ]
+      }
+    },
+    {
       "title": "Kieyuku Koe to Zanmei no Chikai",
       "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama Koukyoukyoku - Kieyuku Koe to Zanmei no Chikai.mp3",
       "ranked_modes": [
@@ -29,12 +41,6 @@
     {
       "title": "ESPERANZA",
       "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama Koukyoukyoku - ESPERANZA.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Futoumeisha to Fuwa no Koe",
-      "preview": "https://assets.ppy.sh/artists/553/Songs/Otsukisama Koukyoukyoku - Futoumeisha to Fuwa no Koe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -123,5 +129,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:11:24Z"
+  "updated_at": "2026-08-09T19:32:05Z"
 }

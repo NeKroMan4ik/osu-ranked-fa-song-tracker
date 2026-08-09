@@ -150,9 +150,13 @@
       "title": "Omajinai",
       "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Omajinai.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2000017
+        ],
         "osu": [
           906565
         ]
@@ -171,5 +175,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-02T20:02:11Z"
+  "updated_at": "2026-08-09T19:22:19Z"
 }

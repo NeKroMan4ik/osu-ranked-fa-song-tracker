@@ -145,6 +145,18 @@
       }
     },
     {
+      "title": "Nasu Is Not Fruits Desu!",
+      "preview": "https://assets.ppy.sh/artists/372/Songs/YUCe_-_Nasu_Is_Not_Fruits_Desu.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2569989
+        ]
+      }
+    },
+    {
       "title": "POISON",
       "preview": "https://assets.ppy.sh/artists/372/Future Candy/YUC%27e - POISON.mp3",
       "ranked_modes": [
@@ -305,12 +317,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Nasu Is Not Fruits Desu!",
-      "preview": "https://assets.ppy.sh/artists/372/Songs/YUCe_-_Nasu_Is_Not_Fruits_Desu.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Night Club Junkie",
       "preview": "https://assets.ppy.sh/artists/372/macaron moon/YUC%27e - Night Club Junkie.mp3",
       "ranked_modes": [],
@@ -341,5 +347,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:16:08Z"
+  "updated_at": "2026-08-09T19:37:11Z"
 }

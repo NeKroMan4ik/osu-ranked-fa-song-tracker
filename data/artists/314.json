@@ -58,9 +58,13 @@
       "title": "Cotton Candy",
       "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Cotton Candy.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2523913
+        ],
         "taiko": [
           1247343
         ]
@@ -354,5 +358,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:08:11Z"
+  "updated_at": "2026-08-09T19:28:44Z"
 }

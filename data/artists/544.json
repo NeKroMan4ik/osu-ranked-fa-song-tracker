@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "transition",
+      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - transition.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2564351
+        ]
+      }
+    },
+    {
       "title": "crack in the earth",
       "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - crack in the earth.mp3",
       "ranked_modes": [],
@@ -43,13 +55,7 @@
       "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - macro.wav.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "transition",
-      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - transition.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:04:57Z"
+  "updated_at": "2026-08-09T19:25:18Z"
 }

@@ -23,6 +23,18 @@
       }
     },
     {
+      "title": "i. immaturity",
+      "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - i. immaturity.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2528040
+        ]
+      }
+    },
+    {
       "title": "ii. maturity",
       "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - ii. maturity.mp3",
       "ranked_modes": [
@@ -63,13 +75,7 @@
       "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - hypocrite.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "i. immaturity",
-      "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - i. immaturity.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:08:09Z"
+  "updated_at": "2026-08-09T19:28:42Z"
 }

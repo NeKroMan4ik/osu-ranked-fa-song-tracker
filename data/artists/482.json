@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/482/Songs/XenjeS_-_Inorganic_Dystopia.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2573467
+        ],
         "fruits": [
           2516729
         ],
@@ -211,5 +215,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:15:48Z"
+  "updated_at": "2026-08-09T19:36:47Z"
 }

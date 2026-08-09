@@ -398,6 +398,18 @@
       }
     },
     {
+      "title": "The Princess was gills breathing.",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_The_Princess_was_gills_breathing..mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2576437
+        ]
+      }
+    },
+    {
       "title": "V!rtuaresort",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - V!rtuaresort.mp3",
       "ranked_modes": [
@@ -746,12 +758,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Princess was gills breathing.",
-      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_The_Princess_was_gills_breathing..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Towards the Sunset",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Towards_the_Sunset.mp3",
       "ranked_modes": [],
@@ -770,5 +776,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:13:02Z"
+  "updated_at": "2026-08-09T19:33:50Z"
 }

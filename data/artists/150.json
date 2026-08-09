@@ -51,9 +51,13 @@
       "title": "BlackY feat. Risa Yuzuki - For Ulysses",
       "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY feat. Risa Yuzuki - For Ulysses.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2523521
+        ],
         "taiko": [
           1595989
         ]
@@ -814,5 +818,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-02T20:04:01Z"
+  "updated_at": "2026-08-09T19:24:17Z"
 }

@@ -43,9 +43,13 @@
       "title": "enchanted love (and the witch's selfish heart)",
       "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - enchanted love (and the witch%27s selfish heart).mp3",
       "ranked_modes": [
+        "fruits",
         "mania"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2585672
+        ],
         "mania": [
           1481796,
           2489861
@@ -114,5 +118,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:29:42Z"
+  "updated_at": "2026-08-16T19:18:23Z"
 }

@@ -211,9 +211,13 @@
       "preview": "https://assets.ppy.sh/artists/31/Tera I_O/Camellia - BAD ACCESS (FROM A MOE MAID).mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2561456
+        ],
         "taiko": [
           1908855
         ],
@@ -599,6 +603,18 @@
         ],
         "osu": [
           2444077
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Sleep!",
+      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Sleep!.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2566858
         ]
       }
     },
@@ -1920,7 +1936,8 @@
         "mania": [
           929143,
           1645306,
-          1715032
+          1715032,
+          2498647
         ],
         "fruits": [
           1521771
@@ -2801,12 +2818,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia feat. Nanahira - Sleep!",
-      "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Sleep!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Nanahira - Ta-Ti-Tu-Teatime!",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Ta-Ti-Tu-Teatime!.mp3",
       "ranked_modes": [],
@@ -3173,5 +3184,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:24:41Z"
+  "updated_at": "2026-08-16T19:13:13Z"
 }

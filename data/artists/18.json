@@ -29,6 +29,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
+          865266,
           2449706
         ],
         "osu": [
@@ -151,11 +152,15 @@
       "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Omajinai.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
           2000017
+        ],
+        "taiko": [
+          1293085
         ],
         "osu": [
           906565
@@ -175,5 +180,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-09T19:22:19Z"
+  "updated_at": "2026-08-16T19:10:45Z"
 }

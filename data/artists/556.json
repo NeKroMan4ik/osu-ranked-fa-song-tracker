@@ -3,14 +3,20 @@
   "name": "jorj1357",
   "tracks": [
     {
-      "title": "ddlc_breakcore_v2",
-      "preview": "https://assets.ppy.sh/artists/556/Songs/jorj1357 - ddlc%27breakcore%27v2.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "i love you so much",
       "preview": "https://assets.ppy.sh/artists/556/Songs/jorj1357 - i love you so much.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2523985
+        ]
+      }
+    },
+    {
+      "title": "ddlc_breakcore_v2",
+      "preview": "https://assets.ppy.sh/artists/556/Songs/jorj1357 - ddlc%27breakcore%27v2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -64,10 +70,10 @@
     },
     {
       "title": "u cant uncall me mommy",
-      "preview": "https://assets.ppy.sh/artists/556/Songs/jorj1357 - u cant uncall me mommy.mp3",
+      "preview": "https://assets.ppy.sh/artists/556/Songs/jorj1357_-_u_cant_uncall_me_mommy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:28:13Z"
+  "updated_at": "2026-08-16T19:16:51Z"
 }

@@ -84,6 +84,18 @@
       }
     },
     {
+      "title": "Gunjou no Messiah",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 4th Single %E6%9C%88%E8%9D%95%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/Ariabl%27eyeS - Gunjou no Messiah.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1633949
+        ]
+      }
+    },
+    {
       "title": "Hanataba o Tsurugi ni",
       "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 8th Mini Album -Concept Series %E2%85%A1- %E9%9F%BF%E5%A5%8F%E8%BC%AA%E5%BB%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%AC%E3%83%8D%E3%83%83%E3%83%88/AriableyeS_-_Hanataba_o_Tsurugi_ni.mp3",
       "ranked_modes": [
@@ -504,12 +516,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Gunjou no Messiah",
-      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 4th Single %E6%9C%88%E8%9D%95%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/Ariabl%27eyeS - Gunjou no Messiah.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hiai Kyousoukyoku",
       "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 7th Mini Album %E6%B6%99%E6%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF/Ariabl%27eyeS - Hiai Kyousoukyoku.mp3",
       "ranked_modes": [],
@@ -756,5 +762,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:23:46Z"
+  "updated_at": "2026-08-16T19:12:16Z"
 }

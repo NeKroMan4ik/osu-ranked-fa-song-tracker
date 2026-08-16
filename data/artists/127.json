@@ -23,9 +23,13 @@
       "title": "Aoi Sumito feat. Aitsuki Nakuru - Applephilia no Himegoto",
       "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Aoi_Sumito_feat._Aitsuki_Nakuru_-_Applephilia_no_Himegoto.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2570902
+        ],
         "osu": [
           1366302
         ]
@@ -194,5 +198,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:23:00Z"
+  "updated_at": "2026-08-16T19:11:29Z"
 }

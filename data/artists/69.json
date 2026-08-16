@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - Akayake no Majo.mp3",
       "ranked_modes": [
         "fruits",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2555690
+        ],
         "fruits": [
           2195113
         ],
@@ -527,5 +531,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:25:58Z"
+  "updated_at": "2026-08-16T19:14:31Z"
 }

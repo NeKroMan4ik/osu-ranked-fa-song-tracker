@@ -202,6 +202,18 @@
       }
     },
     {
+      "title": "Kaguya",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Kaguya.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2523543
+        ]
+      }
+    },
+    {
       "title": "Nobodyknows Eden",
       "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 2 -Another Lights-/BlackY - Nobodyknows Eden.mp3",
       "ranked_modes": [
@@ -656,12 +668,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kaguya",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Kaguya.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "KITTY FOILED",
       "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 3 -Infinite Meteor-/BlackY - KITTY FOILED.mp3",
       "ranked_modes": [],
@@ -818,5 +824,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:24:17Z"
+  "updated_at": "2026-08-16T19:12:48Z"
 }

@@ -3,6 +3,18 @@
   "name": "Harumaki Gohan",
   "tracks": [
     {
+      "title": "Harumaki Gohan feat. Hatsune Miku - Cobalt Memories",
+      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Cobalt Memories.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2497189
+        ]
+      }
+    },
+    {
       "title": "Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare",
       "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare.mp3",
       "ranked_modes": [
@@ -184,12 +196,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Harumaki Gohan feat. Hatsune Miku - Cobalt Memories",
-      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Cobalt Memories.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Harumaki Gohan feat. Hatsune Miku - Gingaroku",
       "preview": "https://assets.ppy.sh/artists/197/BLUE ENDING NOVA/Harumaki Gohan feat. Hatsune Miku - Gingaroku.mp3",
       "ranked_modes": [],
@@ -214,5 +220,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:27:20Z"
+  "updated_at": "2026-08-16T19:15:57Z"
 }

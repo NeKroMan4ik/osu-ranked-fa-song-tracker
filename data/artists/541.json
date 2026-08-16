@@ -3,6 +3,18 @@
   "name": "Pashtetue",
   "tracks": [
     {
+      "title": "Run",
+      "preview": "https://assets.ppy.sh/artists/541/Death Aug 31/Pashtetue - Run.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2550147
+        ]
+      }
+    },
+    {
       "title": "Apart!",
       "preview": "https://assets.ppy.sh/artists/541/Apart!/Pashtetue - Apart!.mp3",
       "ranked_modes": [],
@@ -45,12 +57,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Run",
-      "preview": "https://assets.ppy.sh/artists/541/Death Aug 31/Pashtetue - Run.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Train",
       "preview": "https://assets.ppy.sh/artists/541/Death Aug 31/Pashtetue - Train.mp3",
       "ranked_modes": [],
@@ -63,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:32:18Z"
+  "updated_at": "2026-08-16T19:21:03Z"
 }

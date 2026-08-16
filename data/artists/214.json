@@ -91,10 +91,14 @@
       "title": "LV.4 feat. Yuu Ikeba - Sentimental Surge",
       "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Yuu_Ikeba_-_Sentimental_Surge.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2599185
+        ],
         "mania": [
           1935688,
           1935957,
@@ -214,5 +218,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:30:04Z"
+  "updated_at": "2026-08-16T19:18:46Z"
 }

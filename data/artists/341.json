@@ -22,9 +22,13 @@
       "title": "linen",
       "preview": "https://assets.ppy.sh/artists/341/linen/Cinamoro - linen.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2370710
+        ],
         "mania": [
           2036300
         ]
@@ -67,5 +71,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:24:54Z"
+  "updated_at": "2026-08-16T19:13:26Z"
 }

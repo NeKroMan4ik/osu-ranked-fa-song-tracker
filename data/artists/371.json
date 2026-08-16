@@ -87,6 +87,18 @@
       }
     },
     {
+      "title": "Somnia Animae",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Somnia Animae.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2598350
+        ]
+      }
+    },
+    {
       "title": "Transientia",
       "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Transientia.mp3",
       "ranked_modes": [
@@ -235,12 +247,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Somnia Animae",
-      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Somnia Animae.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Song Of The Submerged",
       "preview": "https://assets.ppy.sh/artists/371/Songs/Krimek_-_Song_Of_The_Submerged.mp3",
       "ranked_modes": [],
@@ -265,5 +271,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:29:07Z"
+  "updated_at": "2026-08-16T19:17:47Z"
 }

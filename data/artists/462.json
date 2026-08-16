@@ -596,6 +596,18 @@
       }
     },
     {
+      "title": "N_dog - Cyclic Universe Theory",
+      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/N%27dog - Cyclic Universe Theory.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2298998
+        ]
+      }
+    },
+    {
       "title": "Naikou - Beyond Reality",
       "preview": "https://assets.ppy.sh/artists/462/5 Digit World Cup 2024/Naikou - Beyond Reality.mp3",
       "ranked_modes": [
@@ -1402,12 +1414,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "N_dog - Cyclic Universe Theory",
-      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/N%27dog - Cyclic Universe Theory.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
       "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2023/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
       "ranked_modes": [],
@@ -1762,5 +1768,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:32:04Z"
+  "updated_at": "2026-08-16T19:20:48Z"
 }

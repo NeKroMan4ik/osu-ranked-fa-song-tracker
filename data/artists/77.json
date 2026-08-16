@@ -224,9 +224,13 @@
       "title": "MIMI feat. SEKAI - Escape",
       "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._SEKAI_-_Escape.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2237420
+        ],
         "osu": [
           1823012
         ]
@@ -497,5 +501,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-09T19:30:40Z"
+  "updated_at": "2026-08-16T19:19:22Z"
 }

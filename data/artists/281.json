@@ -3,6 +3,18 @@
   "name": "Grant",
   "tracks": [
     {
+      "title": "Grant Bowtie - Cloud Nine",
+      "preview": "https://assets.ppy.sh/artists/281/Cloud Nine/Grant Bowtie - Cloud Nine.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2598587
+        ]
+      }
+    },
+    {
       "title": "Starship",
       "preview": "https://assets.ppy.sh/artists/281/Starship/Grant - Starship.mp3",
       "ranked_modes": [
@@ -25,17 +37,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Grant Bowtie - Cloud Nine",
-      "preview": "https://assets.ppy.sh/artists/281/Cloud Nine/Grant Bowtie - Cloud Nine.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Weapon (feat. Baum)",
       "preview": "https://assets.ppy.sh/artists/281/Weapon/Grant - Weapon (feat. Baum).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:15:46Z"
+  "updated_at": "2026-08-23T19:16:44Z"
 }

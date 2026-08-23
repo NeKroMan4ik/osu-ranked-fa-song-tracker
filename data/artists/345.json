@@ -3,6 +3,18 @@
   "name": "Kabocha",
   "tracks": [
     {
+      "title": "Kabocha feat. Aitsuki Nakuru - Dear The Night I Loved",
+      "preview": "https://assets.ppy.sh/artists/345/Songs/Kabocha_feat._Aitsuki_Nakuru_-_Dear_The_Night_I_Loved.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2284389
+        ]
+      }
+    },
+    {
       "title": "Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi",
       "preview": "https://assets.ppy.sh/artists/345/Hacchi Pocchi Hitoribocchi/Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi.mp3",
       "ranked_modes": [
@@ -29,12 +41,6 @@
     {
       "title": "Gyokuza no Ue no Ningyo Hime",
       "preview": "https://assets.ppy.sh/artists/345/Grand Guignol/Kabocha - Gyokuza no Ue no Ningyo Hime.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kabocha feat. Aitsuki Nakuru - Dear The Night I Loved",
-      "preview": "https://assets.ppy.sh/artists/345/Songs/Kabocha_feat._Aitsuki_Nakuru_-_Dear_The_Night_I_Loved.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:17:01Z"
+  "updated_at": "2026-08-23T19:17:56Z"
 }

@@ -47,10 +47,14 @@
       "title": "Unshakable",
       "preview": "https://assets.ppy.sh/artists/40/previews/950.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2489520
+        ],
         "taiko": [
           2071492
         ],
@@ -90,5 +94,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:21:56Z"
+  "updated_at": "2026-08-23T19:22:37Z"
 }

@@ -31,9 +31,13 @@
       "title": "Ponchi feat. haxchi - Inferno City",
       "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Inferno City -Shuuten-.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2583516
+        ],
         "mania": [
           1746870
         ]
@@ -97,5 +101,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:21:15Z"
+  "updated_at": "2026-08-23T19:21:59Z"
 }

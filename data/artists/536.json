@@ -3,6 +3,18 @@
   "name": "Getter Jaani",
   "tracks": [
     {
+      "title": "Getter Jaani & Koit Toome - Valged Ood",
+      "preview": "https://assets.ppy.sh/artists/536/Songs/Getter_Jaani__Koit_Toome_-_Valged_Ood.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2599005
+        ]
+      }
+    },
+    {
       "title": "Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]",
       "preview": "https://assets.ppy.sh/artists/536/Rockefeller Street/Getter_Jaani_-_Rockefeller_Street_New_Nightcore_Rockefellerstreet_Remix.mp3",
       "ranked_modes": [
@@ -37,12 +49,6 @@
       }
     },
     {
-      "title": "Getter Jaani & Koit Toome - Valged Ood",
-      "preview": "https://assets.ppy.sh/artists/536/Songs/Getter_Jaani__Koit_Toome_-_Valged_Ood.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "NYC Taxi",
       "preview": "https://assets.ppy.sh/artists/536/NYC Taxi/Getter Jaani - NYC Taxi.mp3",
       "ranked_modes": [],
@@ -55,5 +61,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:15:27Z"
+  "updated_at": "2026-08-23T19:16:27Z"
 }

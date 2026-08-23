@@ -83,6 +83,12 @@
       }
     },
     {
+      "title": "Akiri x ZxNX feat. eili - Hilarya",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/Akiri_x_ZxNX_feat._eili_-_Hilarya.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Altair",
       "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX - Altair.mp3",
       "ranked_modes": [],
@@ -209,5 +215,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:26:23Z"
+  "updated_at": "2026-08-23T19:26:52Z"
 }

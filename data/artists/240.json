@@ -238,9 +238,13 @@
       "title": "Tell Me You Know",
       "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Tell Me You Know.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2221626
+        ],
         "osu": [
           1598849
         ]
@@ -320,5 +324,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:15:40Z"
+  "updated_at": "2026-08-23T19:16:39Z"
 }

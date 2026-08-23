@@ -6,9 +6,13 @@
       "title": "161914",
       "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - 161914.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2399690
+        ],
         "osu": [
           224157
         ]
@@ -383,5 +387,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:15:02Z"
+  "updated_at": "2026-08-23T19:16:04Z"
 }

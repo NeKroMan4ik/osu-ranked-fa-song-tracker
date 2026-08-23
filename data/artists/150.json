@@ -3,6 +3,18 @@
   "name": "BlackY",
   "tracks": [
     {
+      "title": "Alpharise",
+      "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY - Alpharise.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2598506
+        ]
+      }
+    },
+    {
       "title": "Babylon",
       "preview": "https://assets.ppy.sh/artists/150/BlackmaniYa/BlackY - Babylon.mp3",
       "ranked_modes": [
@@ -322,12 +334,6 @@
     {
       "title": "Afterworld",
       "preview": "https://assets.ppy.sh/artists/150/NextgalaxY/BlackY - Afterworld.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Alpharise",
-      "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY - Alpharise.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -824,5 +830,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:12:48Z"
+  "updated_at": "2026-08-23T19:13:57Z"
 }

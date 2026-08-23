@@ -6,9 +6,13 @@
       "title": "Coconut Love",
       "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Coconut_Love.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2291420
+        ],
         "osu": [
           1325144
         ]
@@ -75,5 +79,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:16:18Z"
+  "updated_at": "2026-08-23T19:17:16Z"
 }

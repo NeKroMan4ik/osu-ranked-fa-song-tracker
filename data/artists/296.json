@@ -3,6 +3,18 @@
   "name": "Aiyru",
   "tracks": [
     {
+      "title": "Elevator",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Elevator.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2562728
+        ]
+      }
+    },
+    {
       "title": "Station",
       "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Station.mp3",
       "ranked_modes": [
@@ -21,12 +33,6 @@
     {
       "title": "Doll",
       "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Doll.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Elevator",
-      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Elevator.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -61,5 +67,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:11:30Z"
+  "updated_at": "2026-08-23T19:12:45Z"
 }

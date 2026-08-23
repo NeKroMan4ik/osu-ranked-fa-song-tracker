@@ -43,9 +43,13 @@
       "title": "Lexapro Delirium",
       "preview": "https://assets.ppy.sh/artists/169/Draining Love Story/Sewerslvt - Lexapro Delirium.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2603021
+        ],
         "taiko": [
           2207164
         ]
@@ -100,5 +104,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:22:50Z"
+  "updated_at": "2026-08-23T19:23:28Z"
 }

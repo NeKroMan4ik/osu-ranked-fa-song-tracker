@@ -35,6 +35,18 @@
       }
     },
     {
+      "title": "Flashback (feat. RANASOL)",
+      "preview": "https://assets.ppy.sh/artists/363/Flashback (feat. RANASOL)/Andora - Flashback (feat. RANASOL).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2598441
+        ]
+      }
+    },
+    {
       "title": "Flicker (feat. RANASOL)",
       "preview": "https://assets.ppy.sh/artists/363/Flicker (feat. RANASOL)/Andora - Flicker (feat. RANASOL).mp3",
       "ranked_modes": [
@@ -72,13 +84,7 @@
       "preview": "https://assets.ppy.sh/artists/363/Dawn (feat. Such)/Andora - Dawn (feat. Such).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Flashback (feat. RANASOL)",
-      "preview": "https://assets.ppy.sh/artists/363/Flashback (feat. RANASOL)/Andora - Flashback (feat. RANASOL).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:11:51Z"
+  "updated_at": "2026-08-23T19:13:05Z"
 }

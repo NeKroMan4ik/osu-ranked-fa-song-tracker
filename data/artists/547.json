@@ -6,14 +6,18 @@
       "title": "TWC Sound Team \"FLiPFORCE\" - ON.UR.MARKS...",
       "preview": "https://assets.ppy.sh/artists/547/Songs/TWC Sound Team FLiPFORCE - ON.UR.MARKS....mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2562488
+        ],
         "taiko": [
           2538002
         ]
       }
     }
   ],
-  "updated_at": "2026-08-16T19:14:33Z"
+  "updated_at": "2026-08-23T19:15:36Z"
 }

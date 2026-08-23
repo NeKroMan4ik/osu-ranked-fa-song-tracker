@@ -2482,9 +2482,13 @@
       "title": "Together forever, my lovely lovely video game cartridges",
       "preview": "https://assets.ppy.sh/artists/31/heart of android/Camellia - Together forever%2C my lovely lovely video game cartridges.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "mania"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2402627
+        ],
         "fruits": [
           1047316
         ]
@@ -3184,5 +3188,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:13:13Z"
+  "updated_at": "2026-08-23T19:14:20Z"
 }

@@ -35,9 +35,13 @@
       "title": "Beside Cliffs and Chasms",
       "preview": "https://assets.ppy.sh/artists/375/The Almanac/Kardashev - Beside Cliffs and Chasms.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2529184
+        ],
         "taiko": [
           1515274
         ]
@@ -160,5 +164,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:17:12Z"
+  "updated_at": "2026-08-23T19:18:07Z"
 }

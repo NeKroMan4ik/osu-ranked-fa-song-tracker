@@ -35,6 +35,18 @@
       }
     },
     {
+      "title": "Angel Ring",
+      "preview": "https://assets.ppy.sh/artists/359/Lament/cygnus - Angel Ring.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2466842
+        ]
+      }
+    },
+    {
       "title": "Anvilia",
       "preview": "https://assets.ppy.sh/artists/359/The Evolution of War/cygnus_-_Anvilia.mp3",
       "ranked_modes": [
@@ -460,12 +472,6 @@
     {
       "title": "Angel Limiter",
       "preview": "https://assets.ppy.sh/artists/359/Songs/cygnus_-_Angel_Limiter.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Angel Ring",
-      "preview": "https://assets.ppy.sh/artists/359/Lament/cygnus - Angel Ring.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -920,5 +926,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:13:45Z"
+  "updated_at": "2026-08-23T19:14:51Z"
 }

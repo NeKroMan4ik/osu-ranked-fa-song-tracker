@@ -34,10 +34,14 @@
       "title": "cherry blossoms explode across the dying horizon",
       "preview": "https://assets.ppy.sh/artists/8/previews/42.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2596676
+        ],
         "osu": [
           464485,
           497552,
@@ -253,5 +257,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:23:48Z"
+  "updated_at": "2026-08-23T19:24:24Z"
 }

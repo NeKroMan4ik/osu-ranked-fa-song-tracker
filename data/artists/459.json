@@ -32,11 +32,15 @@
       "title": "Clinozoisite",
       "preview": "https://assets.ppy.sh/artists/459/HARDCORE UTOPIA V/Ludicin - Clinozoisite.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2523657
+        ],
         "taiko": [
           2261417,
           2574656
@@ -195,6 +199,18 @@
       }
     },
     {
+      "title": "State of Mind",
+      "preview": "https://assets.ppy.sh/artists/459/State of Mind/Ludicin - State of Mind.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2387045
+        ]
+      }
+    },
+    {
       "title": "Luminency",
       "preview": "https://assets.ppy.sh/artists/459/Luminenecy/Ludicin - Luminency.mp3",
       "ranked_modes": [],
@@ -205,13 +221,7 @@
       "preview": "https://assets.ppy.sh/artists/459/Obliterate/Ludicin - Obliterate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "State of Mind",
-      "preview": "https://assets.ppy.sh/artists/459/State of Mind/Ludicin - State of Mind.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:18:36Z"
+  "updated_at": "2026-08-23T19:19:28Z"
 }

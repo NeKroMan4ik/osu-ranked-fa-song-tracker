@@ -26,9 +26,13 @@
       "title": "As Icicles Fall",
       "preview": "https://assets.ppy.sh/artists/86/previews/2222.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2447665
+        ],
         "osu": [
           2382206
         ]
@@ -217,5 +221,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-16T19:20:05Z"
+  "updated_at": "2026-08-23T19:20:52Z"
 }

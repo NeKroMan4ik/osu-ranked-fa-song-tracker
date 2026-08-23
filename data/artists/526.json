@@ -7,9 +7,13 @@
       "preview": "https://assets.ppy.sh/artists/526/Songs/penoreri_-_Vacant_Rhapsody.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2574232
+        ],
         "mania": [
           2501778,
           2511269,
@@ -22,5 +26,5 @@
       }
     }
   ],
-  "updated_at": "2026-08-16T19:21:07Z"
+  "updated_at": "2026-08-23T19:21:51Z"
 }

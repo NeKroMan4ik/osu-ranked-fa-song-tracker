@@ -42,9 +42,13 @@
       "title": "Aethral - Lacrima Elegy",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Aethral - Lacrima Elegy.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2572178
+        ],
         "osu": [
           2230360
         ]
@@ -336,9 +340,13 @@
       "title": "Gardens - Counting Breaths feat. eili",
       "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 7K 2026/Gardens - Counting Breaths feat. eili.mp3",
       "ranked_modes": [
+        "fruits",
         "mania"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2578080
+        ],
         "mania": [
           2524160,
           2524447,
@@ -765,6 +773,18 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2407003
+        ]
+      }
+    },
+    {
+      "title": "Sakamiya feat. Misoramimi - Crimson Horizon",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Sakamiya_feat._Misoramimi_-_Crimson_Horizon.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2589079
         ]
       }
     },
@@ -1384,6 +1404,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "lanthadium - ale kzethmya (OTR Ver.)",
+      "preview": "https://assets.ppy.sh/artists/462/osu!t%C3%BCrkiye Open 2025/lanthadium - ale kzethmya (OTR Ver.).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Link\"0 - rezehv",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Link0 - rezehv.mp3",
       "ranked_modes": [],
@@ -1588,12 +1614,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sakamiya feat. Misoramimi - Crimson Horizon",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Sakamiya_feat._Misoramimi_-_Crimson_Horizon.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "SAMString - Crystalised Euphoria",
       "preview": "https://assets.ppy.sh/artists/462/PsychedelicMush%27s Scuffed AF Summer Tournament/SAMString - Crystalised Euphoria.mp3",
       "ranked_modes": [],
@@ -1672,6 +1692,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "siraph - Noctua",
+      "preview": "https://assets.ppy.sh/artists/462/Pending Cup %C3%97 Community Charting Contest 2026/siraph - Noctua.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "SJ68 - ripharddrive.wav",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/SJ68_-_ripharddrive.wav.mp3",
       "ranked_modes": [],
@@ -1710,6 +1736,12 @@
     {
       "title": "TAG - Astral Stranger",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/TAG - Astral Stranger.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tedjimo yomigY - Acacia",
+      "preview": "https://assets.ppy.sh/artists/462/Pending Cup %C3%97 Community Charting Contest 2026/Tedjimo yomigY - Acacia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1770,6 +1802,12 @@
     {
       "title": "uynet - Never Rezort",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/uynet - Never Rezort.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "V0iD - Syabaritious Sensoriam",
+      "preview": "https://assets.ppy.sh/artists/462/Pending Cup %C3%97 Community Charting Contest 2026/V0iD - Syabaritious Sensoriam.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1846,5 +1884,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:21:33Z"
+  "updated_at": "2026-08-30T21:49:49Z"
 }

@@ -45,6 +45,18 @@
       }
     },
     {
+      "title": "Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2324275
+        ]
+      }
+    },
+    {
       "title": "Hisui Chazuke - Bomb Bang Bound!!!",
       "preview": "https://assets.ppy.sh/artists/272/Songs/Hisui Chazuke - Bomb Bang Bound!!!.mp3",
       "ranked_modes": [
@@ -119,12 +131,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!",
-      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mechanical Jager",
       "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Mechanical Jager.mp3",
       "ranked_modes": [],
@@ -137,5 +143,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:17:06Z"
+  "updated_at": "2026-08-30T21:45:17Z"
 }

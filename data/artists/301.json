@@ -25,6 +25,18 @@
       }
     },
     {
+      "title": "AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (Long ver.)",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA %2B Hino Isuka - ha%40ppy s%40mmer v%40c%40tion!! (Long ver.).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2600839
+        ]
+      }
+    },
+    {
       "title": "AAAA + Hino Isuka - Keep smiling.",
       "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B Hino Isuka - Keep smiling..mp3",
       "ranked_modes": [
@@ -219,6 +231,7 @@
           916324,
           2426123,
           2489946,
+          2543016,
           2568626
         ],
         "mania": [
@@ -310,17 +323,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (Long ver.)",
-      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA %2B Hino Isuka - ha%40ppy s%40mmer v%40c%40tion!! (Long ver.).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lobelia",
       "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA - Lobelia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:12:26Z"
+  "updated_at": "2026-08-30T21:40:34Z"
 }

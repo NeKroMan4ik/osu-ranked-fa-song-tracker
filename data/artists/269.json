@@ -36,10 +36,14 @@
       "title": "Bed Bath & Batman Beyond",
       "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami Angel - Bed Bath %26 Batman Beyond.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2549704
+        ],
         "osu": [
           1959652,
           2294349
@@ -58,7 +62,8 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2176607,
-          2215170
+          2215170,
+          2452778
         ]
       }
     },
@@ -220,5 +225,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:21:30Z"
+  "updated_at": "2026-08-30T21:49:46Z"
 }

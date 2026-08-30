@@ -98,9 +98,13 @@
       "title": "One Hollow Word",
       "preview": "https://assets.ppy.sh/artists/47/previews/2610.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2593164
+        ],
         "osu": [
           1160797,
           1746146
@@ -366,5 +370,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:26:54Z"
+  "updated_at": "2026-08-30T21:55:15Z"
 }

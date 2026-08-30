@@ -508,9 +508,13 @@
       "title": "YUBIKIRI-GENMAN",
       "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - YUBIKIRI-GENMAN.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          179481
+        ],
         "mania": [
           1378380
         ]
@@ -529,5 +533,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:20:08Z"
+  "updated_at": "2026-08-30T21:48:22Z"
 }

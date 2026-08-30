@@ -6,9 +6,13 @@
       "title": "DJ Stuiter - An Addendum",
       "preview": "https://assets.ppy.sh/artists/480/OVERSEER/DJ Stuiter - An Addendum.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2523669
+        ],
         "osu": [
           2543358
         ]
@@ -141,5 +145,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:25:10Z"
+  "updated_at": "2026-08-30T21:53:30Z"
 }

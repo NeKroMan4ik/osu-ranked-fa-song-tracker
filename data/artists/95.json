@@ -85,10 +85,14 @@
       "title": "Hemisphere",
       "preview": "https://assets.ppy.sh/artists/95/previews/2526.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2582456
+        ],
         "taiko": [
           1241825
         ],
@@ -254,6 +258,18 @@
       }
     },
     {
+      "title": "Seisen (feat. nayuta)",
+      "preview": "https://assets.ppy.sh/artists/95/Songs/ARForest_-_Seisen_feat._nayuta.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2508317
+        ]
+      }
+    },
+    {
       "title": "The Last Page",
       "preview": "https://assets.ppy.sh/artists/95/previews/2539.mp3",
       "ranked_modes": [
@@ -289,17 +305,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Seisen (feat. nayuta)",
-      "preview": "https://assets.ppy.sh/artists/95/Songs/ARForest_-_Seisen_feat._nayuta.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Shattered",
       "preview": "https://assets.ppy.sh/artists/95/previews/2538.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:13:26Z"
+  "updated_at": "2026-08-30T21:41:34Z"
 }

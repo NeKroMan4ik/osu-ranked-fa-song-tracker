@@ -203,6 +203,18 @@
       }
     },
     {
+      "title": "Spica no Yakusoku",
+      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Spica no Yakusoku.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2605405
+        ]
+      }
+    },
+    {
       "title": "step by step",
       "preview": "https://assets.ppy.sh/artists/179/Songs/ABSOLUTE_CASTAWAY_-_step_by_step.mp3",
       "ranked_modes": [
@@ -462,12 +474,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Spica no Yakusoku",
-      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Spica no Yakusoku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tooi Anata e",
       "preview": "https://assets.ppy.sh/artists/179/7th Single 「Machigami Shoujo」/ABSOLUTE CASTAWAY - Tooi Anata e.mp3",
       "ranked_modes": [],
@@ -492,5 +498,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:12:28Z"
+  "updated_at": "2026-08-30T21:40:35Z"
 }

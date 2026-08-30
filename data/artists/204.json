@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "Ginkyo Sekai (feat. Kasane Teto)",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ_Raisei_-_Ginkyo_Sekai_feat._Kasane_Teto.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2577241
+        ]
+      }
+    },
+    {
       "title": "ISOMERZ (DJ Raisei + seatrus) - Symmetric",
       "preview": "https://assets.ppy.sh/artists/204/Songs/ISOMERZ (DJ Raisei %2B seatrus) - Symmetric.mp3",
       "ranked_modes": [
@@ -115,12 +127,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ginkyo Sekai (feat. Kasane Teto)",
-      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ_Raisei_-_Ginkyo_Sekai_feat._Kasane_Teto.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Nucleo Synthesis",
       "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - Nucleo Synthesis.mp3",
       "ranked_modes": [],
@@ -139,5 +145,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:15:15Z"
+  "updated_at": "2026-08-30T21:43:24Z"
 }

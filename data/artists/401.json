@@ -52,6 +52,18 @@
       }
     },
     {
+      "title": "Collapsing Star Fragmentation",
+      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri_-_Collapsing_Star_Fragmentation.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2598489
+        ]
+      }
+    },
+    {
       "title": "Don't Let Go",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri - Don_t Let Go.mp3",
       "ranked_modes": [
@@ -420,12 +432,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Collapsing Star Fragmentation",
-      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri_-_Collapsing_Star_Fragmentation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dissonance Theory",
       "preview": "https://assets.ppy.sh/artists/401/Dreamless Wanderers/Akiri - Dissonance Theory.mp3",
       "ranked_modes": [],
@@ -738,5 +744,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:12:51Z"
+  "updated_at": "2026-08-30T21:40:59Z"
 }

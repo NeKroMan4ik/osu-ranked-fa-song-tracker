@@ -115,6 +115,18 @@
       }
     },
     {
+      "title": "Parodia Sonatina",
+      "preview": "https://assets.ppy.sh/artists/484/Songs/Ice - Parodia Sonatina.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2598432
+        ]
+      }
+    },
+    {
       "title": "Parodia Sonatina -Grande-",
       "preview": "https://assets.ppy.sh/artists/484/Shota Paradise/Ice - Parodia Sonatina -Grande-.mp3",
       "ranked_modes": [
@@ -220,12 +232,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Parodia Sonatina",
-      "preview": "https://assets.ppy.sh/artists/484/Songs/Ice - Parodia Sonatina.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Parodia Sonatina Var.II",
       "preview": "https://assets.ppy.sh/artists/484/Songs/Ice - Parodia Sonatina Var.II.mp3",
       "ranked_modes": [],
@@ -250,5 +256,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:17:19Z"
+  "updated_at": "2026-08-30T21:45:30Z"
 }

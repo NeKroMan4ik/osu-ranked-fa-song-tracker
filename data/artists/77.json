@@ -73,9 +73,13 @@
       "title": "Himitsu feat. KAFU",
       "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Himitsu_feat._KAFU.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2588270
+        ],
         "mania": [
           2177058
         ]
@@ -501,5 +505,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:20:11Z"
+  "updated_at": "2026-08-30T21:48:26Z"
 }

@@ -66,10 +66,14 @@
       "title": "takehirotei as \"Infinite Limit\" - C://YOU NEX-TIME",
       "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei as Infinite Limit - CYOU NEX-TIME.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2136517
+        ],
         "mania": [
           2424737,
           2555395
@@ -131,5 +135,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:24:36Z"
+  "updated_at": "2026-08-30T21:52:55Z"
 }

@@ -53,6 +53,18 @@
       }
     },
     {
+      "title": "Igorrr & Ruby My Dear - Figue Folle",
+      "preview": "https://assets.ppy.sh/artists/370/Maigre/Igorrr__Ruby_My_Dear_-_Figue_Folle.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          347453
+        ]
+      }
+    },
+    {
       "title": "Nour",
       "preview": "https://assets.ppy.sh/artists/370/Balloon/Ruby My Dear - Nour.mp3",
       "ranked_modes": [
@@ -123,12 +135,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Igorrr & Ruby My Dear - Figue Folle",
-      "preview": "https://assets.ppy.sh/artists/370/Maigre/Igorrr__Ruby_My_Dear_-_Figue_Folle.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mini Short",
       "preview": "https://assets.ppy.sh/artists/370/Brame/Ruby My Dear - Mini Short.mp3",
       "ranked_modes": [],
@@ -159,5 +165,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-23T19:22:59Z"
+  "updated_at": "2026-08-30T21:51:16Z"
 }

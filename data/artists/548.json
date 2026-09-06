@@ -70,10 +70,14 @@
       "title": "Misery Song",
       "preview": "https://assets.ppy.sh/artists/548/Songs/Adust Rain - Misery Song.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2593919
+        ],
         "mania": [
           1962820
         ],
@@ -155,5 +159,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:40:40Z"
+  "updated_at": "2026-09-06T20:53:19Z"
 }

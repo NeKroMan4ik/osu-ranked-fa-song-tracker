@@ -59,9 +59,13 @@
       "title": "S&S Munitions (Sephid & system [Sigma]) - OVERPROTECTION",
       "preview": "https://assets.ppy.sh/artists/196/OVERPROTECTION/SS_Munitions_SEPHID__system_Sigma_-_OVERPROTECTION.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1984348
+        ],
         "osu": [
           1703896
         ]
@@ -210,5 +214,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:51:42Z"
+  "updated_at": "2026-09-06T21:04:12Z"
 }

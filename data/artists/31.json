@@ -623,10 +623,14 @@
       "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Nanahira - Touryouka.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2596119
+        ],
         "fruits": [
           2278272
         ],
@@ -1409,6 +1413,18 @@
         ],
         "taiko": [
           1015817
+        ]
+      }
+    },
+    {
+      "title": "Hello to the your first video game",
+      "preview": "https://assets.ppy.sh/artists/31/%5Bdiffraction%5D/Camellia - Hello to the your first video game.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2573821
         ]
       }
     },
@@ -2918,12 +2934,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hello to the your first video game",
-      "preview": "https://assets.ppy.sh/artists/31/%5Bdiffraction%5D/Camellia - Hello to the your first video game.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hi-beam",
       "preview": "https://assets.ppy.sh/artists/31/dreamless wanderer/Camellia_-_Hi-beam.mp3",
       "ranked_modes": [],
@@ -3188,5 +3198,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:42:29Z"
+  "updated_at": "2026-09-06T20:55:06Z"
 }

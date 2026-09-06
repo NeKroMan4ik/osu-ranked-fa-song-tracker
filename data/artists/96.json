@@ -150,9 +150,13 @@
       "title": "northern_limit [feat. Sennzai]",
       "preview": "https://assets.ppy.sh/artists/96/previews/2562.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1983007
+        ],
         "taiko": [
           869714
         ]
@@ -336,5 +340,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:46:45Z"
+  "updated_at": "2026-09-06T20:59:18Z"
 }

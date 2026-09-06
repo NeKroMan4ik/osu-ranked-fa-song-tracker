@@ -40,6 +40,18 @@
       }
     },
     {
+      "title": "BilliumMoto x Akiri - Cryochemistry",
+      "preview": "https://assets.ppy.sh/artists/401/Cryochemistry/BilliumMoto x Akiri - Cryochemistry.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2577628
+        ]
+      }
+    },
+    {
       "title": "Blocko ET (feat. Jinjin)",
       "preview": "https://assets.ppy.sh/artists/401/Blocko ET/Akiri - Blocko ET (feat. Jinjin).mp3",
       "ranked_modes": [
@@ -396,12 +408,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BilliumMoto x Akiri - Cryochemistry",
-      "preview": "https://assets.ppy.sh/artists/401/Cryochemistry/BilliumMoto x Akiri - Cryochemistry.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Break For Everest",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri - Break For Everest.mp3",
       "ranked_modes": [],
@@ -744,5 +750,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:40:59Z"
+  "updated_at": "2026-09-06T20:53:37Z"
 }

@@ -325,18 +325,6 @@
       }
     },
     {
-      "title": "fur:trash - puppydog's lament",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/furtrash_-_puppydogs_lament.mp3",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2530140
-        ]
-      }
-    },
-    {
       "title": "Gardens - Counting Breaths feat. eili",
       "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 7K 2026/Gardens - Counting Breaths feat. eili.mp3",
       "ranked_modes": [
@@ -398,9 +386,13 @@
       "title": "Kagetora. vs. ikaruga_nex - Gott der Apokalypse",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Kagetora. vs. ikaruga%27nex - Gott der Apokalypse.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2489825
+        ],
         "osu": [
           2226230
         ]
@@ -729,6 +721,18 @@
       }
     },
     {
+      "title": "Redside feat. Hatsune Miku - Constellations",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Redside_feat._Hatsune_Miku_-_Constellations.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2535063
+        ]
+      }
+    },
+    {
       "title": "rikvinyas - Ryuu no Majo",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/rikvinyas - Ryuu no Majo.mp3",
       "ranked_modes": [
@@ -773,18 +777,6 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2407003
-        ]
-      }
-    },
-    {
-      "title": "Sakamiya feat. Misoramimi - Crimson Horizon",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Sakamiya_feat._Misoramimi_-_Crimson_Horizon.mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2589079
         ]
       }
     },
@@ -1044,6 +1036,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "aidolon - Origins",
+      "preview": "https://assets.ppy.sh/artists/462/Newcomers World Cup 2026/aidolon - Origins.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "airlemoneX - lanthanide",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/airlemoneX - lanthanide.mp3",
       "ranked_modes": [],
@@ -1076,6 +1074,12 @@
     {
       "title": "Akiri x ZxNX feat. eili - Hilarya",
       "preview": "https://assets.ppy.sh/artists/462/osu!t%C3%BCrkiye Open 2026/Akiri x ZxNX feat. eili - Hilarya.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amaristia - peam",
+      "preview": "https://assets.ppy.sh/artists/462/Newcomers World Cup 2026/Amaristia - peam.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1118,6 +1122,12 @@
     {
       "title": "ArXe - Mura o Sukue Kage ni Nomareru Mae ni (feat. Hatsune Miku & Megurine Luka)",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit Asia Pacific Cup 2026/ArXe - Mura o Sukue Kage ni Nomareru Mae ni (feat. Hatsune Miku %26 Megurine Luka).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ArXe - Tachycardia (feat. jundayoo)",
+      "preview": "https://assets.ppy.sh/artists/462/Newcomers World Cup 2026/ArXe - Tachycardia (feat. jundayoo).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1218,6 +1228,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "DJ Raisei - Catharticus ~ Herald angels sing",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 4K 2026 Rebirth/DJ Raisei - Catharticus %7E Herald angels sing.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Doomsday - Gear Up!! No Time Like The Present",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Doomsday - Gear Up!! No Time Like The Present.mp3",
       "ranked_modes": [],
@@ -1314,8 +1330,26 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "fur:trash - puppydog's lament",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/furtrash_-_puppydogs_lament.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "grayfur - Shards of Luminance",
+      "preview": "https://assets.ppy.sh/artists/462/osu! For Fun Cup 6/grayfur - Shards of Luminance.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "hima - Midnight Utopia",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/hima - Midnight Utopia.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "IGLoo - Ai no uta feat. Luo Tianyi",
+      "preview": "https://assets.ppy.sh/artists/462/osu! For Fun Cup 6/IGLoo - Ai no uta feat. Luo Tianyi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1566,12 +1600,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Redside feat. Hatsune Miku - Constellations",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Redside_feat._Hatsune_Miku_-_Constellations.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "rejd - ::Eternity",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2026/rejd - Eternity.mp3",
       "ranked_modes": [],
@@ -1610,6 +1638,12 @@
     {
       "title": "sage - Hyena Groove",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/sage - Hyena Groove.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sakamiya feat. Misoramimi - Crimson Horizon",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 4K 2026 Rebirth/Sakamiya feat. Misoramimi - Crimson Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1700,6 +1734,12 @@
     {
       "title": "SJ68 - ripharddrive.wav",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/SJ68_-_ripharddrive.wav.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Slax - Derederedelirium!!!",
+      "preview": "https://assets.ppy.sh/artists/462/osu! North %26 South American Taiko Tournament 2026/Slax - Derederedelirium!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1884,5 +1924,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:49:49Z"
+  "updated_at": "2026-09-06T21:02:21Z"
 }

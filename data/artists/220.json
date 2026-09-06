@@ -39,10 +39,14 @@
       "title": "CuttingEdgeInsaneArtifact",
       "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_CuttingEdgeInsaneArtifact.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2596596
+        ],
         "mania": [
           2321277,
           2416532,
@@ -307,5 +311,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:48:03Z"
+  "updated_at": "2026-09-06T21:00:32Z"
 }

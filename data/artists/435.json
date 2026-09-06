@@ -19,13 +19,9 @@
       "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
       "preview": "https://assets.ppy.sh/artists/435/Songs/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
       "ranked_modes": [
-        "mania",
-        "osu"
+        "mania"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          2486540
-        ],
         "mania": [
           1939761,
           2184238,
@@ -106,5 +102,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:52:37Z"
+  "updated_at": "2026-09-06T21:05:06Z"
 }

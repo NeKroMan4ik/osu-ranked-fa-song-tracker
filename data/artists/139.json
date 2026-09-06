@@ -44,6 +44,18 @@
       }
     },
     {
+      "title": "Shawn Wasabi - LEMONS (feat. kennedi)",
+      "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - LEMONS feat. kennedi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2548710
+        ]
+      }
+    },
+    {
       "title": "Shawn Wasabi - Otter Pop (feat. Hollis)",
       "preview": "https://assets.ppy.sh/artists/139/Otter Pop (feat. Hollis)/Shawn Wasabi - Otter Pop (feat. Hollis).mp3",
       "ranked_modes": [
@@ -66,12 +78,6 @@
     {
       "title": "Shawn Wasabi - IGLOO",
       "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - IGLOO.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Shawn Wasabi - LEMONS (feat. kennedi)",
-      "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - LEMONS feat. kennedi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -100,5 +106,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:51:50Z"
+  "updated_at": "2026-09-06T21:04:19Z"
 }

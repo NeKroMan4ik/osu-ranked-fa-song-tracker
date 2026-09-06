@@ -69,9 +69,13 @@
       "title": "Something Fun",
       "preview": "https://assets.ppy.sh/artists/267/Figure It Out/JOYLESS - Something Fun.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2544855
+        ],
         "osu": [
           2421250,
           2422627,
@@ -152,5 +156,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:46:00Z"
+  "updated_at": "2026-09-06T20:58:33Z"
 }

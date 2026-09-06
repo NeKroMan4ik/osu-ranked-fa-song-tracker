@@ -276,6 +276,18 @@
       }
     },
     {
+      "title": "morgenroete",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - morgenroete.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2584833
+        ]
+      }
+    },
+    {
       "title": "O",
       "preview": "https://assets.ppy.sh/artists/185/Loudly Cloudy/seatrus - O.mp3",
       "ranked_modes": [
@@ -654,12 +666,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "morgenroete",
-      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - morgenroete.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Night Thea+er Etude",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Night Thea%2Ber Etude.mp3",
       "ranked_modes": [],
@@ -786,5 +792,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:51:34Z"
+  "updated_at": "2026-09-06T21:04:04Z"
 }

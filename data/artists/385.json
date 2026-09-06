@@ -22,9 +22,13 @@
       "title": "Live In Life",
       "preview": "https://assets.ppy.sh/artists/385/Live in Life/Will Stetson - Live In Life.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2117853
+        ],
         "mania": [
           2372473
         ]
@@ -49,5 +53,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:54:21Z"
+  "updated_at": "2026-09-06T21:06:48Z"
 }

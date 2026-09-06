@@ -5,30 +5,69 @@
     {
       "title": "Kichi no Haji",
       "preview": "https://assets.ppy.sh/artists/561/Songs/Sasuke Haraguchi - Kichi no Haji.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sasuke Haraguchi feat. Kasane Teto - HITO Mania",
-      "preview": "https://assets.ppy.sh/artists/561/Songs/Sasuke Haraguchi feat. Kasane Teto - HITO Mania.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2489609
+        ]
+      }
     },
     {
       "title": "Sasuke Haraguchi feat. Kasane Teto - Hontono",
       "preview": "https://assets.ppy.sh/artists/561/Songs/Sasuke Haraguchi feat. Kasane Teto - Hontono.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2180898
+        ]
+      }
     },
     {
       "title": "Sasuke Haraguchi feat. Kasane Teto - Igaku",
       "preview": "https://assets.ppy.sh/artists/561/Songs/Sasuke Haraguchi feat. Kasane Teto - Igaku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2145939,
+          2165268,
+          2168876
+        ],
+        "fruits": [
+          2230485
+        ],
+        "mania": [
+          2147831,
+          2178391
+        ],
+        "taiko": [
+          2171715
+        ]
+      }
     },
     {
       "title": "Sasuke Haraguchi feat. Kasane Teto - Soto no Hito",
       "preview": "https://assets.ppy.sh/artists/561/Songs/Sasuke Haraguchi feat. Kasane Teto - Soto no Hito.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2342880
+        ]
+      }
+    },
+    {
+      "title": "Sasuke Haraguchi feat. Kasane Teto - HITO Mania",
+      "preview": "https://assets.ppy.sh/artists/561/Songs/Sasuke Haraguchi feat. Kasane Teto - HITO Mania.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -39,5 +78,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:51:27Z"
+  "updated_at": "2026-09-06T21:03:57Z"
 }

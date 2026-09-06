@@ -59,6 +59,18 @@
       }
     },
     {
+      "title": "Lamento - Memory",
+      "preview": "https://assets.ppy.sh/artists/404/Shattered/Takamachi Walk - Lamento - Memory.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2005179
+        ]
+      }
+    },
+    {
       "title": "Phantom Moon",
       "preview": "https://assets.ppy.sh/artists/404/wither/Takamachi Walk - Phantom Moon.mp3",
       "ranked_modes": [
@@ -115,13 +127,7 @@
       "preview": "https://assets.ppy.sh/artists/404/wither/Takamachi Walk - Empty.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lamento - Memory",
-      "preview": "https://assets.ppy.sh/artists/404/Shattered/Takamachi Walk - Lamento - Memory.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:52:54Z"
+  "updated_at": "2026-09-06T21:05:23Z"
 }

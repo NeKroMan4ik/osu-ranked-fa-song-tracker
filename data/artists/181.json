@@ -72,6 +72,18 @@
       }
     },
     {
+      "title": "shiragiku",
+      "preview": "https://assets.ppy.sh/artists/181/shiragiku/Rish - shiragiku.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2599410
+        ]
+      }
+    },
+    {
       "title": "Claris (CV: Buta Hikari), Safia (CV: Hirota) - Chippa no Nichijou 8 ~Claris x Safia~",
       "preview": "https://assets.ppy.sh/artists/181/Haguruma Chippa 4/Claris (CV Buta Hikari)%2C Safia (CV Hirota) - Chippa no Nichijou 8 %7EClaris x Safia%7E.mp3",
       "ranked_modes": [],
@@ -118,13 +130,7 @@
       "preview": "https://assets.ppy.sh/artists/181/Honey Beat Pops/Rish feat. maimie - Macaron Panic!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "shiragiku",
-      "preview": "https://assets.ppy.sh/artists/181/shiragiku/Rish - shiragiku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-08-30T21:50:58Z"
+  "updated_at": "2026-09-06T21:03:29Z"
 }
